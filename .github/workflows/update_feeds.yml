@@ -21,7 +21,7 @@ jobs:
           node-version: 24
 
       - name: Run Fetch Script
-        uses: actions/github-script@v8 # 升级到 v8，完美原生支持 Node.js 24 运行环境
+        uses: actions/github-script@v8
         with:
           script: |
             const fs = require('fs');
@@ -102,23 +102,45 @@ jobs:
             template = template.replace(/|<div class="status">[\s\S]*?<\/div>/, `<div class="status">系统最后自动更新于：${nowStr} (每3小时自动刷新)</div>`);
             fs.writeFileSync('index.html', template);
 
-            // 2. 覆写 README.md (强力正则，通杀中英文冒号，精准替换时间行)
+            // 2. 智能化覆写 README.md
+            // 自动检测是大写还是小写文件名，如果都没有，则强制创建一个基础模板
+            let readmePath = 'README.md';
+            if (!fs.existsSync(readmePath) && fs.existsSync('readme.md')) {
+              readmePath = 'readme.md';
+            }
+            
+            let readmeTemplate = "";
+            if (fs.existsSync(readmePath)) {
+              readmeTemplate = fs.readFileSync(readmePath, 'utf8');
+            } else {
+              // 兜底机制：如果没有README，直接自动生成带核心槽位的崭新主页
+              readmeTemplate = `# 🤖 AI 前沿技术追踪阅读器\n\n👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**\n\n⏳ 最后自动更新时间：正在等待首次同步...\n\n---\n\n## 📅 实时 AI 技术看板\n\n\n`;
+            }
+
             const readmePosts = allPosts.slice(0, 15);
             const markdownContent = readmePosts.map(post => {
               return `### 📢 [${post.title}](${post.link})\n**来源:** \`${post.sourceName}\` | **时间:** \`${post.dateStr}\`\n\n> ${post.description}\n\n---`;
             }).join('\n\n');
 
-            let readmeTemplate = fs.readFileSync('README.md', 'utf8');
+            // 检查槽位是否存在，不存在则强行追加在文档末尾
+            if (!readmeTemplate.includes('')) {
+              readmeTemplate += `\n\n## 📅 实时 AI 技术看板\n\n\n`;
+            }
+
             readmeTemplate = readmeTemplate.replace(/[\s\S]*?/, `\n\n${markdownContent}\n\n`);
             
-            // 改进后的时间正则：匹配以 ⏳ 开头的整行文本，完美解决中英文冒号不一致导致找不到行的问题
-            readmeTemplate = readmeTemplate.replace(/⏳.*/, `⏳ 最后自动更新时间：${nowStr}`);
-            fs.writeFileSync('README.md', readmeTemplate);
+            if (/⏳.*/.test(readmeTemplate)) {
+              readmeTemplate = readmeTemplate.replace(/⏳.*/, `⏳ 最后自动更新时间：${nowStr}`);
+            } else {
+              readmeTemplate = `⏳ 最后自动更新时间：${nowStr}\n\n` + readmeTemplate;
+            }
+            
+            fs.writeFileSync(readmePath, readmeTemplate);
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html README.md
+          git add index.html README.md readme.md || true
           git commit -m "🤖 自动同步最新 AI 前沿动态与README [skip ci]" || exit 0
           git push
