@@ -329,7 +329,7 @@ async function summarizePost(title, sourceName, text) {
 }
 
 async function generateProjectIntro(posts) {
-  const fallback = 'AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型、工程、研究和产品更新，并同步生成首页与 README 摘要，适合想快速跟进 AI 动态的开发者与研究者。';
+  const fallback = 'AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型、工程、研究和产品更新，并同步生成首页与 README 最新动态，适合想快速跟进 AI 动态的开发者与研究者。';
   if (!posts.length || !GITHUB_TOKEN) return fallback;
 
   const latestTitles = posts
@@ -345,7 +345,7 @@ async function generateProjectIntro(posts) {
       },
       {
         role: 'user',
-        content: `项目名：AI-RSS\n用途：聚合全球 AI 官方技术文章与动态\n输出：静态首页 + README 最新摘要\n更新频率：每 3 小时自动更新\n参考最新内容：\n${latestTitles}`
+        content: `项目名：AI-RSS\n用途：聚合全球 AI 官方技术文章与动态\n输出：静态首页 + README 最新动态\nREADME 展示形式：标题链接 + 来源 + 时间\n更新频率：每 3 小时自动更新\n参考最新内容：\n${latestTitles}`
       }
     ],
     180
@@ -538,8 +538,6 @@ function renderPostsMarkdown(posts) {
   return posts.map(post => [
     `### 📢 [${post.displayTitle || post.title}](${post.link})`,
     `来源: ${post.sourceName} | 时间: ${post.dateStr}`,
-    '',
-    `💡 ${post.description}`,
     '',
     '---'
   ].join('\n')).join('\n\n');
