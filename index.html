@@ -14,17 +14,17 @@
             --color-openai: #10a37f;
             --color-anthropic: #d97706;
             --color-google: #4285f4;
-            --color-deepseek: #7c3aed;
-            --color-aws: #ff9900;
-            --color-huggingface: #facc15;
             --color-meta: #2563eb;
+            --color-aws: #ff9900;
             --color-nvidia: #76b900;
+            --color-huggingface: #f6c343;
             --color-vllm: #0f766e;
             --color-ollama: #111827;
-            --color-transformers: #ca8a04;
             --color-pytorch: #ee4c2c;
-            --color-qwen: #2563eb;
-            --color-paddle: #d32f2f;
+            --color-langchain: #0ea5e9;
+            --color-llamaindex: #9333ea;
+            --color-vercel: #000000;
+            --color-kimi: #2563eb;
         }
 
         * { box-sizing: border-box; }
@@ -89,12 +89,11 @@
             justify-content: space-between;
             align-items: flex-start;
             gap: 12px;
-            margin-bottom: 10px;
         }
 
         .post-title {
             margin: 0;
-            font-size: 1.15rem;
+            font-size: 1.1rem;
             font-weight: 700;
         }
 
@@ -137,16 +136,17 @@
         .src-openai { border-left-color: var(--color-openai); } .src-openai .source-badge { background-color: var(--color-openai); }
         .src-anthropic { border-left-color: var(--color-anthropic); } .src-anthropic .source-badge { background-color: var(--color-anthropic); }
         .src-google { border-left-color: var(--color-google); } .src-google .source-badge { background-color: var(--color-google); }
-        .src-deepseek { border-left-color: var(--color-deepseek); } .src-deepseek .source-badge { background-color: var(--color-deepseek); }
-        .src-aws { border-left-color: var(--color-aws); } .src-aws .source-badge { background-color: var(--color-aws); color: #111827; }
-        .src-huggingface { border-left-color: var(--color-huggingface); } .src-huggingface .source-badge { background-color: var(--color-huggingface); color: #111827; }
         .src-meta { border-left-color: var(--color-meta); } .src-meta .source-badge { background-color: var(--color-meta); }
+        .src-aws { border-left-color: var(--color-aws); } .src-aws .source-badge { background-color: var(--color-aws); color: #111827; }
         .src-nvidia { border-left-color: var(--color-nvidia); } .src-nvidia .source-badge { background-color: var(--color-nvidia); color: #111827; }
+        .src-huggingface { border-left-color: var(--color-huggingface); } .src-huggingface .source-badge { background-color: var(--color-huggingface); color: #111827; }
         .src-vllm { border-left-color: var(--color-vllm); } .src-vllm .source-badge { background-color: var(--color-vllm); }
         .src-ollama { border-left-color: var(--color-ollama); } .src-ollama .source-badge { background-color: var(--color-ollama); }
-        .src-transformers { border-left-color: var(--color-transformers); } .src-transformers .source-badge { background-color: var(--color-transformers); color: #111827; }
-        .src-qwen { border-left-color: var(--color-qwen); } .src-qwen .source-badge { background-color: var(--color-qwen); }
-        .src-paddle { border-left-color: var(--color-paddle); } .src-paddle .source-badge { background-color: var(--color-paddle); }
+        .src-pytorch { border-left-color: var(--color-pytorch); } .src-pytorch .source-badge { background-color: var(--color-pytorch); }
+        .src-langchain { border-left-color: var(--color-langchain); } .src-langchain .source-badge { background-color: var(--color-langchain); }
+        .src-llamaindex { border-left-color: var(--color-llamaindex); } .src-llamaindex .source-badge { background-color: var(--color-llamaindex); }
+        .src-vercel { border-left-color: var(--color-vercel); } .src-vercel .source-badge { background-color: var(--color-vercel); }
+        .src-kimi { border-left-color: var(--color-kimi); } .src-kimi .source-badge { background-color: var(--color-kimi); }
 
         @media (max-width: 768px) {
             body { padding: 16px; }
@@ -159,246 +159,240 @@
     <div class="container">
         <header>
             <h1>🤖 AI 前沿技术追踪阅读器</h1>
-            <p class="subtitle">自动聚合全球主流 AI 实验室、开源社区与研究博客的最新动态。</p>
+            <p class="subtitle">优先聚合官方文章页，避免 release / tag / 压缩包类噪音。</p>
             <!-- START_UPDATE_TIME -->
-<div class="status">系统最后自动更新于：2026/6/27 21:51:23（每 3 小时自动刷新）</div>
-<!-- END_UPDATE_TIME -->
+            <div class="status">系统最后自动更新于：2026/6/27 23:21:55（每 3 小时自动刷新）</div>
+            <!-- END_UPDATE_TIME -->
         </header>
 
         <main id="feed-container">
             <!-- START_FEED_CONTENT -->
-
-    <article class="post-card src-qwen">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://github.com/QwenLM/qwen-code/releases/tag/v0.19.2-nightly.20260627.d93bec905" target="_blank" rel="noopener noreferrer">Qwen Code：Full Changelog : v0.19.2...v0.19.2-nightly...</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">Qwen Code Releases</span>
-          <time>2026/6/27 08:52:45</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-vllm">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://github.com/vllm-project/vllm/releases/tag/v0.24.0" target="_blank" rel="noopener noreferrer">vLLM：Raise gsm8k startup timeout for MoE Refact...</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">vLLM Releases</span>
-          <time>2026/6/27 07:33:47</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-ollama">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://github.com/ollama/ollama/releases/tag/v0.30.11" target="_blank" rel="noopener noreferrer">Ollama v0.30.11发布：新增自动安装和显卡检测功能</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">Ollama Releases</span>
-          <time>2026/6/27 03:46:28</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-nvidia">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/" target="_blank" rel="noopener noreferrer">Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">NVIDIA Developer Blog</span>
-          <time>2026/6/27 03:00:57</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-nvidia">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/" target="_blank" rel="noopener noreferrer">Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">NVIDIA Developer Blog</span>
-          <time>2026/6/27 02:55:13</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-aws">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/" target="_blank" rel="noopener noreferrer">Build interactive PDF text extraction from Amazon S3</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">AWS ML Blog</span>
-          <time>2026/6/26 22:47:45</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-aws">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/" target="_blank" rel="noopener noreferrer">How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">AWS ML Blog</span>
-          <time>2026/6/26 22:42:20</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-aws">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/" target="_blank" rel="noopener noreferrer">Production-grade AI agents for financial compliance: Lessons from Stripe</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">AWS ML Blog</span>
-          <time>2026/6/26 22:38:01</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-qwen">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://github.com/QwenLM/qwen-code/releases/tag/cua-driver-rs-v0.6.8" target="_blank" rel="noopener noreferrer">Qwen Code：cua-driver prebuilt binaries — relative-co...</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">Qwen Code Releases</span>
-          <time>2026/6/26 21:35:37</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-openai">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://openai.com/index/previewing-gpt-5-6-sol/" target="_blank" rel="noopener noreferrer">Previewing GPT-5.6 Sol: a next-generation model</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">OpenAI</span>
-          <time>2026/6/26 18:00:00</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-ollama">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://github.com/ollama/ollama/releases/tag/v0.30.11-rc1" target="_blank" rel="noopener noreferrer">Ollama v0.30.11-rc1增加Ornith 9B解析器支持</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">Ollama Releases</span>
-          <time>2026/6/26 14:18:47</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-huggingface">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://huggingface.co/blog/vllm-jobs" target="_blank" rel="noopener noreferrer">Run a vLLM Server on HF Jobs in One Command</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">Hugging Face Blog</span>
-          <time>2026/6/26 08:00:00</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-nvidia">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/" target="_blank" rel="noopener noreferrer">Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">NVIDIA Developer Blog</span>
-          <time>2026/6/26 06:26:05</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-vllm">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://github.com/vllm-project/vllm/releases/tag/v0.24.0rc2" target="_blank" rel="noopener noreferrer">vLLM：Fix P/D with DP Supervisor</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">vLLM Releases</span>
-          <time>2026/6/26 04:15:20</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-nvidia">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/" target="_blank" rel="noopener noreferrer">Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">NVIDIA Developer Blog</span>
-          <time>2026/6/26 02:06:18</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-aws">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/" target="_blank" rel="noopener noreferrer">Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">AWS ML Blog</span>
-          <time>2026/6/26 01:55:10</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-huggingface">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://huggingface.co/blog/allenai/hybrid-token-prediction" target="_blank" rel="noopener noreferrer">Which tokens does a hybrid model predict better?</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">Hugging Face Blog</span>
-          <time>2026/6/26 00:11:42</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-openai">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://openai.com/index/how-agents-are-transforming-work/" target="_blank" rel="noopener noreferrer">How agents are transforming work</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">OpenAI</span>
-          <time>2026/6/25 10:00:00</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-qwen">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://github.com/QwenLM/qwen-code/releases/tag/v0.19.2-nightly.20260625.b2f11b735" target="_blank" rel="noopener noreferrer">Qwen Code：Full Changelog : v0.19.2...v0.19.2-nightly...</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">Qwen Code Releases</span>
-          <time>2026/6/25 08:59:49</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-ollama">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://github.com/ollama/ollama/releases/tag/v0.30.11-rc0" target="_blank" rel="noopener noreferrer">Ollama：llama.cpp version update ( #16548 )</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">Ollama Releases</span>
-          <time>2026/6/25 05:03:12</time>
-        </div>
-      </div>
-    </article>
-  
-
-    <article class="post-card src-huggingface">
-      <div class="post-header">
-        <h2 class="post-title"><a href="https://arxiv.org/abs/2606.27377" target="_blank" rel="noopener noreferrer">DanceOPD: On-Policy Generative Field Distillation</a></h2>
-        <div class="post-meta">
-          <span class="source-badge">HF Daily Papers</span>
-          <time>2026/6/25 04:00:00</time>
-        </div>
-      </div>
-    </article>
-  
-<!-- END_FEED_CONTENT -->
+<article class="post-card src-nvidia">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/" target="_blank" rel="noopener noreferrer">Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">NVIDIA Developer Blog</span>
+                        <time>2026/6/27 03:00:57</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-nvidia">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/" target="_blank" rel="noopener noreferrer">Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">NVIDIA Developer Blog</span>
+                        <time>2026/6/27 02:55:13</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-langchain">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://www.langchain.com/blog/june-2026-langchain-newsletter" target="_blank" rel="noopener noreferrer">June 2026: LangChain Newsletter — Fleet On-Call Copilot, Deep Agents Rubrics, and More</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">LangChain Blog</span>
+                        <time>2026/6/27 02:34:19</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-langchain">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://www.langchain.com/blog/deep-agents-prompt-caching" target="_blank" rel="noopener noreferrer">Prompt Caching with Deep Agents</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">LangChain Blog</span>
+                        <time>2026/6/27 02:09:42</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-aws">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/" target="_blank" rel="noopener noreferrer">Build interactive PDF text extraction from Amazon S3</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">AWS ML Blog</span>
+                        <time>2026/6/26 22:47:45</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-aws">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/" target="_blank" rel="noopener noreferrer">How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">AWS ML Blog</span>
+                        <time>2026/6/26 22:42:20</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-aws">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/" target="_blank" rel="noopener noreferrer">Production-grade AI agents for financial compliance: Lessons from Stripe</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">AWS ML Blog</span>
+                        <time>2026/6/26 22:38:01</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-openai">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://openai.com/index/previewing-gpt-5-6-sol" target="_blank" rel="noopener noreferrer">Previewing GPT-5.6 Sol: a next-generation model</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">OpenAI</span>
+                        <time>2026/6/26 18:00:00</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-nvidia">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/" target="_blank" rel="noopener noreferrer">Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">NVIDIA Developer Blog</span>
+                        <time>2026/6/26 06:26:05</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-langchain">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://www.langchain.com/blog/full-text-search-in-smithdb-constructing-and-querying-our-inverted-index-pt-2" target="_blank" rel="noopener noreferrer">How we built SmithDB’s inverted index for full-text search</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">LangChain Blog</span>
+                        <time>2026/6/26 02:59:24</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-nvidia">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/" target="_blank" rel="noopener noreferrer">Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">NVIDIA Developer Blog</span>
+                        <time>2026/6/26 02:06:18</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-aws">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/" target="_blank" rel="noopener noreferrer">Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">AWS ML Blog</span>
+                        <time>2026/6/26 01:55:10</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-llamaindex">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://www.llamaindex.ai/blog/parsing-the-unreadable-how-llamaparse-handles-legal-discovery-documents" target="_blank" rel="noopener noreferrer">Parsing the Unreadable: How LlamaParse Handles Legal Discovery Documents</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">LlamaIndex Blog</span>
+                        <time>2026/6/26 00:00:00</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-llamaindex">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://www.llamaindex.ai/blog/bring-your-document-workflows-to-n8n-with-the-llamaparse-node" target="_blank" rel="noopener noreferrer">LlamaParse Platform Node for n8n: Parse, Classify, Extract &amp; Retrieve Documents with AI</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">LlamaIndex Blog</span>
+                        <time>2026/6/26 00:00:00</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-langchain">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://www.langchain.com/blog/why-the-best-agents-are-simpler-than-you-think-sierra-max-agency-podcast" target="_blank" rel="noopener noreferrer">Why the Best AI Agents Are Simple: Sierra’s Zack Reneau-Wedeen on the Max Agency Podcast</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">LangChain Blog</span>
+                        <time>2026/6/25 23:08:27</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-pytorch">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://pytorch.org/blog/lightseek-tokenspeed-kernel/" target="_blank" rel="noopener noreferrer">TokenSpeed-Kernel: Portable APIs and High-Performance Kernels for Multi-Silicon LLM Inference</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">PyTorch Blog</span>
+                        <time>2026/6/25 22:48:06</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-openai">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://openai.com/index/how-agents-are-transforming-work" target="_blank" rel="noopener noreferrer">How agents are transforming work</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">OpenAI</span>
+                        <time>2026/6/25 10:00:00</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-google">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/" target="_blank" rel="noopener noreferrer">Introducing computer use in Gemini 3.5 Flash</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">Google DeepMind</span>
+                        <time>2026/6/25 00:30:01</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-openai">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip" target="_blank" rel="noopener noreferrer">OpenAI and Broadcom unveil LLM-optimized inference chip</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">OpenAI</span>
+                        <time>2026/6/24 14:00:00</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-pytorch">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://pytorch.org/blog/serving-deepseek-v4-on-gb300-with-sglang-5x-higher-throughput-at-the-same-interactivity-since-day-0/" target="_blank" rel="noopener noreferrer">Serving DeepSeek-V4 on GB300 with SGLang: 5x Higher Throughput at the Same Interactivity Since Day-0</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">PyTorch Blog</span>
+                        <time>2026/6/23 23:51:58</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-openai">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://openai.com/index/helping-build-shared-standards-for-advanced-ai" target="_blank" rel="noopener noreferrer">Helping build shared standards for advanced AI</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">OpenAI</span>
+                        <time>2026/6/23 21:00:00</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-anthropic">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://www.anthropic.com/news/introducing-claude-tag" target="_blank" rel="noopener noreferrer">Introducing Claude Tag</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">Anthropic News</span>
+                        <time>2026/6/23 00:00:00</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-pytorch">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://pytorch.org/blog/from-minutes-to-seconds-llm-guided-autotuning-for-helion-kernels/" target="_blank" rel="noopener noreferrer">From Minutes to Seconds: LLM-Guided Autotuning for Helion Kernels</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">PyTorch Blog</span>
+                        <time>2026/6/19 00:08:53</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-pytorch">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://pytorch.org/blog/just-launched-pytorch-certified-associate-ptca/" target="_blank" rel="noopener noreferrer">JUST LAUNCHED! PyTorch Certified Associate (PTCA)</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">PyTorch Blog</span>
+                        <time>2026/6/18 22:02:02</time>
+                    </div>
+                </div>
+            </article>
+<article class="post-card src-google">
+                <div class="post-header">
+                    <h2 class="post-title"><a href="https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/" target="_blank" rel="noopener noreferrer">Unlocking UK house-building with AI-accelerated planning</a></h2>
+                    <div class="post-meta">
+                        <span class="source-badge">Google DeepMind</span>
+                        <time>2026/6/17 05:29:50</time>
+                    </div>
+                </div>
+            </article>
+            <!-- END_FEED_CONTENT -->
         </main>
     </div>
 </body>
