@@ -245,7 +245,7 @@ jobs:
               );
             }
 
-            async function aiSummarizePost(title, sourceName, rawText) {
+            async function aiSummarizePost(title, sourceName, rawText, forceChinese = true) {
               const input = normalizeText(rawText).slice(0, 2500);
               if (input.length < 80) return '';
 
@@ -268,7 +268,9 @@ jobs:
                     messages: [
                       {
                         role: 'system',
-                        content: '你是一个技术编辑。请根据输入内容生成 45 到 90 字的简体中文摘要。要求准确、自然、不夸张、不编造，不要出现“本文介绍了”之类空话，只输出摘要正文。'
+                        content: forceChinese
+                          ? '你是一个技术编辑。请根据输入内容生成 45 到 90 字的简体中文摘要。要求准确、自然、不夸张、不编造，不要出现“本文介绍了”之类空话，只输出摘要正文。'
+                          : 'You are a technical editor. Generate a concise one-sentence summary in the same language as the source content. Be accurate and concrete. Output summary text only.'
                       },
                       {
                         role: 'user',
@@ -357,6 +359,16 @@ jobs:
               return buildReadableFallbackTitle(sourceName, rawDesc, title);
             }
 
+            async function resolveGeneralAiSummary({ title, sourceName, rawDesc, articleHtml }) {
+              const articleText = articleHtml ? extractReadableArticleText(articleHtml) : '';
+              const sourceText = articleText || stripHtml(rawDesc);
+              const aiSummary = await aiSummarizePost(title, sourceName, sourceText, true);
+              if (!isLowQualitySummary(aiSummary)) {
+                return aiSummary;
+              }
+              return '';
+            }
+
             async function resolveDescription({ title, sourceName, sourceClass, link, rawDesc }) {
               const preferAi = shouldPreferAiSummary(sourceClass, title);
               const direct = cleanDescription(rawDesc, title);
@@ -364,8 +376,12 @@ jobs:
                 return direct;
               }
 
+              let articleHtml = '';
+
               if (preferAi) {
-                const rawTextSummary = await aiSummarizePost(title, sourceName, stripHtml(rawDesc));
+                articleHtml = await fetchArticleHtml(link);
+                const preferredText = articleHtml ? extractReadableArticleText(articleHtml) : stripHtml(rawDesc);
+                const rawTextSummary = await aiSummarizePost(title, sourceName, preferredText, true);
                 if (!isLowQualitySummary(rawTextSummary)) {
                   return rawTextSummary;
                 }
@@ -375,7 +391,9 @@ jobs:
                 }
               }
 
-              const articleHtml = await fetchArticleHtml(link);
+              if (!articleHtml) {
+                articleHtml = await fetchArticleHtml(link);
+              }
               if (articleHtml) {
                 const metaDescription = clipText(extractPreferredMetaDescription(articleHtml), 140);
                 if (!preferAi && !isLowQualitySummary(metaDescription)) {
@@ -383,12 +401,19 @@ jobs:
                 }
 
                 const articleText = extractReadableArticleText(articleHtml);
+                if (!preferAi) {
+                  const aiSummary = await aiSummarizePost(title, sourceName, articleText, true);
+                  if (!isLowQualitySummary(aiSummary)) {
+                    return aiSummary;
+                  }
+                }
+
                 const readableExcerpt = clipText(articleText, 140);
                 if (!preferAi && !isLowQualitySummary(readableExcerpt)) {
                   return readableExcerpt;
                 }
 
-                const aiSummary = await aiSummarizePost(title, sourceName, articleText);
+                const aiSummary = await aiSummarizePost(title, sourceName, articleText, true);
                 if (!isLowQualitySummary(aiSummary)) {
                   return aiSummary;
                 }
@@ -401,7 +426,19 @@ jobs:
                 }
               }
 
-              const rawTextSummary = await aiSummarizePost(title, sourceName, stripHtml(rawDesc));
+              if (!preferAi) {
+                const forcedAiSummary = await resolveGeneralAiSummary({
+                  title,
+                  sourceName,
+                  rawDesc,
+                  articleHtml
+                });
+                if (!isLowQualitySummary(forcedAiSummary)) {
+                  return forcedAiSummary;
+                }
+              }
+
+              const rawTextSummary = await aiSummarizePost(title, sourceName, stripHtml(rawDesc), true);
               if (!isLowQualitySummary(rawTextSummary)) {
                 return rawTextSummary;
               }
