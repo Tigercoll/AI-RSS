@@ -1,155 +1,155 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 自动聚合全球主流 AI 官方 RSS 动态，帮助用户第一时间追踪最新模型、论文和产品发布。项目通过 GitHub Actions 每 3 小时自动更新，输出静态 index.html 阅读页和 README 最新摘要，适合关注 AI 前沿进展的开发者和研究者。近期内容涵盖 OpenAI、Hugging Face、NVIDIA 等机构的最新动态，便于快速获取行业资讯。
+AI-RSS 致力于自动聚合全球主流 AI 官方 RSS 动态，帮助用户高效追踪模型、论文和产品的最新发布。项目通过 GitHub Actions 每 3 小时自动更新，输出静态 index.html 阅读页和 README 最新摘要，便于快速浏览近期重要进展。适合关注 PyTorch、Qwen、vLLM 等前沿 AI 项目的研究者和开发者使用。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入专属独立阅读主页](https://tigercoll.github.io/AI-RSS/)**
 
-⏳ 最后自动更新时间：2026/6/27 18:48:31
+⏳ 最后自动更新时间：2026/6/27 19:02:13
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [trunk/35150dd94b31349f9f21dced59561d2bc5290374](https://github.com/pytorch/pytorch/releases/tag/trunk%2F35150dd94b31349f9f21dced59561d2bc5290374)
+**来源:** `PyTorch Releases` | **时间:** `2026/6/27 15:58:29`
+
+> 💡 Fix LoggingTestCase._handler_watcher to count only torch-owned handle…
+
+---
+
+### 📢 [viable/strict/1782556190](https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1782556190)
+**来源:** `PyTorch Releases` | **时间:** `2026/6/27 14:15:17`
+
+> 💡 [Test] Make test_dataloader.py device-generic for pin_memory and mult…
+
+---
+
+### 📢 [viable/strict/1782549636: Allow grads for attn_bias only (#188302)](https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1782549636)
+**来源:** `PyTorch Releases` | **时间:** `2026/6/27 12:37:12`
+
+> 💡 Human Note Another pretty straightforward one just calcualte whether we need to save logsumexp based over all possible things that can suppo...
+
+---
+
+### 📢 [trunk/731a9d775a76a056ab09631a8785d39dde89465a](https://github.com/pytorch/pytorch/releases/tag/trunk%2F731a9d775a76a056ab09631a8785d39dde89465a)
+**来源:** `PyTorch Releases` | **时间:** `2026/6/27 09:13:05`
+
+> 💡 Revert "[dynamo, nested graph breaks] fix empty nn.Module hook dict r…
+
+---
+
+### 📢 [Release v0.19.2-nightly.20260627.d93bec905](https://github.com/QwenLM/qwen-code/releases/tag/v0.19.2-nightly.20260627.d93bec905)
+**来源:** `Qwen Code Releases` | **时间:** `2026/6/27 08:52:45`
+
+> 💡 What's Changed fix(core): allow web_fetch JSON fallback by @tt-a1i in #5660 chore(release): v0.19.2 by @qwen-code-ci-bot in #5830 ci: split ...
+
+---
+
+### 📢 [v0.24.0](https://github.com/vllm-project/vllm/releases/tag/v0.24.0)
+**来源:** `vLLM Releases` | **时间:** `2026/6/27 07:33:47`
+
+> 💡 [CI] Raise gsm8k startup timeout for MoE Refactor Qwen3 NVFP4 configs…
+
+---
+
+### 📢 [Anthropic Economic Index report: Cadences](https://www.anthropic.com/research/economic-index-june-2026-report)
+**来源:** `Anthropic` | **时间:** `2026/6/27 04:08:00`
+
+> 💡 Introduction One year ago, most Claude usage took the form of a conversation between a user and an assistant. With the rapid growth of Claud...
+
+---
+
+### 📢 [v0.30.11](https://github.com/ollama/ollama/releases/tag/v0.30.11)
+**来源:** `Ollama Releases` | **时间:** `2026/6/27 03:46:28`
+
+> 💡 What's Changed launch: add thinking capability detection to opencode by @hoyyeva in #15434 launch: auto-install Claude Code by @hoyyeva in #...
+
+---
+
+### 📢 [Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure](https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/)
+**来源:** `NVIDIA Developer Blog` | **时间:** `2026/6/27 03:00:57`
+
+> 💡 AI agents have changed a lot in the last two years. The first could only answer one question at a time. Then came multi-turn chat, where the...
+
+---
+
+### 📢 [Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer](https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/)
+**来源:** `NVIDIA Developer Blog` | **时间:** `2026/6/27 02:55:13`
+
+> 💡 As context windows grow longer, moving large model weights efficiently becomes critical to performance. A common way to address this is quan...
+
+---
+
+### 📢 [Build interactive PDF text extraction from Amazon S3](https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/)
+**来源:** `AWS ML Blog` | **时间:** `2026/6/26 22:47:45`
+
+> 💡 In this post, you’ll build a server that extracts text from PDF files in Amazon S3 in real time. This protocol-based approach provides progr...
+
+---
+
+### 📢 [How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS](https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/)
+**来源:** `AWS ML Blog` | **时间:** `2026/6/26 22:42:20`
+
+> 💡 In this post, we explore how Cara, built in cooperation with AWS, addresses these challenges. We walk through the technical design decisions...
+
+---
+
+### 📢 [Production-grade AI agents for financial compliance: Lessons from Stripe](https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/)
+**来源:** `AWS ML Blog` | **时间:** `2026/6/26 22:38:01`
+
+> 💡 In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of...
+
+---
+
+### 📢 [cua-driver-rs v0.6.8](https://github.com/QwenLM/qwen-code/releases/tag/cua-driver-rs-v0.6.8)
+**来源:** `Qwen Code Releases` | **时间:** `2026/6/26 21:35:37`
+
+> 💡 cua-driver prebuilt binaries — relative-coordinate fork (vendored under packages/cua-driver ). macOS : codesigned + notarized universal bina...
+
+---
+
 ### 📢 [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
 **来源:** `OpenAI` | **时间:** `2026/6/26 18:00:00`
 
-> 💡 0 0 . 0 . . 0 . . . . 0 . 0 0 0 0 . 0 . . . 0 . . .. 0 0 . . 0 . . 0 0 . . . . . .. . . . . . 0 0 . . . . 0 . 0 . . . . 0 . . . . .. .. . . ...
+> 💡 原始内容为乱码或无有效信息，无法提炼出有意义的摘要。
+
+---
+
+### 📢 [v0.30.11-rc1](https://github.com/ollama/ollama/releases/tag/v0.30.11-rc1)
+**来源:** `Ollama Releases` | **时间:** `2026/6/26 14:18:47`
+
+> 💡 parser/renderer: add Ornith 9B renderer/parser support ( #16920 )
 
 ---
 
 ### 📢 [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs)
 **来源:** `Hugging Face Blog` | **时间:** `2026/6/26 08:00:00`
 
-> 💡 点击标题查看《Run a vLLM Server on HF Jobs in One Command》原文。
+> 💡 We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
 ---
 
-### 📢 [Which tokens does a hybrid model predict better?](https://huggingface.co/blog/allenai/hybrid-token-prediction)
-**来源:** `Hugging Face Blog` | **时间:** `2026/6/26 00:11:42`
+### 📢 [Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps](https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/)
+**来源:** `NVIDIA Developer Blog` | **时间:** `2026/6/26 06:26:05`
 
-> 💡 点击标题查看《Which tokens does a hybrid model predict better?》原文。
-
----
-
-### 📢 [The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts](https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/)
-**来源:** `NVIDIA News` | **时间:** `2026/6/25 21:00:34`
-
-> 💡 Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the ...
+> 💡 Shaders are GPU programs that process visual data—such as rays, pixels, geometry, and textures—to produce specific rendering effects. Shader...
 
 ---
 
-### 📢 [How agents are transforming work](https://openai.com/index/how-agents-are-transforming-work/)
-**来源:** `OpenAI` | **时间:** `2026/6/25 10:00:00`
+### 📢 [v0.24.0rc2: Fix P/D with DP Supervisor (#46628)](https://github.com/vllm-project/vllm/releases/tag/v0.24.0rc2)
+**来源:** `vLLM Releases` | **时间:** `2026/6/26 04:15:20`
 
-> 💡 Agentic AI changes the unit of knowledge work from single interactions to delegated, long-horizon tasks. Chatbot interactions are often shor...
-
----
-
-### 📢 [DanceOPD: On-Policy Generative Field Distillation](https://arxiv.org/abs/2606.27377)
-**来源:** `HF Daily Papers` | **时间:** `2026/6/25 04:00:00`
-
-> 💡 Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global e...
+> 💡 Signed-off-by: Robert Shaw 114415538+robertgshaw2-redhat@users.noreply.github.com (cherry picked from commit c5e3c40 )
 
 ---
 
-### 📢 [In-Context World Modeling for Robotic Control](https://arxiv.org/abs/2606.26025)
-**来源:** `HF Daily Papers` | **时间:** `2026/6/25 04:00:00`
+### 📢 [Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support](https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/)
+**来源:** `NVIDIA Developer Blog` | **时间:** `2026/6/26 02:06:18`
 
-> 💡 Modern Vision-Language-Action (VLA) models often fail to generalize to novel setups, such as altered camera viewpoints or robot morphologies...
-
----
-
-### 📢 [OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.26790)
-**来源:** `HF Daily Papers` | **时间:** `2026/6/25 04:00:00`
-
-> 💡 Outcome-based reinforcement learning provides a stable optimization backbone for language agents, but its sparse trajectory-level rewards pr...
-
----
-
-### 📢 [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://arxiv.org/abs/2606.26907)
-**来源:** `HF Daily Papers` | **时间:** `2026/6/25 04:00:00`
-
-> 💡 While text-to-image (T2I) models have achieved remarkable progress, they struggle with real-world requests that are often underspecified, im...
-
----
-
-### 📢 [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/)
-**来源:** `Google DeepMind` | **时间:** `2026/6/25 00:30:01`
-
-> 💡 点击标题查看《Introducing computer use in Gemini 3.5 Flash》原文。
-
----
-
-### 📢 [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel)
-**来源:** `Hugging Face Blog` | **时间:** `2026/6/25 00:00:13`
-
-> 💡 点击标题查看《Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel》原文。
-
----
-
-### 📢 [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)
-**来源:** `OpenAI` | **时间:** `2026/6/24 14:00:00`
-
-> 💡 Designed to be the best inference platform for LLMs Designed to be the best inference platform for LLMs Nine-month tape-out, accelerated by ...
-
----
-
-### 📢 [NVIDIA and AWS Collaborate to Bring AI to Production at Scale](https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/)
-**来源:** `NVIDIA News` | **时间:** `2026/6/24 08:05:37`
-
-> 💡 Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastruct...
-
----
-
-### 📢 [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard)
-**来源:** `Hugging Face Blog` | **时间:** `2026/6/24 08:00:00`
-
-> 💡 点击标题查看《Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World》原文。
-
----
-
-### 📢 [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery/)
-**来源:** `OpenAI` | **时间:** `2026/6/24 01:00:00`
-
-> 💡 Solving a problem with GPT-5 Pro Solving a problem with GPT-5 Pro What this means for scientific research Table of contents Solving a proble...
-
----
-
-### 📢 [How Businesses Are Building Specialized AI They Can Trust](https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/)
-**来源:** `NVIDIA News` | **时间:** `2026/6/23 21:00:07`
-
-> 💡 Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was ab...
-
----
-
-### 📢 [NVIDIA Announces BioNeMo Agent Toolkit — Tools for Agents to Accelerate Scientific Discovery](https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery)
-**来源:** `NVIDIA News` | **时间:** `2026/6/23 21:00:00`
-
-> 💡 NVIDIA today announced NVIDIA BioNeMo Agent Toolkit, which provides domain-specific tools and skills for the agentic life sciences era.
-
----
-
-### 📢 [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)
-**来源:** `Google DeepMind` | **时间:** `2026/6/17 05:29:50`
-
-> 💡 UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.
-
----
-
-### 📢 [Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
-**来源:** `Google DeepMind` | **时间:** `2026/6/16 23:46:31`
-
-> 💡 Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.
-
----
-
-### 📢 [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/)
-**来源:** `Google DeepMind` | **时间:** `2026/6/11 00:24:11`
-
-> 💡 点击标题查看《DiffusionGemma: 4x faster text generation》原文。
+> 💡 Generative AI workloads are rapidly outgrowing the memory and compute budget of single GPUs. For inference developers building media generat...
 
 ---
 <!-- END_LIVE_FEEDS -->
