@@ -10,10 +10,7 @@
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
-<!-- START_LIVE_FEEDS -->
 ⚡ 正在等待 GitHub Actions 首次抓取并为您在这里渲染最新资讯，请稍后...
-<!-- END_LIVE_FEEDS -->
-
 ---
 
 ## 💾 本地 RSS 订阅源配置清单
