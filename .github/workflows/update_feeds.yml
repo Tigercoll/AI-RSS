@@ -33,21 +33,18 @@ jobs:
               { name: "OpenAI", class: "openai", url: "https://rsshub.rssforever.com/openai/news" },
               { name: "Anthropic", class: "anthropic", url: "https://rsshub.rssforever.com/anthropic/research" },
               { name: "Google DeepMind", class: "google", url: "https://deepmind.com/blog/feed/basic/" },
+              { name: "Meta AI Research", class: "meta", url: "https://ai.meta.com/blog/rss/" },
+              { name: "AWS ML Blog", class: "aws", url: "https://aws.amazon.com/blogs/machine-learning/feed/" },
+              { name: "NVIDIA Developer Blog", class: "nvidia", url: "https://developer.nvidia.com/blog/feed" },
               { name: "DeepSeek GitHub", class: "deepseek", url: "https://github.com/deepseek-ai.atom" },
-              { name: "智谱 GLM", class: "glm", url: "https://rsshub.rssforever.com/zhihu/people/columns/zhipu-ai" },
-              { name: "月之暗面 Kimi", class: "kimi", url: "https://rsshub.rssforever.com/moonshot/news" },
-              { name: "字节豆包", class: "doubao", url: "https://rsshub.rssforever.com/volcengine/news" },
               { name: "Hugging Face Blog", class: "huggingface", url: "https://huggingface.co/blog/feed.xml" },
               { name: "HF Daily Papers", class: "huggingface", url: "https://rsshub.rssforever.com/huggingface/daily-papers" },
-              { name: "arXiv AI 论文", class: "arxiv", url: "https://rsshub.rssforever.com/arxiv/cs.AI" },
-              { name: "Meta AI Research", class: "meta", url: "https://ai.meta.com/blog/rss/" },
-              { name: "LangChain Blog", class: "langchain", url: "https://blog.langchain.dev/rss/" },
-              { name: "LlamaIndex Blog", class: "llamaindex", url: "https://llamahub.ai/blog/feed.xml" },
-              { name: "Vercel AI SDK", class: "vercel", url: "https://github.com/vercel/ai.atom" },
-              { name: "NVIDIA News", class: "nvidia", url: "https://nvidianews.nvidia.com/releases.xml" },
-              { name: "AMD AI Blog", class: "amd", url: "https://community.amd.com/t5/ai/bg-p/ai-blog/rss-v2?page-size=10" },
-              { name: "LMSYS Org", class: "community", url: "https://lmsys.org/rss.xml" },
-              { name: "Andrej Karpathy", class: "community", url: "https://karpathy.github.io/feed.xml" }
+              { name: "vLLM Releases", class: "vllm", url: "https://github.com/vllm-project/vllm/releases.atom" },
+              { name: "Ollama Releases", class: "ollama", url: "https://github.com/ollama/ollama/releases.atom" },
+              { name: "Transformers Releases", class: "transformers", url: "https://github.com/huggingface/transformers/releases.atom" },
+              { name: "PyTorch Releases", class: "pytorch", url: "https://github.com/pytorch/pytorch/releases.atom" },
+              { name: "Qwen Code Releases", class: "qwen", url: "https://github.com/QwenLM/qwen-code/releases.atom" },
+              { name: "PaddlePaddle Releases", class: "paddle", url: "https://github.com/PaddlePaddle/Paddle/releases.atom" }
             ];
 
             function decodeHtmlEntities(text = '') {
