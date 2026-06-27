@@ -138,9 +138,15 @@ jobs:
             fs.writeFileSync(readmePath, readmeTemplate);
 
       - name: Commit and Push Changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html README.md readme.md || true
-          git commit -m "🤖 自动同步最新 AI 前沿动态与README [skip ci]" || exit 0
-          git push
+          run: |
+                git config --global user.name "github-actions[bot]"
+                git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                
+                # 使用 git add -A 把所有被脚本修改过的静态网页和 README 全部暂存起来
+                git add -A 
+                
+                # 提交修改，如果没有变化则安全退出
+                git commit -m "🤖 自动同步最新 AI 前沿动态与README [skip ci]" || exit 0
+                
+                # 推送到远端
+                git push
