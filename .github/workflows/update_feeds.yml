@@ -167,16 +167,45 @@ jobs:
               );
             }
 
+            function simplifySourceName(sourceName = '') {
+              return sourceName.replace(/\s*Releases$/i, '').trim();
+            }
+
+            function extractReleaseSummaryCandidate(rawDesc = '') {
+              const rawHtml = decodeHtmlEntities(rawDesc);
+              const explicitSummary =
+                rawHtml.match(/<h2[^>]*>\s*Summary\s*<\/h2>\s*<p[^>]*>([\s\S]*?)<\/p>/i)?.[1] ||
+                rawHtml.match(/<h3[^>]*>\s*Summary\s*<\/h3>\s*<p[^>]*>([\s\S]*?)<\/p>/i)?.[1] ||
+                rawHtml.match(/<p[^>]*>([\s\S]*?)<\/p>/i)?.[1] ||
+                rawDesc;
+
+              return normalizeText(stripHtml(explicitSummary))
+                .replace(/^\[[^\]]+\]\s*/g, '')
+                .replace(/^human note\s*/i, '')
+                .replace(/^summary\s*[:：-]?\s*/i, '')
+                .replace(/\s+/g, ' ')
+                .trim();
+            }
+
             function buildReadableFallbackTitle(sourceName, rawDesc, originalTitle) {
-              const cleaned = normalizeText(stripHtml(rawDesc))
+              const sourceLabel = simplifySourceName(sourceName) || sourceName;
+              const titleSuffix = originalTitle.includes(':')
+                ? originalTitle.split(':').slice(1).join(':').trim()
+                : '';
+              const candidate = (
+                titleSuffix ||
+                extractReleaseSummaryCandidate(rawDesc) ||
+                normalizeText(stripHtml(rawDesc))
+              )
+                .replace(/\s*\(#\d+\)\s*$/i, '')
                 .replace(/^\[[^\]]+\]\s*/g, '')
                 .replace(/^release\s*:\s*/i, '')
                 .replace(/\s+/g, ' ')
                 .trim();
 
-              if (!cleaned) return originalTitle;
-              const short = clipTextPreserveWords(cleaned, 58);
-              return `${sourceName} 更新：${short}`;
+              if (!candidate) return originalTitle;
+              const short = clipTextPreserveWords(candidate, 42);
+              return `${sourceLabel}：${short}`;
             }
 
             async function fetchArticleHtml(link) {
@@ -385,7 +414,7 @@ jobs:
                 if (!isLowQualitySummary(rawTextSummary)) {
                   return rawTextSummary;
                 }
-                const directReleaseExcerpt = clipTextPreserveWords(stripHtml(rawDesc), 140);
+                const directReleaseExcerpt = clipTextPreserveWords(extractReleaseSummaryCandidate(rawDesc), 140);
                 if (!isLowQualitySummary(directReleaseExcerpt)) {
                   return directReleaseExcerpt;
                 }
@@ -446,6 +475,14 @@ jobs:
               return `点击标题查看《${title}》原文。`;
             }
 
+            function shouldDropPost(post) {
+              const noSummary = /^点击标题查看《/.test(post.description || '');
+              if (releaseSourceClasses.has(post.sourceClass) && noSummary) {
+                return true;
+              }
+              return false;
+            }
+
             async function fetchFeed(feed) {
               try {
                 console.log(`Fetching ${feed.name}...`);
@@ -460,7 +497,7 @@ jobs:
                 const text = await response.text();
                 const items = text.split(/<item\b[^>]*>|<entry\b[^>]*>/i).slice(1);
 
-                return await Promise.all(items.slice(0, 4).map(async item => {
+                const posts = await Promise.all(items.slice(0, 4).map(async item => {
                   const title = getTagValue(item, 'title') || '未命名更新';
                   const link = getLink(item);
                   const pubDateStr =
@@ -500,6 +537,8 @@ jobs:
                     sourceClass: feed.class
                   };
                 }));
+
+                return posts.filter(post => !shouldDropPost(post));
               } catch (error) {
                 console.error(`Failed to fetch ${feed.name}:`, error);
                 return [];
