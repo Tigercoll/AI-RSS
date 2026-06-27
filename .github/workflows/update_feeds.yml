@@ -71,15 +71,58 @@ jobs:
                 .trim();
             }
 
+            function normalizeText(text = '') {
+              return decodeHtmlEntities(text)
+                .replace(/[\u0000-\u001f]+/g, ' ')
+                .replace(/\s+/g, ' ')
+                .trim();
+            }
+
+            function clipText(text = '', max = 140) {
+              const normalized = normalizeText(text);
+              return normalized.length > max ? `${normalized.slice(0, max)}...` : normalized;
+            }
+
+            function escapeHtml(text = '') {
+              return text
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;');
+            }
+
+            function isLowQualitySummary(text = '') {
+              const normalized = normalizeText(text);
+              if (!normalized) return true;
+
+              const compact = normalized.replace(/\s+/g, '');
+              const alphaHanCount = (compact.match(/[A-Za-z\u4e00-\u9fff]/g) || []).length;
+              const digitCount = (compact.match(/[0-9]/g) || []).length;
+              const punctuationCount = (compact.match(/[._\-\\/|()[\]{}:;,+=*@#$%^&~`]/g) || []).length;
+
+              if (alphaHanCount < 12) return true;
+              if (alphaHanCount / Math.max(compact.length, 1) < 0.3) return true;
+              if ((digitCount + punctuationCount) / Math.max(compact.length, 1) > 0.55) return true;
+              if (/([0-9]\s*){10,}/.test(normalized)) return true;
+              if (/([._\-\\/|]\s*){8,}/.test(normalized)) return true;
+              if (/(\b[0-9.]+\b[\s,;:]*){6,}/.test(normalized)) return true;
+
+              return false;
+            }
+
             function cleanDescription(raw, title) {
-              const clean = stripHtml(raw);
+              const clean = normalizeText(stripHtml(raw));
               if (!clean) {
                 return `点击标题查看《${title}》原文。`;
               }
               if (/PostDetail-module|page-wrapper|class=|function\s*\(|export\s+default/i.test(clean)) {
                 return `点击标题查看《${title}》原文。`;
               }
-              return clean.length > 140 ? `${clean.slice(0, 140)}...` : clean;
+              if (isLowQualitySummary(clean)) {
+                return `点击标题查看《${title}》原文。`;
+              }
+              return clipText(clean, 140);
             }
 
             function getTagValue(itemStr, tagName) {
@@ -96,6 +139,157 @@ jobs:
               return atomLink ? atomLink[1] : '#';
             }
 
+            const articleHtmlCache = new Map();
+            const aiSummaryCache = new Map();
+
+            async function fetchArticleHtml(link) {
+              if (!/^https?:\/\//i.test(link)) return '';
+              if (articleHtmlCache.has(link)) return articleHtmlCache.get(link);
+
+              try {
+                const response = await fetch(link, {
+                  headers: {
+                    'User-Agent': 'Mozilla/5.0 AI-RSS/1.0',
+                    'Accept': 'text/html,application/xhtml+xml'
+                  },
+                  redirect: 'follow'
+                });
+
+                if (!response.ok) {
+                  articleHtmlCache.set(link, '');
+                  return '';
+                }
+
+                const html = await response.text();
+                articleHtmlCache.set(link, html);
+                return html;
+              } catch (error) {
+                console.error(`Failed to fetch article page ${link}:`, error);
+                articleHtmlCache.set(link, '');
+                return '';
+              }
+            }
+
+            function extractMetaContent(html, attrName, attrValue) {
+              const patterns = [
+                new RegExp(`<meta[^>]+${attrName}=["']${attrValue}["'][^>]+content=["']([\\s\\S]*?)["'][^>]*>`, 'i'),
+                new RegExp(`<meta[^>]+content=["']([\\s\\S]*?)["'][^>]+${attrName}=["']${attrValue}["'][^>]*>`, 'i')
+              ];
+
+              for (const pattern of patterns) {
+                const match = html.match(pattern);
+                if (match?.[1]) {
+                  return normalizeText(match[1]);
+                }
+              }
+              return '';
+            }
+
+            function extractPreferredMetaDescription(html = '') {
+              return (
+                extractMetaContent(html, 'property', 'og:description') ||
+                extractMetaContent(html, 'name', 'description') ||
+                extractMetaContent(html, 'name', 'twitter:description')
+              );
+            }
+
+            function extractReadableArticleText(html = '') {
+              return normalizeText(
+                decodeHtmlEntities(html)
+                  .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, ' ')
+                  .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, ' ')
+                  .replace(/<svg[^>]*>[\s\S]*?<\/svg>/gi, ' ')
+                  .replace(/<noscript[^>]*>[\s\S]*?<\/noscript>/gi, ' ')
+                  .replace(/<(header|footer|nav|aside)[^>]*>[\s\S]*?<\/\1>/gi, ' ')
+                  .replace(/<[^>]+>/g, ' ')
+                  .replace(/https?:\/\/\S+/g, ' ')
+                  .replace(/\b[a-z0-9_-]{24,}\b/gi, ' ')
+                  .replace(/\s+/g, ' ')
+              );
+            }
+
+            async function aiSummarizePost(title, sourceName, rawText) {
+              const input = normalizeText(rawText).slice(0, 2500);
+              if (input.length < 80) return '';
+
+              const cacheKey = `${sourceName}::${title}::${input.slice(0, 300)}`;
+              if (aiSummaryCache.has(cacheKey)) return aiSummaryCache.get(cacheKey);
+
+              try {
+                const response = await fetch('https://models.github.ai/inference/chat/completions', {
+                  method: 'POST',
+                  headers: {
+                    'Accept': 'application/vnd.github+json',
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
+                    'X-GitHub-Api-Version': '2022-11-28'
+                  },
+                  body: JSON.stringify({
+                    model: 'openai/gpt-4.1',
+                    temperature: 0.2,
+                    max_tokens: 160,
+                    messages: [
+                      {
+                        role: 'system',
+                        content: '你是一个技术编辑。请根据输入内容生成 45 到 90 字的简体中文摘要。要求准确、自然、不夸张、不编造，不要出现“本文介绍了”之类空话，只输出摘要正文。'
+                      },
+                      {
+                        role: 'user',
+                        content: `来源：${sourceName}\n标题：${title}\n原始内容：${input}`
+                      }
+                    ]
+                  })
+                });
+
+                if (!response.ok) {
+                  aiSummaryCache.set(cacheKey, '');
+                  return '';
+                }
+
+                const data = await response.json();
+                const summary = clipText(data?.choices?.[0]?.message?.content?.trim() || '', 120);
+                aiSummaryCache.set(cacheKey, summary);
+                return summary;
+              } catch (error) {
+                console.error(`Failed to summarize post ${title}:`, error);
+                aiSummaryCache.set(cacheKey, '');
+                return '';
+              }
+            }
+
+            async function resolveDescription({ title, sourceName, link, rawDesc }) {
+              const direct = cleanDescription(rawDesc, title);
+              if (!isLowQualitySummary(direct) && !/^点击标题查看/.test(direct)) {
+                return direct;
+              }
+
+              const articleHtml = await fetchArticleHtml(link);
+              if (articleHtml) {
+                const metaDescription = clipText(extractPreferredMetaDescription(articleHtml), 140);
+                if (!isLowQualitySummary(metaDescription)) {
+                  return metaDescription;
+                }
+
+                const articleText = extractReadableArticleText(articleHtml);
+                const readableExcerpt = clipText(articleText, 140);
+                if (!isLowQualitySummary(readableExcerpt)) {
+                  return readableExcerpt;
+                }
+
+                const aiSummary = await aiSummarizePost(title, sourceName, articleText);
+                if (!isLowQualitySummary(aiSummary)) {
+                  return aiSummary;
+                }
+              }
+
+              const rawTextSummary = await aiSummarizePost(title, sourceName, stripHtml(rawDesc));
+              if (!isLowQualitySummary(rawTextSummary)) {
+                return rawTextSummary;
+              }
+
+              return `点击标题查看《${title}》原文。`;
+            }
+
             async function fetchFeed(feed) {
               try {
                 console.log(`Fetching ${feed.name}...`);
@@ -110,7 +304,7 @@ jobs:
                 const text = await response.text();
                 const items = text.split(/<item\b[^>]*>|<entry\b[^>]*>/i).slice(1);
 
-                return items.slice(0, 4).map(item => {
+                return await Promise.all(items.slice(0, 4).map(async item => {
                   const title = getTagValue(item, 'title') || '未命名更新';
                   const link = getLink(item);
                   const pubDateStr =
@@ -123,6 +317,12 @@ jobs:
                     getTagValue(item, 'summary') ||
                     getTagValue(item, 'content:encoded') ||
                     getTagValue(item, 'content');
+                  const description = await resolveDescription({
+                    title,
+                    sourceName: feed.name,
+                    link,
+                    rawDesc
+                  });
 
                   return {
                     title,
@@ -131,11 +331,11 @@ jobs:
                     dateStr: timestamp
                       ? new Date(timestamp).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })
                       : '未知时间',
-                    description: cleanDescription(rawDesc, title),
+                    description,
                     sourceName: feed.name,
                     sourceClass: feed.class
                   };
-                });
+                }));
               } catch (error) {
                 console.error(`Failed to fetch ${feed.name}:`, error);
                 return [];
@@ -202,13 +402,13 @@ jobs:
               return posts.map(post => `
                 <article class="post-card src-${post.sourceClass}">
                   <div class="post-header">
-                    <h2 class="post-title"><a href="${post.link}" target="_blank" rel="noopener noreferrer">${post.title}</a></h2>
+                    <h2 class="post-title"><a href="${post.link}" target="_blank" rel="noopener noreferrer">${escapeHtml(post.title)}</a></h2>
                     <div class="post-meta">
-                      <span class="source-badge">${post.sourceName}</span>
-                      <time>${post.dateStr}</time>
+                      <span class="source-badge">${escapeHtml(post.sourceName)}</span>
+                      <time>${escapeHtml(post.dateStr)}</time>
                     </div>
                   </div>
-                  <div class="post-description">${post.description}</div>
+                  <div class="post-description">${escapeHtml(post.description)}</div>
                 </article>
               `).join('\n');
             }
