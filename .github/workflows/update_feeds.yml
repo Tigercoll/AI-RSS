@@ -1,0 +1,118 @@
+name: Update AI Feeds Daily
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # 每 3 小时自动执行一次
+  workflow_dispatch: # 允许你在 GitHub 页面上手动点击按钮立即触发更新
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Run Fetch Script
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const crypto = require('crypto');
+
+            const feeds = [
+              { name: "OpenAI", class: "openai", url: "https://rsshub.rssforever.com/openai/news" },
+              { name: "Anthropic", class: "anthropic", url: "https://rsshub.rssforever.com/anthropic/research" },
+              { name: "Google DeepMind", class: "google", url: "https://deepmind.com/blog/feed/basic/" },
+              { name: "DeepSeek GitHub", class: "deepseek", url: "https://github.com/deepseek-ai.atom" },
+              { name: "智谱 GLM", class: "glm", url: "https://rsshub.rssforever.com/zhihu/people/columns/zhipu-ai" },
+              { name: "月之暗面 Kimi", class: "kimi", url: "https://rsshub.rssforever.com/moonshot/news" },
+              { name: "字节豆包", class: "doubao", url: "https://rsshub.rssforever.com/volcengine/news" },
+              { name: "Hugging Face", class: "huggingface", url: "https://huggingface.co/blog/feed.xml" },
+              { name: "LMSYS Org", class: "community", url: "https://lmsys.org/rss.xml" },
+              { name: "Andrej Karpathy", class: "community", url: "https://karpathy.github.io/feed.xml" }
+            ];
+
+            let allPosts = [];
+
+            // 简单的 XML 节点提取辅助函数
+            function getTagValue(itemStr, tagName) {
+              const match = itemStr.match(new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)<\/${tagName}>`));
+              if (match) return match[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1');
+              return '';
+            }
+
+            for (const feed of feeds) {
+              try {
+                console.log(`Fetching ${feed.name}...`);
+                const response = await fetch(feed.url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+                if (!response.ok) continue;
+                const text = await response.text();
+                
+                // 将 xml 简单切分成 item 或 entry 块
+                const items = text.split(/<item>|<entry>/).slice(1);
+                
+                for (let item of items) {
+                  const title = getTagValue(item, 'title').trim() || '无题';
+                  
+                  // 匹配链接
+                  let link = getTagValue(item, 'link').trim();
+                  if (!link) {
+                    const linkMatch = item.match(/<link[^>]+href=["']([^"']+)["']/);
+                    link = linkMatch ? linkMatch[1] : '#';
+                  }
+
+                  const pubDateStr = getTagValue(item, 'pubDate') || getTagValue(item, 'updated') || getTagValue(item, 'published');
+                  const timestamp = pubDateStr ? new Date(pubDateStr).getTime() : 0;
+                  
+                  let description = getTagValue(item, 'description') || getTagValue(item, 'summary') || '';
+                  description = description.replace(/<[^>]*>/g, '').trim().substring(0, 160) + '...';
+
+                  allPosts.push({ title, link, timestamp, dateStr: pubDateStr ? new Date(timestamp).toLocaleString('zh-CN', {timeZone: 'Asia/Shanghai'}) : '未知时间', description, sourceName: feed.name, sourceClass: feed.class });
+                }
+              } catch (e) {
+                console.error(`Failed to fetch ${feed.name}:`, e);
+              }
+            }
+
+            // 倒序混合大排队
+            allPosts.sort((a, b) => b.timestamp - a.timestamp);
+            // 仅保留最新的 60 篇文章，防止页面过大
+            allPosts = allPosts.slice(0, 60);
+
+            // 生成 HTML 字符串
+            const htmlContent = allPosts.map(post => `
+              <article class="post-card src-${post.sourceClass}">
+                  <div class="post-header">
+                      <h2 class="post-title"><a href="${post.link}" target="_blank">${post.title}</a></h2>
+                      <div class="post-meta">
+                          <span class="source-badge">${post.sourceName}</span>
+                          <time>${post.dateStr}</time>
+                      </div>
+                  </div>
+                  <div class="post-description">${post.description}</div>
+              </article>
+            `).join('\n');
+
+            // 写入 index.html
+            let template = fs.readFileSync('index.html', 'utf8');
+            const nowStr = new Date().toLocaleString('zh-CN', {timeZone: 'Asia/Shanghai'});
+            template = template.replace('', htmlContent);
+            template = template.replace('', `<div class="status">系统最后自动更新于：${nowStr} (每3小时自动刷新)</div>`);
+            
+            fs.writeFileSync('index.html', template);
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "🤖 自动同步最新 AI 前沿动态 [skip ci]" || exit 0
+          git push

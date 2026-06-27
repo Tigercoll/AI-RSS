@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿技术追踪 - 静态版</title>
+    <style>
+        :root {
+            --bg-color: #f8f9fa; --card-bg: #ffffff; --text-color: #212529; --text-muted: #6c757d; --border-color: #dee2e6;
+            --color-openai: #10a37f; --color-anthropic: #cc7b5c; --color-google: #4285f4; --color-deepseek: #4d6cfa;
+            --color-glm: #722ed1; --color-kimi: #fa8c16; --color-doubao: #1890ff; --color-huggingface: #ffd21e; --color-community: #eb2f96;
+        }
+        body { font-family: -apple-system, system-ui, sans-serif; background: var(--bg-color); color: var(--text-color); padding: 20px; line-height: 1.6; }
+        .container { max-width: 900px; margin: 0 auto; }
+        header { text-align: center; margin-bottom: 30px; border-bottom: 2px solid var(--border-color); padding-bottom: 20px; }
+        .status { font-size: 0.85rem; color: var(--text-muted); background: #e9ecef; padding: 4px 12px; border-radius: 20px; display: inline-block; }
+        #feed-container { display: flex; flex-direction: column; gap: 16px; }
+        .post-card { background: var(--card-bg); border-left: 5px solid #ccc; border-radius: 6px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .post-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 10px; }
+        .post-title { font-size: 1.2rem; margin: 0; font-weight: 600; }
+        .post-title a { color: var(--text-color); text-decoration: none; }
+        .post-title a:hover { color: #007bff; }
+        .post-meta { display: flex; align-items: center; gap: 10px; font-size: 0.85rem; color: var(--text-muted); }
+        .source-badge { padding: 2px 8px; border-radius: 4px; color: #fff; font-weight: bold; font-size: 0.75rem; }
+        .post-description { color: #495057; font-size: 0.95rem; }
+        
+        .src-openai { border-left-color: var(--color-openai); } .src-openai .source-badge { background-color: var(--color-openai); }
+        .src-anthropic { border-left-color: var(--color-anthropic); } .src-anthropic .source-badge { background-color: var(--color-anthropic); }
+        .src-google { border-left-color: var(--color-google); } .src-google .source-badge { background-color: var(--color-google); }
+        .src-deepseek { border-left-color: var(--color-deepseek); } .src-deepseek .source-badge { background-color: var(--color-deepseek); }
+        .src-glm { border-left-color: var(--color-glm); } .src-glm .source-badge { background-color: var(--color-glm); }
+        .src-kimi { border-left-color: var(--color-kimi); } .src-kimi .source-badge { background-color: var(--color-kimi); }
+        .src-doubao { border-left-color: var(--color-doubao); } .src-doubao .source-badge { background-color: var(--color-doubao); }
+        .src-huggingface { border-left-color: var(--color-huggingface); } .src-huggingface .source-badge { background-color: var(--color-huggingface); color:#333; }
+        .src-community { border-left-color: var(--color-community); } .src-community .source-badge { background-color: var(--color-community); }
+    </style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>🤖 AI 前沿技术追踪</h1>
+        </header>
+    <main id="feed-container">
+        </main>
+</div>
+</body>
+</html>
