@@ -611,7 +611,6 @@ jobs:
                       <time>${escapeHtml(post.dateStr)}</time>
                     </div>
                   </div>
-                  <div class="post-description">${escapeHtml(post.description)}</div>
                 </article>
               `).join('\n');
             }
