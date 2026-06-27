@@ -26,6 +26,7 @@ jobs:
           script: |
             const fs = require('fs');
 
+            // 完美扩充：集齐了大厂、硬核开源框架、前沿论文与底层算力芯片信源
             const feeds = [
               { name: "OpenAI", class: "openai", url: "https://rsshub.rssforever.com/openai/news" },
               { name: "Anthropic", class: "anthropic", url: "https://rsshub.rssforever.com/anthropic/research" },
@@ -34,7 +35,15 @@ jobs:
               { name: "智谱 GLM", class: "glm", url: "https://rsshub.rssforever.com/zhihu/people/columns/zhipu-ai" },
               { name: "月之暗面 Kimi", class: "kimi", url: "https://rsshub.rssforever.com/moonshot/news" },
               { name: "字节豆包", class: "doubao", url: "https://rsshub.rssforever.com/volcengine/news" },
-              { name: "Hugging Face", class: "huggingface", url: "https://huggingface.co/blog/feed.xml" },
+              { name: "Hugging Face Blog", class: "huggingface", url: "https://huggingface.co/blog/feed.xml" },
+              { name: "HF Daily Papers", class: "huggingface", url: "https://rsshub.rssforever.com/huggingface/daily-papers" },
+              { name: "arXiv AI 论文", class: "arxiv", url: "https://rsshub.rssforever.com/arxiv/cs.AI" },
+              { name: "Meta AI Research", class: "meta", url: "https://ai.meta.com/blog/rss/" },
+              { name: "LangChain Blog", class: "langchain", url: "https://blog.langchain.dev/rss/" },
+              { name: "LlamaIndex Blog", class: "llamaindex", url: "https://llamahub.ai/blog/feed.xml" },
+              { name: "Vercel AI SDK", class: "vercel", url: "https://github.com/vercel/ai.atom" },
+              { name: "NVIDIA News", class: "nvidia", url: "https://nvidianews.nvidia.com/releases.xml" },
+              { name: "AMD AI Blog", class: "amd", url: "https://community.amd.com/t5/ai/bg-p/ai-blog/rss-v2?page-size=10" },
               { name: "LMSYS Org", class: "community", url: "https://lmsys.org/rss.xml" },
               { name: "Andrej Karpathy", class: "community", url: "https://karpathy.github.io/feed.xml" }
             ];
@@ -45,6 +54,24 @@ jobs:
               const match = itemStr.match(new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)<\/${tagName}>`));
               if (match) return match[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1');
               return '';
+            }
+
+            // 强力清洗函数：剥离所有HTML标签、转义字符、以及干扰Markdown排版的乱码
+            function cleanDescription(rawStr) {
+              if (!rawStr) return '暂无概要描述。';
+              let clean = rawStr
+                .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '') // 剥离内联样式
+                .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '') // 剥离脚本
+                .replace(/<[^>]*>/g, '')  // 剥离所有 HTML 标签
+                .replace(/&lt;[^&]*&gt;/g, '') // 剥离转义的HTML标签
+                .replace(/&nbsp;/g, ' ')
+                .replace(/&amp;/g, '&')
+                .replace(/&quot;/g, '"')
+                .replace(/&#39;/g, "'")
+                .replace(/\s+/g, ' ')     // 合并多余空格和换行
+                .trim();
+              
+              return clean.length > 150 ? clean.substring(0, 150) + '...' : clean;
             }
 
             for (const feed of feeds) {
@@ -68,8 +95,9 @@ jobs:
                   const pubDateStr = getTagValue(item, 'pubDate') || getTagValue(item, 'updated') || getTagValue(item, 'published');
                   const timestamp = pubDateStr ? new Date(pubDateStr).getTime() : 0;
                   
-                  let description = getTagValue(item, 'description') || getTagValue(item, 'summary') || '';
-                  description = description.replace(/<[^>]*>/g, '').trim().substring(0, 160) + '...';
+                  // 获取并深度清洗内容
+                  let rawDesc = getTagValue(item, 'description') || getTagValue(item, 'summary') || getTagValue(item, 'content:encoded') || '';
+                  const description = cleanDescription(rawDesc);
 
                   allPosts.push({ title, link, timestamp, dateStr: pubDateStr ? new Date(timestamp).toLocaleString('zh-CN', {timeZone: 'Asia/Shanghai'}) : '未知时间', description, sourceName: feed.name, sourceClass: feed.class });
                 }
@@ -79,7 +107,7 @@ jobs:
             }
 
             allPosts.sort((a, b) => b.timestamp - a.timestamp);
-            allPosts = allPosts.slice(0, 60);
+            allPosts = allPosts.slice(0, 80); // 独立页面保留 80 条最新动态
 
             const nowStr = new Date().toLocaleString('zh-CN', {timeZone: 'Asia/Shanghai'});
 
@@ -99,7 +127,7 @@ jobs:
 
             let template = fs.readFileSync('index.html', 'utf8');
             template = template.replace(/<main id="feed-container">([\s\S]*?)<\/main>/, `<main id="feed-container">\n${htmlContent}\n</main>`);
-            template = template.replace(/|<div class="status">[\s\S]*?<\/div>/, `<div class="status">系统最后自动更新于：${nowStr} (每3小时自动刷新)</div>`);
+            template = template.replace(/<!-- UPDATE_TIME_SLOT -->|<div class="status">[\s\S]*?<\/div>/, `<div class="status">系统最后自动更新于：${nowStr} (每3小时自动刷新)</div>`);
             fs.writeFileSync('index.html', template);
 
             // 2. 智能化识别并覆写 README.md / readme.md
@@ -112,19 +140,20 @@ jobs:
             if (fs.existsSync(readmePath)) {
               readmeTemplate = fs.readFileSync(readmePath, 'utf8');
             } else {
-              readmeTemplate = `# 🤖 AI 前沿技术追踪阅读器\n\n👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**\n\n⏳ 最后自动更新时间：正在等待首次同步...\n\n---\n\n## 📅 实时 AI 技术看板\n\n\n`;
+              readmeTemplate = `# 🤖 AI 前沿技术追踪阅读器\n\n👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**\n\n⏳ 最后自动更新时间：正在等待首次同步...\n\n---\n\n## 📅 实时 AI 技术看板\n\n<!-- START_LIVE_FEEDS -->\n<!-- END_LIVE_FEEDS -->`;
             }
 
-            const readmePosts = allPosts.slice(0, 15);
+            // 主页 README 展示前 20 条最硬核的交叉头条资讯
+            const readmePosts = allPosts.slice(0, 20);
             const markdownContent = readmePosts.map(post => {
-              return `### 📢 [${post.title}](${post.link})\n**来源:** \`${post.sourceName}\` | **时间:** \`${post.dateStr}\`\n\n> ${post.description}\n\n---`;
+              return `### 📢 [${post.title}](${post.link})\n**来源:** \`${post.sourceName}\` | **时间:** \`${post.dateStr}\`\n\n> 💡 ${post.description}\n\n---`;
             }).join('\n\n');
 
-            if (!readmeTemplate.includes('')) {
-              readmeTemplate += `\n\n## 📅 实时 AI 技术看板\n\n\n`;
+            if (!readmeTemplate.includes('<!-- START_LIVE_FEEDS -->')) {
+              readmeTemplate += `\n\n## 📅 实时 AI 技术看板\n\n<!-- START_LIVE_FEEDS -->\n<!-- END_LIVE_FEEDS -->`;
             }
 
-            readmeTemplate = readmeTemplate.replace(/[\s\S]*?/, `\n\n${markdownContent}\n\n`);
+            readmeTemplate = readmeTemplate.replace(/<!-- START_LIVE_FEEDS -->[\s\S]*?<!-- END_LIVE_FEEDS -->/, `<!-- START_LIVE_FEEDS -->\n\n${markdownContent}\n\n<!-- END_LIVE_FEEDS -->`);
             
             if (/⏳.*/.test(readmeTemplate)) {
               readmeTemplate = readmeTemplate.replace(/⏳.*/, `⏳ 最后自动更新时间：${nowStr}`);
@@ -138,9 +167,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 使用 -A 无论大写小写、无论删除或修改文件全量暂存
           git add -A
-          
           git commit -m "🤖 自动同步最新 AI 前沿动态与README [skip ci]" || exit 0
           git push
