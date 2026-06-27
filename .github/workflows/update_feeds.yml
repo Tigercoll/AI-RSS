@@ -138,6 +138,14 @@ jobs:
 
             const articleHtmlCache = new Map();
             const aiSummaryCache = new Map();
+            const releaseSourceClasses = new Set(['vllm', 'ollama', 'transformers', 'pytorch', 'qwen', 'paddle']);
+
+            function shouldPreferAiSummary(sourceClass, title = '') {
+              if (releaseSourceClasses.has(sourceClass)) return true;
+              if (/^trunk\/[a-f0-9]{16,}$/i.test(title)) return true;
+              if (/^[a-f0-9]{20,}$/i.test(title)) return true;
+              return false;
+            }
 
             async function fetchArticleHtml(link) {
               if (!/^https?:\/\//i.test(link)) return '';
@@ -254,22 +262,30 @@ jobs:
               }
             }
 
-            async function resolveDescription({ title, sourceName, link, rawDesc }) {
+            async function resolveDescription({ title, sourceName, sourceClass, link, rawDesc }) {
+              const preferAi = shouldPreferAiSummary(sourceClass, title);
               const direct = cleanDescription(rawDesc, title);
-              if (!isLowQualitySummary(direct) && !/^点击标题查看/.test(direct)) {
+              if (!preferAi && !isLowQualitySummary(direct) && !/^点击标题查看/.test(direct)) {
                 return direct;
+              }
+
+              if (preferAi) {
+                const rawTextSummary = await aiSummarizePost(title, sourceName, stripHtml(rawDesc));
+                if (!isLowQualitySummary(rawTextSummary)) {
+                  return rawTextSummary;
+                }
               }
 
               const articleHtml = await fetchArticleHtml(link);
               if (articleHtml) {
                 const metaDescription = clipText(extractPreferredMetaDescription(articleHtml), 140);
-                if (!isLowQualitySummary(metaDescription)) {
+                if (!preferAi && !isLowQualitySummary(metaDescription)) {
                   return metaDescription;
                 }
 
                 const articleText = extractReadableArticleText(articleHtml);
                 const readableExcerpt = clipText(articleText, 140);
-                if (!isLowQualitySummary(readableExcerpt)) {
+                if (!preferAi && !isLowQualitySummary(readableExcerpt)) {
                   return readableExcerpt;
                 }
 
@@ -317,6 +333,7 @@ jobs:
                   const description = await resolveDescription({
                     title,
                     sourceName: feed.name,
+                    sourceClass: feed.class,
                     link,
                     rawDesc
                   });
