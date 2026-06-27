@@ -15,7 +15,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 1. 这里原先是 node-version: 18 或 20，现在我们明确指定使用最新的 Node.js 24
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -26,7 +25,6 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            const crypto = require('crypto');
 
             const feeds = [
               { name: "OpenAI", class: "openai", url: "https://rsshub.rssforever.com/openai/news" },
@@ -83,6 +81,7 @@ jobs:
             allPosts.sort((a, b) => b.timestamp - a.timestamp);
             allPosts = allPosts.slice(0, 60);
 
+            // 1. 生成并覆写 index.html
             const htmlContent = allPosts.map(post => `
               <article class="post-card src-${post.sourceClass}">
                   <div class="post-header">
@@ -98,14 +97,26 @@ jobs:
 
             let template = fs.readFileSync('index.html', 'utf8');
             const nowStr = new Date().toLocaleString('zh-CN', {timeZone: 'Asia/Shanghai'});
-            
-            // 2. 这里的正则表达式容错率更高，确保不论上一次构建残留了什么，都能精准替换
             template = template.replace(/<main id="feed-container">([\s\S]*?)<\/main>/, `<main id="feed-container">\n${htmlContent}\n</main>`);
-            template = template.replace(/|<div class="status">[\s\S]*?<\/div>/, `<div class="status">系统最后自动更新于：${nowStr} (每3小时自动刷新)</div>`);
-            
+            template = template.replace(/<!-- UPDATE_TIME_SLOT -->|<div class="status">[\s\S]*?<\/div>/, `<div class="status">系统最后自动更新于：${nowStr} (每3小时自动刷新)</div>`);
             fs.writeFileSync('index.html', template);
+
+            // 2. 生成并覆写 README.md 中的动态看板（取最新 15 篇，防止主页拉得太长）
+            const readmePosts = allPosts.slice(0, 15);
+            const markdownContent = readmePosts.map(post => {
+              return `### 📢 [${post.title}](${post.link})\n**来源:** \`${post.sourceName}\` | **时间:** \`${post.dateStr}\`\n\n> ${post.description}\n\n---`;
+            }).join('\n\n');
+
+            let readmeTemplate = fs.readFileSync('README.md', 'utf8');
+            // 通过占位符正则精准替换 README 中的流内容
+            readmeTemplate = readmeTemplate.replace(/<!-- START_LIVE_FEEDS -->[\s\S]*?<!-- END_LIVE_FEEDS -->/, `<!-- START_LIVE_FEEDS -->\n\n${markdownContent}\n\n<!-- END_LIVE_FEEDS -->`);
+            readmeTemplate = readmeTemplate.replace(/<!-- DYNAMIC_UPDATE_TIME -->|⏳ 最后自动更新时间：.*/, `⏳ 最后自动更新时间：${nowStr}`);
+            fs.writeFileSync('README.md', readmeTemplate);
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html README.md
+          git commit -m "🤖 自动同步最新 AI 前沿动态与README [skip ci]" || exit 0
+          git push
