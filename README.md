@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型、工程、研究和产品更新，并同步生成首页与 README 最新动态，适合想快速跟进 AI 动态的开发者与研究者。
+AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，涵盖 NVIDIA、LangChain、Vercel、AWS 等知名平台。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源及时间信息。数据每三小时自动更新，确保用户及时获取行业前沿资讯，便于开发者和研究者快速浏览与跟进人工智能领域的发展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/6/28 00:04:56
+🕒 最后自动更新时间：2026/6/28 00:08:20
 
 ---
 
@@ -32,6 +32,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap)
+来源: Vercel AI SDK | 时间: 2026/6/27 00:00:00
+
+---
+
 ### 📢 [Build interactive PDF text extraction from Amazon S3](https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/)
 来源: AWS ML Blog | 时间: 2026/6/26 22:47:45
 
@@ -49,6 +54,26 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol)
 来源: OpenAI | 时间: 2026/6/26 18:00:00
+
+---
+
+### 📢 [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs)
+来源: Hugging Face Blog | 时间: 2026/6/26 08:00:00
+
+---
+
+### 📢 [Parsing the Unreadable: How LlamaParse Handles Legal Discovery Documents](https://www.llamaindex.ai/blog/parsing-the-unreadable-how-llamaparse-handles-legal-discovery-documents)
+来源: LlamaIndex Blog | 时间: 2026/6/26 08:00:00
+
+---
+
+### 📢 [LlamaParse Platform Node for n8n: Parse, Classify, Extract & Retrieve Documents with AI](https://www.llamaindex.ai/blog/bring-your-document-workflows-to-n8n-with-the-llamaparse-node)
+来源: LlamaIndex Blog | 时间: 2026/6/26 08:00:00
+
+---
+
+### 📢 [Trace and debug eve agent sessions with Vercel Observability](https://vercel.com/changelog/eve-agent-observability)
+来源: Vercel AI SDK | 时间: 2026/6/26 08:00:00
 
 ---
 
@@ -72,13 +97,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Parsing the Unreadable: How LlamaParse Handles Legal Discovery Documents](https://www.llamaindex.ai/blog/parsing-the-unreadable-how-llamaparse-handles-legal-discovery-documents)
-来源: LlamaIndex Blog | 时间: 2026/6/26 00:00:00
-
----
-
-### 📢 [LlamaParse Platform Node for n8n: Parse, Classify, Extract & Retrieve Documents with AI](https://www.llamaindex.ai/blog/bring-your-document-workflows-to-n8n-with-the-llamaparse-node)
-来源: LlamaIndex Blog | 时间: 2026/6/26 00:00:00
+### 📢 [Which tokens does a hybrid model predict better?](https://huggingface.co/blog/allenai/hybrid-token-prediction)
+来源: Hugging Face Blog | 时间: 2026/6/26 00:11:42
 
 ---
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [TokenSpeed-Kernel: Portable APIs and High-Performance Kernels for Multi-Silicon LLM Inference](https://pytorch.org/blog/lightseek-tokenspeed-kernel/)
 来源: PyTorch Blog | 时间: 2026/6/25 22:48:06
-
----
-
-### 📢 [How agents are transforming work](https://openai.com/index/how-agents-are-transforming-work)
-来源: OpenAI | 时间: 2026/6/25 10:00:00
-
----
-
-### 📢 [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/)
-来源: Google DeepMind | 时间: 2026/6/25 00:30:01
-
----
-
-### 📢 [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)
-来源: OpenAI | 时间: 2026/6/24 14:00:00
-
----
-
-### 📢 [Serving DeepSeek-V4 on GB300 with SGLang: 5x Higher Throughput at the Same Interactivity Since Day-0](https://pytorch.org/blog/serving-deepseek-v4-on-gb300-with-sglang-5x-higher-throughput-at-the-same-interactivity-since-day-0/)
-来源: PyTorch Blog | 时间: 2026/6/23 23:51:58
 
 ---
 <!-- END_LIVE_FEEDS -->
