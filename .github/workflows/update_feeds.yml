@@ -21,7 +21,7 @@ jobs:
           node-version: 24
 
       - name: Run Fetch Script
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8 # 升级到 v8，完美原生支持 Node.js 24 运行环境
         with:
           script: |
             const fs = require('fs');
@@ -81,7 +81,9 @@ jobs:
             allPosts.sort((a, b) => b.timestamp - a.timestamp);
             allPosts = allPosts.slice(0, 60);
 
-            // 1. 生成并覆写 index.html
+            const nowStr = new Date().toLocaleString('zh-CN', {timeZone: 'Asia/Shanghai'});
+
+            // 1. 覆写 index.html
             const htmlContent = allPosts.map(post => `
               <article class="post-card src-${post.sourceClass}">
                   <div class="post-header">
@@ -96,21 +98,21 @@ jobs:
             `).join('\n');
 
             let template = fs.readFileSync('index.html', 'utf8');
-            const nowStr = new Date().toLocaleString('zh-CN', {timeZone: 'Asia/Shanghai'});
             template = template.replace(/<main id="feed-container">([\s\S]*?)<\/main>/, `<main id="feed-container">\n${htmlContent}\n</main>`);
-            template = template.replace(/<!-- UPDATE_TIME_SLOT -->|<div class="status">[\s\S]*?<\/div>/, `<div class="status">系统最后自动更新于：${nowStr} (每3小时自动刷新)</div>`);
+            template = template.replace(/|<div class="status">[\s\S]*?<\/div>/, `<div class="status">系统最后自动更新于：${nowStr} (每3小时自动刷新)</div>`);
             fs.writeFileSync('index.html', template);
 
-            // 2. 生成并覆写 README.md 中的动态看板（取最新 15 篇，防止主页拉得太长）
+            // 2. 覆写 README.md (强力正则，通杀中英文冒号，精准替换时间行)
             const readmePosts = allPosts.slice(0, 15);
             const markdownContent = readmePosts.map(post => {
               return `### 📢 [${post.title}](${post.link})\n**来源:** \`${post.sourceName}\` | **时间:** \`${post.dateStr}\`\n\n> ${post.description}\n\n---`;
             }).join('\n\n');
 
             let readmeTemplate = fs.readFileSync('README.md', 'utf8');
-            // 通过占位符正则精准替换 README 中的流内容
-            readmeTemplate = readmeTemplate.replace(/<!-- START_LIVE_FEEDS -->[\s\S]*?<!-- END_LIVE_FEEDS -->/, `<!-- START_LIVE_FEEDS -->\n\n${markdownContent}\n\n<!-- END_LIVE_FEEDS -->`);
-            readmeTemplate = readmeTemplate.replace(/<!-- DYNAMIC_UPDATE_TIME -->|⏳ 最后自动更新时间：.*/, `⏳ 最后自动更新时间：${nowStr}`);
+            readmeTemplate = readmeTemplate.replace(/[\s\S]*?/, `\n\n${markdownContent}\n\n`);
+            
+            // 改进后的时间正则：匹配以 ⏳ 开头的整行文本，完美解决中英文冒号不一致导致找不到行的问题
+            readmeTemplate = readmeTemplate.replace(/⏳.*/, `⏳ 最后自动更新时间：${nowStr}`);
             fs.writeFileSync('README.md', readmeTemplate);
 
       - name: Commit and Push Changes
