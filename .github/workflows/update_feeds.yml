@@ -80,6 +80,17 @@ jobs:
               return normalized.length > max ? `${normalized.slice(0, max)}...` : normalized;
             }
 
+            function clipTextPreserveWords(text = '', max = 140) {
+              const normalized = normalizeText(text);
+              if (normalized.length <= max) return normalized;
+              const sliced = normalized.slice(0, max);
+              const lastSpace = sliced.lastIndexOf(' ');
+              if (lastSpace > 40) {
+                return `${sliced.slice(0, lastSpace)}...`;
+              }
+              return `${sliced}...`;
+            }
+
             function escapeHtml(text = '') {
               return text
                 .replace(/&/g, '&amp;')
@@ -145,6 +156,27 @@ jobs:
               if (/^trunk\/[a-f0-9]{16,}$/i.test(title)) return true;
               if (/^[a-f0-9]{20,}$/i.test(title)) return true;
               return false;
+            }
+
+            function isOpaqueReleaseTitle(title = '') {
+              return (
+                /^trunk\/[a-f0-9]{16,}$/i.test(title) ||
+                /^viable\/strict\/\d+$/i.test(title) ||
+                /^[a-f0-9]{20,}$/i.test(title) ||
+                /^nightly\/[a-f0-9._-]+$/i.test(title)
+              );
+            }
+
+            function buildReadableFallbackTitle(sourceName, rawDesc, originalTitle) {
+              const cleaned = normalizeText(stripHtml(rawDesc))
+                .replace(/^\[[^\]]+\]\s*/g, '')
+                .replace(/^release\s*:\s*/i, '')
+                .replace(/\s+/g, ' ')
+                .trim();
+
+              if (!cleaned) return originalTitle;
+              const short = clipTextPreserveWords(cleaned, 58);
+              return `${sourceName} 更新：${short}`;
             }
 
             async function fetchArticleHtml(link) {
@@ -262,6 +294,69 @@ jobs:
               }
             }
 
+            async function aiRewriteOpaqueTitle(originalTitle, sourceName, rawText) {
+              const input = normalizeText(rawText).slice(0, 1200);
+              if (input.length < 20) return '';
+
+              const cacheKey = `title::${sourceName}::${originalTitle}::${input.slice(0, 200)}`;
+              if (aiSummaryCache.has(cacheKey)) return aiSummaryCache.get(cacheKey);
+
+              try {
+                const response = await fetch('https://models.github.ai/inference/chat/completions', {
+                  method: 'POST',
+                  headers: {
+                    'Accept': 'application/vnd.github+json',
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
+                    'X-GitHub-Api-Version': '2022-11-28'
+                  },
+                  body: JSON.stringify({
+                    model: 'openai/gpt-4.1',
+                    temperature: 0.2,
+                    max_tokens: 80,
+                    messages: [
+                      {
+                        role: 'system',
+                        content: '你是技术资讯编辑。请把难读的发布标题改写成简洁、可读的中文标题，长度 12 到 32 字。只输出标题正文，不要引号。'
+                      },
+                      {
+                        role: 'user',
+                        content: `来源：${sourceName}\n原始标题：${originalTitle}\n发布内容：${input}`
+                      }
+                    ]
+                  })
+                });
+
+                if (!response.ok) {
+                  aiSummaryCache.set(cacheKey, '');
+                  return '';
+                }
+
+                const data = await response.json();
+                const rewritten = clipText(data?.choices?.[0]?.message?.content?.trim() || '', 40);
+                aiSummaryCache.set(cacheKey, rewritten);
+                return rewritten;
+              } catch (error) {
+                console.error(`Failed to rewrite title ${originalTitle}:`, error);
+                aiSummaryCache.set(cacheKey, '');
+                return '';
+              }
+            }
+
+            async function resolveDisplayTitle({ title, sourceName, sourceClass, rawDesc }) {
+              if (!isOpaqueReleaseTitle(title) && !shouldPreferAiSummary(sourceClass, title)) {
+                return title;
+              }
+
+              const rawText = normalizeText(stripHtml(rawDesc));
+              const rewritten = await aiRewriteOpaqueTitle(title, sourceName, rawText);
+              if (rewritten && !isOpaqueReleaseTitle(rewritten)) {
+                return rewritten;
+              }
+
+              return buildReadableFallbackTitle(sourceName, rawDesc, title);
+            }
+
             async function resolveDescription({ title, sourceName, sourceClass, link, rawDesc }) {
               const preferAi = shouldPreferAiSummary(sourceClass, title);
               const direct = cleanDescription(rawDesc, title);
@@ -273,6 +368,10 @@ jobs:
                 const rawTextSummary = await aiSummarizePost(title, sourceName, stripHtml(rawDesc));
                 if (!isLowQualitySummary(rawTextSummary)) {
                   return rawTextSummary;
+                }
+                const directReleaseExcerpt = clipTextPreserveWords(stripHtml(rawDesc), 140);
+                if (!isLowQualitySummary(directReleaseExcerpt)) {
+                  return directReleaseExcerpt;
                 }
               }
 
@@ -292,6 +391,13 @@ jobs:
                 const aiSummary = await aiSummarizePost(title, sourceName, articleText);
                 if (!isLowQualitySummary(aiSummary)) {
                   return aiSummary;
+                }
+
+                if (preferAi) {
+                  const articleExcerpt = clipTextPreserveWords(articleText, 140);
+                  if (!isLowQualitySummary(articleExcerpt)) {
+                    return articleExcerpt;
+                  }
                 }
               }
 
@@ -330,6 +436,12 @@ jobs:
                     getTagValue(item, 'summary') ||
                     getTagValue(item, 'content:encoded') ||
                     getTagValue(item, 'content');
+                  const displayTitle = await resolveDisplayTitle({
+                    title,
+                    sourceName: feed.name,
+                    sourceClass: feed.class,
+                    rawDesc
+                  });
                   const description = await resolveDescription({
                     title,
                     sourceName: feed.name,
@@ -340,6 +452,7 @@ jobs:
 
                   return {
                     title,
+                    displayTitle,
                     link,
                     timestamp,
                     dateStr: timestamp
@@ -416,7 +529,7 @@ jobs:
               return posts.map(post => `
                 <article class="post-card src-${post.sourceClass}">
                   <div class="post-header">
-                    <h2 class="post-title"><a href="${post.link}" target="_blank" rel="noopener noreferrer">${escapeHtml(post.title)}</a></h2>
+                    <h2 class="post-title"><a href="${post.link}" target="_blank" rel="noopener noreferrer">${escapeHtml(post.displayTitle || post.title)}</a></h2>
                     <div class="post-meta">
                       <span class="source-badge">${escapeHtml(post.sourceName)}</span>
                       <time>${escapeHtml(post.dateStr)}</time>
@@ -434,7 +547,7 @@ jobs:
 
               return posts.map(post => {
                 return [
-                  `### 📢 [${post.title}](${post.link})`,
+                  `### 📢 [${post.displayTitle || post.title}](${post.link})`,
                   `**来源:** \`${post.sourceName}\` | **时间:** \`${post.dateStr}\``,
                   '',
                   `> 💡 ${post.description}`,
