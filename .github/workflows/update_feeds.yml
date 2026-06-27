@@ -3,7 +3,7 @@ name: Update AI Feeds Daily
 on:
   schedule:
     - cron: '0 */3 * * *' # 每 3 小时自动执行一次
-  workflow_dispatch: # 允许你在 GitHub 页面上手动点击按钮立即触发更新
+  workflow_dispatch: # 允许手动点击按钮立即触发更新
 
 permissions:
   contents: write
@@ -15,10 +15,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # 1. 这里原先是 node-version: 18 或 20，现在我们明确指定使用最新的 Node.js 24
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 24
 
       - name: Run Fetch Script
         uses: actions/github-script@v7
@@ -42,7 +43,6 @@ jobs:
 
             let allPosts = [];
 
-            // 简单的 XML 节点提取辅助函数
             function getTagValue(itemStr, tagName) {
               const match = itemStr.match(new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)<\/${tagName}>`));
               if (match) return match[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1');
@@ -56,13 +56,11 @@ jobs:
                 if (!response.ok) continue;
                 const text = await response.text();
                 
-                // 将 xml 简单切分成 item 或 entry 块
                 const items = text.split(/<item>|<entry>/).slice(1);
                 
                 for (let item of items) {
                   const title = getTagValue(item, 'title').trim() || '无题';
                   
-                  // 匹配链接
                   let link = getTagValue(item, 'link').trim();
                   if (!link) {
                     const linkMatch = item.match(/<link[^>]+href=["']([^"']+)["']/);
@@ -82,12 +80,9 @@ jobs:
               }
             }
 
-            // 倒序混合大排队
             allPosts.sort((a, b) => b.timestamp - a.timestamp);
-            // 仅保留最新的 60 篇文章，防止页面过大
             allPosts = allPosts.slice(0, 60);
 
-            // 生成 HTML 字符串
             const htmlContent = allPosts.map(post => `
               <article class="post-card src-${post.sourceClass}">
                   <div class="post-header">
@@ -101,18 +96,16 @@ jobs:
               </article>
             `).join('\n');
 
-            // 写入 index.html
             let template = fs.readFileSync('index.html', 'utf8');
             const nowStr = new Date().toLocaleString('zh-CN', {timeZone: 'Asia/Shanghai'});
-            template = template.replace('', htmlContent);
-            template = template.replace('', `<div class="status">系统最后自动更新于：${nowStr} (每3小时自动刷新)</div>`);
+            
+            // 2. 这里的正则表达式容错率更高，确保不论上一次构建残留了什么，都能精准替换
+            template = template.replace(/<main id="feed-container">([\s\S]*?)<\/main>/, `<main id="feed-container">\n${htmlContent}\n</main>`);
+            template = template.replace(/|<div class="status">[\s\S]*?<\/div>/, `<div class="status">系统最后自动更新于：${nowStr} (每3小时自动刷新)</div>`);
             
             fs.writeFileSync('index.html', template);
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html
-          git commit -m "🤖 自动同步最新 AI 前沿动态 [skip ci]" || exit 0
-          git push
+          git config --global user.email "github-actions[bot]@users.
