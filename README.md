@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展示最新行业资讯。项目通过静态首页和 README，以标题链接、来源和时间的形式呈现内容，每 3 小时自动更新，确保信息及时可靠。用户可以便捷地获取 OpenAI、NVIDIA、LangChain、Vercel 等知名机构的最新技术进展与动态，适合关注人工智能领域的开发者和研究者。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、NVIDIA、LangChain 等知名机构的最新进展。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。数据每三小时自动更新，帮助用户及时了解行业趋势与技术创新。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/6/29 12:17:52
+🕒 最后自动更新时间：2026/6/29 19:07:32
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu)
+来源: OpenAI | 时间: 2026/6/29 15:00:00
+
+---
+
+### 📢 [Micro-Agent: Beat Frontier Models with Collaboration inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
+来源: vLLM Blog | 时间: 2026/6/29 08:00:00
+
+---
+
 ### 📢 [HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership)
 来源: OpenAI | 时间: 2026/6/29 01:00:00
 
@@ -99,16 +109,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展
 
 ### 📢 [Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services](https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/)
 来源: AWS ML Blog | 时间: 2026/6/26 01:55:10
-
----
-
-### 📢 [Which tokens does a hybrid model predict better?](https://huggingface.co/blog/allenai/hybrid-token-prediction)
-来源: Hugging Face Blog | 时间: 2026/6/26 00:11:42
-
----
-
-### 📢 [Why the Best AI Agents Are Simple: Sierra’s Zack Reneau-Wedeen on the Max Agency Podcast](https://www.langchain.com/blog/why-the-best-agents-are-simpler-than-you-think-sierra-max-agency-podcast)
-来源: LangChain Blog | 时间: 2026/6/25 23:08:27
 
 ---
 <!-- END_LIVE_FEEDS -->
