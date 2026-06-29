@@ -1,17 +1,52 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，涵盖 NVIDIA、PyTorch、OpenAI 等知名平台的最新内容。项目通过静态首页和 README 展示最新资讯，形式包括标题链接、来源和时间，方便快速浏览。每三小时自动更新，确保信息及时、权威，为开发者和研究者提供高效的 AI 技术动态获取渠道。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Hugging Face、LangChain 等平台。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及发布时间。每三小时自动更新，确保信息及时、权威，便于开发者和研究者快速了解行业最新进展与技术趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/6/29 23:53:31
+🕒 最后自动更新时间：2026/6/30 04:03:29
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Implement a backup strategy for Amazon Quick Sight BI assets](https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/)
+来源: AWS ML Blog | 时间: 2026/6/30 02:15:14
+
+---
+
+### 📢 [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer)
+来源: Hugging Face Blog | 时间: 2026/6/30 02:02:48
+
+---
+
+### 📢 [Pair Nova 2 Lite with Claude for cost-optimized document processing](https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/)
+来源: AWS ML Blog | 时间: 2026/6/30 01:52:33
+
+---
+
+### 📢 [Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS](https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/)
+来源: AWS ML Blog | 时间: 2026/6/30 01:39:29
+
+---
+
+### 📢 [Build an agentic AI healthcare claims pipeline with Amazon Bedrock and AWS HealthLake](https://aws.amazon.com/blogs/machine-learning/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake/)
+来源: AWS ML Blog | 时间: 2026/6/30 01:36:34
+
+---
+
+### 📢 [Introducing Dynamic Subagents in Deep Agents](https://www.langchain.com/blog/introducing-dynamic-subagents-in-deep-agents)
+来源: LangChain Blog | 时间: 2026/6/30 00:17:02
+
+---
+
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/how-candidly-built-state-aware-agent-harnesses-with-langsmith)
+来源: LangChain Blog | 时间: 2026/6/30 00:09:58
+
+---
+
 ### 📢 [How to Govern Autonomous Agents in Enterprise AI Factories](https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/)
 来源: NVIDIA Developer Blog | 时间: 2026/6/29 23:50:28
 
@@ -42,6 +77,11 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，涵盖 NV
 
 ---
 
+### 📢 [xAI Grok audio models now available on Vercel AI Gateway](https://vercel.com/changelog/xai-grok-audio-models-now-available-on-vercel-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/6/29 08:00:00
+
+---
+
 ### 📢 [Realtime voice, speech, and transcription now supported on AI Gateway](https://vercel.com/changelog/realtime-voice-speech-and-transcription-now-supported-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/6/29 08:00:00
 
@@ -69,46 +109,6 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，涵盖 NV
 
 ### 📢 [Prompt Caching with Deep Agents](https://www.langchain.com/blog/deep-agents-prompt-caching)
 来源: LangChain Blog | 时间: 2026/6/27 02:09:42
-
----
-
-### 📢 [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap)
-来源: Vercel AI SDK | 时间: 2026/6/27 00:00:00
-
----
-
-### 📢 [Build interactive PDF text extraction from Amazon S3](https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/)
-来源: AWS ML Blog | 时间: 2026/6/26 22:47:45
-
----
-
-### 📢 [How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS](https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/)
-来源: AWS ML Blog | 时间: 2026/6/26 22:42:20
-
----
-
-### 📢 [Production-grade AI agents for financial compliance: Lessons from Stripe](https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/)
-来源: AWS ML Blog | 时间: 2026/6/26 22:38:01
-
----
-
-### 📢 [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol)
-来源: OpenAI | 时间: 2026/6/26 18:00:00
-
----
-
-### 📢 [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs)
-来源: Hugging Face Blog | 时间: 2026/6/26 08:00:00
-
----
-
-### 📢 [Parsing the Unreadable: How LlamaParse Handles Legal Discovery Documents](https://www.llamaindex.ai/blog/parsing-the-unreadable-how-llamaparse-handles-legal-discovery-documents)
-来源: LlamaIndex Blog | 时间: 2026/6/26 08:00:00
-
----
-
-### 📢 [Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps](https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/)
-来源: NVIDIA Developer Blog | 时间: 2026/6/26 06:26:05
 
 ---
 <!-- END_LIVE_FEEDS -->
