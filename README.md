@@ -1,24 +1,49 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、NVIDIA、LangChain 等知名机构的最新进展。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。数据每三小时自动更新，帮助用户及时了解行业趋势与技术创新。
+AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，涵盖 NVIDIA、PyTorch、OpenAI 等知名平台的最新内容。项目通过静态首页和 README 展示最新资讯，形式包括标题链接、来源和时间，方便快速浏览。每三小时自动更新，确保信息及时、权威，为开发者和研究者提供高效的 AI 技术动态获取渠道。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/6/29 19:07:32
+🕒 最后自动更新时间：2026/6/29 23:53:31
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How to Govern Autonomous Agents in Enterprise AI Factories](https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/)
+来源: NVIDIA Developer Blog | 时间: 2026/6/29 23:50:28
+
+---
+
+### 📢 [Introducing Cross-Repository CI Relay: Scalable CI for PyTorch’s Out-of-Tree Backends](https://pytorch.org/blog/introducing-cross-repository-ci-relay-scalable-ci-for-pytorchs-out-of-tree-backends/)
+来源: PyTorch Blog | 时间: 2026/6/29 22:18:42
+
+---
+
 ### 📢 [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu)
 来源: OpenAI | 时间: 2026/6/29 15:00:00
 
 ---
 
+### 📢 [Build realtime voice agents on AI Gateway](https://vercel.com/blog/realtime-voice-agents-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/6/29 15:00:00
+
+---
+
 ### 📢 [Micro-Agent: Beat Frontier Models with Collaboration inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
 来源: vLLM Blog | 时间: 2026/6/29 08:00:00
+
+---
+
+### 📢 [LlamaParse Retrieval Harness: Filesystem Primitives for AI Agents](https://www.llamaindex.ai/blog/announcing-retrieval-harness)
+来源: LlamaIndex Blog | 时间: 2026/6/29 08:00:00
+
+---
+
+### 📢 [Realtime voice, speech, and transcription now supported on AI Gateway](https://vercel.com/changelog/realtime-voice-speech-and-transcription-now-supported-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/6/29 08:00:00
 
 ---
 
@@ -82,33 +107,8 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、NVIDIA、La
 
 ---
 
-### 📢 [LlamaParse Platform Node for n8n: Parse, Classify, Extract & Retrieve Documents with AI](https://www.llamaindex.ai/blog/bring-your-document-workflows-to-n8n-with-the-llamaparse-node)
-来源: LlamaIndex Blog | 时间: 2026/6/26 08:00:00
-
----
-
-### 📢 [Trace and debug eve agent sessions with Vercel Observability](https://vercel.com/changelog/eve-agent-observability)
-来源: Vercel AI SDK | 时间: 2026/6/26 08:00:00
-
----
-
 ### 📢 [Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps](https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/)
 来源: NVIDIA Developer Blog | 时间: 2026/6/26 06:26:05
-
----
-
-### 📢 [How we built SmithDB’s inverted index for full-text search](https://www.langchain.com/blog/full-text-search-in-smithdb-constructing-and-querying-our-inverted-index-pt-2)
-来源: LangChain Blog | 时间: 2026/6/26 02:59:24
-
----
-
-### 📢 [Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support](https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/)
-来源: NVIDIA Developer Blog | 时间: 2026/6/26 02:06:18
-
----
-
-### 📢 [Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services](https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/)
-来源: AWS ML Blog | 时间: 2026/6/26 01:55:10
 
 ---
 <!-- END_LIVE_FEEDS -->
