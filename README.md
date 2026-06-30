@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Hugging Face、LangChain 等平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间。每三小时自动更新，确保信息及时、权威，便于开发者和研究者快速获取行业最新进展与技术趋势。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Hugging Face、LangChain 等平台。项目以静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。每 3 小时自动更新，方便用户及时了解人工智能领域的最新进展与实践。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/6/30 06:11:53
+🕒 最后自动更新时间：2026/6/30 11:58:58
 
 ---
 
@@ -38,12 +38,12 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Hugging 
 ---
 
 ### 📢 [Introducing Dynamic Subagents in Deep Agents](https://www.langchain.com/blog/introducing-dynamic-subagents-in-deep-agents)
-来源: LangChain Blog | 时间: 2026/6/30 00:17:02
+来源: LangChain Blog | 时间: 2026/6/30 01:07:27
 
 ---
 
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/how-candidly-built-state-aware-agent-harnesses-with-langsmith)
-来源: LangChain Blog | 时间: 2026/6/30 00:09:58
+来源: LangChain Blog | 时间: 2026/6/30 01:07:27
 
 ---
 
@@ -92,6 +92,16 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Hugging 
 
 ---
 
+### 📢 [Prompt Caching with Deep Agents](https://www.langchain.com/blog/deep-agents-prompt-caching)
+来源: LangChain Blog | 时间: 2026/6/27 05:14:09
+
+---
+
+### 📢 [June 2026: LangChain Newsletter — Fleet On-Call Copilot, Deep Agents Rubrics, and More](https://www.langchain.com/blog/june-2026-langchain-newsletter)
+来源: LangChain Blog | 时间: 2026/6/27 05:14:09
+
+---
+
 ### 📢 [Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure](https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/)
 来源: NVIDIA Developer Blog | 时间: 2026/6/27 03:00:57
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Hugging 
 
 ### 📢 [Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer](https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/)
 来源: NVIDIA Developer Blog | 时间: 2026/6/27 02:55:13
-
----
-
-### 📢 [June 2026: LangChain Newsletter — Fleet On-Call Copilot, Deep Agents Rubrics, and More](https://www.langchain.com/blog/june-2026-langchain-newsletter)
-来源: LangChain Blog | 时间: 2026/6/27 02:34:19
-
----
-
-### 📢 [Prompt Caching with Deep Agents](https://www.langchain.com/blog/deep-agents-prompt-caching)
-来源: LangChain Blog | 时间: 2026/6/27 02:09:42
 
 ---
 <!-- END_LIVE_FEEDS -->
