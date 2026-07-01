@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球领先的 AI 官方技术文章与动态，涵盖 AWS、Hugging Face、PyTorch、NVIDIA 等平台的最新进展。项目通过静态首页和 README 实时展示标题、来源及发布时间，便于用户快速获取行业资讯。内容每三小时自动更新，确保信息的时效性和权威性，适合关注人工智能领域技术演变的开发者与研究者。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、Hugging Face、PyTorch、NVIDIA 等主流平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间。数据每三小时自动更新，方便用户及时了解行业前沿进展与技术趋势，助力开发者高效获取权威信息。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/1 17:55:39
+🕒 最后自动更新时间：2026/7/1 22:44:35
 
 ---
 
