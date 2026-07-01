@@ -1,19 +1,44 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、Hugging Face、PyTorch、NVIDIA 等主流平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间。数据每三小时自动更新，方便用户及时了解行业前沿进展与技术趋势，助力开发者高效获取权威信息。
+AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为用户提供最新的行业资讯和技术进展。项目通过自动抓取与整理，生成静态首页，并在 README 中以标题链接、来源和时间的形式展示最新内容。数据每三小时自动更新，确保信息的时效性和权威性，帮助开发者和研究者高效获取 AI 领域的重要动态。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/1 22:44:35
+🕒 最后自动更新时间：2026/7/2 01:20:20
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Mastering Agentic Techniques: AI Agent Reinforcement Learning](https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/2 01:18:56
+
+---
+
+### 📢 [How to Use RLMs in Deep Agents](https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents)
+来源: LangChain Blog | 时间: 2026/7/1 23:38:16
+
+---
+
+### 📢 [How Pendo uses LangSmith to trace Novus from user behavior to code fixes](https://www.langchain.com/blog/how-pendo-used-langsmith-to-trace-novus-from-user-behavior-to-code-fixes)
+来源: LangChain Blog | 时间: 2026/7/1 23:00:02
+
+---
+
 ### 📢 [Safely Releasing Frontier Models to Customers](https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/)
 来源: AWS ML Blog | 时间: 2026/7/1 11:13:19
+
+---
+
+### 📢 [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai)
+来源: Hugging Face Blog | 时间: 2026/7/1 08:00:00
+
+---
+
+### 📢 [Resend joins the Vercel Marketplace](https://vercel.com/changelog/resend-vercel-marketplace)
+来源: Vercel AI SDK | 时间: 2026/7/1 08:00:00
 
 ---
 
@@ -24,11 +49,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、Huggi
 
 ### 📢 [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench)
 来源: Hugging Face Blog | 时间: 2026/7/1 02:32:50
-
----
-
-### 📢 [Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training](https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/)
-来源: PyTorch Blog | 时间: 2026/7/1 01:48:27
 
 ---
 
@@ -52,6 +72,16 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、Huggi
 
 ---
 
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/wiki-memory)
+来源: LangChain Blog | 时间: 2026/7/1 00:38:54
+
+---
+
+### 📢 [How Deep Agents Run Untrusted Code Without a Sandbox](https://www.langchain.com/blog/running-untrusted-agent-code-without-a-sandbox)
+来源: LangChain Blog | 时间: 2026/7/1 00:38:54
+
+---
+
 ### 📢 [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/)
 来源: Google DeepMind | 时间: 2026/7/1 00:02:40
 
@@ -67,21 +97,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、Huggi
 
 ---
 
-### 📢 [How Deep Agents Run Untrusted Code Without a Sandbox](https://www.langchain.com/blog/running-untrusted-agent-code-without-a-sandbox)
-来源: LangChain Blog | 时间: 2026/6/30 23:53:45
-
----
-
-### 📢 [Harbor x LangChain: A Unified Stack for Evaluating Agents](https://www.langchain.com/blog/unified-stack-for-evaluating-agents)
-来源: LangChain Blog | 时间: 2026/6/30 23:22:15
-
----
-
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/wiki-memory)
-来源: LangChain Blog | 时间: 2026/6/30 22:46:52
-
----
-
 ### 📢 [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable)
 来源: Hugging Face Blog | 时间: 2026/6/30 22:39:11
 
@@ -94,21 +109,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、Huggi
 
 ### 📢 [Introducing GeneBench-Pro](https://openai.com/index/introducing-genebench-pro)
 来源: OpenAI | 时间: 2026/6/30 08:00:00
-
----
-
-### 📢 [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug)
-来源: OpenAI | 时间: 2026/6/30 08:00:00
-
----
-
-### 📢 [Redeploying Fable 5](https://www.anthropic.com/news/redeploying-fable-5)
-来源: Anthropic News | 时间: 2026/6/30 08:00:00
-
----
-
-### 📢 [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
-来源: Anthropic News | 时间: 2026/6/30 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
