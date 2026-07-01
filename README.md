@@ -1,19 +1,49 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为用户提供最新的行业资讯和技术进展。项目通过自动抓取与整理，生成静态首页，并在 README 中以标题链接、来源和时间的形式展示最新内容。数据每三小时自动更新，确保信息的时效性和权威性，帮助开发者和研究者高效获取 AI 领域的重要动态。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自 AWS、NVIDIA、LangChain 等权威博客的最新内容。项目每 3 小时自动更新，生成静态首页，并在 README 中以标题链接、来源和时间的形式展示最新动态，方便用户及时了解人工智能领域的前沿进展和技术趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/2 01:20:20
+🕒 最后自动更新时间：2026/7/2 04:01:16
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/)
+来源: AWS ML Blog | 时间: 2026/7/2 02:14:34
+
+---
+
+### 📢 [Building a serverless A2A gateway for agent discovery, routing, and access control](https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/)
+来源: AWS ML Blog | 时间: 2026/7/2 02:07:06
+
+---
+
+### 📢 [Structured memory filtering with metadata in AgentCore Memory](https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/)
+来源: AWS ML Blog | 时间: 2026/7/2 02:03:10
+
+---
+
+### 📢 [HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank](https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/)
+来源: AWS ML Blog | 时间: 2026/7/2 02:01:32
+
+---
+
+### 📢 [OpenWiki: Open Source Repo Documentation for Coding Agents](https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation)
+来源: LangChain Blog | 时间: 2026/7/2 01:58:04
+
+---
+
 ### 📢 [Mastering Agentic Techniques: AI Agent Reinforcement Learning](https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/2 01:18:56
+
+---
+
+### 📢 [Shopify Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member/)
+来源: PyTorch Blog | 时间: 2026/7/1 23:55:59
 
 ---
 
@@ -27,8 +57,8 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为用户提供最新
 
 ---
 
-### 📢 [Safely Releasing Frontier Models to Customers](https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/)
-来源: AWS ML Blog | 时间: 2026/7/1 11:13:19
+### 📢 [Claude Fable 5 access restored on AI Gateway](https://vercel.com/changelog/claude-fable-5-access-restored-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/1 15:01:00
 
 ---
 
@@ -37,18 +67,23 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为用户提供最新
 
 ---
 
+### 📢 [Enforce consistent code for agents and humans with konsistent](https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent)
+来源: Vercel AI SDK | 时间: 2026/7/1 08:00:00
+
+---
+
 ### 📢 [Resend joins the Vercel Marketplace](https://vercel.com/changelog/resend-vercel-marketplace)
 来源: Vercel AI SDK | 时间: 2026/7/1 08:00:00
 
 ---
 
-### 📢 [Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/)
-来源: AWS ML Blog | 时间: 2026/7/1 02:40:09
+### 📢 [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench)
+来源: Hugging Face Blog | 时间: 2026/7/1 02:32:50
 
 ---
 
-### 📢 [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench)
-来源: Hugging Face Blog | 时间: 2026/7/1 02:32:50
+### 📢 [Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training](https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/)
+来源: PyTorch Blog | 时间: 2026/7/1 01:48:27
 
 ---
 
@@ -62,22 +97,7 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为用户提供最新
 
 ---
 
-### 📢 [Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol](https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/)
-来源: AWS ML Blog | 时间: 2026/7/1 00:46:17
-
----
-
-### 📢 [Simplify multi-account access to Amazon Bedrock models with managed entitlements](https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements/)
-来源: AWS ML Blog | 时间: 2026/7/1 00:42:49
-
----
-
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/wiki-memory)
-来源: LangChain Blog | 时间: 2026/7/1 00:38:54
-
----
-
-### 📢 [How Deep Agents Run Untrusted Code Without a Sandbox](https://www.langchain.com/blog/running-untrusted-agent-code-without-a-sandbox)
 来源: LangChain Blog | 时间: 2026/7/1 00:38:54
 
 ---
@@ -87,28 +107,8 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为用户提供最新
 
 ---
 
-### 📢 [Run any Dockerfile on Vercel](https://vercel.com/blog/dockerfile-on-vercel)
-来源: Vercel AI SDK | 时间: 2026/7/1 00:00:00
-
----
-
-### 📢 [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap)
-来源: Vercel AI SDK | 时间: 2026/7/1 00:00:00
-
----
-
 ### 📢 [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable)
 来源: Hugging Face Blog | 时间: 2026/6/30 22:39:11
-
----
-
-### 📢 [How ChatGPT adoption has expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded)
-来源: OpenAI | 时间: 2026/6/30 17:00:00
-
----
-
-### 📢 [Introducing GeneBench-Pro](https://openai.com/index/introducing-genebench-pro)
-来源: OpenAI | 时间: 2026/6/30 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
