@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自 AWS、PyTorch、NVIDIA 等权威平台的最新内容。项目每三小时自动更新，首页与 README 均以标题链接、来源及时间展示最新资讯，方便开发者及时了解前沿技术进展。AI-RSS 以静态页面形式输出，适合关注人工智能领域动态的用户快速浏览与查阅。
+AI-RSS 聚合全球领先的 AI 官方技术文章与动态，涵盖 AWS、Hugging Face、PyTorch、NVIDIA 等平台的最新进展。项目通过静态首页和 README 实时展示标题、来源及发布时间，便于用户快速获取行业资讯。内容每三小时自动更新，确保信息的时效性和权威性，适合关注人工智能领域技术演变的开发者与研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/1 12:14:24
+🕒 最后自动更新时间：2026/7/1 17:55:39
 
 ---
 
@@ -19,6 +19,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ### 📢 [Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/)
 来源: AWS ML Blog | 时间: 2026/7/1 02:40:09
+
+---
+
+### 📢 [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench)
+来源: Hugging Face Blog | 时间: 2026/7/1 02:32:50
 
 ---
 
@@ -77,6 +82,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ---
 
+### 📢 [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable)
+来源: Hugging Face Blog | 时间: 2026/6/30 22:39:11
+
+---
+
 ### 📢 [How ChatGPT adoption has expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded)
 来源: OpenAI | 时间: 2026/6/30 17:00:00
 
@@ -92,23 +102,13 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ---
 
+### 📢 [Redeploying Fable 5](https://www.anthropic.com/news/redeploying-fable-5)
+来源: Anthropic News | 时间: 2026/6/30 08:00:00
+
+---
+
 ### 📢 [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 来源: Anthropic News | 时间: 2026/6/30 08:00:00
-
----
-
-### 📢 [Claude Science AI Workbench](https://www.anthropic.com/news/claude-science-ai-workbench)
-来源: Anthropic News | 时间: 2026/6/30 08:00:00
-
----
-
-### 📢 [Vercel Agent has updated pricing](https://vercel.com/changelog/vercel-agent-has-updated-pricing)
-来源: Vercel AI SDK | 时间: 2026/6/30 08:00:00
-
----
-
-### 📢 [Claude Sonnet 5 now available on Vercel AI Gateway](https://vercel.com/changelog/claude-sonnet-5-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/6/30 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
