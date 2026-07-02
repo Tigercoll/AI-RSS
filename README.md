@@ -1,17 +1,37 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，帮助用户高效获取权威信息。项目通过静态首页和 README 展示最新内容，包括文章标题、来源及发布时间，并每 3 小时自动更新，确保信息的时效性。无论是开发者还是研究者，都能便捷地追踪 AI 领域的重要进展。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖最新产品发布、技术实践和行业趋势。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息，每三小时自动更新，确保信息及时可靠。适合关注人工智能领域发展的开发者和研究者，便于快速获取各大平台的权威资讯。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/3 00:53:14
+🕒 最后自动更新时间：2026/7/3 03:36:10
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill)
+来源: LangChain Blog | 时间: 2026/7/3 03:08:24
+
+---
+
+### 📢 [How Amazon Bedrock catches AI-generated phishing](https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/)
+来源: AWS ML Blog | 时间: 2026/7/3 01:55:41
+
+---
+
+### 📢 [Best practices for multi-turn reinforcement learning in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/)
+来源: AWS ML Blog | 时间: 2026/7/3 01:50:23
+
+---
+
+### 📢 [Routing rules now available on AI Gateway](https://vercel.com/changelog/ai-gateway-routing-rules)
+来源: Vercel AI SDK | 时间: 2026/7/2 08:00:00
+
+---
+
 ### 📢 [Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/)
 来源: AWS ML Blog | 时间: 2026/7/2 02:14:34
 
@@ -19,16 +39,6 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ### 📢 [Building a serverless A2A gateway for agent discovery, routing, and access control](https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/)
 来源: AWS ML Blog | 时间: 2026/7/2 02:07:06
-
----
-
-### 📢 [Structured memory filtering with metadata in AgentCore Memory](https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/)
-来源: AWS ML Blog | 时间: 2026/7/2 02:03:10
-
----
-
-### 📢 [HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank](https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/)
-来源: AWS ML Blog | 时间: 2026/7/2 02:01:32
 
 ---
 
@@ -72,11 +82,6 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ---
 
-### 📢 [Resend joins the Vercel Marketplace](https://vercel.com/changelog/resend-vercel-marketplace)
-来源: Vercel AI SDK | 时间: 2026/7/1 08:00:00
-
----
-
 ### 📢 [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench)
 来源: Hugging Face Blog | 时间: 2026/7/1 02:32:50
 
@@ -94,11 +99,6 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ### 📢 [Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools](https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/1 01:31:13
-
----
-
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/wiki-memory)
-来源: LangChain Blog | 时间: 2026/7/1 00:38:54
 
 ---
 
