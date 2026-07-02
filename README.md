@@ -1,19 +1,29 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖最新产品发布、技术实践和行业趋势。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息，每三小时自动更新，确保信息及时可靠。适合关注人工智能领域发展的开发者和研究者，便于快速获取各大平台的权威资讯。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 NVIDIA、AWS、PyTorch、LangChain 等知名平台的最新资讯。项目通过静态首页和 README 自动展示最新内容，包括标题链接、来源及时间，每三小时自动更新，方便用户及时了解人工智能领域的前沿进展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/3 03:36:10
+🕒 最后自动更新时间：2026/7/3 06:10:53
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Hardware-Rooted AI Security That Won’t Slow You Down](https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/3 05:25:57
+
+---
+
 ### 📢 [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill)
-来源: LangChain Blog | 时间: 2026/7/3 03:08:24
+来源: LangChain Blog | 时间: 2026/7/3 04:47:20
+
+---
+
+### 📢 [Building the Future of On-Device AI at the ExecuTorch Hackathon](https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon/)
+来源: PyTorch Blog | 时间: 2026/7/3 04:47:16
 
 ---
 
@@ -24,6 +34,11 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖最新产品发
 
 ### 📢 [Best practices for multi-turn reinforcement learning in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/)
 来源: AWS ML Blog | 时间: 2026/7/3 01:50:23
+
+---
+
+### 📢 [OpenWiki: Open Source Repo Documentation for Coding Agents](https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation)
+来源: LangChain Blog | 时间: 2026/7/3 01:39:30
 
 ---
 
@@ -42,28 +57,23 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖最新产品发
 
 ---
 
-### 📢 [OpenWiki: Open Source Repo Documentation for Coding Agents](https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation)
-来源: LangChain Blog | 时间: 2026/7/2 01:58:04
-
----
-
 ### 📢 [Mastering Agentic Techniques: AI Agent Reinforcement Learning](https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/2 01:18:56
 
 ---
 
-### 📢 [Shopify Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member/)
-来源: PyTorch Blog | 时间: 2026/7/1 23:55:59
-
----
-
 ### 📢 [How to Use RLMs in Deep Agents](https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents)
-来源: LangChain Blog | 时间: 2026/7/1 23:38:16
+来源: LangChain Blog | 时间: 2026/7/2 01:04:24
 
 ---
 
 ### 📢 [How Pendo uses LangSmith to trace Novus from user behavior to code fixes](https://www.langchain.com/blog/how-pendo-used-langsmith-to-trace-novus-from-user-behavior-to-code-fixes)
-来源: LangChain Blog | 时间: 2026/7/1 23:00:02
+来源: LangChain Blog | 时间: 2026/7/2 01:04:24
+
+---
+
+### 📢 [Shopify Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member/)
+来源: PyTorch Blog | 时间: 2026/7/1 23:55:59
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖最新产品发
 
 ### 📢 [Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools](https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/1 01:31:13
-
----
-
-### 📢 [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/)
-来源: Google DeepMind | 时间: 2026/7/1 00:02:40
-
----
-
-### 📢 [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable)
-来源: Hugging Face Blog | 时间: 2026/6/30 22:39:11
 
 ---
 <!-- END_LIVE_FEEDS -->
