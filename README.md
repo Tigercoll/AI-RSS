@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，涵盖硬件安全、智能代理、端侧 AI、反钓鱼等热门话题。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息，每三小时自动更新，帮助开发者及时了解行业前沿进展与最佳实践。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 NVIDIA、AWS、PyTorch、LangChain 等平台。项目通过静态首页和 README 实时展示最新资讯，内容以标题链接、来源和时间形式呈现，每 3 小时自动更新，方便用户快速了解行业前沿进展。适合关注人工智能领域技术与应用的开发者和研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/3 11:36:59
+🕒 最后自动更新时间：2026/7/3 17:24:36
 
 ---
 
@@ -87,6 +87,11 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，涵盖硬
 
 ---
 
+### 📢 [Experience and Lessons Learned from Serving Multi-Stage Qwen3-Omni in vLLM-Omni](https://vllm.ai/blog/2026-07-01-qwen3-omni-optimization)
+来源: vLLM Blog | 时间: 2026/7/1 08:00:00
+
+---
+
 ### 📢 [Enforce consistent code for agents and humans with konsistent](https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent)
 来源: Vercel AI SDK | 时间: 2026/7/1 08:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，涵盖硬
 
 ### 📢 [Designing GPU-Accelerated Query Engines with NVIDIA GQE](https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/1 01:36:58
-
----
-
-### 📢 [Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools](https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/1 01:31:13
 
 ---
 <!-- END_LIVE_FEEDS -->
