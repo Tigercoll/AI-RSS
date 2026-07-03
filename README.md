@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，内容涵盖主流平台和知名博客。项目通过静态首页和 README 文件，定期展示最新资讯，包括文章标题、来源及发布时间。所有内容每 3 小时自动更新，帮助开发者和研究者高效获取 AI 领域的重要信息，紧跟行业发展趋势。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 PyTorch、Google DeepMind、NVIDIA、LangChain、AWS 等主流平台。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源及时间。每三小时自动更新，确保信息及时、权威，方便开发者和研究者快速了解人工智能领域的最新进展与技术趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/3 22:14:53
+🕒 最后自动更新时间：2026/7/4 00:37:53
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Understanding PyTorch’s Test Infrastructure](https://pytorch.org/blog/understanding-pytorchs-test-infrastructure/)
+来源: PyTorch Blog | 时间: 2026/7/3 23:00:07
+
+---
+
+### 📢 [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/)
+来源: Google DeepMind | 时间: 2026/7/3 22:25:43
+
+---
+
 ### 📢 [Hardware-Rooted AI Security That Won’t Slow You Down](https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/3 05:25:57
 
@@ -99,16 +109,6 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ### 📢 [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench)
 来源: Hugging Face Blog | 时间: 2026/7/1 02:32:50
-
----
-
-### 📢 [Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training](https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/)
-来源: PyTorch Blog | 时间: 2026/7/1 01:48:27
-
----
-
-### 📢 [Designing GPU-Accelerated Query Engines with NVIDIA GQE](https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/1 01:36:58
 
 ---
 <!-- END_LIVE_FEEDS -->
