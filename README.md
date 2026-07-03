@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 PyTorch、Google DeepMind、NVIDIA、LangChain、AWS 等主流平台。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源及时间。每三小时自动更新，确保信息及时、权威，方便开发者和研究者快速了解人工智能领域的最新进展与技术趋势。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 PyTorch、Google DeepMind、Vercel、NVIDIA、LangChain 等知名平台。项目通过静态首页和 README 展示最新资讯，内容以标题链接、来源和时间的形式呈现。每 3 小时自动更新，帮助开发者及时了解行业前沿进展与技术趋势，提升信息获取效率。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/4 00:37:53
+🕒 最后自动更新时间：2026/7/4 03:34:45
 
 ---
 
@@ -19,6 +19,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 PyTorch、G
 
 ### 📢 [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/)
 来源: Google DeepMind | 时间: 2026/7/3 22:25:43
+
+---
+
+### 📢 [Agent Runs now available in the Vercel MCP and CLI](https://vercel.com/changelog/agent-runs-vercel-mcp-cli)
+来源: Vercel AI SDK | 时间: 2026/7/3 08:00:00
 
 ---
 
@@ -99,11 +104,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 PyTorch、G
 
 ### 📢 [Experience and Lessons Learned from Serving Multi-Stage Qwen3-Omni in vLLM-Omni](https://vllm.ai/blog/2026-07-01-qwen3-omni-optimization)
 来源: vLLM Blog | 时间: 2026/7/1 08:00:00
-
----
-
-### 📢 [Enforce consistent code for agents and humans with konsistent](https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent)
-来源: Vercel AI SDK | 时间: 2026/7/1 08:00:00
 
 ---
 
