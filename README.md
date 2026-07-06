@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与最新动态，涵盖 Hugging Face、vLLM、PyTorch、Google DeepMind、Vercel、NVIDIA 等知名平台。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源及时间，每三小时自动更新，方便用户及时了解人工智能领域的前沿进展与技术趋势。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展示最新行业资讯。项目通过静态首页和 README，以标题链接、来源及时间的形式呈现内容，每三小时自动更新，确保信息及时。用户可快速浏览如 Hugging Face、vLLM、PyTorch、Google DeepMind 等权威平台的最新技术进展和研究动态，方便了解人工智能领域的发展趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/6 18:44:14
+🕒 最后自动更新时间：2026/7/6 23:41:00
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060)
+来源: Hugging Face Blog | 时间: 2026/7/7 08:00:00
+
+---
+
+### 📢 [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data)
+来源: Hugging Face Blog | 时间: 2026/7/6 23:30:55
+
+---
+
 ### 📢 [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels)
 来源: Hugging Face Blog | 时间: 2026/7/6 08:00:00
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与最新动态，涵盖 Hugging 
 
 ### 📢 [Shopify Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member/)
 来源: PyTorch Blog | 时间: 2026/7/1 23:55:59
-
----
-
-### 📢 [Claude Fable 5 access restored on AI Gateway](https://vercel.com/changelog/claude-fable-5-access-restored-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/1 15:01:00
-
----
-
-### 📢 [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai)
-来源: Hugging Face Blog | 时间: 2026/7/1 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
