@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、AWS 等主流平台的最新资讯。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及发布时间，并每三小时自动更新。用户可便捷获取如 LeRobot、Amazon Nova 等前沿技术进展，及时掌握人工智能领域的最新趋势与实践。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、NVIDIA、AWS 等主流平台。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。数据每三小时自动更新，方便用户及时了解行业前沿进展与技术趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/7 04:02:49
+🕒 最后自动更新时间：2026/7/7 06:16:19
 
 ---
 
@@ -14,6 +14,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Hugging Fac
 <!-- START_LIVE_FEEDS -->
 ### 📢 [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060)
 来源: Hugging Face Blog | 时间: 2026/7/7 08:00:00
+
+---
+
+### 📢 [Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism](https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/7 05:44:35
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Hugging Fac
 
 ### 📢 [How Pendo uses LangSmith to trace Novus from user behavior to code fixes](https://www.langchain.com/blog/how-pendo-used-langsmith-to-trace-novus-from-user-behavior-to-code-fixes)
 来源: LangChain Blog | 时间: 2026/7/2 01:04:24
-
----
-
-### 📢 [Shopify Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member/)
-来源: PyTorch Blog | 时间: 2026/7/1 23:55:59
 
 ---
 <!-- END_LIVE_FEEDS -->
