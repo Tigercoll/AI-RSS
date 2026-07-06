@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展示最新行业资讯。项目通过静态首页和 README，以标题链接、来源及时间的形式呈现内容，每三小时自动更新，确保信息及时。用户可快速浏览如 Hugging Face、vLLM、PyTorch、Google DeepMind 等权威平台的最新技术进展和研究动态，方便了解人工智能领域的发展趋势。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、AWS 等主流平台的最新资讯。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及发布时间，并每三小时自动更新。用户可便捷获取如 LeRobot、Amazon Nova 等前沿技术进展，及时掌握人工智能领域的最新趋势与实践。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/6 23:41:00
+🕒 最后自动更新时间：2026/7/7 04:02:49
 
 ---
 
@@ -14,6 +14,26 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展
 <!-- START_LIVE_FEEDS -->
 ### 📢 [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060)
 来源: Hugging Face Blog | 时间: 2026/7/7 08:00:00
+
+---
+
+### 📢 [Run MiniMax models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/7 01:00:44
+
+---
+
+### 📢 [Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/)
+来源: AWS ML Blog | 时间: 2026/7/7 00:58:13
+
+---
+
+### 📢 [Automatically redact PII in images with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/)
+来源: AWS ML Blog | 时间: 2026/7/7 00:55:02
+
+---
+
+### 📢 [Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/)
+来源: AWS ML Blog | 时间: 2026/7/7 00:53:38
 
 ---
 
@@ -62,16 +82,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展
 
 ---
 
-### 📢 [How Amazon Bedrock catches AI-generated phishing](https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/)
-来源: AWS ML Blog | 时间: 2026/7/3 01:55:41
-
----
-
-### 📢 [Best practices for multi-turn reinforcement learning in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/7/3 01:50:23
-
----
-
 ### 📢 [OpenWiki: Open Source Repo Documentation for Coding Agents](https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation)
 来源: LangChain Blog | 时间: 2026/7/3 01:39:30
 
@@ -79,16 +89,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展
 
 ### 📢 [Routing rules now available on AI Gateway](https://vercel.com/changelog/ai-gateway-routing-rules)
 来源: Vercel AI SDK | 时间: 2026/7/2 08:00:00
-
----
-
-### 📢 [Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/)
-来源: AWS ML Blog | 时间: 2026/7/2 02:14:34
-
----
-
-### 📢 [Building a serverless A2A gateway for agent discovery, routing, and access control](https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/)
-来源: AWS ML Blog | 时间: 2026/7/2 02:07:06
 
 ---
 
