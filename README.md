@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与最新动态，涵盖 PyTorch、Google DeepMind、Vercel、NVIDIA、LangChain 等知名平台。项目通过静态首页和 README 实时展示最新资讯，内容以标题链接、来源和时间的形式呈现，每三小时自动更新，帮助开发者及时了解行业前沿进展与技术趋势。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流团队与平台的最新进展。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及时间，并每三小时自动更新。用户可便捷获取如 vLLM、PyTorch、Google DeepMind、Vercel、NVIDIA、LangChain 等的技术博客与行业动态，助力及时掌握人工智能领域的发展趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/6 06:04:42
+🕒 最后自动更新时间：2026/7/6 11:55:29
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [vLLM × HPC-Ops: High-Performance Attention and MoE Backends from Tencent Hunyuan](https://vllm.ai/blog/2026-07-06-vllm-hpc-ops)
+来源: vLLM Blog | 时间: 2026/7/6 08:00:00
+
+---
+
 ### 📢 [Understanding PyTorch’s Test Infrastructure](https://pytorch.org/blog/understanding-pytorchs-test-infrastructure/)
 来源: PyTorch Blog | 时间: 2026/7/3 23:00:07
 
@@ -42,16 +47,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与最新动态，涵盖 PyTor
 
 ---
 
-### 📢 [How Amazon Bedrock catches AI-generated phishing](https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/)
-来源: AWS ML Blog | 时间: 2026/7/3 01:55:41
-
----
-
-### 📢 [Best practices for multi-turn reinforcement learning in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/7/3 01:50:23
-
----
-
 ### 📢 [OpenWiki: Open Source Repo Documentation for Coding Agents](https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation)
 来源: LangChain Blog | 时间: 2026/7/3 01:39:30
 
@@ -59,16 +54,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与最新动态，涵盖 PyTor
 
 ### 📢 [Routing rules now available on AI Gateway](https://vercel.com/changelog/ai-gateway-routing-rules)
 来源: Vercel AI SDK | 时间: 2026/7/2 08:00:00
-
----
-
-### 📢 [Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/)
-来源: AWS ML Blog | 时间: 2026/7/2 02:14:34
-
----
-
-### 📢 [Building a serverless A2A gateway for agent discovery, routing, and access control](https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/)
-来源: AWS ML Blog | 时间: 2026/7/2 02:07:06
 
 ---
 
@@ -109,6 +94,21 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与最新动态，涵盖 PyTor
 
 ### 📢 [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench)
 来源: Hugging Face Blog | 时间: 2026/7/1 02:32:50
+
+---
+
+### 📢 [Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training](https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/)
+来源: PyTorch Blog | 时间: 2026/7/1 01:48:27
+
+---
+
+### 📢 [Designing GPU-Accelerated Query Engines with NVIDIA GQE](https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/1 01:36:58
+
+---
+
+### 📢 [Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools](https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/1 01:31:13
 
 ---
 <!-- END_LIVE_FEEDS -->
