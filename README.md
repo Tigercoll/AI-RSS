@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、NVIDIA、AWS 等主流平台。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。数据每三小时自动更新，方便用户及时了解行业前沿进展与技术趋势。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 Hugging Face、PyTorch、AWS、NVIDIA 等平台。项目通过静态首页和 README 展示最新资讯，内容以标题链接、来源和时间形式呈现，每三小时自动更新，确保信息及时。适合关注人工智能领域前沿进展的开发者和研究者，便于快速获取行业动态与技术趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/7 06:16:19
+🕒 最后自动更新时间：2026/7/7 11:45:39
 
 ---
 
@@ -14,6 +14,21 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、NVIDI
 <!-- START_LIVE_FEEDS -->
 ### 📢 [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060)
 来源: Hugging Face Blog | 时间: 2026/7/7 08:00:00
+
+---
+
+### 📢 [Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
+来源: PyTorch Blog | 时间: 2026/7/7 07:31:47
+
+---
+
+### 📢 [From Hugging Face to Amazon SageMaker Studio in one click](https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/)
+来源: AWS ML Blog | 时间: 2026/7/7 06:35:55
+
+---
+
+### 📢 [Teaching models to forget: Selective unlearning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/)
+来源: AWS ML Blog | 时间: 2026/7/7 06:23:45
 
 ---
 
@@ -29,16 +44,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、NVIDI
 
 ### 📢 [Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/)
 来源: AWS ML Blog | 时间: 2026/7/7 00:58:13
-
----
-
-### 📢 [Automatically redact PII in images with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/)
-来源: AWS ML Blog | 时间: 2026/7/7 00:55:02
-
----
-
-### 📢 [Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/7/7 00:53:38
 
 ---
 
@@ -103,11 +108,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、NVIDI
 ---
 
 ### 📢 [How to Use RLMs in Deep Agents](https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents)
-来源: LangChain Blog | 时间: 2026/7/2 01:04:24
-
----
-
-### 📢 [How Pendo uses LangSmith to trace Novus from user behavior to code fixes](https://www.langchain.com/blog/how-pendo-used-langsmith-to-trace-novus-from-user-behavior-to-code-fixes)
 来源: LangChain Blog | 时间: 2026/7/2 01:04:24
 
 ---
