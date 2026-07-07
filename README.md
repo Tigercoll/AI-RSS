@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，涵盖 Hugging Face、PyTorch、AWS、NVIDIA 等主流平台。项目通过静态首页和 README 文件，自动展示最新内容，包括标题、来源及发布时间，便于用户快速获取行业前沿信息。数据每 3 小时自动更新，确保信息的时效性和权威性，适合关注 AI 技术进展的开发者和研究者使用。
+AI-RSS 聚合全球范围内的 AI 官方技术文章与最新动态，涵盖 Hugging Face、PyTorch、AWS、NVIDIA 等主流平台。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源及时间。数据每三小时自动更新，方便用户及时获取行业前沿资讯，助力技术学习与研究。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/7 17:49:18
+🕒 最后自动更新时间：2026/7/7 22:44:36
 
 ---
 
@@ -14,6 +14,11 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 <!-- START_LIVE_FEEDS -->
 ### 📢 [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060)
 来源: Hugging Face Blog | 时间: 2026/7/7 08:00:00
+
+---
+
+### 📢 [Give your eve agent GitHub tools](https://vercel.com/changelog/github-tools-eve)
+来源: Vercel AI SDK | 时间: 2026/7/7 08:00:00
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ### 📢 [Mastering Agentic Techniques: AI Agent Reinforcement Learning](https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/2 01:18:56
-
----
-
-### 📢 [How to Use RLMs in Deep Agents](https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents)
-来源: LangChain Blog | 时间: 2026/7/2 01:04:24
 
 ---
 <!-- END_LIVE_FEEDS -->
