@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并整理来自知名平台的最新内容。项目以静态首页和 README 展示最新资讯，内容包括标题链接、来源及发布时间，方便用户快速了解行业进展。系统每三小时自动更新，确保信息及时、准确，适合关注人工智能领域技术趋势的开发者和研究者。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 NVIDIA、Hugging Face、AWS 等平台。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。数据每三小时自动更新，帮助用户及时了解人工智能领域的最新进展与实践。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/8 04:00:51
+🕒 最后自动更新时间：2026/7/8 06:12:49
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron](https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/8 06:10:45
+
+---
+
+### 📢 [From Hugging Face to Amazon SageMaker Studio in one click](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio)
+来源: Hugging Face Blog | 时间: 2026/7/8 05:15:33
+
+---
+
 ### 📢 [Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T](https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/8 01:33:40
 
@@ -34,11 +44,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并整
 
 ### 📢 [Multi-dataset Topic best practices for Amazon Quick Chat](https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/)
 来源: AWS ML Blog | 时间: 2026/7/8 01:07:31
-
----
-
-### 📢 [Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron](https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/8 00:37:19
 
 ---
 
@@ -94,11 +99,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并整
 
 ### 📢 [Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial](https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/7 05:03:10
-
----
-
-### 📢 [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data)
-来源: Hugging Face Blog | 时间: 2026/7/6 23:30:55
 
 ---
 
