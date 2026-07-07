@@ -1,17 +1,72 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球范围内的 AI 官方技术文章与最新动态，涵盖 Hugging Face、PyTorch、AWS、NVIDIA 等主流平台。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源及时间。数据每三小时自动更新，方便用户及时获取行业前沿资讯，助力技术学习与研究。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 AWS、NVIDIA 等主流平台的最新技术实践与应用。项目通过静态首页和 README 自动展示最新内容，包括标题链接、来源和时间，每三小时自动更新，帮助开发者及时获取行业前沿资讯。内容涵盖数据建模、语义数据集、机器人策略开发等领域，适合关注人工智能技术进展的用户。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/7 22:44:36
+🕒 最后自动更新时间：2026/7/8 01:20:09
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/7/8 01:07:57
+
+---
+
+### 📢 [Data modeling best practices for Amazon Quick Sight multi-dataset relationships](https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/)
+来源: AWS ML Blog | 时间: 2026/7/8 01:07:49
+
+---
+
+### 📢 [Data modeling patterns for Amazon Quick Sight multi-dataset relationships](https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/)
+来源: AWS ML Blog | 时间: 2026/7/8 01:07:39
+
+---
+
+### 📢 [Multi-dataset Topic best practices for Amazon Quick Chat](https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/)
+来源: AWS ML Blog | 时间: 2026/7/8 01:07:31
+
+---
+
+### 📢 [Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T](https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/8 01:06:00
+
+---
+
+### 📢 [Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron](https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/8 00:37:19
+
+---
+
+### 📢 [How Schneider Electric Built Their LLMOps Foundations With LangSmith](https://www.langchain.com/blog/how-schneider-electric-built-their-llmops-foundations-at-enterprise-scale-with-langsmith)
+来源: LangChain Blog | 时间: 2026/7/7 23:31:56
+
+---
+
+### 📢 [Hugging Face Models on Foundry Managed Compute](https://huggingface.co/blog/microsoft/foundry-managed-compute)
+来源: Hugging Face Blog | 时间: 2026/7/7 23:20:06
+
+---
+
+### 📢 [NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads](https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/7 23:10:23
+
+---
+
+### 📢 [Improving Agents is a Data Mining Problem](https://www.langchain.com/blog/improving-agents-is-a-data-mining-problem)
+来源: LangChain Blog | 时间: 2026/7/7 23:05:42
+
+---
+
+### 📢 [More granular observability for Vercel Sandbox](https://vercel.com/changelog/more-granular-observability-for-vercel-sandbox)
+来源: Vercel AI SDK | 时间: 2026/7/7 08:01:00
+
+---
+
 ### 📢 [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060)
 来源: Hugging Face Blog | 时间: 2026/7/7 08:00:00
 
@@ -27,28 +82,8 @@ AI-RSS 聚合全球范围内的 AI 官方技术文章与最新动态，涵盖 Hu
 
 ---
 
-### 📢 [From Hugging Face to Amazon SageMaker Studio in one click](https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/)
-来源: AWS ML Blog | 时间: 2026/7/7 06:35:55
-
----
-
-### 📢 [Teaching models to forget: Selective unlearning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/)
-来源: AWS ML Blog | 时间: 2026/7/7 06:23:45
-
----
-
-### 📢 [Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism](https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/7 05:44:35
-
----
-
-### 📢 [Run MiniMax models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/7/7 01:00:44
-
----
-
-### 📢 [Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/)
-来源: AWS ML Blog | 时间: 2026/7/7 00:58:13
+### 📢 [Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial](https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/7 05:03:10
 
 ---
 
@@ -74,41 +109,6 @@ AI-RSS 聚合全球范围内的 AI 官方技术文章与最新动态，涵盖 Hu
 
 ### 📢 [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/)
 来源: Google DeepMind | 时间: 2026/7/3 22:25:43
-
----
-
-### 📢 [Agent Runs now available in the Vercel MCP and CLI](https://vercel.com/changelog/agent-runs-vercel-mcp-cli)
-来源: Vercel AI SDK | 时间: 2026/7/3 08:00:00
-
----
-
-### 📢 [Hardware-Rooted AI Security That Won’t Slow You Down](https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/3 05:25:57
-
----
-
-### 📢 [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill)
-来源: LangChain Blog | 时间: 2026/7/3 04:47:20
-
----
-
-### 📢 [Building the Future of On-Device AI at the ExecuTorch Hackathon](https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon/)
-来源: PyTorch Blog | 时间: 2026/7/3 04:47:16
-
----
-
-### 📢 [OpenWiki: Open Source Repo Documentation for Coding Agents](https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation)
-来源: LangChain Blog | 时间: 2026/7/3 01:39:30
-
----
-
-### 📢 [Routing rules now available on AI Gateway](https://vercel.com/changelog/ai-gateway-routing-rules)
-来源: Vercel AI SDK | 时间: 2026/7/2 08:00:00
-
----
-
-### 📢 [Mastering Agentic Techniques: AI Agent Reinforcement Learning](https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/2 01:18:56
 
 ---
 <!-- END_LIVE_FEEDS -->
