@@ -1,17 +1,37 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 NVIDIA、Hugging Face、AWS 等平台。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。数据每三小时自动更新，帮助用户及时了解人工智能领域的最新进展与实践。
+AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，自动收集并整理来自各大平台的内容。项目通过静态首页和 README 文件展示最新资讯，形式包括标题链接、来源及发布时间。数据每三小时自动更新，确保信息及时、权威，方便开发者和研究者快速了解人工智能领域的最新进展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/8 06:12:49
+🕒 最后自动更新时间：2026/7/8 11:14:10
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Use any Chat SDK adapter with eve](https://vercel.com/changelog/eve-chat-sdk-channel)
+来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
+
+---
+
+### 📢 [Chat SDK now supports Vercel Connect](https://vercel.com/changelog/chat-sdk-vercel-connect)
+来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
+
+---
+
+### 📢 [Chat SDK adds Dial support](https://vercel.com/changelog/chat-sdk-adds-dial-support)
+来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
+
+---
+
+### 📢 [Chat SDK adds Photon support](https://vercel.com/changelog/chat-sdk-adds-photon-support)
+来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
+
+---
+
 ### 📢 [Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron](https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/8 06:10:45
 
@@ -67,12 +87,12 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 NVIDIA、Huggi
 
 ---
 
-### 📢 [More granular observability for Vercel Sandbox](https://vercel.com/changelog/more-granular-observability-for-vercel-sandbox)
-来源: Vercel AI SDK | 时间: 2026/7/7 08:01:00
+### 📢 [Australian Payments Plus moves faster with ChatGPT and Codex](https://openai.com/index/australian-payments-plus)
+来源: OpenAI | 时间: 2026/7/7 08:00:00
 
 ---
 
-### 📢 [Australian Payments Plus moves faster with ChatGPT and Codex](https://openai.com/index/australian-payments-plus)
+### 📢 [MUFG aims to become AI-native with OpenAI](https://openai.com/index/mufg)
 来源: OpenAI | 时间: 2026/7/7 08:00:00
 
 ---
@@ -87,28 +107,8 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 NVIDIA、Huggi
 
 ---
 
-### 📢 [Give your eve agent GitHub tools](https://vercel.com/changelog/github-tools-eve)
-来源: Vercel AI SDK | 时间: 2026/7/7 08:00:00
-
----
-
 ### 📢 [Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
 来源: PyTorch Blog | 时间: 2026/7/7 07:31:47
-
----
-
-### 📢 [Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial](https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/7 05:03:10
-
----
-
-### 📢 [vLLM × HPC-Ops: High-Performance Attention and MoE Backends from Tencent Hunyuan](https://vllm.ai/blog/2026-07-06-vllm-hpc-ops)
-来源: vLLM Blog | 时间: 2026/7/6 08:00:00
-
----
-
-### 📢 [Understanding PyTorch’s Test Infrastructure](https://pytorch.org/blog/understanding-pytorchs-test-infrastructure/)
-来源: PyTorch Blog | 时间: 2026/7/3 23:00:07
 
 ---
 <!-- END_LIVE_FEEDS -->
