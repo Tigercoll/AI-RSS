@@ -1,17 +1,47 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 NVIDIA、AWS、LangChain 等主流平台。项目通过静态首页和 README 展示最新资讯，内容以标题链接、来源和时间的形式呈现。每三小时自动更新，帮助用户及时了解行业前沿技术与应用，适合关注 AI 领域发展的开发者和研究者。
+AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为用户提供最新的行业资讯。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及发布时间。数据每三小时自动更新，确保信息及时可靠。用户可便捷浏览如 LangChain、PyTorch、Hugging Face、AWS 等知名平台的最新技术博客和动态，助力把握人工智能领域的发展趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/9 00:42:45
+🕒 最后自动更新时间：2026/7/9 03:37:58
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [LangChain and NVIDIA Launch NemoClaw Deep Agents Blueprint](https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint)
+来源: LangChain Blog | 时间: 2026/7/9 02:09:30
+
+---
+
+### 📢 [PyTorch 2.13 Release Blog](https://pytorch.org/blog/pytorch-2-13-release-blog/)
+来源: PyTorch Blog | 时间: 2026/7/9 01:42:23
+
+---
+
+### 📢 [Data for Agents](https://huggingface.co/blog/nvidia/open-data-for-agents)
+来源: Hugging Face Blog | 时间: 2026/7/9 01:16:05
+
+---
+
+### 📢 [Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research](https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/)
+来源: AWS ML Blog | 时间: 2026/7/9 00:57:12
+
+---
+
+### 📢 [Automatically sort and prioritize your mailboxes by using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/9 00:55:48
+
+---
+
+### 📢 [Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio](https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/)
+来源: AWS ML Blog | 时间: 2026/7/9 00:51:35
+
+---
+
 ### 📢 [Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72](https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/9 00:05:41
 
@@ -22,18 +52,8 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 NVIDIA、AWS、LangC
 
 ---
 
-### 📢 [Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/7/8 23:53:08
-
----
-
 ### 📢 [Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance](https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/8 23:23:47
-
----
-
-### 📢 [LangChain and NVIDIA Launch NemoClaw Deep Agents Blueprint](https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint)
-来源: LangChain Blog | 时间: 2026/7/8 23:04:47
 
 ---
 
@@ -47,8 +67,23 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 NVIDIA、AWS、LangC
 
 ---
 
+### 📢 [Helping K–12 educators build practical AI skills](https://openai.com/index/k-12-educators-practical-skills)
+来源: OpenAI | 时间: 2026/7/8 18:00:00
+
+---
+
+### 📢 [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live)
+来源: OpenAI | 时间: 2026/7/8 08:00:00
+
+---
+
 ### 📢 [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend)
 来源: Hugging Face Blog | 时间: 2026/7/8 08:00:00
+
+---
+
+### 📢 [Grok 4.5 now available on AI Gateway](https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
 
 ---
 
@@ -67,16 +102,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 NVIDIA、AWS、LangC
 
 ---
 
-### 📢 [Chat SDK adds Dial support](https://vercel.com/changelog/chat-sdk-adds-dial-support)
-来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
-
----
-
-### 📢 [Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron](https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/8 06:10:45
-
----
-
 ### 📢 [From Hugging Face to Amazon SageMaker Studio in one click](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio)
 来源: Hugging Face Blog | 时间: 2026/7/8 05:15:33
 
@@ -84,31 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 NVIDIA、AWS、LangC
 
 ### 📢 [Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T](https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/8 01:33:40
-
----
-
-### 📢 [Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/7/8 01:07:57
-
----
-
-### 📢 [Data modeling best practices for Amazon Quick Sight multi-dataset relationships](https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/)
-来源: AWS ML Blog | 时间: 2026/7/8 01:07:49
-
----
-
-### 📢 [How Schneider Electric Built Their LLMOps Foundations With LangSmith](https://www.langchain.com/blog/how-schneider-electric-built-their-llmops-foundations-at-enterprise-scale-with-langsmith)
-来源: LangChain Blog | 时间: 2026/7/7 23:31:56
-
----
-
-### 📢 [Hugging Face Models on Foundry Managed Compute](https://huggingface.co/blog/microsoft/foundry-managed-compute)
-来源: Hugging Face Blog | 时间: 2026/7/7 23:20:06
-
----
-
-### 📢 [Australian Payments Plus moves faster with ChatGPT and Codex](https://openai.com/index/australian-payments-plus)
-来源: OpenAI | 时间: 2026/7/7 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
