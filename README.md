@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球范围内的 AI 官方技术文章与最新动态，旨在为开发者和研究者提供高效的信息获取渠道。项目通过静态首页和 README 文件展示最新内容，包括标题链接、来源及发布时间，并每三小时自动更新，确保信息的时效性。用户可以便捷地浏览来自 Vercel、NVIDIA、Hugging Face 等知名平台的技术进展与应用案例。
+AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和研究者提供高效的信息获取渠道。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及时间，并每三小时自动更新。用户可及时了解如 Vercel AI SDK、NVIDIA、Hugging Face 等主流平台的最新技术进展，便于跟踪行业动态和技术演变。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/8 19:08:28
+🕒 最后自动更新时间：2026/7/8 22:22:48
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Flags SDK now evaluates flags 10x faster](https://vercel.com/changelog/flags-sdk-now-evaluates-flags-10x-faster)
+来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
+
+---
+
 ### 📢 [Use any Chat SDK adapter with eve](https://vercel.com/changelog/eve-chat-sdk-channel)
 来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
 
@@ -23,11 +28,6 @@ AI-RSS 聚合全球范围内的 AI 官方技术文章与最新动态，旨在为
 ---
 
 ### 📢 [Chat SDK adds Dial support](https://vercel.com/changelog/chat-sdk-adds-dial-support)
-来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
-
----
-
-### 📢 [Chat SDK adds Photon support](https://vercel.com/changelog/chat-sdk-adds-photon-support)
 来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
 
 ---
