@@ -1,29 +1,39 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台如 LangChain、AWS、PyTorch 和 Hugging Face。项目通过静态首页和 README 展示最新内容，格式包括标题链接、来源及时间。每三小时自动更新，确保信息及时、权威，便于开发者和研究者快速获取行业最新进展与技术趋势。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台最新发布内容。项目通过自动抓取与整理，每三小时更新一次静态首页和 README，确保用户及时获取行业前沿信息。README 以标题链接、来源和时间展示最新动态，便于快速浏览与查阅。适合关注人工智能领域进展的开发者与研究者使用。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/9 06:11:06
+🕒 最后自动更新时间：2026/7/9 11:38:17
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill)
-来源: LangChain Blog | 时间: 2026/7/9 04:21:48
+### 📢 [Improving Agents is a Data Mining Problem](https://www.langchain.com/blog/improving-agents-is-a-data-mining-problem)
+来源: LangChain Blog | 时间: 2026/7/9 06:35:23
+
+---
+
+### 📢 [Deep Agents Code on NVIDIA NemoClaw](https://www.langchain.com/blog/deep-agents-code-on-nemoclaw-a-governed-blueprint-for-your-most-sensitive-code)
+来源: LangChain Blog | 时间: 2026/7/9 06:35:23
+
+---
+
+### 📢 [Tuning the harness, not the model: a Nemotron 3 Ultra playbook](https://www.langchain.com/blog/tuning-the-harness-not-the-model-a-nemotron-3-ultra-playbook)
+来源: LangChain Blog | 时间: 2026/7/9 06:35:23
+
+---
+
+### 📢 [LangChain and NVIDIA Launch NemoClaw Deep Agents Blueprint](https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint)
+来源: LangChain Blog | 时间: 2026/7/9 06:35:23
 
 ---
 
 ### 📢 [Introducing Claude apps gateway for AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/)
 来源: AWS ML Blog | 时间: 2026/7/9 03:49:22
-
----
-
-### 📢 [LangChain and NVIDIA Launch NemoClaw Deep Agents Blueprint](https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint)
-来源: LangChain Blog | 时间: 2026/7/9 02:09:30
 
 ---
 
@@ -59,16 +69,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台如 LangC
 
 ### 📢 [Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance](https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/8 23:23:47
-
----
-
-### 📢 [Tuning the harness, not the model: a Nemotron 3 Ultra playbook](https://www.langchain.com/blog/tuning-the-harness-not-the-model-a-nemotron-3-ultra-playbook)
-来源: LangChain Blog | 时间: 2026/7/8 23:00:46
-
----
-
-### 📢 [Deep Agents Code on NVIDIA NemoClaw](https://www.langchain.com/blog/deep-agents-code-on-nemoclaw-a-governed-blueprint-for-your-most-sensitive-code)
-来源: LangChain Blog | 时间: 2026/7/8 23:00:21
 
 ---
 
