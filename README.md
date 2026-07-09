@@ -1,19 +1,84 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台和前沿内容。项目通过静态首页和 README 展示最新资讯，形式包括标题链接、来源及时间，便于快速浏览与追踪。数据每三小时自动更新，确保信息及时。适合关注人工智能领域进展的开发者和研究者，助力获取高质量技术文章与行业动态。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 NVIDIA、AWS 等主流平台的最新技术进展。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间。数据每三小时自动更新，方便用户快速了解行业趋势和前沿研究，适合关注人工智能领域的开发者与研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/9 23:17:25
+🕒 最后自动更新时间：2026/7/10 03:51:19
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Synthetic Data Generation for Financial AI Research with NVIDIA NeMo](https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/10 03:40:54
+
+---
+
+### 📢 [NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads](https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/10 02:18:46
+
+---
+
+### 📢 [Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance](https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/10 02:18:00
+
+---
+
+### 📢 [A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale](https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/10 02:12:46
+
+---
+
+### 📢 [MCP tool design: Practical approaches and tradeoffs](https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/)
+来源: AWS ML Blog | 时间: 2026/7/10 00:40:16
+
+---
+
+### 📢 [Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration](https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/)
+来源: AWS ML Blog | 时间: 2026/7/10 00:38:11
+
+---
+
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/build-an-auditable-vc-research-agent-with-the-perplexity-agent-api-langgraph-and-langsmith)
+来源: LangChain Blog | 时间: 2026/7/10 00:20:31
+
+---
+
+### 📢 [ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work)
+来源: OpenAI | 时间: 2026/7/9 18:00:00
+
+---
+
+### 📢 [GPT-5.5 Bio Bug Bounty](https://openai.com/index/bio-bug-bounty)
+来源: OpenAI | 时间: 2026/7/9 18:00:00
+
+---
+
+### 📢 [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6)
+来源: OpenAI | 时间: 2026/7/9 18:00:00
+
+---
+
+### 📢 [Hard Questions](https://www.anthropic.com/news/hard-questions)
+来源: Anthropic News | 时间: 2026/7/9 08:00:00
+
+---
+
 ### 📢 [Ollama: all aboard open models](https://ollama.com/blog/all-aboard-open-models)
 来源: Ollama Blog | 时间: 2026/7/9 08:00:00
+
+---
+
+### 📢 [Muse Spark 1.1 is now available on AI Gateway](https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/9 08:00:00
+
+---
+
+### 📢 [GPT 5.6 Sol, Luna, and Terra now available on AI Gateway](https://vercel.com/changelog/gpt-5-6-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/9 08:00:00
 
 ---
 
@@ -32,11 +97,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台和前沿
 
 ---
 
-### 📢 [LangChain and NVIDIA Launch NemoClaw Deep Agents Blueprint](https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint)
-来源: LangChain Blog | 时间: 2026/7/9 06:35:23
-
----
-
 ### 📢 [Introducing Claude apps gateway for AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/)
 来源: AWS ML Blog | 时间: 2026/7/9 03:49:22
 
@@ -49,66 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台和前沿
 
 ### 📢 [Data for Agents](https://huggingface.co/blog/nvidia/open-data-for-agents)
 来源: Hugging Face Blog | 时间: 2026/7/9 01:16:05
-
----
-
-### 📢 [Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research](https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/)
-来源: AWS ML Blog | 时间: 2026/7/9 00:57:12
-
----
-
-### 📢 [Automatically sort and prioritize your mailboxes by using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/7/9 00:55:48
-
----
-
-### 📢 [Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio](https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/)
-来源: AWS ML Blog | 时间: 2026/7/9 00:51:35
-
----
-
-### 📢 [Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72](https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/9 00:05:41
-
----
-
-### 📢 [Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance](https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/8 23:23:47
-
----
-
-### 📢 [Our approach to government and national security partnerships](https://openai.com/index/government-national-security-partnerships)
-来源: OpenAI | 时间: 2026/7/8 21:30:00
-
----
-
-### 📢 [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations)
-来源: OpenAI | 时间: 2026/7/8 21:00:00
-
----
-
-### 📢 [Helping K–12 educators build practical AI skills](https://openai.com/index/k-12-educators-practical-skills)
-来源: OpenAI | 时间: 2026/7/8 18:00:00
-
----
-
-### 📢 [Vercel Agent: An agent you can let near production](https://vercel.com/blog/vercel-agent)
-来源: Vercel AI SDK | 时间: 2026/7/8 14:00:00
-
----
-
-### 📢 [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live)
-来源: OpenAI | 时间: 2026/7/8 08:00:00
-
----
-
-### 📢 [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend)
-来源: Hugging Face Blog | 时间: 2026/7/8 08:00:00
-
----
-
-### 📢 [Grok 4.5 now available on AI Gateway](https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
