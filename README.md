@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展示最新行业资讯。项目通过静态首页和 README，按标题链接、来源及时间呈现内容，每三小时自动更新，确保信息及时。用户可便捷浏览来自 LangChain、AWS、PyTorch 等权威博客的最新发布，助力了解人工智能领域的前沿进展。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台和前沿内容。项目通过静态首页和 README 展示最新资讯，形式包括标题链接、来源及时间，便于快速浏览与追踪。数据每三小时自动更新，确保信息及时。适合关注人工智能领域进展的开发者和研究者，助力获取高质量技术文章与行业动态。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/9 17:51:43
+🕒 最后自动更新时间：2026/7/9 23:17:25
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Ollama: all aboard open models](https://ollama.com/blog/all-aboard-open-models)
+来源: Ollama Blog | 时间: 2026/7/9 08:00:00
+
+---
+
 ### 📢 [Improving Agents is a Data Mining Problem](https://www.langchain.com/blog/improving-agents-is-a-data-mining-problem)
 来源: LangChain Blog | 时间: 2026/7/9 06:35:23
 
@@ -103,11 +108,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展
 ---
 
 ### 📢 [Grok 4.5 now available on AI Gateway](https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
-
----
-
-### 📢 [Flags SDK now evaluates flags 10x faster](https://vercel.com/changelog/flags-sdk-now-evaluates-flags-10x-faster)
 来源: Vercel AI SDK | 时间: 2026/7/8 08:00:00
 
 ---
