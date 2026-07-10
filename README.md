@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 OpenAI、Hugging Face、NVIDIA 等知名平台。项目通过自动抓取与整理，每三小时更新一次静态首页和 README，便于用户及时了解行业最新进展。README 以标题链接、来源和时间的形式展示最新内容，适合关注人工智能领域技术趋势的开发者和研究者。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、Hugging Face、NVIDIA 等知名机构。项目每三小时自动更新，输出静态首页和 README 最新动态，内容以标题链接、来源和时间展示。用户可便捷获取行业前沿资讯，如 AI 在电信、深度学习性能优化、金融数据生成等领域的最新进展，助力技术交流与学习。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/10 17:41:38
+🕒 最后自动更新时间：2026/7/10 22:35:19
 
 ---
 
@@ -22,6 +22,11 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 OpenAI、Huggi
 
 ---
 
+### 📢 [Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit](https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/10 05:42:45
+
+---
+
 ### 📢 [Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance](https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/10 04:47:43
 
@@ -33,11 +38,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 OpenAI、Huggi
 ---
 
 ### 📢 [A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale](https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/10 02:12:46
-
----
-
-### 📢 [Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72](https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/10 02:12:46
 
 ---
