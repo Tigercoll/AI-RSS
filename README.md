@@ -1,17 +1,57 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、Hugging Face、NVIDIA 等知名机构。项目每三小时自动更新，输出静态首页和 README 最新动态，内容以标题链接、来源和时间展示。用户可便捷获取行业前沿资讯，如 AI 在电信、深度学习性能优化、金融数据生成等领域的最新进展，助力技术交流与学习。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台最新发布内容。项目通过静态首页和 README 展示最新资讯，包括标题链接、来源及时间，每三小时自动更新，确保信息及时。适合关注人工智能领域前沿技术和行业动态的开发者与研究者，便于快速获取高质量内容。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/10 22:35:19
+🕒 最后自动更新时间：2026/7/11 00:58:50
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [OpenWiki Brains: Proactive Memory for AI Agents](https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents)
+来源: LangChain Blog | 时间: 2026/7/11 00:46:35
+
+---
+
+### 📢 [Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead](https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/11 00:41:17
+
+---
+
+### 📢 [AI Model Co-Design: Hardware-Friendly LLM Design](https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/11 00:36:19
+
+---
+
+### 📢 [Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization](https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/)
+来源: AWS ML Blog | 时间: 2026/7/10 23:35:05
+
+---
+
+### 📢 [Real-time dental image verification with Amazon SageMaker AI at Henry Schein One](https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/)
+来源: AWS ML Blog | 时间: 2026/7/10 23:33:47
+
+---
+
+### 📢 [Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/7/10 23:31:12
+
+---
+
+### 📢 [Scaling agentic workflows with native case management in Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/)
+来源: AWS ML Blog | 时间: 2026/7/10 23:28:54
+
+---
+
+### 📢 [Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels](https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/)
+来源: PyTorch Blog | 时间: 2026/7/10 22:35:48
+
+---
+
 ### 📢 [How Deutsche Telekom is rewiring telecommunications with AI](https://openai.com/index/deutsche-telekom)
 来源: OpenAI | 时间: 2026/7/10 15:00:00
 
@@ -27,28 +67,8 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、Hugging Fac
 
 ---
 
-### 📢 [Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance](https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/10 04:47:43
-
----
-
 ### 📢 [Synthetic Data Generation for Financial AI Research with NVIDIA NeMo](https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/10 03:40:54
-
----
-
-### 📢 [A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale](https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/10 02:12:46
-
----
-
-### 📢 [MCP tool design: Practical approaches and tradeoffs](https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/)
-来源: AWS ML Blog | 时间: 2026/7/10 00:40:16
-
----
-
-### 📢 [Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration](https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/)
-来源: AWS ML Blog | 时间: 2026/7/10 00:38:11
 
 ---
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、Hugging Fac
 
 ### 📢 [GPT 5.6 Sol, Luna, and Terra now available on AI Gateway](https://vercel.com/changelog/gpt-5-6-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/7/9 08:00:00
-
----
-
-### 📢 [Improving Agents is a Data Mining Problem](https://www.langchain.com/blog/improving-agents-is-a-data-mining-problem)
-来源: LangChain Blog | 时间: 2026/7/9 06:35:23
-
----
-
-### 📢 [Deep Agents Code on NVIDIA NemoClaw](https://www.langchain.com/blog/deep-agents-code-on-nemoclaw-a-governed-blueprint-for-your-most-sensitive-code)
-来源: LangChain Blog | 时间: 2026/7/9 06:35:23
-
----
-
-### 📢 [Tuning the harness, not the model: a Nemotron 3 Ultra playbook](https://www.langchain.com/blog/tuning-the-harness-not-the-model-a-nemotron-3-ultra-playbook)
-来源: LangChain Blog | 时间: 2026/7/9 06:35:23
-
----
-
-### 📢 [Introducing Claude apps gateway for AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/)
-来源: AWS ML Blog | 时间: 2026/7/9 03:49:22
 
 ---
 <!-- END_LIVE_FEEDS -->
