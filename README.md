@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台最新发布内容。项目通过静态首页和 README 展示最新资讯，包括标题链接、来源及时间，每三小时自动更新，确保信息及时。适合关注人工智能领域前沿技术和行业动态的开发者与研究者，便于快速获取高质量内容。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖模型训练、硬件优化、智能代理等前沿话题。项目通过静态首页和 README 自动展示最新内容，包括标题链接、来源及时间，便于快速浏览与追踪行业进展。数据每三小时自动更新，确保信息及时、权威，适合关注人工智能技术发展的开发者和研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/11 00:58:50
+🕒 最后自动更新时间：2026/7/11 03:37:59
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading](https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/11 02:17:58
+
+---
+
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/build-an-auditable-vc-research-agent-with-the-perplexity-agent-api-langgraph-and-langsmith)
+来源: LangChain Blog | 时间: 2026/7/11 01:47:27
+
+---
+
 ### 📢 [OpenWiki Brains: Proactive Memory for AI Agents](https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents)
 来源: LangChain Blog | 时间: 2026/7/11 00:46:35
 
@@ -64,16 +74,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台最新发
 
 ### 📢 [Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit](https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/10 05:42:45
-
----
-
-### 📢 [Synthetic Data Generation for Financial AI Research with NVIDIA NeMo](https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/10 03:40:54
-
----
-
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/build-an-auditable-vc-research-agent-with-the-perplexity-agent-api-langgraph-and-langsmith)
-来源: LangChain Blog | 时间: 2026/7/10 00:20:31
 
 ---
 
