@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自知名平台的最新内容。项目通过静态首页和 README 展示最新资讯，包括标题链接、来源及发布时间，方便用户快速浏览与跟进行业进展。数据每三小时自动更新，确保信息及时、准确，适合关注人工智能领域技术发展的开发者和研究者。
+AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型、工程、研究和产品更新，并同步生成首页与 README 最新动态，适合想快速跟进 AI 动态的开发者与研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/13 17:34:16
+🕒 最后自动更新时间：2026/7/13 22:42:03
 
 ---
 
@@ -77,6 +77,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ---
 
+### 📢 [Getting started with ChatGPT](https://openai.com/academy/getting-started)
+来源: OpenAI | 时间: 2026/7/10 08:00:00
+
+---
+
 ### 📢 [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile)
 来源: Hugging Face Blog | 时间: 2026/7/10 08:00:00
 
@@ -87,12 +92,7 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ---
 
-### 📢 [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6)
-来源: OpenAI | 时间: 2026/7/9 18:00:00
-
----
-
-### 📢 [ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work)
+### 📢 [GPT-5.5 Bio Bug Bounty](https://openai.com/index/bio-bug-bounty)
 来源: OpenAI | 时间: 2026/7/9 18:00:00
 
 ---
