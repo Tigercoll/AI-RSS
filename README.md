@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和爱好者提供最新的行业资讯。项目通过自动抓取与筛选，展示标题链接、来源及时间，方便用户快速了解技术进展。首页为静态页面，README 每 3 小时自动更新，确保内容及时准确。无论是技术深度还是行业趋势，AI-RSS 都能帮助用户高效获取权威信息。
+AI-RSS 致力于聚合全球范围内 AI 官方技术文章与最新动态，涵盖主流平台和权威来源。项目通过静态首页和 README 文件展示最新资讯，内容以标题链接、来源及时间的形式呈现。每三小时自动更新，确保信息及时、准确，方便开发者和研究者快速获取行业前沿进展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/14 03:27:13
+🕒 最后自动更新时间：2026/7/14 06:00:16
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/14 05:01:20
+
+---
+
 ### 📢 [When your brain works differently, AI isn’t a luxury—it’s accessibility](https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/)
 来源: AWS ML Blog | 时间: 2026/7/14 01:50:16
 
@@ -27,23 +32,28 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和爱好
 
 ---
 
-### 📢 [Launching UI for generative AI inference recommendations in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/7/14 00:42:15
-
----
-
 ### 📢 [Open-weight models surge to 29% of volume, price per token flattens](https://vercel.com/blog/ai-gateway-production-index-july-2026)
 来源: Vercel AI SDK | 时间: 2026/7/13 15:00:00
 
 ---
 
-### 📢 [How to Evaluate General-Purpose Robot Policies for Real-World Deployment](https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/12 09:20:49
+### 📢 [Manage Vercel Flags targeting rules from the CLI](https://vercel.com/changelog/manage-vercel-flags-targeting-rules-from-the-cli)
+来源: Vercel AI SDK | 时间: 2026/7/13 08:00:00
 
 ---
 
-### 📢 [Seedream 5.0 Pro is now available on AI Gateway](https://vercel.com/changelog/seedream-5-0-pro-is-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/11 08:00:00
+### 📢 [Configure which sources can create deployments with Deployment Policies](https://vercel.com/changelog/configure-which-sources-can-create-deployments-with-deployment-policies)
+来源: Vercel AI SDK | 时间: 2026/7/13 08:00:00
+
+---
+
+### 📢 [AI Gateway leaderboards, now with open data and shareable charts](https://vercel.com/changelog/open-data-and-shareable-charts-for-ai-gateway-leaderboards)
+来源: Vercel AI SDK | 时间: 2026/7/13 08:00:00
+
+---
+
+### 📢 [How to Evaluate General-Purpose Robot Policies for Real-World Deployment](https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/12 09:20:49
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和爱好
 
 ### 📢 [GPT-5.5 Bio Bug Bounty](https://openai.com/index/bio-bug-bounty)
 来源: OpenAI | 时间: 2026/7/9 18:00:00
-
----
-
-### 📢 [Hard Questions](https://www.anthropic.com/news/hard-questions)
-来源: Anthropic News | 时间: 2026/7/9 08:00:00
-
----
-
-### 📢 [Ollama: all aboard open models](https://ollama.com/blog/all-aboard-open-models)
-来源: Ollama Blog | 时间: 2026/7/9 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
