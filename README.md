@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型、工程、研究和产品更新，并同步生成首页与 README 最新动态，适合想快速跟进 AI 动态的开发者与研究者。
+AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，自动收集并整理最新内容。项目以静态首页和 README 的形式输出，README 按标题链接、来源和时间展示最新资讯。每三小时自动更新，确保信息及时。用户可便捷获取 AWS、NVIDIA、Vercel 等主流平台的 AI 技术进展与行业动态，适合关注人工智能领域的开发者与研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/13 22:42:03
+🕒 最后自动更新时间：2026/7/14 01:15:57
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Launching UI for generative AI inference recommendations in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/)
+来源: AWS ML Blog | 时间: 2026/7/14 00:42:15
+
+---
+
+### 📢 [Open-weight models surge to 29% of volume, price per token flattens](https://vercel.com/blog/ai-gateway-production-index-july-2026)
+来源: Vercel AI SDK | 时间: 2026/7/13 15:00:00
+
+---
+
 ### 📢 [How to Evaluate General-Purpose Robot Policies for Real-World Deployment](https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/12 09:20:49
 
@@ -37,13 +47,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead](https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/11 00:41:17
+### 📢 [Extreme Event Likelihoods with Guided Generative Models](https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/11 00:41:57
 
 ---
 
-### 📢 [AI Model Co-Design: Hardware-Friendly LLM Design](https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/11 00:36:19
+### 📢 [Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead](https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/11 00:41:17
 
 ---
 
@@ -59,11 +69,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/7/10 23:31:12
-
----
-
-### 📢 [Scaling agentic workflows with native case management in Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/)
-来源: AWS ML Blog | 时间: 2026/7/10 23:28:54
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Ollama: all aboard open models](https://ollama.com/blog/all-aboard-open-models)
 来源: Ollama Blog | 时间: 2026/7/9 08:00:00
-
----
-
-### 📢 [Muse Spark 1.1 is now available on AI Gateway](https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/9 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
