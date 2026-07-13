@@ -1,17 +1,32 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，自动收集并整理最新内容。项目以静态首页和 README 的形式输出，README 按标题链接、来源和时间展示最新资讯。每三小时自动更新，确保信息及时。用户可便捷获取 AWS、NVIDIA、Vercel 等主流平台的 AI 技术进展与行业动态，适合关注人工智能领域的开发者与研究者。
+AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和爱好者提供最新的行业资讯。项目通过自动抓取与筛选，展示标题链接、来源及时间，方便用户快速了解技术进展。首页为静态页面，README 每 3 小时自动更新，确保内容及时准确。无论是技术深度还是行业趋势，AI-RSS 都能帮助用户高效获取权威信息。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/14 01:15:57
+🕒 最后自动更新时间：2026/7/14 03:27:13
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [When your brain works differently, AI isn’t a luxury—it’s accessibility](https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/)
+来源: AWS ML Blog | 时间: 2026/7/14 01:50:16
+
+---
+
+### 📢 [Building an agentic AI solution at Bluesight with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/14 01:34:38
+
+---
+
+### 📢 [Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/)
+来源: AWS ML Blog | 时间: 2026/7/14 01:27:40
+
+---
+
 ### 📢 [Launching UI for generative AI inference recommendations in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/)
 来源: AWS ML Blog | 时间: 2026/7/14 00:42:15
 
@@ -32,6 +47,11 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，自动收
 
 ---
 
+### 📢 [NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X](https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/11 04:46:09
+
+---
+
 ### 📢 [Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading](https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/11 02:17:58
 
@@ -49,26 +69,6 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与动态，自动收
 
 ### 📢 [Extreme Event Likelihoods with Guided Generative Models](https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/11 00:41:57
-
----
-
-### 📢 [Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead](https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/11 00:41:17
-
----
-
-### 📢 [Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization](https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/)
-来源: AWS ML Blog | 时间: 2026/7/10 23:35:05
-
----
-
-### 📢 [Real-time dental image verification with Amazon SageMaker AI at Henry Schein One](https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/)
-来源: AWS ML Blog | 时间: 2026/7/10 23:33:47
-
----
-
-### 📢 [Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/7/10 23:31:12
 
 ---
 
