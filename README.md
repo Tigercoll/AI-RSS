@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，涵盖主流平台和前沿话题。项目通过静态首页和自动更新的 README 展示最新内容，包括标题、来源及发布时间，便于用户高效获取行业资讯。系统每三小时自动同步，确保信息及时、权威，适合关注 AI 技术进展的开发者与研究者使用。
+AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和研究者提供最新的行业资讯。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及时间，每三小时自动更新。用户可便捷获取来自 AWS、NVIDIA、LangChain 等权威博客的前沿技术与实践，助力把握人工智能领域的发展趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/15 03:24:52
+🕒 最后自动更新时间：2026/7/15 06:01:24
 
 ---
 
@@ -47,13 +47,18 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ---
 
+### 📢 [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)
+来源: OpenAI | 时间: 2026/7/14 08:00:00
+
+---
+
 ### 📢 [How sales teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)
 来源: OpenAI | 时间: 2026/7/14 08:00:00
 
 ---
 
-### 📢 [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)
-来源: OpenAI | 时间: 2026/7/14 08:00:00
+### 📢 [Vercel Plugin now available in VS Code and GitHub Copilot CLI](https://vercel.com/changelog/vercel-plugin-now-available-in-vs-code-and-github-copilot-cli)
+来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
 
 ---
 
@@ -68,11 +73,6 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 ---
 
 ### 📢 [Chat SDK adds X adapter support](https://vercel.com/changelog/chat-sdk-adds-x-adapter-support)
-来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
-
----
-
-### 📢 [Access and share AI Gateway leaderboard data](https://vercel.com/changelog/open-data-and-shareable-charts-for-ai-gateway-leaderboards)
 来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
 
 ---
