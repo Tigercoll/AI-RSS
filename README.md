@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型、工程、研究和产品更新，并同步生成首页与 README 最新动态，适合想快速跟进 AI 动态的开发者与研究者。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自主流平台的最新资讯。项目通过静态首页和 README 文件展示最新内容，每三小时自动更新，确保信息及时。README 以标题链接、来源和时间的形式呈现，方便用户快速浏览与查阅。AI-RSS为开发者和研究者提供高效、权威的技术参考，助力把握人工智能领域的前沿进展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/14 13:35:03
+🕒 最后自动更新时间：2026/7/14 16:12:56
 
 ---
 
@@ -34,6 +34,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/)
 来源: AWS ML Blog | 时间: 2026/7/14 01:27:40
+
+---
+
+### 📢 [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/)
+来源: Google DeepMind | 时间: 2026/7/13 20:37:28
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [vime + ROCm: End-to-End RL Post-Training on AMD Instinct™ GPUs](https://vllm.ai/blog/2026-07-10-vime-rocm)
 来源: vLLM Blog | 时间: 2026/7/10 08:00:00
-
----
-
-### 📢 [GPT-5.6 is now the preferred model in Microsoft 365 Copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
-来源: OpenAI | 时间: 2026/7/9 21:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
