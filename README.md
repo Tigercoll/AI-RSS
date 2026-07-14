@@ -1,19 +1,49 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和 README 最新内容。项目每三小时自动更新，展示最新文章标题、来源及发布时间，方便用户快速了解行业趋势。内容涵盖 LangChain、OpenAI、Vercel、NVIDIA 等主流平台，适合关注人工智能技术进展的开发者和研究者。
+AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，涵盖主流平台和前沿话题。项目通过静态首页和自动更新的 README 展示最新内容，包括标题、来源及发布时间，便于用户高效获取行业资讯。系统每三小时自动同步，确保信息及时、权威，适合关注 AI 技术进展的开发者与研究者使用。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/15 00:19:11
+🕒 最后自动更新时间：2026/7/15 03:24:52
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Multi-agent social intelligence with Strands Agents and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/15 02:44:26
+
+---
+
+### 📢 [Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning](https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/15 02:20:44
+
+---
+
+### 📢 [Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2](https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/)
+来源: AWS ML Blog | 时间: 2026/7/15 00:47:32
+
+---
+
+### 📢 [Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis](https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/)
+来源: AWS ML Blog | 时间: 2026/7/15 00:43:41
+
+---
+
+### 📢 [Scaling medical content review at Flo Health with Amazon Bedrock – Part 2](https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/)
+来源: AWS ML Blog | 时间: 2026/7/15 00:33:08
+
+---
+
 ### 📢 [How to Debug Coding Agents with LangSmith Traces](https://www.langchain.com/blog/your-coding-agents-are-a-black-box-heres-how-to-crack-them-open)
 来源: LangChain Blog | 时间: 2026/7/15 00:05:06
+
+---
+
+### 📢 [How to manage AI investments in the agentic era](https://openai.com/index/managing-ai-investments-in-agentic-era)
+来源: OpenAI | 时间: 2026/7/14 18:00:00
 
 ---
 
@@ -27,12 +57,22 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ---
 
+### 📢 [Endform joins the Vercel Marketplace](https://vercel.com/changelog/endform-joins-the-vercel-marketplace)
+来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
+
+---
+
 ### 📢 [AgentMail joins the Vercel Marketplace](https://vercel.com/changelog/agentmail-vercel-marketplace)
 来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
 
 ---
 
 ### 📢 [Chat SDK adds X adapter support](https://vercel.com/changelog/chat-sdk-adds-x-adapter-support)
+来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
+
+---
+
+### 📢 [Access and share AI Gateway leaderboard data](https://vercel.com/changelog/open-data-and-shareable-charts-for-ai-gateway-leaderboards)
 来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
 
 ---
@@ -47,43 +87,13 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ---
 
-### 📢 [OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/7/14 05:01:20
-
----
-
-### 📢 [When your brain works differently, AI isn’t a luxury—it’s accessibility](https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/)
-来源: AWS ML Blog | 时间: 2026/7/14 01:50:16
-
----
-
-### 📢 [Building an agentic AI solution at Bluesight with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/7/14 01:34:38
-
----
-
-### 📢 [Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/)
-来源: AWS ML Blog | 时间: 2026/7/14 01:27:40
-
----
-
 ### 📢 [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/)
 来源: Google DeepMind | 时间: 2026/7/13 20:37:28
 
 ---
 
-### 📢 [Open-weight models surge to 29% of volume, price per token flattens](https://vercel.com/blog/ai-gateway-production-index-july-2026)
-来源: Vercel AI SDK | 时间: 2026/7/13 15:00:00
-
----
-
 ### 📢 [EAGLE-3 Speculative Decoding on AMD Instinct GPUs: Training and Serving with vLLM and AMD Quark](https://vllm.ai/blog/2026-07-13-eagle-3-amd-instinct)
 来源: vLLM Blog | 时间: 2026/7/13 08:00:00
-
----
-
-### 📢 [Agent Runs now show subagent activity on eve projects](https://vercel.com/changelog/agent-runs-now-show-subagent-activity-on-eve-projects)
-来源: Vercel AI SDK | 时间: 2026/7/13 08:00:00
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ### 📢 [OpenWiki Brains: Proactive Memory for AI Agents](https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents)
 来源: LangChain Blog | 时间: 2026/7/11 00:46:35
-
----
-
-### 📢 [Extreme Event Likelihoods with Guided Generative Models](https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/11 00:41:57
-
----
-
-### 📢 [Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels](https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/)
-来源: PyTorch Blog | 时间: 2026/7/10 22:35:48
 
 ---
 <!-- END_LIVE_FEEDS -->
