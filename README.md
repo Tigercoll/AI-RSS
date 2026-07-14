@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自主流平台的最新资讯。项目通过静态首页和 README 文件展示最新内容，每三小时自动更新，确保信息及时。README 以标题链接、来源和时间的形式呈现，方便用户快速浏览与查阅。AI-RSS为开发者和研究者提供高效、权威的技术参考，助力把握人工智能领域的前沿进展。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、Vercel、AWS 等主流平台。项目通过静态首页和 README 实时展示最新资讯，包括标题链接、来源及发布时间。内容每三小时自动更新，帮助用户及时了解行业前沿进展与技术趋势，适合关注人工智能领域的开发者和研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/14 16:12:56
+🕒 最后自动更新时间：2026/7/14 18:50:25
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)
+来源: OpenAI | 时间: 2026/7/14 08:00:00
+
+---
+
 ### 📢 [Chat SDK adds X adapter support](https://vercel.com/changelog/chat-sdk-adds-x-adapter-support)
 来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
 
@@ -44,6 +49,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ### 📢 [Open-weight models surge to 29% of volume, price per token flattens](https://vercel.com/blog/ai-gateway-production-index-july-2026)
 来源: Vercel AI SDK | 时间: 2026/7/13 15:00:00
+
+---
+
+### 📢 [EAGLE-3 Speculative Decoding on AMD Instinct GPUs: Training and Serving with vLLM and AMD Quark](https://vllm.ai/blog/2026-07-13-eagle-3-amd-instinct)
+来源: vLLM Blog | 时间: 2026/7/13 08:00:00
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ### 📢 [Getting started with ChatGPT](https://openai.com/academy/getting-started)
 来源: OpenAI | 时间: 2026/7/10 08:00:00
-
----
-
-### 📢 [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile)
-来源: Hugging Face Blog | 时间: 2026/7/10 08:00:00
-
----
-
-### 📢 [vime + ROCm: End-to-End RL Post-Training on AMD Instinct™ GPUs](https://vllm.ai/blog/2026-07-10-vime-rocm)
-来源: vLLM Blog | 时间: 2026/7/10 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
