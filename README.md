@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内 AI 官方技术文章与最新动态，涵盖主流平台和权威来源。项目通过静态首页和 README 文件展示最新资讯，内容以标题链接、来源及时间的形式呈现。每三小时自动更新，确保信息及时、准确，方便开发者和研究者快速获取行业前沿进展。
+AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，帮助用户及时了解行业发展。项目通过静态首页和 README 文件展示最新内容，形式包括标题链接、来源及发布时间。数据每三小时自动更新，确保信息的时效性和权威性，适合关注人工智能领域技术进展的开发者和研究者使用。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/14 06:00:16
+🕒 最后自动更新时间：2026/7/14 10:46:22
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Chat SDK adds X adapter support](https://vercel.com/changelog/chat-sdk-adds-x-adapter-support)
+来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
+
+---
+
 ### 📢 [OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/7/14 05:01:20
 
@@ -37,17 +42,12 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与最新动态，涵
 
 ---
 
+### 📢 [Agent Runs now show subagent activity on eve projects](https://vercel.com/changelog/agent-runs-now-show-subagent-activity-on-eve-projects)
+来源: Vercel AI SDK | 时间: 2026/7/13 08:00:00
+
+---
+
 ### 📢 [Manage Vercel Flags targeting rules from the CLI](https://vercel.com/changelog/manage-vercel-flags-targeting-rules-from-the-cli)
-来源: Vercel AI SDK | 时间: 2026/7/13 08:00:00
-
----
-
-### 📢 [Configure which sources can create deployments with Deployment Policies](https://vercel.com/changelog/configure-which-sources-can-create-deployments-with-deployment-policies)
-来源: Vercel AI SDK | 时间: 2026/7/13 08:00:00
-
----
-
-### 📢 [AI Gateway leaderboards, now with open data and shareable charts](https://vercel.com/changelog/open-data-and-shareable-charts-for-ai-gateway-leaderboards)
 来源: Vercel AI SDK | 时间: 2026/7/13 08:00:00
 
 ---
@@ -102,13 +102,13 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与最新动态，涵
 
 ---
 
-### 📢 [GPT-5.6 is now the preferred model in Microsoft 365 Copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
-来源: OpenAI | 时间: 2026/7/9 21:00:00
+### 📢 [vime + ROCm: End-to-End RL Post-Training on AMD Instinct™ GPUs](https://vllm.ai/blog/2026-07-10-vime-rocm)
+来源: vLLM Blog | 时间: 2026/7/10 08:00:00
 
 ---
 
-### 📢 [GPT-5.5 Bio Bug Bounty](https://openai.com/index/bio-bug-bounty)
-来源: OpenAI | 时间: 2026/7/9 18:00:00
+### 📢 [GPT-5.6 is now the preferred model in Microsoft 365 Copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
+来源: OpenAI | 时间: 2026/7/9 21:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
