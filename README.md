@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangChain、Hugging Face、AWS、NVIDIA 等知名平台。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源和时间。每三小时自动更新，确保信息及时、权威，便于开发者和研究者快速了解行业最新进展与技术趋势。
+AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和 README 最新内容。项目每三小时自动更新，展示最新文章标题、来源及时间，方便用户快速了解行业前沿。内容涵盖 LlamaIndex、PyTorch、LangChain、OpenAI 等主流平台，助力开发者及时掌握 AI 技术进展与安全政策。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/15 21:50:00
+🕒 最后自动更新时间：2026/7/16 00:26:01
 
 ---
 
@@ -22,6 +22,21 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangCha
 
 ---
 
+### 📢 [Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box](https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box/)
+来源: PyTorch Blog | 时间: 2026/7/15 23:09:15
+
+---
+
+### 📢 [Agents need their own computer. Here's how to give them one safely.](https://www.langchain.com/blog/agents-need-their-own-computer)
+来源: LangChain Blog | 时间: 2026/7/15 22:40:52
+
+---
+
+### 📢 [The US is advancing AI safety through state and federal action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action)
+来源: OpenAI | 时间: 2026/7/15 20:00:00
+
+---
+
 ### 📢 [How to Debug Coding Agents with LangSmith Traces](https://www.langchain.com/blog/your-coding-agents-are-a-black-box-heres-how-to-crack-them-open)
 来源: LangChain Blog | 时间: 2026/7/15 11:40:08
 
@@ -29,6 +44,11 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangCha
 
 ### 📢 [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq)
 来源: Hugging Face Blog | 时间: 2026/7/15 08:00:00
+
+---
+
+### 📢 [Chat SDK adds Discord Components V2 support](https://vercel.com/changelog/chat-sdk-adds-discord-components-v2-support)
+来源: Vercel AI SDK | 时间: 2026/7/15 08:00:00
 
 ---
 
@@ -62,12 +82,12 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangCha
 
 ---
 
-### 📢 [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)
+### 📢 [How sales teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)
 来源: OpenAI | 时间: 2026/7/14 08:00:00
 
 ---
 
-### 📢 [How sales teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)
+### 📢 [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)
 来源: OpenAI | 时间: 2026/7/14 08:00:00
 
 ---
@@ -87,28 +107,8 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangCha
 
 ---
 
-### 📢 [AgentMail joins the Vercel Marketplace](https://vercel.com/changelog/agentmail-vercel-marketplace)
-来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
-
----
-
-### 📢 [Chat SDK adds X adapter support](https://vercel.com/changelog/chat-sdk-adds-x-adapter-support)
-来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
-
----
-
 ### 📢 [Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills](https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/14 06:25:24
-
----
-
-### 📢 [OpenWiki Brains: Proactive Memory for AI Agents](https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents)
-来源: LangChain Blog | 时间: 2026/7/14 06:19:53
-
----
-
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/build-an-auditable-vc-research-agent-with-the-perplexity-agent-api-langgraph-and-langsmith)
-来源: LangChain Blog | 时间: 2026/7/14 06:19:53
 
 ---
 <!-- END_LIVE_FEEDS -->
