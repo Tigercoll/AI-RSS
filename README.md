@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和 README 最新内容。项目每三小时自动更新，展示最新文章标题、来源及时间，方便用户快速了解行业前沿。内容涵盖 LlamaIndex、PyTorch、LangChain、OpenAI 等主流平台，助力开发者及时掌握 AI 技术进展与安全政策。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangChain、AWS 等主流平台。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及时间信息，每 3 小时自动更新，方便用户及时了解行业发展与技术进展。适合关注人工智能领域的开发者和研究者，助力获取高质量资讯。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/16 00:26:01
+🕒 最后自动更新时间：2026/7/16 03:16:45
 
 ---
 
@@ -22,13 +22,48 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ---
 
-### 📢 [Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box](https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box/)
-来源: PyTorch Blog | 时间: 2026/7/15 23:09:15
+### 📢 [New in Fleet: Deploy AI agents to Slack in one click](https://www.langchain.com/blog/new-in-langsmith-fleet-bring-agents-into-slack-in-one-click)
+来源: LangChain Blog | 时间: 2026/7/16 02:36:26
 
 ---
 
 ### 📢 [Agents need their own computer. Here's how to give them one safely.](https://www.langchain.com/blog/agents-need-their-own-computer)
-来源: LangChain Blog | 时间: 2026/7/15 22:40:52
+来源: LangChain Blog | 时间: 2026/7/16 02:36:26
+
+---
+
+### 📢 [Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance](https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/)
+来源: AWS ML Blog | 时间: 2026/7/16 02:14:31
+
+---
+
+### 📢 [Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers](https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/)
+来源: AWS ML Blog | 时间: 2026/7/16 02:11:57
+
+---
+
+### 📢 [Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards](https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/)
+来源: AWS ML Blog | 时间: 2026/7/16 02:08:50
+
+---
+
+### 📢 [Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3](https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/16 01:37:26
+
+---
+
+### 📢 [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog)
+来源: Hugging Face Blog | 时间: 2026/7/16 01:29:41
+
+---
+
+### 📢 [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt)
+来源: Hugging Face Blog | 时间: 2026/7/16 01:27:01
+
+---
+
+### 📢 [Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box](https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box/)
+来源: PyTorch Blog | 时间: 2026/7/15 23:09:15
 
 ---
 
@@ -37,13 +72,28 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ---
 
+### 📢 [GPT-Red: Unlocking Self-Improvement for Robustness](https://openai.com/index/unlocking-self-improvement-gpt-red)
+来源: OpenAI | 时间: 2026/7/15 18:00:00
+
+---
+
 ### 📢 [How to Debug Coding Agents with LangSmith Traces](https://www.langchain.com/blog/your-coding-agents-are-a-black-box-heres-how-to-crack-them-open)
 来源: LangChain Blog | 时间: 2026/7/15 11:40:08
 
 ---
 
+### 📢 [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling)
+来源: Hugging Face Blog | 时间: 2026/7/15 08:00:00
+
+---
+
 ### 📢 [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq)
 来源: Hugging Face Blog | 时间: 2026/7/15 08:00:00
+
+---
+
+### 📢 [TML Inkling on vLLM: Day-0 Support with Optimized Performance](https://vllm.ai/blog/2026-07-15-inkling)
+来源: vLLM Blog | 时间: 2026/7/15 08:00:00
 
 ---
 
@@ -59,56 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ### 📢 [Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning](https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/15 02:20:44
-
----
-
-### 📢 [Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2](https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/)
-来源: AWS ML Blog | 时间: 2026/7/15 00:47:32
-
----
-
-### 📢 [Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis](https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/)
-来源: AWS ML Blog | 时间: 2026/7/15 00:43:41
-
----
-
-### 📢 [Scaling medical content review at Flo Health with Amazon Bedrock – Part 2](https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/)
-来源: AWS ML Blog | 时间: 2026/7/15 00:33:08
-
----
-
-### 📢 [How to manage AI investments in the agentic era](https://openai.com/index/managing-ai-investments-in-agentic-era)
-来源: OpenAI | 时间: 2026/7/14 18:00:00
-
----
-
-### 📢 [How sales teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)
-来源: OpenAI | 时间: 2026/7/14 08:00:00
-
----
-
-### 📢 [How data science teams use ChatGPT Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)
-来源: OpenAI | 时间: 2026/7/14 08:00:00
-
----
-
-### 📢 [vLLM x TileRT: Specialized Decode for Latency-Critical Serving](https://vllm.ai/blog/2026-07-14-vllm-tilert-pd)
-来源: vLLM Blog | 时间: 2026/7/14 08:00:00
-
----
-
-### 📢 [Vercel Plugin now available in VS Code and GitHub Copilot CLI](https://vercel.com/changelog/vercel-plugin-now-available-in-vs-code-and-github-copilot-cli)
-来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
-
----
-
-### 📢 [Endform joins the Vercel Marketplace](https://vercel.com/changelog/endform-joins-the-vercel-marketplace)
-来源: Vercel AI SDK | 时间: 2026/7/14 08:00:00
-
----
-
-### 📢 [Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills](https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/14 06:25:24
 
 ---
 <!-- END_LIVE_FEEDS -->
