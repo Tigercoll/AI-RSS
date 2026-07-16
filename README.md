@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，自动收集并展示最新行业资讯。项目通过静态首页和 README，以标题链接、来源及时间的形式，清晰呈现每 3 小时更新的内容。用户可快速了解 LlamaIndex、NVIDIA、LangChain、AWS 等平台的最新技术进展和应用案例，方便追踪人工智能领域的发展趋势。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展示最新行业资讯。项目通过静态首页和 README，按标题链接、来源及时间形式，实时呈现内容更新。每三小时自动刷新，确保用户获取前沿信息，涵盖 LlamaIndex、NVIDIA、LangChain 等主流平台，方便开发者和研究者及时了解 AI 技术进展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/16 06:04:52
+🕒 最后自动更新时间：2026/7/16 10:51:35
 
 ---
 
@@ -24,6 +24,11 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动收集并展示最新
 
 ### 📢 [Develop Lightweight USD Runtimes Faster with AI Agents](https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/16 05:57:41
+
+---
+
+### 📢 [Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills](https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/16 05:52:06
 
 ---
 
@@ -103,11 +108,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动收集并展示最新
 ---
 
 ### 📢 [Inkling from Thinking Machines is now available on AI Gateway](https://vercel.com/changelog/inkling-from-thinking-machines-is-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/15 08:00:00
-
----
-
-### 📢 [Chat SDK adds Discord Components V2 support](https://vercel.com/changelog/chat-sdk-adds-discord-components-v2-support)
 来源: Vercel AI SDK | 时间: 2026/7/15 08:00:00
 
 ---
