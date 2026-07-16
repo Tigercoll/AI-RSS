@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖最新产品发布、技术进展与行业趋势。项目通过静态首页和 README 实时展示标题链接、来源及时间，每三小时自动更新，确保内容新鲜可靠。用户可便捷获取如 Vercel、LangChain、NVIDIA、OpenAI 等知名团队的最新资讯，助力跟进人工智能领域的发展。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Vercel、AWS、LangChain、NVIDIA 等主流平台。项目每三小时自动更新，首页和 README 实时展示最新内容，包括标题链接、来源和时间，方便用户快速了解行业进展与技术趋势。无需注册即可访问，适合关注人工智能领域的开发者和研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/17 03:17:18
+🕒 最后自动更新时间：2026/7/17 06:05:42
 
 ---
 
@@ -14,6 +14,16 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖最新产品发
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Runtime logs now show cache reasons](https://vercel.com/changelog/runtime-logs-now-show-cache-reasons)
 来源: Vercel AI SDK | 时间: 2026/7/17 09:00:00
+
+---
+
+### 📢 [Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/)
+来源: AWS ML Blog | 时间: 2026/7/17 05:29:14
+
+---
+
+### 📢 [Introducing Grok on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/17 03:29:26
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖最新产品发
 
 ### 📢 [Agents need their own computer. Here's how to give them one safely.](https://www.langchain.com/blog/agents-need-their-own-computer)
 来源: LangChain Blog | 时间: 2026/7/16 02:36:26
-
----
-
-### 📢 [Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance](https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/)
-来源: AWS ML Blog | 时间: 2026/7/16 02:14:31
-
----
-
-### 📢 [Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers](https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/)
-来源: AWS ML Blog | 时间: 2026/7/16 02:11:57
 
 ---
 <!-- END_LIVE_FEEDS -->
