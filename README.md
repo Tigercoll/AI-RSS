@@ -1,19 +1,29 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Google DeepMind、LlamaIndex、NVIDIA、LangChain 等知名团队的最新发布。项目通过静态首页和 README 展示最新资讯，内容以标题链接、来源和时间的形式呈现。每三小时自动更新，帮助用户及时了解人工智能领域的前沿进展与技术趋势。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 Hugging Face、Google DeepMind、LlamaIndex、NVIDIA 等知名平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间。每三小时自动更新，确保信息及时、权威，便于开发者和研究者快速获取 AI 领域的最新进展与技术趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/16 19:03:27
+🕒 最后自动更新时间：2026/7/16 22:01:13
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages)
+来源: Hugging Face Blog | 时间: 2026/7/16 19:49:48
+
+---
+
 ### 📢 [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/)
 来源: Google DeepMind | 时间: 2026/7/16 17:30:42
+
+---
+
+### 📢 [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026)
+来源: Hugging Face Blog | 时间: 2026/7/16 08:00:00
 
 ---
 
@@ -94,16 +104,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Google DeepMind、Ll
 
 ### 📢 [How to Debug Coding Agents with LangSmith Traces](https://www.langchain.com/blog/your-coding-agents-are-a-black-box-heres-how-to-crack-them-open)
 来源: LangChain Blog | 时间: 2026/7/15 11:40:08
-
----
-
-### 📢 [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling)
-来源: Hugging Face Blog | 时间: 2026/7/15 08:00:00
-
----
-
-### 📢 [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq)
-来源: Hugging Face Blog | 时间: 2026/7/15 08:00:00
 
 ---
 
