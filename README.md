@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，自动生成静态首页和 README 最新内容。项目每三小时自动更新，内容以标题链接、来源和时间展示，方便开发者及时了解 LlamaIndex、NVIDIA、LangChain 等平台的最新技术进展。适合关注人工智能领域前沿资讯的用户，助力高效获取行业动态。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、NVIDIA、LangChain 等知名平台的最新技术进展。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间，便于快速浏览与跟进。每 3 小时自动更新，确保信息及时、准确，为开发者和研究者提供高效的资讯获取渠道。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/16 13:43:35
+🕒 最后自动更新时间：2026/7/16 16:19:44
 
 ---
 
@@ -62,16 +62,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，自动生成静态首
 
 ---
 
-### 📢 [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog)
-来源: Hugging Face Blog | 时间: 2026/7/16 01:29:41
-
----
-
-### 📢 [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt)
-来源: Hugging Face Blog | 时间: 2026/7/16 01:27:01
-
----
-
 ### 📢 [Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box](https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box/)
 来源: PyTorch Blog | 时间: 2026/7/15 23:09:15
 
@@ -92,16 +82,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，自动生成静态首
 
 ---
 
-### 📢 [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling)
-来源: Hugging Face Blog | 时间: 2026/7/15 08:00:00
-
----
-
-### 📢 [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq)
-来源: Hugging Face Blog | 时间: 2026/7/15 08:00:00
-
----
-
 ### 📢 [TML Inkling on vLLM: Day-0 Support with Optimized Performance](https://vllm.ai/blog/2026-07-15-inkling)
 来源: vLLM Blog | 时间: 2026/7/15 08:00:00
 
@@ -109,6 +89,26 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，自动生成静态首
 
 ### 📢 [Inkling from Thinking Machines is now available on AI Gateway](https://vercel.com/changelog/inkling-from-thinking-machines-is-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/7/15 08:00:00
+
+---
+
+### 📢 [Chat SDK adds Discord Components V2 support](https://vercel.com/changelog/chat-sdk-adds-discord-components-v2-support)
+来源: Vercel AI SDK | 时间: 2026/7/15 08:00:00
+
+---
+
+### 📢 [Multi-agent social intelligence with Strands Agents and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/15 02:44:26
+
+---
+
+### 📢 [Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning](https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/15 02:20:44
+
+---
+
+### 📢 [How to manage AI investments in the agentic era](https://openai.com/index/managing-ai-investments-in-agentic-era)
+来源: OpenAI | 时间: 2026/7/14 18:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
