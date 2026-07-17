@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、AWS、NVIDIA 等主流平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间。每三小时自动更新，确保信息及时、权威。用户可便捷获取 AI 领域的前沿资讯与技术进展，适合关注行业动态和技术演变的开发者与研究者。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖模型优化、行业应用、开发工具等内容。项目通过静态首页和 README 实时展示最新资讯，包括标题链接、来源及发布时间。每三小时自动更新，确保信息及时、权威，便于开发者和研究者快速了解人工智能领域的最新进展和趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/17 21:46:12
+🕒 最后自动更新时间：2026/7/18 00:18:08
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers](https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel)
+来源: Hugging Face Blog | 时间: 2026/7/17 23:57:54
+
+---
+
 ### 📢 [A scorecard for the AI age](https://openai.com/index/a-scorecard-for-the-ai-age)
 来源: OpenAI | 时间: 2026/7/17 18:00:00
 
@@ -19,6 +24,11 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、AWS、NVIDI
 
 ### 📢 [Runtime logs now show cache reasons](https://vercel.com/changelog/runtime-logs-now-show-cache-reasons)
 来源: Vercel AI SDK | 时间: 2026/7/17 09:00:00
+
+---
+
+### 📢 [Chat SDK adds native Slack agent support](https://vercel.com/changelog/chat-sdk-adds-native-slack-agent-support)
+来源: Vercel AI SDK | 时间: 2026/7/17 08:00:00
 
 ---
 
@@ -49,11 +59,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、AWS、NVIDI
 
 ### 📢 [Integrating Context-Aware Video AI Agents Into Enterprise Workflows](https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/17 00:03:40
-
----
-
-### 📢 [NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval](https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb)
-来源: Hugging Face Blog | 时间: 2026/7/17 00:01:21
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、AWS、NVIDI
 
 ### 📢 [Kimi K3 is now available on AI Gateway](https://vercel.com/changelog/kimi-k3-is-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/7/16 08:00:00
-
----
-
-### 📢 [Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills](https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/16 05:52:06
 
 ---
 <!-- END_LIVE_FEEDS -->
