@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Vercel、AWS、LangChain、NVIDIA 等主流平台。项目每三小时自动更新，首页和 README 实时展示最新内容，包括标题链接、来源和时间，方便用户快速了解行业进展与技术趋势。无需注册即可访问，适合关注人工智能领域的开发者和研究者。
+AI-RSS 致力于聚合全球范围内 AI 官方技术文章与最新动态，涵盖主流平台与知名团队的权威内容。项目以静态首页和 README 形式展示最新资讯，每三小时自动更新，确保信息时效性。README 以标题链接、来源和时间的方式清晰呈现，便于开发者快速获取如 Vercel、NVIDIA、AWS、LangChain 等前沿 AI 领域的最新进展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/17 06:05:42
+🕒 最后自动更新时间：2026/7/17 10:53:43
 
 ---
 
@@ -14,6 +14,11 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Vercel、AWS、LangC
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Runtime logs now show cache reasons](https://vercel.com/changelog/runtime-logs-now-show-cache-reasons)
 来源: Vercel AI SDK | 时间: 2026/7/17 09:00:00
+
+---
+
+### 📢 [Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem](https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/17 07:09:50
 
 ---
 
@@ -27,13 +32,13 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Vercel、AWS、LangC
 
 ---
 
-### 📢 [New in Fleet: Deploy AI agents to Slack in one click](https://www.langchain.com/blog/new-in-langsmith-fleet-bring-agents-into-slack-in-one-click)
-来源: LangChain Blog | 时间: 2026/7/17 02:11:51
+### 📢 [OpenWiki 0.2 brings OKF to codebase documentation](https://www.langchain.com/blog/openwiki-0-2-adds-okf-support)
+来源: LangChain Blog | 时间: 2026/7/17 02:46:10
 
 ---
 
-### 📢 [OpenWiki 0.2 brings OKF to codebase documentation](https://www.langchain.com/blog/openwiki-0-2-adds-okf-support)
-来源: LangChain Blog | 时间: 2026/7/17 00:52:39
+### 📢 [New in Fleet: Deploy AI agents to Slack in one click](https://www.langchain.com/blog/new-in-langsmith-fleet-bring-agents-into-slack-in-one-click)
+来源: LangChain Blog | 时间: 2026/7/17 02:46:10
 
 ---
 
@@ -94,11 +99,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Vercel、AWS、LangC
 
 ### 📢 [Kimi K3 is now available on AI Gateway](https://vercel.com/changelog/kimi-k3-is-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/7/16 08:00:00
-
----
-
-### 📢 [Develop Lightweight USD Runtimes Faster with AI Agents](https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/16 05:57:41
 
 ---
 
