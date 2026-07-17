@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，帮助开发者和爱好者高效获取前沿信息。项目通过静态首页和 README 文件展示最新内容，涵盖 Vercel、NVIDIA、AWS、LangChain 等主流平台。所有动态以标题链接、来源和时间的形式呈现，每 3 小时自动更新，确保信息的时效性与权威性。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 OpenAI、AWS、NVIDIA 等主流平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间。每三小时自动更新，确保信息及时、权威。用户可便捷获取 AI 领域的前沿资讯与技术进展，适合关注行业动态和技术演变的开发者与研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/17 18:50:23
+🕒 最后自动更新时间：2026/7/17 21:46:12
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [A scorecard for the AI age](https://openai.com/index/a-scorecard-for-the-ai-age)
+来源: OpenAI | 时间: 2026/7/17 18:00:00
+
+---
+
 ### 📢 [Runtime logs now show cache reasons](https://vercel.com/changelog/runtime-logs-now-show-cache-reasons)
 来源: Vercel AI SDK | 时间: 2026/7/17 09:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ### 📢 [Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills](https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/16 05:52:06
-
----
-
-### 📢 [Agents need their own computer. Here's how to give them one safely.](https://www.langchain.com/blog/agents-need-their-own-computer)
-来源: LangChain Blog | 时间: 2026/7/16 02:36:26
 
 ---
 <!-- END_LIVE_FEEDS -->
