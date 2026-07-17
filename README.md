@@ -1,17 +1,37 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖模型优化、行业应用、开发工具等内容。项目通过静态首页和 README 实时展示最新资讯，包括标题链接、来源及发布时间。每三小时自动更新，确保信息及时、权威，便于开发者和研究者快速了解人工智能领域的最新进展和趋势。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 OpenAI、AWS、Hugging Face 等知名平台。项目通过静态首页和 README 展示最新内容，包括标题链接、来源和时间，每三小时自动更新，方便用户及时了解行业发展。无需繁琐操作，即可获取权威资讯，适合关注人工智能领域的开发者和研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/18 00:18:08
+🕒 最后自动更新时间：2026/7/18 03:16:08
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/proving-the-roi-of-agentic-ai-in-financial-services)
+来源: LangChain Blog | 时间: 2026/7/18 02:55:28
+
+---
+
+### 📢 [Transform your sales organization with Amazon Quick: your new agentic AI teammate](https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/)
+来源: AWS ML Blog | 时间: 2026/7/18 02:42:36
+
+---
+
+### 📢 [Introducing Mobile Layout for Amazon Quick dashboards](https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/)
+来源: AWS ML Blog | 时间: 2026/7/18 01:13:15
+
+---
+
+### 📢 [How Smartsheet built a remote MCP server on AWS](https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/)
+来源: AWS ML Blog | 时间: 2026/7/18 00:32:06
+
+---
+
 ### 📢 [Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers](https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel)
 来源: Hugging Face Blog | 时间: 2026/7/17 23:57:54
 
@@ -27,6 +47,11 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖模型优化、
 
 ---
 
+### 📢 [GLM 5.2 is 35% off via Novita on AI Gateway](https://vercel.com/changelog/glm-5-2-is-35-off-via-novita-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/17 08:01:00
+
+---
+
 ### 📢 [Chat SDK adds native Slack agent support](https://vercel.com/changelog/chat-sdk-adds-native-slack-agent-support)
 来源: Vercel AI SDK | 时间: 2026/7/17 08:00:00
 
@@ -39,11 +64,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖模型优化、
 
 ### 📢 [Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/)
 来源: AWS ML Blog | 时间: 2026/7/17 05:29:14
-
----
-
-### 📢 [Introducing Grok on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/7/17 03:29:26
 
 ---
 
@@ -64,11 +84,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖模型优化、
 
 ### 📢 [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai)
 来源: OpenAI | 时间: 2026/7/17 00:00:00
-
----
-
-### 📢 [Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/)
-来源: AWS ML Blog | 时间: 2026/7/16 23:50:52
 
 ---
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖模型优化、
 
 ### 📢 [Markdown Comes to LiteParse](https://www.llamaindex.ai/blog/markdown-comes-to-liteparse)
 来源: LlamaIndex Blog | 时间: 2026/7/16 08:00:00
-
----
-
-### 📢 [liteparse-grpc: gRPC Server for LiteParse Document Parsing](https://www.llamaindex.ai/blog/introducing-liteparse-grpc-a-grpc-server-for-liteparse)
-来源: LlamaIndex Blog | 时间: 2026/7/16 08:00:00
-
----
-
-### 📢 [Write utilization now available in ISR Observability](https://vercel.com/changelog/write-utilization-now-available-in-isr-observability)
-来源: Vercel AI SDK | 时间: 2026/7/16 08:00:00
-
----
-
-### 📢 [Kimi K3 is now available on AI Gateway](https://vercel.com/changelog/kimi-k3-is-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/16 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
