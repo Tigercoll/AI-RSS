@@ -1,24 +1,29 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展示最新内容，包括行业博客、技术更新和应用案例。项目通过静态首页和 README，以标题链接、来源及时间的形式呈现资讯，每三小时自动刷新，确保信息及时。用户可便捷获取如 NVIDIA、AWS、Hugging Face 等权威平台的最新 AI 进展，适合关注人工智能领域动态的开发者与研究者。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台和企业博客。项目通过自动抓取与整理，生成静态首页和 README 最新动态，内容以标题链接、来源及时间展示，便于快速浏览与追踪行业进展。每 3 小时自动更新，确保信息及时、权威，为开发者和研究者提供高效的技术资讯入口。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/18 05:56:51
+🕒 最后自动更新时间：2026/7/18 10:46:43
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem](https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/18 04:24:08
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/open-source-extraction-service)
+来源: LangChain Blog | 时间: 2026/7/18 09:05:38
 
 ---
 
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/proving-the-roi-of-agentic-ai-in-financial-services)
-来源: LangChain Blog | 时间: 2026/7/18 02:55:28
+来源: LangChain Blog | 时间: 2026/7/18 09:02:09
+
+---
+
+### 📢 [Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem](https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/18 04:24:08
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收集并展
 
 ### 📢 [How Cars24 scales conversations and builds faster with OpenAI](https://openai.com/index/cars24)
 来源: OpenAI | 时间: 2026/7/16 08:00:00
-
----
-
-### 📢 [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026)
-来源: Hugging Face Blog | 时间: 2026/7/16 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
