@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangChain、AWS、NVIDIA 等知名平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间。每三小时自动更新，帮助用户高效获取行业前沿资讯，适合关注人工智能技术发展的开发者与研究者。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangChain、AWS、NVIDIA 等知名平台。项目每三小时自动更新，静态首页与 README 均实时展示最新内容，包括标题链接、来源及发布时间。用户可便捷获取行业前沿资讯，如自动化文档处理、引擎评估、定制操作系统安装、传感器仿真集成及多模型架构等，助力把握人工智能领域发展趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/21 03:47:36
+🕒 最后自动更新时间：2026/7/21 06:03:24
 
 ---
 
@@ -102,13 +102,13 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangCha
 
 ---
 
-### 📢 [Chat SDK adds native Slack agent support](https://vercel.com/changelog/chat-sdk-adds-native-slack-agent-support)
-来源: Vercel AI SDK | 时间: 2026/7/17 08:00:00
+### 📢 [Integrating Context-Aware Video AI Agents Into Enterprise Workflows](https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/17 00:03:40
 
 ---
 
-### 📢 [Integrating Context-Aware Video AI Agents Into Enterprise Workflows](https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/17 00:03:40
+### 📢 [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai)
+来源: OpenAI | 时间: 2026/7/17 00:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
