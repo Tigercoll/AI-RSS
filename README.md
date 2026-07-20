@@ -1,19 +1,49 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和 README 最新内容。项目每三小时自动更新，展示最新文章标题、来源及时间，方便用户快速了解行业趋势。内容涵盖 NVIDIA、Hugging Face、LangChain 等主流平台，适合关注人工智能技术进展的开发者和研究者。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangChain、AWS、NVIDIA 等知名平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间。每三小时自动更新，帮助用户高效获取行业前沿资讯，适合关注人工智能技术发展的开发者与研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/21 00:26:41
+🕒 最后自动更新时间：2026/7/21 03:47:36
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Mortgage Banking Document Automation: Common Workflow Gaps](https://www.llamaindex.ai/blog/mortgage-banking-document-automation)
+来源: LlamaIndex Blog | 时间: 2026/7/21 08:00:00
+
+---
+
+### 📢 [IssueBench - How We Evaluate Engine](https://www.langchain.com/blog/issuebench-how-we-evaluate-engine)
+来源: LangChain Blog | 时间: 2026/7/21 01:43:50
+
+---
+
+### 📢 [Custom OS installation now available on AWS DeepRacer devices](https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/)
+来源: AWS ML Blog | 时间: 2026/7/21 01:25:24
+
+---
+
 ### 📢 [Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps](https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/21 00:23:29
+来源: NVIDIA Developer Blog | 时间: 2026/7/21 01:25:04
+
+---
+
+### 📢 [Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit](https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/)
+来源: AWS ML Blog | 时间: 2026/7/21 01:01:32
+
+---
+
+### 📢 [How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/21 00:58:52
+
+---
+
+### 📢 [Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/7/21 00:56:48
 
 ---
 
@@ -32,8 +62,13 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ---
 
+### 📢 [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models)
+来源: OpenAI | 时间: 2026/7/20 18:00:00
+
+---
+
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/open-source-extraction-service)
-来源: LangChain Blog | 时间: 2026/7/18 09:05:38
+来源: LangChain Blog | 时间: 2026/7/20 16:29:10
 
 ---
 
@@ -44,21 +79,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ### 📢 [Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem](https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/18 04:24:08
-
----
-
-### 📢 [Transform your sales organization with Amazon Quick: your new agentic AI teammate](https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/)
-来源: AWS ML Blog | 时间: 2026/7/18 02:42:36
-
----
-
-### 📢 [Introducing Mobile Layout for Amazon Quick dashboards](https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/)
-来源: AWS ML Blog | 时间: 2026/7/18 01:13:15
-
----
-
-### 📢 [How Smartsheet built a remote MCP server on AWS](https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/)
-来源: AWS ML Blog | 时间: 2026/7/18 00:32:06
 
 ---
 
@@ -87,28 +107,8 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ---
 
-### 📢 [Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/)
-来源: AWS ML Blog | 时间: 2026/7/17 05:29:14
-
----
-
-### 📢 [OpenWiki 0.2 brings OKF to codebase documentation](https://www.langchain.com/blog/openwiki-0-2-adds-okf-support)
-来源: LangChain Blog | 时间: 2026/7/17 02:46:10
-
----
-
 ### 📢 [Integrating Context-Aware Video AI Agents Into Enterprise Workflows](https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/17 00:03:40
-
----
-
-### 📢 [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai)
-来源: OpenAI | 时间: 2026/7/17 00:00:00
-
----
-
-### 📢 [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages)
-来源: Hugging Face Blog | 时间: 2026/7/16 19:49:48
 
 ---
 <!-- END_LIVE_FEEDS -->
