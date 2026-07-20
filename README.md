@@ -1,17 +1,37 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，自动收集并展示最新行业资讯。项目每三小时更新一次，通过静态首页和 README 文件同步最新内容，包括标题链接、来源和时间，方便用户快速了解人工智能领域的最新进展。内容涵盖主流技术博客和平台，助力开发者和研究者及时掌握前沿信息。
+AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和 README 最新内容。项目每三小时自动更新，展示最新文章标题、来源及时间，方便用户快速了解行业趋势。内容涵盖 NVIDIA、Hugging Face、LangChain 等主流平台，适合关注人工智能技术进展的开发者和研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/20 22:13:23
+🕒 最后自动更新时间：2026/7/21 00:26:41
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps](https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/21 00:23:29
+
+---
+
+### 📢 [NVIDIA NVLink: The Scale-Up Network for AI Factories](https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/21 00:17:44
+
+---
+
+### 📢 [Introducing Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge)
+来源: Hugging Face Blog | 时间: 2026/7/20 23:58:51
+
+---
+
+### 📢 [Building Governed Agents: A Framework for Cost, Control, and Compliance](https://www.langchain.com/blog/building-governed-agents-a-framework-for-cost-control-and-compliance)
+来源: LangChain Blog | 时间: 2026/7/20 23:46:07
+
+---
+
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/open-source-extraction-service)
 来源: LangChain Blog | 时间: 2026/7/18 09:05:38
 
@@ -39,11 +59,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动收集并展示最新
 
 ### 📢 [How Smartsheet built a remote MCP server on AWS](https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/)
 来源: AWS ML Blog | 时间: 2026/7/18 00:32:06
-
----
-
-### 📢 [Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers](https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel)
-来源: Hugging Face Blog | 时间: 2026/7/17 23:57:54
 
 ---
 
@@ -82,11 +97,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动收集并展示最新
 
 ---
 
-### 📢 [New in Fleet: Deploy AI agents to Slack in one click](https://www.langchain.com/blog/new-in-langsmith-fleet-bring-agents-into-slack-in-one-click)
-来源: LangChain Blog | 时间: 2026/7/17 02:46:10
-
----
-
 ### 📢 [Integrating Context-Aware Video AI Agents Into Enterprise Workflows](https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/17 00:03:40
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动收集并展示最新
 
 ### 📢 [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages)
 来源: Hugging Face Blog | 时间: 2026/7/16 19:49:48
-
----
-
-### 📢 [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/)
-来源: Google DeepMind | 时间: 2026/7/16 17:30:42
-
----
-
-### 📢 [How Cars24 scales conversations and builds faster with OpenAI](https://openai.com/index/cars24)
-来源: OpenAI | 时间: 2026/7/16 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
