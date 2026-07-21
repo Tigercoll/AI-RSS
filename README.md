@@ -1,17 +1,47 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、LlamaIndex、LangChain、AWS、NVIDIA 等知名平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间，每三小时自动更新，方便用户快速了解行业前沿进展与技术趋势。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、NVIDIA、Google DeepMind 等权威来源。项目通过静态首页和 README 实时展示最新内容，每三小时自动更新，确保信息及时。README 以标题链接、来源和时间的形式呈现，便于快速浏览和追踪行业发展。适合关注 AI 技术前沿的开发者和研究者，帮助用户高效获取全球 AI 领域的最新资讯。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/21 22:00:46
+🕒 最后自动更新时间：2026/7/22 00:25:01
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/)
+来源: AWS ML Blog | 时间: 2026/7/22 00:23:12
+
+---
+
+### 📢 [Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI](https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/22 00:15:43
+
+---
+
+### 📢 [Trace voice agents in LangSmith](https://www.langchain.com/blog/trace-voice-agents-in-langsmith)
+来源: LangChain Blog | 时间: 2026/7/22 00:00:37
+
+---
+
+### 📢 [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/)
+来源: Google DeepMind | 时间: 2026/7/21 23:16:30
+
+---
+
+### 📢 [NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI](https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/21 22:59:44
+
+---
+
+### 📢 [Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/21 22:52:21
+
+---
+
 ### 📢 [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette)
 来源: Hugging Face Blog | 时间: 2026/7/21 08:00:00
 
@@ -19,6 +49,11 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、Llama
 
 ### 📢 [Mortgage Banking Document Automation: Common Workflow Gaps](https://www.llamaindex.ai/blog/mortgage-banking-document-automation)
 来源: LlamaIndex Blog | 时间: 2026/7/21 08:00:00
+
+---
+
+### 📢 [Gemini 3.6 Flash and Gemini 3.5 Flash-Lite are now available on AI Gateway](https://vercel.com/changelog/gemini-3-6-flash-3-5-flash-lite-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/21 08:00:00
 
 ---
 
@@ -32,11 +67,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、Llama
 
 ---
 
-### 📢 [Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps](https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/21 01:25:04
-
----
-
 ### 📢 [Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit](https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/)
 来源: AWS ML Blog | 时间: 2026/7/21 01:01:32
 
@@ -44,11 +74,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、Llama
 
 ### 📢 [How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/7/21 00:58:52
-
----
-
-### 📢 [Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/7/21 00:56:48
 
 ---
 
@@ -77,38 +102,13 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、Llama
 
 ---
 
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/proving-the-roi-of-agentic-ai-in-financial-services)
-来源: LangChain Blog | 时间: 2026/7/18 09:02:09
-
----
-
-### 📢 [Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem](https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/18 04:24:08
+### 📢 [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/)
+来源: Google DeepMind | 时间: 2026/7/17 23:00:11
 
 ---
 
 ### 📢 [A scorecard for the AI age](https://openai.com/index/a-scorecard-for-the-ai-age)
 来源: OpenAI | 时间: 2026/7/17 18:00:00
-
----
-
-### 📢 [Runtime logs now show cache reasons](https://vercel.com/changelog/runtime-logs-now-show-cache-reasons)
-来源: Vercel AI SDK | 时间: 2026/7/17 09:00:00
-
----
-
-### 📢 [GLM 5.2 is 35% off via Novita on AI Gateway](https://vercel.com/changelog/glm-5-2-is-35-off-via-novita-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/17 08:01:00
-
----
-
-### 📢 [Integrating Context-Aware Video AI Agents Into Enterprise Workflows](https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/17 00:03:40
-
----
-
-### 📢 [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai)
-来源: OpenAI | 时间: 2026/7/17 00:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
