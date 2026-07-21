@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangChain、AWS、NVIDIA 等知名平台。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及时间，每三小时自动更新，方便用户及时了解行业发展和技术进展。适合关注人工智能领域的开发者和研究者，助力获取高质量资讯与前沿动态。
+AI-RSS 聚合全球 AI 官方技术文章与动态，自动收集并展示最新内容，包括 Hugging Face、LlamaIndex、LangChain、AWS、NVIDIA 等知名平台的技术更新。项目每三小时自动刷新，首页为静态页面，README 实时呈现最新动态，包含标题链接、来源及时间，方便用户快速了解行业前沿信息。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/21 16:40:25
+🕒 最后自动更新时间：2026/7/21 19:11:38
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette)
+来源: Hugging Face Blog | 时间: 2026/7/21 08:00:00
+
+---
+
 ### 📢 [Mortgage Banking Document Automation: Common Workflow Gaps](https://www.llamaindex.ai/blog/mortgage-banking-document-automation)
 来源: LlamaIndex Blog | 时间: 2026/7/21 08:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangCha
 
 ### 📢 [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai)
 来源: OpenAI | 时间: 2026/7/17 00:00:00
-
----
-
-### 📢 [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages)
-来源: Hugging Face Blog | 时间: 2026/7/16 19:49:48
 
 ---
 <!-- END_LIVE_FEEDS -->
