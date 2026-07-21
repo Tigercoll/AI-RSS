@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangChain、AWS、NVIDIA 等知名平台。项目每三小时自动更新，静态首页与 README 均实时展示最新内容，包括标题链接、来源及发布时间。用户可便捷获取行业前沿资讯，如自动化文档处理、引擎评估、定制操作系统安装、传感器仿真集成及多模型架构等，助力把握人工智能领域发展趋势。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangChain、AWS、NVIDIA 等知名平台。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及时间，每 3 小时自动更新，帮助用户及时了解行业前沿进展。内容涵盖文档自动化、引擎评估、定制操作系统、传感器仿真、业务专用代理流程及多模型架构等主题。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/21 06:03:24
+🕒 最后自动更新时间：2026/7/21 10:56:45
 
 ---
 
@@ -97,11 +97,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangCha
 
 ---
 
-### 📢 [Vercel Plugin now available in Kimi Code CLI](https://vercel.com/changelog/vercel-plugin-now-available-in-kimi-code-cli)
-来源: Vercel AI SDK | 时间: 2026/7/17 08:00:00
-
----
-
 ### 📢 [Integrating Context-Aware Video AI Agents Into Enterprise Workflows](https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/17 00:03:40
 
@@ -109,6 +104,11 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 LlamaIndex、LangCha
 
 ### 📢 [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai)
 来源: OpenAI | 时间: 2026/7/17 00:00:00
+
+---
+
+### 📢 [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages)
+来源: Hugging Face Blog | 时间: 2026/7/16 19:49:48
 
 ---
 <!-- END_LIVE_FEEDS -->
