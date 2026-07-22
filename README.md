@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 PyTorch、NVIDIA、LangChain、Hugging Face 等知名平台。项目通过静态首页和 README 自动展示最新内容，包括标题链接、来源及时间，每 3 小时更新一次，便于用户及时获取行业前沿资讯。内容涵盖会议日程、技术突破、应用案例等，助力开发者了解 AI 领域最新进展。
+AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与动态，自动收集并展示最新行业资讯。项目以静态首页和 README 的形式输出内容，README 按标题链接、来源和时间进行整理，每三小时自动更新，确保信息及时。用户可便捷浏览如 vLLM、PyTorch、LangChain 和 NVIDIA 等知名平台的最新技术进展，助力了解人工智能领域的前沿动态。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/22 13:53:52
+🕒 最后自动更新时间：2026/7/22 16:34:38
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [A Preview of Production-Scale Kimi K3 Support on vLLM](https://vllm.ai/blog/2026-07-22-kimi-k3-preview)
+来源: vLLM Blog | 时间: 2026/7/22 08:00:00
+
+---
+
 ### 📢 [PyTorch Conference North America Schedule Is Live](https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live/)
 来源: PyTorch Blog | 时间: 2026/7/22 07:52:08
 
@@ -103,11 +108,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 PyTorch、NVIDIA、L
 ---
 
 ### 📢 [Vercel MCP now supports purchases](https://vercel.com/changelog/vercel-mcp-now-supports-purchases)
-来源: Vercel AI SDK | 时间: 2026/7/21 08:00:00
-
----
-
-### 📢 [Laguna S 2.1 is now available on AI Gateway](https://vercel.com/changelog/laguna-s-2-1-is-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/7/21 08:00:00
 
 ---
