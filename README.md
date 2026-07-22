@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自知名机构和平台的最新内容。项目通过静态首页和 README 展示最新资讯，包括标题链接、来源及发布时间，方便用户快速了解行业进展。数据每三小时自动更新，确保信息及时、权威，适合关注人工智能领域技术与趋势的开发者和研究者。
+AI-RSS 聚合全球主流 AI 官方技术文章与最新动态，涵盖业界重要博客与机构发布的信息。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及发布时间，便于快速浏览与追踪行业发展。数据每三小时自动更新，确保信息及时、准确，为关注人工智能领域的开发者和研究者提供高效资讯入口。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/23 03:25:54
+🕒 最后自动更新时间：2026/7/23 06:06:46
 
 ---
 
@@ -42,6 +42,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ---
 
+### 📢 [How news organizations are using AI to advance their vital missions](https://openai.com/index/how-news-organizations-are-using-ai)
+来源: OpenAI | 时间: 2026/7/22 21:00:00
+
+---
+
 ### 📢 [3 Years of Graph Engineering with LangGraph](https://www.langchain.com/blog/3-years-of-graph-engineering-with-langgraph)
 来源: LangChain Blog | 时间: 2026/7/22 20:37:19
 
@@ -63,6 +68,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 ---
 
 ### 📢 [AI Gateway now supports streaming transcription](https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription)
+来源: Vercel AI SDK | 时间: 2026/7/22 08:00:00
+
+---
+
+### 📢 [Extend eve agents with installable extensions](https://vercel.com/changelog/eve-extensions)
 来源: Vercel AI SDK | 时间: 2026/7/22 08:00:00
 
 ---
@@ -99,16 +109,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ### 📢 [Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI](https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/22 03:15:30
-
----
-
-### 📢 [Introducing the ChatGPT for small business program](https://openai.com/index/introducing-chatgpt-small-business-program)
-来源: OpenAI | 时间: 2026/7/22 01:00:00
-
----
-
-### 📢 [Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/)
-来源: AWS ML Blog | 时间: 2026/7/22 00:23:12
 
 ---
 <!-- END_LIVE_FEEDS -->
