@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Google DeepMind、OpenAI、LangChain、vLLM、PyTorch 等知名机构的最新进展。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。每三小时自动更新，确保用户及时获取业界前沿资讯，便于开发者和研究者关注人工智能领域的发展。
+AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，涵盖 AWS、PyTorch、Google DeepMind、OpenAI 等知名机构。项目通过静态首页和 README 展示最新内容，形式为标题链接、来源及时间，每三小时自动更新，确保信息及时可靠。用户可便捷获取 AI 领域的前沿资讯，助力技术学习与行业洞察。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/22 22:03:39
+🕒 最后自动更新时间：2026/7/23 00:21:32
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [AI Teammates: how monday.com runs production AI agents on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/22 23:54:28
+
+---
+
+### 📢 [Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects](https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects/)
+来源: PyTorch Blog | 时间: 2026/7/22 22:44:38
+
+---
+
 ### 📢 [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/)
 来源: Google DeepMind | 时间: 2026/7/22 21:38:54
 
@@ -24,6 +34,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Google Deep
 
 ### 📢 [3 Years of Graph Engineering with LangGraph](https://www.langchain.com/blog/3-years-of-graph-engineering-with-langgraph)
 来源: LangChain Blog | 时间: 2026/7/22 20:37:19
+
+---
+
+### 📢 [Advancing the next era of national science](https://openai.com/index/advancing-the-next-era-of-national-science)
+来源: OpenAI | 时间: 2026/7/22 20:00:00
 
 ---
 
@@ -94,21 +109,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Google Deep
 
 ### 📢 [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/)
 来源: Google DeepMind | 时间: 2026/7/21 23:16:30
-
----
-
-### 📢 [OpenAI and Hugging Face partner to address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident)
-来源: OpenAI | 时间: 2026/7/21 15:00:00
-
----
-
-### 📢 [Introducing the new Vercel Agent](https://vercel.com/blog/vercel-agent)
-来源: Vercel AI SDK | 时间: 2026/7/21 12:00:00
-
----
-
-### 📢 [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette)
-来源: Hugging Face Blog | 时间: 2026/7/21 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
