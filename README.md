@@ -1,17 +1,37 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，帮助开发者和研究者高效获取行业前沿信息。项目通过静态首页和 README 文件展示最新内容，包括文章标题、来源及发布时间，并每三小时自动更新，确保信息的时效性。内容涵盖主流 AI 框架、硬件进展及应用案例，便于用户快速浏览和深入了解人工智能领域的发展。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Google DeepMind、OpenAI、LangChain、vLLM、PyTorch 等知名机构的最新进展。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。每三小时自动更新，确保用户及时获取业界前沿资讯，便于开发者和研究者关注人工智能领域的发展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/22 19:12:16
+🕒 最后自动更新时间：2026/7/22 22:03:39
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/)
+来源: Google DeepMind | 时间: 2026/7/22 21:38:54
+
+---
+
+### 📢 [Building AI infrastructure with the Effingham County community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)
+来源: OpenAI | 时间: 2026/7/22 21:00:00
+
+---
+
+### 📢 [3 Years of Graph Engineering with LangGraph](https://www.langchain.com/blog/3-years-of-graph-engineering-with-langgraph)
+来源: LangChain Blog | 时间: 2026/7/22 20:37:19
+
+---
+
+### 📢 [Introducing OpenAI Presence](https://openai.com/index/introducing-openai-presence)
+来源: OpenAI | 时间: 2026/7/22 13:30:00
+
+---
+
 ### 📢 [A Preview of Production-Scale Kimi K3 Support on vLLM](https://vllm.ai/blog/2026-07-22-kimi-k3-preview)
 来源: vLLM Blog | 时间: 2026/7/22 08:00:00
 
@@ -72,11 +92,6 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ---
 
-### 📢 [Trace voice agents in LangSmith](https://www.langchain.com/blog/trace-voice-agents-in-langsmith)
-来源: LangChain Blog | 时间: 2026/7/22 00:02:57
-
----
-
 ### 📢 [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/)
 来源: Google DeepMind | 时间: 2026/7/21 23:16:30
 
@@ -92,23 +107,8 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ---
 
-### 📢 [David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC](https://openai.com/index/david-velez-robin-vince-join-openai-boards)
-来源: OpenAI | 时间: 2026/7/21 08:00:00
-
----
-
 ### 📢 [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette)
 来源: Hugging Face Blog | 时间: 2026/7/21 08:00:00
-
----
-
-### 📢 [Mortgage Banking Document Automation: Common Workflow Gaps](https://www.llamaindex.ai/blog/mortgage-banking-document-automation)
-来源: LlamaIndex Blog | 时间: 2026/7/21 08:00:00
-
----
-
-### 📢 [Vercel MCP now supports purchases](https://vercel.com/changelog/vercel-mcp-now-supports-purchases)
-来源: Vercel AI SDK | 时间: 2026/7/21 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
