@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，涵盖 AWS、PyTorch、Google DeepMind、OpenAI 等知名机构。项目通过静态首页和 README 展示最新内容，形式为标题链接、来源及时间，每三小时自动更新，确保信息及时可靠。用户可便捷获取 AI 领域的前沿资讯，助力技术学习与行业洞察。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自知名机构和平台的最新内容。项目通过静态首页和 README 展示最新资讯，包括标题链接、来源及发布时间，方便用户快速了解行业进展。数据每三小时自动更新，确保信息及时、权威，适合关注人工智能领域技术与趋势的开发者和研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/23 00:21:32
+🕒 最后自动更新时间：2026/7/23 03:25:54
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Eval Engineering Skill: Build Evals From Repo Context and Traces](https://www.langchain.com/blog/towards-automating-eval-engineering)
+来源: LangChain Blog | 时间: 2026/7/23 01:18:03
+
+---
+
+### 📢 [Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++](https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/23 00:35:19
+
+---
+
 ### 📢 [AI Teammates: how monday.com runs production AI agents on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/7/22 23:54:28
 
@@ -52,6 +62,11 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ---
 
+### 📢 [AI Gateway now supports streaming transcription](https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription)
+来源: Vercel AI SDK | 时间: 2026/7/22 08:00:00
+
+---
+
 ### 📢 [PyTorch Conference North America Schedule Is Live](https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live/)
 来源: PyTorch Blog | 时间: 2026/7/22 07:52:08
 
@@ -87,16 +102,6 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ---
 
-### 📢 [Building Governed Agents: A Framework for Cost, Control, and Compliance](https://www.langchain.com/blog/building-governed-agents-a-framework-for-cost-control-and-compliance)
-来源: LangChain Blog | 时间: 2026/7/22 02:11:17
-
----
-
-### 📢 [NVIDIA NVLink: The Scale-Up Network for AI Factories](https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/22 01:51:15
-
----
-
 ### 📢 [Introducing the ChatGPT for small business program](https://openai.com/index/introducing-chatgpt-small-business-program)
 来源: OpenAI | 时间: 2026/7/22 01:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ### 📢 [Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/)
 来源: AWS ML Blog | 时间: 2026/7/22 00:23:12
-
----
-
-### 📢 [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/)
-来源: Google DeepMind | 时间: 2026/7/21 23:16:30
 
 ---
 <!-- END_LIVE_FEEDS -->
