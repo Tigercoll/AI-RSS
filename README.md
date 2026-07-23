@@ -1,33 +1,33 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型、工程、研究和产品更新，并同步生成首页与 README 最新动态，适合想快速跟进 AI 动态的开发者与研究者。
+AI-RSS 聚合全球范围内的 AI 官方技术文章与动态，旨在为开发者和研究者提供最新的行业资讯。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及发布时间，每三小时自动更新，确保信息的时效性。用户可便捷浏览 NVIDIA、LangChain 等知名平台的最新技术进展与研究成果，助力把握人工智能领域的发展脉搏。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/24 03:23:56
+🕒 最后自动更新时间：2026/7/24 06:07:58
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI](https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/24 02:54:07
-
----
-
-### 📢 [NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI](https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/24 02:54:06
-
----
-
 ### 📢 [Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/24 03:50:38
+
+---
+
+### 📢 [Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++](https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/24 02:54:05
 
 ---
 
 ### 📢 [Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit](https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/24 02:54:04
+
+---
+
+### 📢 [Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes](https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/24 02:54:04
 
 ---
@@ -82,7 +82,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Connect to and manage Sandboxes from the dashboard](https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard)
+### 📢 [Announcing vLLM AFD Plugin: Disaggregating Attention and FFN for Flexible MoE Serving](https://vllm.ai/blog/2026-07-23-vllm-afd-plugin)
+来源: vLLM Blog | 时间: 2026/7/23 08:00:00
+
+---
+
+### 📢 [Evaluation metrics for Vercel Flags](https://vercel.com/changelog/evaluation-metrics-for-vercel-flags)
 来源: Vercel AI SDK | 时间: 2026/7/23 08:00:00
 
 ---
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Eval Engineering Skill: Build Evals From Repo Context and Traces](https://www.langchain.com/blog/towards-automating-eval-engineering)
 来源: LangChain Blog | 时间: 2026/7/23 01:18:03
-
----
-
-### 📢 [Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects](https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects/)
-来源: PyTorch Blog | 时间: 2026/7/22 22:44:38
 
 ---
 <!-- END_LIVE_FEEDS -->
