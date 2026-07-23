@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台与社区的最新资讯。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源及时间，便于快速浏览与追踪行业发展。每三小时自动更新，确保信息及时，适合关注人工智能技术进展的开发者与研究者。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、NVIDIA、Hugging Face、LangChain、Vercel 等平台的最新进展。项目每三小时自动更新，首页和 README 均以标题链接、来源及时间展示最新内容，方便用户快速获取行业资讯与技术趋势。无需繁琐操作，即可实时关注人工智能领域的重要动态。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/23 22:09:41
+🕒 最后自动更新时间：2026/7/24 00:39:17
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Agentic retrieval for Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/)
+来源: AWS ML Blog | 时间: 2026/7/24 00:30:20
+
+---
+
+### 📢 [Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit](https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/24 00:07:18
+
+---
+
 ### 📢 [How Schneider Electric Built Their LLMOps Foundations With LangSmith](https://www.langchain.com/blog/how-schneider-electric-built-their-llmops-foundations-at-enterprise-scale-with-langsmith)
 来源: LangChain Blog | 时间: 2026/7/23 12:36:55
 
@@ -19,6 +29,21 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台与社区
 
 ### 📢 [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers)
 来源: Hugging Face Blog | 时间: 2026/7/23 08:00:00
+
+---
+
+### 📢 [Ling 3.0 Flash is now available on AI Gateway](https://vercel.com/changelog/ling-3-0-flash-is-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/23 08:00:00
+
+---
+
+### 📢 [Vercel MCP can now deploy code](https://vercel.com/changelog/vercel-mcp-can-now-deploy-code)
+来源: Vercel AI SDK | 时间: 2026/7/23 08:00:00
+
+---
+
+### 📢 [Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes](https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/23 04:37:50
 
 ---
 
@@ -84,31 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台与社区
 
 ### 📢 [Extend eve agents with installable extensions](https://vercel.com/changelog/eve-extensions)
 来源: Vercel AI SDK | 时间: 2026/7/22 08:00:00
-
----
-
-### 📢 [PyTorch Conference North America Schedule Is Live](https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live/)
-来源: PyTorch Blog | 时间: 2026/7/22 07:52:08
-
----
-
-### 📢 [How Apollo Uses Deep Agents and LangSmith for GTM AI](https://www.langchain.com/blog/how-apollo-rebuilt-its-ai-assistant-on-deep-agents-to-power-the-full-gtm-loop)
-来源: LangChain Blog | 时间: 2026/7/22 07:48:02
-
----
-
-### 📢 [Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/22 06:09:38
-
----
-
-### 📢 [NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI](https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/22 05:14:18
-
----
-
-### 📢 [The State of Simulation for Physical AI: An Overview](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai)
-来源: Hugging Face Blog | 时间: 2026/7/22 04:00:27
 
 ---
 <!-- END_LIVE_FEEDS -->
