@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台与机构的最新进展。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及时间，便于快速浏览与追踪行业趋势。数据每三小时自动更新，确保信息及时可靠，适合关注人工智能领域的开发者和研究者使用。
+AI-RSS 聚合全球 AI 官方技术文章与动态，自动收集并展示最新行业资讯。项目通过静态首页和 README 实时更新，提供标题链接、来源及时间，方便用户快速了解前沿技术进展。每三小时自动刷新内容，确保信息及时可靠，适合关注人工智能领域的开发者和研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/23 11:16:31
+🕒 最后自动更新时间：2026/7/23 16:35:53
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How Schneider Electric Built Their LLMOps Foundations With LangSmith](https://www.langchain.com/blog/how-schneider-electric-built-their-llmops-foundations-at-enterprise-scale-with-langsmith)
+来源: LangChain Blog | 时间: 2026/7/23 12:36:55
+
+---
+
+### 📢 [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers)
+来源: Hugging Face Blog | 时间: 2026/7/23 08:00:00
+
+---
+
 ### 📢 [Eval Engineering Skill: Build Evals From Repo Context and Traces](https://www.langchain.com/blog/towards-automating-eval-engineering)
 来源: LangChain Blog | 时间: 2026/7/23 01:18:03
 
@@ -87,11 +97,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台与机构
 
 ---
 
-### 📢 [Agents need their own computer. Here's how to give them one safely.](https://www.langchain.com/blog/agents-need-their-own-computer)
-来源: LangChain Blog | 时间: 2026/7/22 07:48:02
-
----
-
 ### 📢 [Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/22 06:09:38
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台与机构
 
 ### 📢 [The State of Simulation for Physical AI: An Overview](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai)
 来源: Hugging Face Blog | 时间: 2026/7/22 04:00:27
-
----
-
-### 📢 [Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI](https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/22 03:15:30
 
 ---
 <!-- END_LIVE_FEEDS -->
