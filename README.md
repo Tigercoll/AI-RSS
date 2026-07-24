@@ -1,17 +1,32 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球范围内的 AI 官方技术文章与动态，旨在为开发者和研究者提供最新的行业资讯。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及发布时间，每三小时自动更新，确保信息的时效性。用户可便捷浏览 NVIDIA、LangChain 等知名平台的最新技术进展与研究成果，助力把握人工智能领域的发展脉搏。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 LangChain、AWS、NVIDIA 等主流平台的最新资讯。项目通过静态首页和 README 自动展示最新内容，包括标题链接、来源及发布时间，每 3 小时自动更新，方便开发者及时了解行业前沿进展。内容涵盖技术实践、性能优化、工具使用等，助力用户高效获取 AI 领域权威信息。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/24 06:07:58
+🕒 最后自动更新时间：2026/7/24 10:55:30
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [July 2026: LangChain Newsletter — NemoClaw Blueprint, OpenWiki Brains, and More](https://www.langchain.com/blog/july-2026-langchain-newsletter)
+来源: LangChain Blog | 时间: 2026/7/24 10:31:15
+
+---
+
+### 📢 [How We Benchmark Deep Agents](https://www.langchain.com/blog/how-we-benchmark-deep-agents)
+来源: LangChain Blog | 时间: 2026/7/24 10:31:15
+
+---
+
+### 📢 [Best practices for applying Amazon Bedrock Guardrails to code generation workflows](https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/)
+来源: AWS ML Blog | 时间: 2026/7/24 07:03:44
+
+---
+
 ### 📢 [Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/24 03:50:38
 
@@ -29,16 +44,6 @@ AI-RSS 聚合全球范围内的 AI 官方技术文章与动态，旨在为开发
 
 ### 📢 [Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes](https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/24 02:54:04
-
----
-
-### 📢 [July 2026: LangChain Newsletter — NemoClaw Blueprint, OpenWiki Brains, and More](https://www.langchain.com/blog/july-2026-langchain-newsletter)
-来源: LangChain Blog | 时间: 2026/7/24 02:51:32
-
----
-
-### 📢 [How We Benchmark Deep Agents](https://www.langchain.com/blog/how-we-benchmark-deep-agents)
-来源: LangChain Blog | 时间: 2026/7/24 01:55:37
 
 ---
 
@@ -62,13 +67,13 @@ AI-RSS 聚合全球范围内的 AI 官方技术文章与动态，旨在为开发
 
 ---
 
-### 📢 [Detecting silent agent failures with Amazon Bedrock AgentCore optimization](https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/)
-来源: AWS ML Blog | 时间: 2026/7/24 00:38:34
+### 📢 [Eval Engineering Skill: Build Evals From Repo Context and Traces](https://www.langchain.com/blog/towards-automating-eval-engineering)
+来源: LangChain Blog | 时间: 2026/7/23 15:36:52
 
 ---
 
 ### 📢 [How Schneider Electric Built Their LLMOps Foundations With LangSmith](https://www.langchain.com/blog/how-schneider-electric-built-their-llmops-foundations-at-enterprise-scale-with-langsmith)
-来源: LangChain Blog | 时间: 2026/7/23 12:36:55
+来源: LangChain Blog | 时间: 2026/7/23 15:36:52
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球范围内的 AI 官方技术文章与动态，旨在为开发
 
 ### 📢 [Vercel MCP can now deploy code](https://vercel.com/changelog/vercel-mcp-can-now-deploy-code)
 来源: Vercel AI SDK | 时间: 2026/7/23 08:00:00
-
----
-
-### 📢 [Eval Engineering Skill: Build Evals From Repo Context and Traces](https://www.langchain.com/blog/towards-automating-eval-engineering)
-来源: LangChain Blog | 时间: 2026/7/23 01:18:03
 
 ---
 <!-- END_LIVE_FEEDS -->
