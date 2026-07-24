@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，涵盖 AWS、NVIDIA、OpenAI、LangChain 等主流平台。项目通过静态首页和 README 自动展示最新内容，形式包括标题链接、来源及时间。数据每三小时自动更新，帮助用户及时了解人工智能领域的前沿进展与技术趋势。
+AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，帮助开发者和研究者高效获取权威信息。项目通过静态首页和 README 展示最新内容，包括标题、来源及发布时间，并每 3 小时自动更新，确保信息的时效性。无论是模型发布、技术解读还是行业趋势，用户都能在此快速浏览和获取来自 AWS、NVIDIA、LangChain 等主流平台的精选资讯。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/25 03:34:49
+🕒 最后自动更新时间：2026/7/25 06:08:11
 
 ---
 
@@ -107,8 +107,8 @@ AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，
 
 ---
 
-### 📢 [GitHub tools are now an installable eve extension](https://vercel.com/changelog/github-tools-eve-extension)
-来源: Vercel AI SDK | 时间: 2026/7/23 08:00:00
+### 📢 [Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects](https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects/)
+来源: PyTorch Blog | 时间: 2026/7/22 22:44:38
 
 ---
 <!-- END_LIVE_FEEDS -->
