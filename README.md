@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、OpenAI、LangChain、NVIDIA 等主流平台。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源与时间。每三小时自动更新，确保信息及时、权威，便于开发者和研究者快速了解行业前沿进展与最佳实践。
+AI-RSS 致力于聚合全球范围内的 AI 官方技术文章与最新动态，涵盖 AWS、NVIDIA、OpenAI、LangChain 等主流平台。项目通过静态首页和 README 自动展示最新内容，形式包括标题链接、来源及时间。数据每三小时自动更新，帮助用户及时了解人工智能领域的前沿进展与技术趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/25 00:45:41
+🕒 最后自动更新时间：2026/7/25 03:34:49
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/)
+来源: AWS ML Blog | 时间: 2026/7/25 01:59:03
+
+---
+
+### 📢 [ModelExpress: Distributing Model Artifacts at the Speed of Light](https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/25 00:35:50
+
+---
+
 ### 📢 [Build an explainable next-best-product recommendation system for banking on AWS](https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/)
 来源: AWS ML Blog | 时间: 2026/7/24 23:42:11
 
@@ -32,13 +42,18 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、OpenA
 
 ---
 
-### 📢 [Best practices for applying Amazon Bedrock Guardrails to code generation workflows](https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/)
-来源: AWS ML Blog | 时间: 2026/7/24 07:03:44
+### 📢 [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+来源: Anthropic News | 时间: 2026/7/24 08:00:00
 
 ---
 
-### 📢 [Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/24 03:50:38
+### 📢 [Claude Opus 5 now available on AI Gateway](https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/24 08:00:00
+
+---
+
+### 📢 [Best practices for applying Amazon Bedrock Guardrails to code generation workflows](https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/)
+来源: AWS ML Blog | 时间: 2026/7/24 07:03:44
 
 ---
 
@@ -59,11 +74,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、OpenA
 
 ### 📢 [Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring](https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring/)
 来源: PyTorch Blog | 时间: 2026/7/24 01:22:16
-
----
-
-### 📢 [Evaluating AI Agents: A production blueprint with Strands and AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/)
-来源: AWS ML Blog | 时间: 2026/7/24 01:00:20
 
 ---
 
@@ -98,16 +108,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、OpenA
 ---
 
 ### 📢 [GitHub tools are now an installable eve extension](https://vercel.com/changelog/github-tools-eve-extension)
-来源: Vercel AI SDK | 时间: 2026/7/23 08:00:00
-
----
-
-### 📢 [Ling 3.0 Flash is now available on AI Gateway](https://vercel.com/changelog/ling-3-0-flash-is-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/23 08:00:00
-
----
-
-### 📢 [Vercel MCP can now deploy code](https://vercel.com/changelog/vercel-mcp-can-now-deploy-code)
 来源: Vercel AI SDK | 时间: 2026/7/23 08:00:00
 
 ---
