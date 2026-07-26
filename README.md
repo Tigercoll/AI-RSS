@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和 README 最新内容，方便用户快速了解行业前沿。项目每三小时自动更新，展示最新文章标题、来源及时间，涵盖 LangChain、AWS、NVIDIA 等主流平台。通过简洁的链接列表，帮助开发者及时掌握 AI 技术进展与应用趋势，适合关注人工智能领域的技术人员与爱好者。
+AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和 README 最新内容，便于用户快速了解行业前沿。项目每三小时自动更新，展示最新文章标题、来源及时间，涵盖 LangChain、AWS、NVIDIA 等主流平台。通过简洁的链接列表，帮助开发者及时获取 AI 技术趋势与创新资讯，提升信息获取效率。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/27 00:04:15
+🕒 最后自动更新时间：2026/7/27 03:17:01
 
 ---
 
@@ -77,6 +77,11 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ---
 
+### 📢 [Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring](https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring/)
+来源: PyTorch Blog | 时间: 2026/7/24 01:22:16
+
+---
+
 ### 📢 [Eval Engineering Skill: Build Evals From Repo Context and Traces](https://www.langchain.com/blog/towards-automating-eval-engineering)
 来源: LangChain Blog | 时间: 2026/7/23 15:36:52
 
@@ -102,13 +107,8 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，自动生成静态首页和
 
 ---
 
-### 📢 [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/)
-来源: Google DeepMind | 时间: 2026/7/22 21:38:54
-
----
-
-### 📢 [Building AI infrastructure with the Effingham County community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)
-来源: OpenAI | 时间: 2026/7/22 21:00:00
+### 📢 [Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects](https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects/)
+来源: PyTorch Blog | 时间: 2026/7/22 22:44:38
 
 ---
 <!-- END_LIVE_FEEDS -->
