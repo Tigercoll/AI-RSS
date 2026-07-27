@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球范围内 AI 官方技术文章与最新动态，涵盖 AWS、NVIDIA、Hugging Face 等主流平台。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及发布时间，并每三小时自动更新，确保信息及时。用户可便捷获取企业知识压缩、量子计算校准、医疗文档处理等前沿技术资讯，助力跟进行业发展。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 NVIDIA、AWS、Vercel 等知名平台。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。每三小时自动更新，帮助用户及时了解行业前沿进展与技术创新，适合关注人工智能领域动态的开发者和研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/28 01:01:27
+🕒 最后自动更新时间：2026/7/28 03:39:56
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing](https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/28 01:49:26
+
+---
+
+### 📢 [eve adds new Slack event hooks and session controls](https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls)
+来源: Vercel AI SDK | 时间: 2026/7/28 01:00:00
+
+---
+
 ### 📢 [Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS](https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/)
 来源: AWS ML Blog | 时间: 2026/7/28 00:11:32
 
@@ -52,6 +62,11 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与最新动态，涵
 
 ---
 
+### 📢 [WebSocket support for OpenAI Responses API live on AI Gateway](https://vercel.com/changelog/websocket-support-for-openai-responses-api-live-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/27 08:01:00
+
+---
+
 ### 📢 [Kimi K3 Is Here: Efficient Day-0 Support on vLLM](https://vllm.ai/blog/2026-07-27-k3)
 来源: vLLM Blog | 时间: 2026/7/27 08:00:00
 
@@ -69,11 +84,6 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与最新动态，涵
 
 ### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
 来源: LangChain Blog | 时间: 2026/7/26 04:43:00
-
----
-
-### 📢 [Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing](https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/25 04:45:33
 
 ---
 
@@ -97,18 +107,8 @@ AI-RSS 致力于聚合全球范围内 AI 官方技术文章与最新动态，涵
 
 ---
 
-### 📢 [Claude Opus 5 now available on AI Gateway](https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/24 08:00:00
-
----
-
 ### 📢 [NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding](https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/24 04:42:19
-
----
-
-### 📢 [Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring](https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring/)
-来源: PyTorch Blog | 时间: 2026/7/24 01:22:16
 
 ---
 <!-- END_LIVE_FEEDS -->
