@@ -1,17 +1,32 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖模型发布、工程创新、应用实践等内容。项目通过静态首页和 README 实时展示最新资讯，采用标题链接、来源和时间的简洁格式，每三小时自动更新，方便用户快速了解行业前沿进展。适合关注人工智能领域的开发者和研究者，助力获取高质量信息。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖前沿模型、数据库、半导体创新等领域。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及时间，便于快速浏览与追踪行业进展。每三小时自动更新，确保信息及时、准确，为关注人工智能技术发展的用户提供高效资讯入口。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/27 11:30:30
+🕒 最后自动更新时间：2026/7/27 17:57:42
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams)
+来源: Hugging Face Blog | 时间: 2026/7/27 17:32:20
+
+---
+
+### 📢 [Six Agent Harness Capabilities for Higher Model Performance](https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/27 17:00:07
+
+---
+
+### 📢 [Full Text Search in SmithDB: Designing an Inverted Index for Object Storage](https://www.langchain.com/blog/full-text-search-in-smithdb-designing-an-inverted-index-for-object-storage)
+来源: LangChain Blog | 时间: 2026/7/27 12:06:56
+
+---
+
 ### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
 来源: LangChain Blog | 时间: 2026/7/26 04:43:00
 
@@ -72,18 +87,8 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖模型发布、
 
 ---
 
-### 📢 [Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit](https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/24 02:54:04
-
----
-
 ### 📢 [Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring](https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring/)
 来源: PyTorch Blog | 时间: 2026/7/24 01:22:16
-
----
-
-### 📢 [Eval Engineering Skill: Build Evals From Repo Context and Traces](https://www.langchain.com/blog/towards-automating-eval-engineering)
-来源: LangChain Blog | 时间: 2026/7/23 15:36:52
 
 ---
 
@@ -97,18 +102,13 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖模型发布、
 
 ---
 
-### 📢 [Announcing vLLM AFD Plugin: Disaggregating Attention and FFN for Flexible MoE Serving](https://vllm.ai/blog/2026-07-23-vllm-afd-plugin)
+### 📢 [From Day 0 to Production SLAs: Serving GLM-5.2 on 24 NVIDIA B300 GPUs with vLLM](https://vllm.ai/blog/2026-07-23-glm-5.2-nvfp4-b300-pd)
 来源: vLLM Blog | 时间: 2026/7/23 08:00:00
 
 ---
 
-### 📢 [Evaluation metrics for Vercel Flags](https://vercel.com/changelog/evaluation-metrics-for-vercel-flags)
-来源: Vercel AI SDK | 时间: 2026/7/23 08:00:00
-
----
-
-### 📢 [Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects](https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects/)
-来源: PyTorch Blog | 时间: 2026/7/22 22:44:38
+### 📢 [Announcing vLLM AFD Plugin: Disaggregating Attention and FFN for Flexible MoE Serving](https://vllm.ai/blog/2026-07-23-vllm-afd-plugin)
+来源: vLLM Blog | 时间: 2026/7/23 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
