@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 NVIDIA、AWS、Vercel 等知名平台。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息。每三小时自动更新，帮助用户及时了解行业前沿进展与技术创新，适合关注人工智能领域动态的开发者和研究者。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Vercel、NVIDIA、AWS 等知名平台的最新进展。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及发布时间，并每三小时自动更新，确保信息及时。用户可便捷获取区域推理、半导体创新、企业知识压缩等前沿技术资讯，助力把握人工智能领域的发展趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/28 03:39:56
+🕒 最后自动更新时间：2026/7/28 06:11:15
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Regional inference now available on AI Gateway](https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/28 03:00:00
+
+---
+
 ### 📢 [Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing](https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/28 01:49:26
 
@@ -57,6 +62,11 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 NVIDIA、AWS�
 
 ---
 
+### 📢 [DeepsecBench: evaluating model performance in finding cybersecurity vulnerabilities](https://vercel.com/blog/deepsecbench-evaluating-model-performance-in-finding-cybersecurity-vulnerabilities)
+来源: Vercel AI SDK | 时间: 2026/7/27 12:00:00
+
+---
+
 ### 📢 [How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work)
 来源: OpenAI | 时间: 2026/7/27 11:30:00
 
@@ -69,16 +79,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 NVIDIA、AWS�
 
 ### 📢 [Kimi K3 Is Here: Efficient Day-0 Support on vLLM](https://vllm.ai/blog/2026-07-27-k3)
 来源: vLLM Blog | 时间: 2026/7/27 08:00:00
-
----
-
-### 📢 [Kimi K3 and Kimi K3 Fast with ZDR and US-based providers now on AI Gateway](https://vercel.com/changelog/kimi-k3-and-kimi-k3-fast-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/27 08:00:00
-
----
-
-### 📢 [Run Claude Managed Agents with Chat SDK](https://vercel.com/changelog/claude-managed-agents-with-chat-sdk)
-来源: Vercel AI SDK | 时间: 2026/7/27 08:00:00
 
 ---
 
