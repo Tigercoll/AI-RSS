@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，自动生成静态首页和 README 最新内容展示。每三小时更新一次，内容以标题链接、来源和时间的形式呈现，方便用户快速了解行业最新进展。项目旨在为开发者和研究者提供高效、权威的信息入口，助力把握人工智能领域的前沿动态。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖模型发布、工程创新、应用实践等内容。项目通过静态首页和 README 实时展示最新资讯，采用标题链接、来源和时间的简洁格式，每三小时自动更新，方便用户快速了解行业前沿进展。适合关注人工智能领域的开发者和研究者，助力获取高质量信息。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/27 06:01:44
+🕒 最后自动更新时间：2026/7/27 11:30:30
 
 ---
 
@@ -14,6 +14,11 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，自动生成静态首
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
 来源: LangChain Blog | 时间: 2026/7/26 04:43:00
+
+---
+
+### 📢 [Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing](https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/25 04:45:33
 
 ---
 
@@ -62,17 +67,12 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，自动生成静态首
 
 ---
 
-### 📢 [Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++](https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/24 02:54:05
+### 📢 [NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding](https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/24 04:42:19
 
 ---
 
 ### 📢 [Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit](https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/24 02:54:04
-
----
-
-### 📢 [Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes](https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/24 02:54:04
 
 ---
