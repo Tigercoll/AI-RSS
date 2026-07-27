@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖前沿模型、数据库、半导体创新等领域。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及时间，便于快速浏览与追踪行业进展。每三小时自动更新，确保信息及时、准确，为关注人工智能技术发展的用户提供高效资讯入口。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖行业前沿技术、应用案例及最新趋势。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及发布时间，便于快速浏览与追踪。数据每三小时自动更新，确保信息及时、权威，为开发者和研究者提供高效的知识获取渠道。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/27 17:57:42
+🕒 最后自动更新时间：2026/7/27 22:43:43
 
 ---
 
@@ -24,6 +24,16 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖前沿模型、数据
 
 ### 📢 [Full Text Search in SmithDB: Designing an Inverted Index for Object Storage](https://www.langchain.com/blog/full-text-search-in-smithdb-designing-an-inverted-index-for-object-storage)
 来源: LangChain Blog | 时间: 2026/7/27 12:06:56
+
+---
+
+### 📢 [How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work)
+来源: OpenAI | 时间: 2026/7/27 11:30:00
+
+---
+
+### 📢 [Run Claude Managed Agents with Chat SDK](https://vercel.com/changelog/claude-managed-agents-with-chat-sdk)
+来源: Vercel AI SDK | 时间: 2026/7/27 08:00:00
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖前沿模型、数据
 
 ### 📢 [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers)
 来源: Hugging Face Blog | 时间: 2026/7/23 08:00:00
-
----
-
-### 📢 [From Day 0 to Production SLAs: Serving GLM-5.2 on 24 NVIDIA B300 GPUs with vLLM](https://vllm.ai/blog/2026-07-23-glm-5.2-nvfp4-b300-pd)
-来源: vLLM Blog | 时间: 2026/7/23 08:00:00
-
----
-
-### 📢 [Announcing vLLM AFD Plugin: Disaggregating Attention and FFN for Flexible MoE Serving](https://vllm.ai/blog/2026-07-23-vllm-afd-plugin)
-来源: vLLM Blog | 时间: 2026/7/23 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
