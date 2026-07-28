@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 AWS、PyTorch、OpenAI、Hugging Face 等主流平台。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及时间，每三小时自动更新，确保信息及时。用户可便捷浏览如 AgentCore、科学计算、地理推断等领域的最新进展，适合关注 AI 技术动态的开发者与研究者。
+AI-RSS 聚合全球各大 AI 官方博客和技术平台的最新文章与动态，涵盖医疗机器人、智能代理、科学计算、地理推理等领域。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息，每三小时自动更新，方便用户及时了解行业前沿进展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/29 03:37:57
+🕒 最后自动更新时间：2026/7/29 06:07:46
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/29 05:07:26
+
+---
+
 ### 📢 [How AgentCore Gateway supports the MCP 2026-07-28 spec](https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/)
 来源: AWS ML Blog | 时间: 2026/7/29 03:07:09
 
@@ -47,13 +52,13 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 AWS、PyTorch、Open
 
 ---
 
-### 📢 [Regional inference now available on AI Gateway](https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/28 03:00:00
+### 📢 [Parallel All the Way Down: Beyond Single-Token Generation with Speculative Decoding](https://vllm.ai/blog/2026-07-28-speculators-parallel-drafting)
+来源: vLLM Blog | 时间: 2026/7/28 08:00:00
 
 ---
 
-### 📢 [Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing](https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/28 01:49:26
+### 📢 [Regional inference now available on AI Gateway](https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/28 03:00:00
 
 ---
 
@@ -74,6 +79,11 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 AWS、PyTorch、Open
 
 ### 📢 [NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning](https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/27 23:38:48
+
+---
+
+### 📢 [How Sandstone grew 40x in 147 days on Vercel](https://vercel.com/blog/how-sandstone-grew-40x-in-147-days-on-vercel)
+来源: Vercel AI SDK | 时间: 2026/7/27 22:00:00
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 AWS、PyTorch、Open
 
 ### 📢 [DeepsecBench: evaluating model performance in finding cybersecurity vulnerabilities](https://vercel.com/blog/deepsecbench-evaluating-model-performance-in-finding-cybersecurity-vulnerabilities)
 来源: Vercel AI SDK | 时间: 2026/7/27 12:00:00
-
----
-
-### 📢 [How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work)
-来源: OpenAI | 时间: 2026/7/27 11:30:00
-
----
-
-### 📢 [WebSocket support for OpenAI Responses API live on AI Gateway](https://vercel.com/changelog/websocket-support-for-openai-responses-api-live-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/27 08:01:00
 
 ---
 <!-- END_LIVE_FEEDS -->
