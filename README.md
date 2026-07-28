@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Vercel、NVIDIA、AWS 等知名平台的最新进展。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及发布时间，并每三小时自动更新，确保信息及时。用户可便捷获取区域推理、半导体创新、企业知识压缩等前沿技术资讯，助力把握人工智能领域的发展趋势。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Vercel、NVIDIA、AWS 等主流平台的最新进展。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源和时间，便于快速浏览。数据每三小时自动更新，确保信息及时。用户可第一时间了解区域推理、半导体创新、企业知识压缩等前沿技术动态。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/28 06:11:15
+🕒 最后自动更新时间：2026/7/28 10:47:16
 
 ---
 
@@ -57,8 +57,13 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Vercel、NV
 
 ---
 
+### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
+来源: LangChain Blog | 时间: 2026/7/27 13:12:17
+
+---
+
 ### 📢 [Full Text Search in SmithDB: Designing an Inverted Index for Object Storage](https://www.langchain.com/blog/full-text-search-in-smithdb-designing-an-inverted-index-for-object-storage)
-来源: LangChain Blog | 时间: 2026/7/27 12:06:56
+来源: LangChain Blog | 时间: 2026/7/27 13:12:17
 
 ---
 
@@ -79,11 +84,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Vercel、NV
 
 ### 📢 [Kimi K3 Is Here: Efficient Day-0 Support on vLLM](https://vllm.ai/blog/2026-07-27-k3)
 来源: vLLM Blog | 时间: 2026/7/27 08:00:00
-
----
-
-### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
-来源: LangChain Blog | 时间: 2026/7/26 04:43:00
 
 ---
 
