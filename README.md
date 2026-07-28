@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台与厂商的最新进展。项目通过静态首页和 README 自动展示最新内容，包括标题链接、来源和发布时间，便于快速了解行业趋势。每 3 小时自动更新，确保信息及时可靠，适合关注人工智能领域的开发者与研究者。
+AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为用户提供最新的行业资讯。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及时间信息。数据每三小时自动更新，确保信息及时可靠。用户可便捷浏览来自 LangChain、Vercel、NVIDIA、AWS 等知名平台的技术进展与动态，助力把握人工智能领域的发展趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/28 13:50:27
+🕒 最后自动更新时间：2026/7/28 16:39:48
 
 ---
 
@@ -92,6 +92,11 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台与厂商
 
 ---
 
+### 📢 [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
+来源: Kimi Blog | 时间: 2026/7/27 08:00:00
+
+---
+
 ### 📢 [Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/)
 来源: AWS ML Blog | 时间: 2026/7/25 01:59:03
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台与厂商
 
 ### 📢 [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 来源: Anthropic News | 时间: 2026/7/24 08:00:00
-
----
-
-### 📢 [NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding](https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/24 04:42:19
 
 ---
 <!-- END_LIVE_FEEDS -->
