@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，自动生成静态首页和 README 最新内容。项目每三小时自动更新，展示最新文章标题、来源及发布时间，方便开发者快速了解行业前沿进展。内容涵盖 LangChain、Vercel、NVIDIA、AWS 等知名平台，助力用户高效获取权威信息，持续关注人工智能领域的创新与发展。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、LangChain、NVIDIA、Vercel 等知名平台。项目通过静态首页和 README 展示最新资讯，每三小时自动更新，内容以标题链接、来源和时间形式呈现，方便用户及时了解行业前沿进展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/28 22:16:01
+🕒 最后自动更新时间：2026/7/29 00:43:20
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [The OlmoEarth Platform: Geospatial inference at planetary scale](https://huggingface.co/blog/allenai/olmoearth-infrastructure)
+来源: Hugging Face Blog | 时间: 2026/7/29 00:27:42
+
+---
+
+### 📢 [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders)
+来源: Hugging Face Blog | 时间: 2026/7/28 23:01:45
+
+---
+
 ### 📢 [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack)
 来源: LangChain Blog | 时间: 2026/7/28 13:40:47
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，自动生成静态首
 
 ### 📢 [Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/)
 来源: AWS ML Blog | 时间: 2026/7/25 01:59:03
-
----
-
-### 📢 [July 2026: LangChain Newsletter — NemoClaw Blueprint, OpenWiki Brains, and More](https://www.langchain.com/blog/july-2026-langchain-newsletter)
-来源: LangChain Blog | 时间: 2026/7/24 10:31:15
-
----
-
-### 📢 [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-来源: Anthropic News | 时间: 2026/7/24 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
