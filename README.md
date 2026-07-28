@@ -1,17 +1,22 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Vercel、NVIDIA、AWS 等主流平台的最新进展。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源和时间，便于快速浏览。数据每三小时自动更新，确保信息及时。用户可第一时间了解区域推理、半导体创新、企业知识压缩等前沿技术动态。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖主流平台与厂商的最新进展。项目通过静态首页和 README 自动展示最新内容，包括标题链接、来源和发布时间，便于快速了解行业趋势。每 3 小时自动更新，确保信息及时可靠，适合关注人工智能领域的开发者与研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/28 10:47:16
+🕒 最后自动更新时间：2026/7/28 13:50:27
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack)
+来源: LangChain Blog | 时间: 2026/7/28 13:40:47
+
+---
+
 ### 📢 [Regional inference now available on AI Gateway](https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/7/28 03:00:00
 
@@ -93,11 +98,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 Vercel、NV
 ---
 
 ### 📢 [July 2026: LangChain Newsletter — NemoClaw Blueprint, OpenWiki Brains, and More](https://www.langchain.com/blog/july-2026-langchain-newsletter)
-来源: LangChain Blog | 时间: 2026/7/24 10:31:15
-
----
-
-### 📢 [How We Benchmark Deep Agents](https://www.langchain.com/blog/how-we-benchmark-deep-agents)
 来源: LangChain Blog | 时间: 2026/7/24 10:31:15
 
 ---
