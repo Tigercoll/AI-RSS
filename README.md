@@ -1,17 +1,37 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、LangChain、NVIDIA、Vercel 等知名平台。项目通过静态首页和 README 展示最新资讯，每三小时自动更新，内容以标题链接、来源和时间形式呈现，方便用户及时了解行业前沿进展。
+AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 AWS、PyTorch、OpenAI、Hugging Face 等主流平台。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及时间，每三小时自动更新，确保信息及时。用户可便捷浏览如 AgentCore、科学计算、地理推断等领域的最新进展，适合关注 AI 技术动态的开发者与研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/29 00:43:20
+🕒 最后自动更新时间：2026/7/29 03:37:57
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How AgentCore Gateway supports the MCP 2026-07-28 spec](https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/)
+来源: AWS ML Blog | 时间: 2026/7/29 03:07:09
+
+---
+
+### 📢 [PyTorch Foundation Flare Pin Community Design Contest](https://pytorch.org/blog/pytorch-foundation-flare-pin-community-design-contest/)
+来源: PyTorch Blog | 时间: 2026/7/29 02:13:05
+
+---
+
+### 📢 [Market surveillance agent with LangGraph and Strands on AgentCore](https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/)
+来源: AWS ML Blog | 时间: 2026/7/29 01:24:54
+
+---
+
+### 📢 [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai)
+来源: OpenAI | 时间: 2026/7/29 01:00:00
+
+---
+
 ### 📢 [The OlmoEarth Platform: Geospatial inference at planetary scale](https://huggingface.co/blog/allenai/olmoearth-infrastructure)
 来源: Hugging Face Blog | 时间: 2026/7/29 00:27:42
 
@@ -52,11 +72,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、LangC
 
 ---
 
-### 📢 [How Guardoc transforms medical document processing with Amazon Nova models](https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/)
-来源: AWS ML Blog | 时间: 2026/7/28 00:05:00
-
----
-
 ### 📢 [NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning](https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/27 23:38:48
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，涵盖 Hugging Face、LangC
 
 ### 📢 [WebSocket support for OpenAI Responses API live on AI Gateway](https://vercel.com/changelog/websocket-support-for-openai-responses-api-live-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/7/27 08:01:00
-
----
-
-### 📢 [Kimi K3 Is Here: Efficient Day-0 Support on vLLM](https://vllm.ai/blog/2026-07-27-k3)
-来源: vLLM Blog | 时间: 2026/7/27 08:00:00
-
----
-
-### 📢 [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
-来源: Kimi Blog | 时间: 2026/7/27 08:00:00
-
----
-
-### 📢 [Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/)
-来源: AWS ML Blog | 时间: 2026/7/25 01:59:03
 
 ---
 <!-- END_LIVE_FEEDS -->
