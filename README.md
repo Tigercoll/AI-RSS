@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自知名平台的最新资讯。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及发布时间，方便用户快速浏览与追踪行业进展。数据每三小时自动更新，确保信息及时、权威，为开发者和研究者提供高效的信息获取渠道。
+AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和研究者提供最新的行业资讯。项目通过自动化流程，每三小时更新一次静态首页和 README，展示最新内容的标题、来源及时间。用户可便捷获取来自 LangChain、NVIDIA、AWS、Google DeepMind 等权威平台的技术进展与应用案例，助力把握人工智能领域的发展趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/30 03:22:06
+🕒 最后自动更新时间：2026/7/30 06:04:05
 
 ---
 
@@ -57,6 +57,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ---
 
+### 📢 [How GPT-5.6 fuses frontier intelligence with frontier efficiency](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)
+来源: OpenAI | 时间: 2026/7/29 08:00:00
+
+---
+
 ### 📢 [Optimizing vLLM on Arm CPUs](https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus)
 来源: vLLM Blog | 时间: 2026/7/29 08:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自
 
 ### 📢 [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack)
 来源: LangChain Blog | 时间: 2026/7/28 13:40:47
-
----
-
-### 📢 [Parallel All the Way Down: Beyond Single-Token Generation with Speculative Decoding](https://vllm.ai/blog/2026-07-28-speculators-parallel-drafting)
-来源: vLLM Blog | 时间: 2026/7/28 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
