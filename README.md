@@ -1,17 +1,27 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、Google、NVIDIA 等主流平台的最新进展。项目通过静态首页和 README 展示最新内容，形式包括标题链接、来源和时间。每三小时自动更新，确保信息及时、权威，方便开发者和研究者快速获取人工智能领域的前沿资讯与技术解读。
+AI-RSS 致力于聚合全球 AI 官方技术文章与动态，自动收录来自知名平台的最新资讯。项目通过静态首页和 README 展示最新内容，包括标题链接、来源及发布时间，方便用户快速浏览与追踪行业进展。数据每三小时自动更新，确保信息及时、权威，为开发者和研究者提供高效的信息获取渠道。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/30 00:24:39
+🕒 最后自动更新时间：2026/7/30 03:22:06
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Deep Agents v0.7](https://www.langchain.com/blog/deep-agents-v0-7)
+来源: LangChain Blog | 时间: 2026/7/30 01:00:19
+
+---
+
+### 📢 [How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails](https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/30 00:46:59
+
+---
+
 ### 📢 [Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity](https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/)
 来源: AWS ML Blog | 时间: 2026/7/30 00:20:28
 
@@ -42,8 +52,23 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、Googl
 
 ---
 
+### 📢 [Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers)
+来源: OpenAI | 时间: 2026/7/29 18:00:00
+
+---
+
 ### 📢 [Optimizing vLLM on Arm CPUs](https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus)
 来源: vLLM Blog | 时间: 2026/7/29 08:00:00
+
+---
+
+### 📢 [AI Gateway adds unified fast mode support](https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support)
+来源: Vercel AI SDK | 时间: 2026/7/29 08:00:00
+
+---
+
+### 📢 [Sign in with ChatGPT is now available on Vercel](https://vercel.com/changelog/sign-in-with-chatgpt-is-now-available-on-vercel)
+来源: Vercel AI SDK | 时间: 2026/7/29 08:00:00
 
 ---
 
@@ -84,31 +109,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖 AWS、Googl
 
 ### 📢 [Parallel All the Way Down: Beyond Single-Token Generation with Speculative Decoding](https://vllm.ai/blog/2026-07-28-speculators-parallel-drafting)
 来源: vLLM Blog | 时间: 2026/7/28 08:00:00
-
----
-
-### 📢 [Regional inference now available on AI Gateway](https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/28 03:00:00
-
----
-
-### 📢 [eve adds new Slack event hooks and session controls](https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls)
-来源: Vercel AI SDK | 时间: 2026/7/28 01:00:00
-
----
-
-### 📢 [NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning](https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/27 23:38:48
-
----
-
-### 📢 [How Sandstone grew 40x in 147 days on Vercel](https://vercel.com/blog/how-sandstone-grew-40x-in-147-days-on-vercel)
-来源: Vercel AI SDK | 时间: 2026/7/27 22:00:00
-
----
-
-### 📢 [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams)
-来源: Hugging Face Blog | 时间: 2026/7/27 17:32:20
 
 ---
 <!-- END_LIVE_FEEDS -->
