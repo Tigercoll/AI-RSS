@@ -1,17 +1,57 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球人工智能领域的官方技术文章与最新动态，涵盖主流平台与机构发布的信息。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间。数据每三小时自动更新，确保信息及时、权威，便于开发者和研究者快速了解行业发展与技术进展。
+AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Google DeepMind、PyTorch、Hugging Face 等平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间，每三小时自动更新。用户可便捷获取前沿 AI 技术资讯，适合关注行业动态和技术进展的开发者与研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/30 22:10:06
+🕒 最后自动更新时间：2026/7/31 00:38:28
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/7/31 00:10:10
+
+---
+
+### 📢 [Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/31 00:02:32
+
+---
+
+### 📢 [Migrate your prompts to new models and optimize them on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/30 23:58:32
+
+---
+
+### 📢 [FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities](https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities/)
+来源: PyTorch Blog | 时间: 2026/7/30 23:26:48
+
+---
+
+### 📢 [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management)
+来源: Hugging Face Blog | 时间: 2026/7/30 23:09:09
+
+---
+
+### 📢 [Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/)
+来源: Google DeepMind | 时间: 2026/7/30 23:00:59
+
+---
+
+### 📢 [NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure](https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/30 22:38:32
+
+---
+
+### 📢 [Latest MCP spec now supported in mcp-handler](https://vercel.com/changelog/latest-mcp-spec-now-supported-in-mcp-handler)
+来源: Vercel AI SDK | 时间: 2026/7/30 08:00:00
+
+---
+
 ### 📢 [Deep Agents v0.7](https://www.langchain.com/blog/deep-agents-v0-7)
 来源: LangChain Blog | 时间: 2026/7/30 01:00:19
 
@@ -37,18 +77,8 @@ AI-RSS 聚合全球人工智能领域的官方技术文章与最新动态，涵�
 
 ---
 
-### 📢 [Generate Autonomous Business Insights with AI Agent and MCP Servers](https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/)
-来源: AWS ML Blog | 时间: 2026/7/29 23:34:18
-
----
-
 ### 📢 [How Similarweb Evaluates Agent Reports with LangSmith](https://www.langchain.com/blog/how-similarweb-evaluates-long-form-agent-research-reports-with-langsmith)
 来源: LangChain Blog | 时间: 2026/7/29 23:30:04
-
----
-
-### 📢 [Automating customer retention workflows in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/7/29 23:24:21
 
 ---
 
@@ -79,36 +109,6 @@ AI-RSS 聚合全球人工智能领域的官方技术文章与最新动态，涵�
 
 ### 📢 [AI Gateway adds unified fast mode support](https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support)
 来源: Vercel AI SDK | 时间: 2026/7/29 08:00:00
-
----
-
-### 📢 [Sign in with ChatGPT is now available on Vercel](https://vercel.com/changelog/sign-in-with-chatgpt-is-now-available-on-vercel)
-来源: Vercel AI SDK | 时间: 2026/7/29 08:00:00
-
----
-
-### 📢 [Discover and install eve integrations from the CLI](https://vercel.com/changelog/discover-and-install-eve-integrations-from-the-cli)
-来源: Vercel AI SDK | 时间: 2026/7/29 08:00:00
-
----
-
-### 📢 [How AgentCore Gateway supports the MCP 2026-07-28 spec](https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/)
-来源: AWS ML Blog | 时间: 2026/7/29 03:07:09
-
----
-
-### 📢 [PyTorch Foundation Flare Pin Community Design Contest](https://pytorch.org/blog/pytorch-foundation-flare-pin-community-design-contest/)
-来源: PyTorch Blog | 时间: 2026/7/29 02:13:05
-
----
-
-### 📢 [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai)
-来源: OpenAI | 时间: 2026/7/29 01:00:00
-
----
-
-### 📢 [The OlmoEarth Platform: Geospatial inference at planetary scale](https://huggingface.co/blog/allenai/olmoearth-infrastructure)
-来源: Hugging Face Blog | 时间: 2026/7/29 00:27:42
 
 ---
 <!-- END_LIVE_FEEDS -->
