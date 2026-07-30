@@ -1,17 +1,37 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Google DeepMind、PyTorch、Hugging Face 等平台。项目通过静态首页和 README 实时展示最新内容，包括标题链接、来源及发布时间，每三小时自动更新。用户可便捷获取前沿 AI 技术资讯，适合关注行业动态和技术进展的开发者与研究者。
+AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和研究者提供最新的行业资讯。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息，每三小时自动更新。用户可便捷获取如 LangChain、AWS ML Blog 等权威平台的最新技术进展，助力及时掌握人工智能领域的发展趋势。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/31 00:38:28
+🕒 最后自动更新时间：2026/7/31 03:38:23
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway)
+来源: LangChain Blog | 时间: 2026/7/31 01:38:33
+
+---
+
+### 📢 [Deploying Kimi K3 on AWS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/)
+来源: AWS ML Blog | 时间: 2026/7/31 01:22:32
+
+---
+
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
+来源: LangChain Blog | 时间: 2026/7/31 01:18:13
+
+---
+
+### 📢 [How Yahoo enhances search retargeting using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/7/31 00:40:36
+
+---
+
 ### 📢 [Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/)
 来源: AWS ML Blog | 时间: 2026/7/31 00:10:10
 
@@ -19,11 +39,6 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Google D
 
 ### 📢 [Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/7/31 00:02:32
-
----
-
-### 📢 [Migrate your prompts to new models and optimize them on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/7/30 23:58:32
 
 ---
 
@@ -47,23 +62,38 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Google D
 
 ---
 
-### 📢 [Latest MCP spec now supported in mcp-handler](https://vercel.com/changelog/latest-mcp-spec-now-supported-in-mcp-handler)
+### 📢 [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6)
+来源: OpenAI | 时间: 2026/7/30 18:00:00
+
+---
+
+### 📢 [Run multiple isolated agents in a single Sandbox](https://vercel.com/changelog/run-multiple-isolated-agents-in-a-single-sandbox)
+来源: Vercel AI SDK | 时间: 2026/7/30 12:00:00
+
+---
+
+### 📢 [Inkling Small from Thinking Machines is now available on AI Gateway](https://vercel.com/changelog/inkling-small-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/30 08:00:00
+
+---
+
+### 📢 [AI Gateway: GPT-5.6 pricing and speed updates](https://vercel.com/changelog/ai-gateway-gpt-5-6-pricing-speed-updates)
 来源: Vercel AI SDK | 时间: 2026/7/30 08:00:00
 
 ---
 
 ### 📢 [Deep Agents v0.7](https://www.langchain.com/blog/deep-agents-v0-7)
-来源: LangChain Blog | 时间: 2026/7/30 01:00:19
+来源: LangChain Blog | 时间: 2026/7/30 05:06:43
+
+---
+
+### 📢 [How Similarweb Evaluates Agent Reports with LangSmith](https://www.langchain.com/blog/how-similarweb-evaluates-long-form-agent-research-reports-with-langsmith)
+来源: LangChain Blog | 时间: 2026/7/30 05:06:43
 
 ---
 
 ### 📢 [How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails](https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/30 00:46:59
-
----
-
-### 📢 [Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity](https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/)
-来源: AWS ML Blog | 时间: 2026/7/30 00:20:28
 
 ---
 
@@ -77,38 +107,8 @@ AI-RSS 聚合全球主流 AI 官方技术文章与动态，涵盖 AWS、Google D
 
 ---
 
-### 📢 [How Similarweb Evaluates Agent Reports with LangSmith](https://www.langchain.com/blog/how-similarweb-evaluates-long-form-agent-research-reports-with-langsmith)
-来源: LangChain Blog | 时间: 2026/7/29 23:30:04
-
----
-
 ### 📢 [How enabling two settings tripled our scores on the ARC-AGI-3 benchmark](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)
 来源: OpenAI | 时间: 2026/7/29 23:00:00
-
----
-
-### 📢 [Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers)
-来源: OpenAI | 时间: 2026/7/29 18:00:00
-
----
-
-### 📢 [How GPT-5.6 fuses frontier intelligence with frontier efficiency](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)
-来源: OpenAI | 时间: 2026/7/29 08:00:00
-
----
-
-### 📢 [Optimizing vLLM on Arm CPUs](https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus)
-来源: vLLM Blog | 时间: 2026/7/29 08:00:00
-
----
-
-### 📢 [Grok Voice Think Fast 2.0 now available on AI Gateway](https://vercel.com/changelog/grok-voice-think-fast-2-0-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/29 08:00:00
-
----
-
-### 📢 [AI Gateway adds unified fast mode support](https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support)
-来源: Vercel AI SDK | 时间: 2026/7/29 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
