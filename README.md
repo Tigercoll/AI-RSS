@@ -1,19 +1,29 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和研究者提供最新的行业资讯。项目通过静态首页和 README 展示最新内容，包含标题链接、来源及时间信息，每三小时自动更新。用户可便捷获取如 LangChain、AWS ML Blog 等权威平台的最新技术进展，助力及时掌握人工智能领域的发展趋势。
+AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型、工程、研究和产品更新，并同步生成首页与 README 最新动态，适合想快速跟进 AI 动态的开发者与研究者。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/31 03:38:23
+🕒 最后自动更新时间：2026/7/31 06:09:18
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/31 05:12:24
+
+---
+
+### 📢 [Four Ways to Deploy More Secure AI Agents](https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/31 05:10:14
+
+---
+
 ### 📢 [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway)
-来源: LangChain Blog | 时间: 2026/7/31 01:38:33
+来源: LangChain Blog | 时间: 2026/7/31 03:10:25
 
 ---
 
@@ -67,6 +77,11 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和研究
 
 ---
 
+### 📢 [Shopify and Vercel are rebuilding Hydrogen for faster storefronts](https://vercel.com/blog/shopify-and-vercel-are-rebuilding-hydrogen-for-faster-storefronts)
+来源: Vercel AI SDK | 时间: 2026/7/30 12:00:00
+
+---
+
 ### 📢 [Run multiple isolated agents in a single Sandbox](https://vercel.com/changelog/run-multiple-isolated-agents-in-a-single-sandbox)
 来源: Vercel AI SDK | 时间: 2026/7/30 12:00:00
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球 AI 官方技术文章与动态，旨在为开发者和研究
 
 ### 📢 [How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails](https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/30 00:46:59
-
----
-
-### 📢 [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/)
-来源: Google DeepMind | 时间: 2026/7/30 00:02:10
-
----
-
-### 📢 [Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/29 23:57:46
-
----
-
-### 📢 [How enabling two settings tripled our scores on the ARC-AGI-3 benchmark](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)
-来源: OpenAI | 时间: 2026/7/29 23:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
