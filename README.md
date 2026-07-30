@@ -1,11 +1,11 @@
 # 🤖 AI 前沿技术追踪阅读器 (AI Feeds Tracker)
 
 <!-- START_PROJECT_INTRO -->
-AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖前沿工具、平台更新及行业应用。项目通过静态首页和 README 展示最新资讯，内容以标题链接、来源及时间形式呈现。每三小时自动更新，确保信息及时、权威，为开发者和研究者提供便捷的技术参考与趋势洞察。
+AI-RSS 聚合全球 AI 官方技术文章与动态，自动抓取并展示最新内容。项目以静态首页和 README 形式输出，README 按标题链接、来源和时间展示最新资讯，每 3 小时自动更新。用户可便捷获取如 Deep Agents、NVIDIA NeMo Guardrails、Google Flow Music 等前沿技术动态，助力及时了解行业发展。
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/30 10:39:02
+🕒 最后自动更新时间：2026/7/30 13:44:48
 
 ---
 
@@ -72,6 +72,11 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖前沿工具
 
 ---
 
+### 📢 [Grok Voice Think Fast 2.0 now available on AI Gateway](https://vercel.com/changelog/grok-voice-think-fast-2-0-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/29 08:00:00
+
+---
+
 ### 📢 [AI Gateway adds unified fast mode support](https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support)
 来源: Vercel AI SDK | 时间: 2026/7/29 08:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 致力于聚合全球 AI 官方技术文章与动态，涵盖前沿工具
 
 ### 📢 [The OlmoEarth Platform: Geospatial inference at planetary scale](https://huggingface.co/blog/allenai/olmoearth-infrastructure)
 来源: Hugging Face Blog | 时间: 2026/7/29 00:27:42
-
----
-
-### 📢 [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders)
-来源: Hugging Face Blog | 时间: 2026/7/28 23:01:45
 
 ---
 <!-- END_LIVE_FEEDS -->
