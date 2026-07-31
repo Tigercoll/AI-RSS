@@ -5,15 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/31 06:09:18
+🕒 最后自动更新时间：2026/7/31 11:20:32
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/31 05:12:24
+### 📢 [Introducing Align Evals: Streamlining LLM Application Evaluation](https://www.langchain.com/blog/introducing-align-evals)
+来源: LangChain Blog | 时间: 2026/7/31 06:57:23
+
+---
+
+### 📢 [Run High-Performance Core Math at Scale with NVIDIA nvmath-python](https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/31 06:46:09
 
 ---
 
@@ -87,28 +92,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Inkling Small from Thinking Machines is now available on AI Gateway](https://vercel.com/changelog/inkling-small-now-available-on-ai-gateway)
+### 📢 [How avatarin built a 24/7 retail agent with GPT-Realtime](https://openai.com/index/avatarin)
+来源: OpenAI | 时间: 2026/7/30 08:00:00
+
+---
+
+### 📢 [MiniMax H3 now available on AI Gateway](https://vercel.com/changelog/minimax-h3-now-available-on-vercel-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/7/30 08:00:00
 
 ---
 
-### 📢 [AI Gateway: GPT-5.6 pricing and speed updates](https://vercel.com/changelog/ai-gateway-gpt-5-6-pricing-speed-updates)
+### 📢 [Inkling Small from Thinking Machines is now available on AI Gateway](https://vercel.com/changelog/inkling-small-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/7/30 08:00:00
 
 ---
 
 ### 📢 [Deep Agents v0.7](https://www.langchain.com/blog/deep-agents-v0-7)
 来源: LangChain Blog | 时间: 2026/7/30 05:06:43
-
----
-
-### 📢 [How Similarweb Evaluates Agent Reports with LangSmith](https://www.langchain.com/blog/how-similarweb-evaluates-long-form-agent-research-reports-with-langsmith)
-来源: LangChain Blog | 时间: 2026/7/30 05:06:43
-
----
-
-### 📢 [How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails](https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/30 00:46:59
 
 ---
 <!-- END_LIVE_FEEDS -->
