@@ -5,14 +5,34 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/31 22:15:50
+🕒 最后自动更新时间：2026/8/1 00:48:00
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Disrupting a Criminal Scam Operation](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation)
+来源: OpenAI | 时间: 2026/8/4 08:00:00
+
+---
+
+### 📢 [Optimizing production agents with Amazon Bedrock AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/)
+来源: AWS ML Blog | 时间: 2026/7/31 23:33:11
+
+---
+
+### 📢 [NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek](https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/)
+来源: NVIDIA Developer Blog | 时间: 2026/7/31 23:13:16
+
+---
+
 ### 📢 [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe)
+来源: OpenAI | 时间: 2026/7/31 23:00:00
+
+---
+
+### 📢 [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence)
 来源: OpenAI | 时间: 2026/7/31 23:00:00
 
 ---
@@ -67,11 +87,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/7/31 00:02:32
-
----
-
 ### 📢 [FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities](https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities/)
 来源: PyTorch Blog | 时间: 2026/7/30 23:26:48
 
@@ -92,23 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6)
-来源: OpenAI | 时间: 2026/7/30 18:00:00
-
----
-
 ### 📢 [Shopify and Vercel are rebuilding Hydrogen for faster storefronts](https://vercel.com/blog/shopify-and-vercel-are-rebuilding-hydrogen-for-faster-storefronts)
 来源: Vercel AI SDK | 时间: 2026/7/30 12:00:00
-
----
-
-### 📢 [Run multiple isolated agents in a single Sandbox](https://vercel.com/changelog/run-multiple-isolated-agents-in-a-single-sandbox)
-来源: Vercel AI SDK | 时间: 2026/7/30 12:00:00
-
----
-
-### 📢 [How avatarin built a 24/7 retail agent with GPT-Realtime](https://openai.com/index/avatarin)
-来源: OpenAI | 时间: 2026/7/30 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
