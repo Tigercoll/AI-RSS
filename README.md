@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/31 19:31:31
+🕒 最后自动更新时间：2026/7/31 22:15:50
 
 ---
 
@@ -24,6 +24,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway)
 来源: LangChain Blog | 时间: 2026/7/31 14:07:06
+
+---
+
+### 📢 [Vercel Passport is now generally available](https://vercel.com/changelog/vercel-passport-generally-available)
+来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How avatarin built a 24/7 retail agent with GPT-Realtime](https://openai.com/index/avatarin)
 来源: OpenAI | 时间: 2026/7/30 08:00:00
-
----
-
-### 📢 [MiniMax H3 now available on AI Gateway](https://vercel.com/changelog/minimax-h3-now-available-on-vercel-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/30 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
