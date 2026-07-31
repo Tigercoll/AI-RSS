@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/7/31 16:54:33
+🕒 最后自动更新时间：2026/7/31 19:31:31
 
 ---
 
@@ -14,6 +14,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe)
 来源: OpenAI | 时间: 2026/7/31 23:00:00
+
+---
+
+### 📢 [Univé builds an AI-ready workforce](https://openai.com/index/unive)
+来源: OpenAI | 时间: 2026/7/31 15:00:00
 
 ---
 
@@ -103,11 +108,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [MiniMax H3 now available on AI Gateway](https://vercel.com/changelog/minimax-h3-now-available-on-vercel-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/30 08:00:00
-
----
-
-### 📢 [Inkling Small from Thinking Machines is now available on AI Gateway](https://vercel.com/changelog/inkling-small-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/7/30 08:00:00
 
 ---
