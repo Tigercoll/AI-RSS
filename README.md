@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/1 00:48:00
+🕒 最后自动更新时间：2026/8/1 03:39:20
 
 ---
 
@@ -14,6 +14,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Disrupting a Criminal Scam Operation](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation)
 来源: OpenAI | 时间: 2026/8/4 08:00:00
+
+---
+
+### 📢 [Evaluating code review agents with ReviewBench](https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench)
+来源: LangChain Blog | 时间: 2026/8/1 00:58:26
 
 ---
 
@@ -42,8 +47,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [DeepSeek V4 Flash now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/31 15:00:00
+
+---
+
 ### 📢 [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway)
 来源: LangChain Blog | 时间: 2026/7/31 14:07:06
+
+---
+
+### 📢 [Vercel MCP now supports the 2026-07-28 MCP specification](https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification)
+来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
+
+---
+
+### 📢 [10x more capacity for Laguna S 2.1 on AI Gateway](https://vercel.com/changelog/10x-more-capacity-for-laguna-s-2-1-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
 
 ---
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities](https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities/)
 来源: PyTorch Blog | 时间: 2026/7/30 23:26:48
-
----
-
-### 📢 [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management)
-来源: Hugging Face Blog | 时间: 2026/7/30 23:09:09
-
----
-
-### 📢 [Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/)
-来源: Google DeepMind | 时间: 2026/7/30 23:00:59
-
----
-
-### 📢 [NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure](https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/30 22:38:32
-
----
-
-### 📢 [Shopify and Vercel are rebuilding Hydrogen for faster storefronts](https://vercel.com/blog/shopify-and-vercel-are-rebuilding-hydrogen-for-faster-storefronts)
-来源: Vercel AI SDK | 时间: 2026/7/30 12:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
