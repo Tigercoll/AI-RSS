@@ -5,15 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/1 03:39:20
+🕒 最后自动更新时间：2026/8/1 06:08:41
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Disrupting a Criminal Scam Operation](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation)
-来源: OpenAI | 时间: 2026/8/4 08:00:00
+### 📢 [Announcing the Agentic Catalog Experience in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/8/1 03:53:04
+
+---
+
+### 📢 [AI Gateway now supports team and project spend budgets](https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts)
+来源: Vercel AI SDK | 时间: 2026/8/1 01:00:00
 
 ---
 
@@ -57,17 +62,17 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Disrupting a Criminal Scam Operation](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation)
+来源: OpenAI | 时间: 2026/7/31 08:00:00
+
+---
+
 ### 📢 [Vercel MCP now supports the 2026-07-28 MCP specification](https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification)
 来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
 
 ---
 
 ### 📢 [10x more capacity for Laguna S 2.1 on AI Gateway](https://vercel.com/changelog/10x-more-capacity-for-laguna-s-2-1-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
-
----
-
-### 📢 [Vercel Passport is now generally available](https://vercel.com/changelog/vercel-passport-generally-available)
 来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
 
 ---
@@ -87,7 +92,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Deploying Kimi K3 on AWS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/)
+### 📢 [Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/)
 来源: AWS ML Blog | 时间: 2026/7/31 01:22:32
 
 ---
@@ -99,11 +104,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Yahoo enhances search retargeting using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/7/31 00:40:36
-
----
-
-### 📢 [Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/7/31 00:10:10
 
 ---
 
