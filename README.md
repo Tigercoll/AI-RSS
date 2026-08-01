@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/1 06:08:41
+🕒 最后自动更新时间：2026/8/1 11:18:52
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference](https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/1 07:15:58
+
+---
+
 ### 📢 [Announcing the Agentic Catalog Experience in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/)
 来源: AWS ML Blog | 时间: 2026/8/1 03:53:04
 
@@ -67,12 +72,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Vercel MCP now supports the 2026-07-28 MCP specification](https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification)
+### 📢 [Chat SDK now supports reactions and ephemeral messages on Teams](https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams)
 来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
 
 ---
 
-### 📢 [10x more capacity for Laguna S 2.1 on AI Gateway](https://vercel.com/changelog/10x-more-capacity-for-laguna-s-2-1-on-ai-gateway)
+### 📢 [AI Gateway logs now have a dedicated page](https://vercel.com/changelog/ai-gateway-logs)
 来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
 
 ---
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Yahoo enhances search retargeting using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/7/31 00:40:36
-
----
-
-### 📢 [FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities](https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities/)
-来源: PyTorch Blog | 时间: 2026/7/30 23:26:48
 
 ---
 <!-- END_LIVE_FEEDS -->
