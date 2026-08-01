@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/1 11:18:52
+🕒 最后自动更新时间：2026/8/1 16:25:59
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics)
+来源: OpenAI | 时间: 2026/8/1 08:00:00
+
+---
+
 ### 📢 [Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference](https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/1 07:15:58
 
@@ -64,11 +69,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway)
 来源: LangChain Blog | 时间: 2026/7/31 14:07:06
-
----
-
-### 📢 [Disrupting a Criminal Scam Operation](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation)
-来源: OpenAI | 时间: 2026/7/31 08:00:00
 
 ---
 
