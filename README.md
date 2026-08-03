@@ -5,13 +5,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/3 05:58:43
+🕒 最后自动更新时间：2026/8/3 11:21:05
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack)
+来源: LangChain Blog | 时间: 2026/8/3 09:26:53
+
+---
+
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
+来源: LangChain Blog | 时间: 2026/8/3 09:26:48
+
+---
+
+### 📢 [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill)
+来源: LangChain Blog | 时间: 2026/8/3 09:25:59
+
+---
+
+### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
+来源: LangChain Blog | 时间: 2026/8/3 09:25:51
+
+---
+
+### 📢 [Qwen 3.8 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/2 08:00:00
+
+---
+
 ### 📢 [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics)
 来源: OpenAI | 时间: 2026/8/1 08:00:00
 
@@ -29,11 +54,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [AI Gateway now supports team and project spend budgets](https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts)
 来源: Vercel AI SDK | 时间: 2026/8/1 01:00:00
-
----
-
-### 📢 [Evaluating code review agents with ReviewBench](https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench)
-来源: LangChain Blog | 时间: 2026/8/1 00:58:26
 
 ---
 
@@ -67,23 +87,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway)
-来源: LangChain Blog | 时间: 2026/7/31 14:07:06
-
----
-
 ### 📢 [Chat SDK now supports reactions and ephemeral messages on Teams](https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams)
 来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
-
----
-
-### 📢 [AI Gateway logs now have a dedicated page](https://vercel.com/changelog/ai-gateway-logs)
-来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
-
----
-
-### 📢 [Introducing Align Evals: Streamlining LLM Application Evaluation](https://www.langchain.com/blog/introducing-align-evals)
-来源: LangChain Blog | 时间: 2026/7/31 06:57:56
 
 ---
 
@@ -99,11 +104,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/)
 来源: AWS ML Blog | 时间: 2026/7/31 01:22:32
-
----
-
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
-来源: LangChain Blog | 时间: 2026/7/31 01:18:13
 
 ---
 
