@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/4 03:42:12
+🕒 最后自动更新时间：2026/8/4 06:11:23
 
 ---
 
@@ -47,6 +47,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How we built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live)
+来源: OpenAI | 时间: 2026/8/3 15:00:00
+
+---
+
+### 📢 [How Factory scaled its cloud backend to tens of millions of daily requests on Vercel](https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-tens-of-millions-of-daily-requests)
+来源: Vercel AI SDK | 时间: 2026/8/3 12:00:00
+
+---
+
 ### 📢 [Share Vercel Container Registry repositories across teams](https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams)
 来源: Vercel AI SDK | 时间: 2026/8/3 08:00:00
 
@@ -77,11 +87,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [AI Gateway now supports team and project spend budgets](https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts)
-来源: Vercel AI SDK | 时间: 2026/8/1 01:00:00
-
----
-
 ### 📢 [Optimizing production agents with Amazon Bedrock AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/)
 来源: AWS ML Blog | 时间: 2026/7/31 23:33:11
 
@@ -99,11 +104,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence)
 来源: OpenAI | 时间: 2026/7/31 23:00:00
-
----
-
-### 📢 [Univé builds an AI-ready workforce](https://openai.com/index/unive)
-来源: OpenAI | 时间: 2026/7/31 15:00:00
 
 ---
 
