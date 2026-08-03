@@ -5,35 +5,45 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/4 01:11:36
+🕒 最后自动更新时间：2026/8/4 03:42:12
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations](https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/)
+来源: AWS ML Blog | 时间: 2026/8/4 01:24:15
+
+---
+
+### 📢 [How Stripe Built Kai on Deep Agents in 1 Week](https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents)
+来源: LangChain Blog | 时间: 2026/8/4 01:03:56
+
+---
+
+### 📢 [Vercel WAF for Blob is now generally available](https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available)
+来源: Vercel AI SDK | 时间: 2026/8/4 01:00:00
+
+---
+
 ### 📢 [Automated Reasoning policy refinement in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/8/4 00:30:58
 
 ---
 
-### 📢 [How Stripe Built Kai on Deep Agents in 1 Week](https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents)
-来源: LangChain Blog | 时间: 2026/8/3 23:30:03
-
----
-
-### 📢 [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack)
-来源: LangChain Blog | 时间: 2026/8/3 09:26:53
+### 📢 [Evaluating code review agents with ReviewBench](https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench)
+来源: LangChain Blog | 时间: 2026/8/3 18:39:11
 
 ---
 
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
-来源: LangChain Blog | 时间: 2026/8/3 09:26:48
+来源: LangChain Blog | 时间: 2026/8/3 18:39:11
 
 ---
 
-### 📢 [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill)
-来源: LangChain Blog | 时间: 2026/8/3 09:25:59
+### 📢 [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack)
+来源: LangChain Blog | 时间: 2026/8/3 18:39:11
 
 ---
 
@@ -97,18 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [DeepSeek V4 Flash now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/7/31 15:00:00
-
----
-
 ### 📢 [Run High-Performance Core Math at Scale with NVIDIA nvmath-python](https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/31 06:46:09
-
----
-
-### 📢 [Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/)
-来源: AWS ML Blog | 时间: 2026/7/31 01:22:32
 
 ---
 <!-- END_LIVE_FEEDS -->
