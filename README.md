@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/3 22:47:01
+🕒 最后自动更新时间：2026/8/4 01:11:36
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Automated Reasoning policy refinement in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/8/4 00:30:58
+
+---
+
+### 📢 [How Stripe Built Kai on Deep Agents in 1 Week](https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents)
+来源: LangChain Blog | 时间: 2026/8/3 23:30:03
+
+---
+
 ### 📢 [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack)
 来源: LangChain Blog | 时间: 2026/8/3 09:26:53
 
@@ -27,8 +37,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
-来源: LangChain Blog | 时间: 2026/8/3 09:25:51
+### 📢 [Share Vercel Container Registry repositories across teams](https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams)
+来源: Vercel AI SDK | 时间: 2026/8/3 08:00:00
 
 ---
 
@@ -44,6 +54,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference](https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/1 07:15:58
+
+---
+
+### 📢 [How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure](https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/1 04:38:34
 
 ---
 
@@ -87,28 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Chat SDK now supports reactions and ephemeral messages on Teams](https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams)
-来源: Vercel AI SDK | 时间: 2026/7/31 08:00:00
-
----
-
 ### 📢 [Run High-Performance Core Math at Scale with NVIDIA nvmath-python](https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/31 06:46:09
 
 ---
 
-### 📢 [Four Ways to Deploy More Secure AI Agents](https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/31 05:10:14
-
----
-
 ### 📢 [Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/)
 来源: AWS ML Blog | 时间: 2026/7/31 01:22:32
-
----
-
-### 📢 [How Yahoo enhances search retargeting using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/7/31 00:40:36
 
 ---
 <!-- END_LIVE_FEEDS -->
