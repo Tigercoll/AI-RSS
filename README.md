@@ -5,25 +5,35 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/5 00:55:05
+🕒 最后自动更新时间：2026/8/5 03:41:47
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Automated web insight extraction with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/8/5 00:02:21
+### 📢 [Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super](https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/5 03:26:07
+
+---
+
+### 📢 [Introducing Web Search on Amazon Bedrock for foundation model grounding](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/)
+来源: AWS ML Blog | 时间: 2026/8/5 02:39:14
 
 ---
 
 ### 📢 [Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines](https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines)
-来源: LangChain Blog | 时间: 2026/8/5 00:00:02
+来源: LangChain Blog | 时间: 2026/8/5 01:18:59
 
 ---
 
-### 📢 [Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super](https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/4 23:02:05
+### 📢 [How to Evaluate Voice Agents with LangSmith](https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience)
+来源: LangChain Blog | 时间: 2026/8/5 01:15:48
+
+---
+
+### 📢 [Automated web insight extraction with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/8/5 00:02:21
 
 ---
 
@@ -34,6 +44,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser)
 来源: Vercel AI SDK | 时间: 2026/8/4 12:00:00
+
+---
+
+### 📢 [New ways to learn and teach with ChatGPT Work and Codex](https://openai.com/index/learn-teach-chatgpt-work-codex)
+来源: OpenAI | 时间: 2026/8/4 08:00:00
 
 ---
 
@@ -67,11 +82,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
-来源: LangChain Blog | 时间: 2026/8/3 18:39:11
-
----
-
 ### 📢 [How we built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live)
 来源: OpenAI | 时间: 2026/8/3 15:00:00
 
@@ -97,18 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics)
-来源: OpenAI | 时间: 2026/8/1 08:00:00
-
----
-
 ### 📢 [How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure](https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/1 04:38:34
-
----
-
-### 📢 [Announcing the Agentic Catalog Experience in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/8/1 03:53:04
 
 ---
 <!-- END_LIVE_FEEDS -->
