@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/5 03:41:47
+🕒 最后自动更新时间：2026/8/5 06:16:10
 
 ---
 
@@ -17,18 +17,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models)
+来源: OpenAI | 时间: 2026/8/5 03:00:00
+
+---
+
 ### 📢 [Introducing Web Search on Amazon Bedrock for foundation model grounding](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/)
 来源: AWS ML Blog | 时间: 2026/8/5 02:39:14
 
 ---
 
-### 📢 [Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines](https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines)
-来源: LangChain Blog | 时间: 2026/8/5 01:18:59
+### 📢 [How to Evaluate Voice Agents with LangSmith](https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience)
+来源: LangChain Blog | 时间: 2026/8/5 01:19:58
 
 ---
 
-### 📢 [How to Evaluate Voice Agents with LangSmith](https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience)
-来源: LangChain Blog | 时间: 2026/8/5 01:15:48
+### 📢 [Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines](https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines)
+来源: LangChain Blog | 时间: 2026/8/5 01:19:58
 
 ---
 
@@ -42,6 +47,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How Stripe Built Kai on Deep Agents in 1 Week](https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents)
+来源: LangChain Blog | 时间: 2026/8/4 14:41:06
+
+---
+
 ### 📢 [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser)
 来源: Vercel AI SDK | 时间: 2026/8/4 12:00:00
 
@@ -52,8 +62,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How Stripe Built Kai on Deep Agents in 1 Week](https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents)
-来源: LangChain Blog | 时间: 2026/8/4 07:46:51
+### 📢 [DeepSeek V4 Flash is 90% off through Novita on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-is-90-off-through-novita)
+来源: Vercel AI SDK | 时间: 2026/8/4 08:00:00
 
 ---
 
@@ -87,18 +97,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How Factory scaled its cloud backend to tens of millions of daily requests on Vercel](https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-tens-of-millions-of-daily-requests)
+### 📢 [How Factory scaled its cloud backend to one billion monthly requests on Vercel](https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-one-billion-monthly-requests-on-vercel)
 来源: Vercel AI SDK | 时间: 2026/8/3 12:00:00
-
----
-
-### 📢 [Circles powers telco personalization with OpenAI technology](https://openai.com/index/circles)
-来源: OpenAI | 时间: 2026/8/3 08:00:00
-
----
-
-### 📢 [Share Vercel Container Registry repositories across teams](https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams)
-来源: Vercel AI SDK | 时间: 2026/8/3 08:00:00
 
 ---
 
