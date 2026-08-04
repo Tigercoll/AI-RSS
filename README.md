@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/4 19:27:20
+🕒 最后自动更新时间：2026/8/4 22:23:32
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b)
+来源: Hugging Face Blog | 时间: 2026/8/4 21:58:29
+
+---
+
 ### 📢 [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser)
 来源: Vercel AI SDK | 时间: 2026/8/4 12:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Optimizing production agents with Amazon Bedrock AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/)
 来源: AWS ML Blog | 时间: 2026/7/31 23:33:11
-
----
-
-### 📢 [NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek](https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/31 23:13:16
 
 ---
 <!-- END_LIVE_FEEDS -->
