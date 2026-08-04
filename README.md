@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/4 22:23:32
+🕒 最后自动更新时间：2026/8/5 00:55:05
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Automated web insight extraction with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/8/5 00:02:21
+
+---
+
+### 📢 [Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines](https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines)
+来源: LangChain Blog | 时间: 2026/8/5 00:00:02
+
+---
+
+### 📢 [Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super](https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/4 23:02:05
+
+---
+
 ### 📢 [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b)
 来源: Hugging Face Blog | 时间: 2026/8/4 21:58:29
 
@@ -57,11 +72,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack)
-来源: LangChain Blog | 时间: 2026/8/3 18:39:11
-
----
-
 ### 📢 [How we built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live)
 来源: OpenAI | 时间: 2026/8/3 15:00:00
 
@@ -92,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference](https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/1 07:15:58
-
----
-
 ### 📢 [How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure](https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/1 04:38:34
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Announcing the Agentic Catalog Experience in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/)
 来源: AWS ML Blog | 时间: 2026/8/1 03:53:04
-
----
-
-### 📢 [Optimizing production agents with Amazon Bedrock AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/)
-来源: AWS ML Blog | 时间: 2026/7/31 23:33:11
 
 ---
 <!-- END_LIVE_FEEDS -->
