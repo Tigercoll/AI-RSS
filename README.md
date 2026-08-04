@@ -5,15 +5,25 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/4 10:50:11
+🕒 最后自动更新时间：2026/8/4 13:51:39
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser)
+来源: Vercel AI SDK | 时间: 2026/8/4 12:00:00
+
+---
+
 ### 📢 [How Stripe Built Kai on Deep Agents in 1 Week](https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents)
 来源: LangChain Blog | 时间: 2026/8/4 07:46:51
+
+---
+
+### 📢 [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong)
+来源: OpenAI | 时间: 2026/8/4 06:00:00
 
 ---
 
@@ -67,11 +77,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Qwen 3.8 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/2 08:00:00
-
----
-
 ### 📢 [NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage](https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/1 09:36:10
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek](https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/)
 来源: NVIDIA Developer Blog | 时间: 2026/7/31 23:13:16
-
----
-
-### 📢 [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe)
-来源: OpenAI | 时间: 2026/7/31 23:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
