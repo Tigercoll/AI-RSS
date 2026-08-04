@@ -5,20 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/4 06:11:23
+🕒 最后自动更新时间：2026/8/4 10:50:11
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations](https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/)
-来源: AWS ML Blog | 时间: 2026/8/4 01:24:15
+### 📢 [How Stripe Built Kai on Deep Agents in 1 Week](https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents)
+来源: LangChain Blog | 时间: 2026/8/4 07:46:51
 
 ---
 
-### 📢 [How Stripe Built Kai on Deep Agents in 1 Week](https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents)
-来源: LangChain Blog | 时间: 2026/8/4 01:03:56
+### 📢 [From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations](https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/)
+来源: AWS ML Blog | 时间: 2026/8/4 01:24:15
 
 ---
 
@@ -57,6 +57,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Circles powers telco personalization with OpenAI technology](https://openai.com/index/circles)
+来源: OpenAI | 时间: 2026/8/3 08:00:00
+
+---
+
 ### 📢 [Share Vercel Container Registry repositories across teams](https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams)
 来源: Vercel AI SDK | 时间: 2026/8/3 08:00:00
 
@@ -64,6 +69,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Qwen 3.8 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/2 08:00:00
+
+---
+
+### 📢 [NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage](https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/1 09:36:10
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe)
 来源: OpenAI | 时间: 2026/7/31 23:00:00
-
----
-
-### 📢 [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence)
-来源: OpenAI | 时间: 2026/7/31 23:00:00
-
----
-
-### 📢 [Run High-Performance Core Math at Scale with NVIDIA nvmath-python](https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/)
-来源: NVIDIA Developer Blog | 时间: 2026/7/31 06:46:09
 
 ---
 <!-- END_LIVE_FEEDS -->
