@@ -5,15 +5,45 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/6 00:44:05
+🕒 最后自动更新时间：2026/8/6 03:40:21
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/8/6 02:50:02
+
+---
+
+### 📢 [How Mobileye transformed support operations using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/8/6 02:09:03
+
+---
+
+### 📢 [How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools](https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/)
+来源: AWS ML Blog | 时间: 2026/8/6 02:02:23
+
+---
+
+### 📢 [Run production AI agents in n8n with Amazon Bedrock AgentCore harness](https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/)
+来源: AWS ML Blog | 时间: 2026/8/6 02:00:57
+
+---
+
+### 📢 [New setup page after domain checkout](https://vercel.com/changelog/new-setup-page-after-domain-checkout)
+来源: Vercel AI SDK | 时间: 2026/8/6 01:00:00
+
+---
+
 ### 📢 [How we built an autonomous SRE agent for Kubernetes](https://www.langchain.com/blog/how-we-build-an-autonomous-sre-agent-for-kubernetes-deployments)
 来源: LangChain Blog | 时间: 2026/8/6 00:24:31
+
+---
+
+### 📢 [Introducing the new v0 API](https://vercel.com/blog/introducing-the-new-v0-api)
+来源: Vercel AI SDK | 时间: 2026/8/5 12:00:00
 
 ---
 
@@ -27,7 +57,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Full Sandbox egress firewall now available on Hobby plan](https://vercel.com/changelog/full-sandbox-egress-firewall-now-available-on-hobby-plan)
+### 📢 [Search and buy domains in the dashboard](https://vercel.com/changelog/search-and-buy-domains-in-the-dashboard)
 来源: Vercel AI SDK | 时间: 2026/8/5 08:00:00
 
 ---
@@ -42,18 +72,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Introducing Web Search on Amazon Bedrock for foundation model grounding](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/)
-来源: AWS ML Blog | 时间: 2026/8/5 02:39:14
-
----
-
 ### 📢 [How to Evaluate Voice Agents with LangSmith](https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience)
 来源: LangChain Blog | 时间: 2026/8/5 01:19:58
-
----
-
-### 📢 [Automated web insight extraction with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/8/5 00:02:21
 
 ---
 
@@ -67,11 +87,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available)
-来源: Vercel AI SDK | 时间: 2026/8/4 12:00:00
-
----
-
 ### 📢 [New ways to learn and teach with ChatGPT Work and Codex](https://openai.com/index/learn-teach-chatgpt-work-codex)
 来源: OpenAI | 时间: 2026/8/4 08:00:00
 
@@ -79,16 +94,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong)
 来源: OpenAI | 时间: 2026/8/4 06:00:00
-
----
-
-### 📢 [From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations](https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/)
-来源: AWS ML Blog | 时间: 2026/8/4 01:24:15
-
----
-
-### 📢 [Automated Reasoning policy refinement in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/8/4 00:30:58
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure](https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/1 04:38:34
-
----
-
-### 📢 [Beyond VLAs: How World Action Models Reshape Robot Manipulation](https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/1 02:57:04
 
 ---
 <!-- END_LIVE_FEEDS -->
