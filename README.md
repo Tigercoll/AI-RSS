@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/6 03:40:21
+🕒 最后自动更新时间：2026/8/6 06:14:45
 
 ---
 
@@ -57,7 +57,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Search and buy domains in the dashboard](https://vercel.com/changelog/search-and-buy-domains-in-the-dashboard)
+### 📢 [Muse Spark 1.2 is now available on Vercel AI Gateway](https://vercel.com/changelog/muse-spark-1-2-is-now-available-on-vercel-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/5 08:00:00
 
 ---
