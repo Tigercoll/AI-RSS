@@ -5,15 +5,30 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/5 22:16:59
+🕒 最后自动更新时间：2026/8/6 00:44:05
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How we built an autonomous SRE agent for Kubernetes](https://www.langchain.com/blog/how-we-build-an-autonomous-sre-agent-for-kubernetes-deployments)
+来源: LangChain Blog | 时间: 2026/8/6 00:24:31
+
+---
+
+### 📢 [AI Gateway is now available on AWS Marketplace](https://vercel.com/changelog/ai-gateway-is-now-available-on-aws-marketplace)
+来源: Vercel AI SDK | 时间: 2026/8/5 12:00:00
+
+---
+
 ### 📢 [Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines](https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines)
 来源: LangChain Blog | 时间: 2026/8/5 09:07:31
+
+---
+
+### 📢 [Full Sandbox egress firewall now available on Hobby plan](https://vercel.com/changelog/full-sandbox-egress-firewall-now-available-on-hobby-plan)
+来源: Vercel AI SDK | 时间: 2026/8/5 08:00:00
 
 ---
 
@@ -57,18 +72,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser)
-来源: Vercel AI SDK | 时间: 2026/8/4 12:00:00
-
----
-
 ### 📢 [New ways to learn and teach with ChatGPT Work and Codex](https://openai.com/index/learn-teach-chatgpt-work-codex)
 来源: OpenAI | 时间: 2026/8/4 08:00:00
-
----
-
-### 📢 [DeepSeek V4 Flash is 90% off through Novita on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-is-90-off-through-novita)
-来源: Vercel AI SDK | 时间: 2026/8/4 08:00:00
 
 ---
 
@@ -82,18 +87,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Vercel WAF for Blob is now generally available](https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available)
-来源: Vercel AI SDK | 时间: 2026/8/4 01:00:00
-
----
-
 ### 📢 [Automated Reasoning policy refinement in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/8/4 00:30:58
-
----
-
-### 📢 [Evaluating code review agents with ReviewBench](https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench)
-来源: LangChain Blog | 时间: 2026/8/3 18:39:11
 
 ---
 
@@ -109,6 +104,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure](https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/1 04:38:34
+
+---
+
+### 📢 [Beyond VLAs: How World Action Models Reshape Robot Manipulation](https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/1 02:57:04
 
 ---
 <!-- END_LIVE_FEEDS -->
