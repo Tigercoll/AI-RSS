@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/5 06:16:10
+🕒 最后自动更新时间：2026/8/5 10:47:30
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines](https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines)
+来源: LangChain Blog | 时间: 2026/8/5 09:07:31
+
+---
+
 ### 📢 [Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super](https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/5 03:26:07
 
@@ -32,11 +37,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines](https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines)
-来源: LangChain Blog | 时间: 2026/8/5 01:19:58
-
----
-
 ### 📢 [Automated web insight extraction with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/8/5 00:02:21
 
@@ -49,6 +49,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Stripe Built Kai on Deep Agents in 1 Week](https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents)
 来源: LangChain Blog | 时间: 2026/8/4 14:41:06
+
+---
+
+### 📢 [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available)
+来源: Vercel AI SDK | 时间: 2026/8/4 12:00:00
 
 ---
 
@@ -94,11 +99,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How we built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live)
 来源: OpenAI | 时间: 2026/8/3 15:00:00
-
----
-
-### 📢 [How Factory scaled its cloud backend to one billion monthly requests on Vercel](https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-one-billion-monthly-requests-on-vercel)
-来源: Vercel AI SDK | 时间: 2026/8/3 12:00:00
 
 ---
 
