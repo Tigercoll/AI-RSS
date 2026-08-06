@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/6 19:26:29
+🕒 最后自动更新时间：2026/8/6 22:20:45
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten)
+来源: Hugging Face Blog | 时间: 2026/8/6 08:00:00
+
+---
+
 ### 📢 [Pause workflows for approval with Chat SDK](https://vercel.com/changelog/chat-sdk-durable-approvals)
 来源: Vercel AI SDK | 时间: 2026/8/6 08:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage](https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/1 09:36:10
-
----
-
-### 📢 [How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure](https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/1 04:38:34
 
 ---
 <!-- END_LIVE_FEEDS -->
