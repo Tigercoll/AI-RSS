@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/6 06:14:45
+🕒 最后自动更新时间：2026/8/6 10:50:09
 
 ---
 
@@ -42,6 +42,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines](https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines)
+来源: LangChain Blog | 时间: 2026/8/5 14:02:05
+
+---
+
+### 📢 [Export AI Gateway traces with Vercel Drains](https://vercel.com/changelog/export-ai-gateway-traces-with-vercel-drains)
+来源: Vercel AI SDK | 时间: 2026/8/5 13:00:00
+
+---
+
 ### 📢 [Introducing the new v0 API](https://vercel.com/blog/introducing-the-new-v0-api)
 来源: Vercel AI SDK | 时间: 2026/8/5 12:00:00
 
@@ -49,16 +59,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [AI Gateway is now available on AWS Marketplace](https://vercel.com/changelog/ai-gateway-is-now-available-on-aws-marketplace)
 来源: Vercel AI SDK | 时间: 2026/8/5 12:00:00
-
----
-
-### 📢 [Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines](https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines)
-来源: LangChain Blog | 时间: 2026/8/5 09:07:31
-
----
-
-### 📢 [Muse Spark 1.2 is now available on Vercel AI Gateway](https://vercel.com/changelog/muse-spark-1-2-is-now-available-on-vercel-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/5 08:00:00
 
 ---
 
