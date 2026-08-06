@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/6 13:52:48
+🕒 最后自动更新时间：2026/8/6 16:42:31
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Pause workflows for approval with Chat SDK](https://vercel.com/changelog/chat-sdk-durable-approvals)
+来源: Vercel AI SDK | 时间: 2026/8/6 08:00:00
+
+---
+
 ### 📢 [How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/8/6 02:50:02
 
@@ -53,11 +58,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Introducing the new v0 API](https://vercel.com/blog/introducing-the-new-v0-api)
-来源: Vercel AI SDK | 时间: 2026/8/5 12:00:00
-
----
-
-### 📢 [AI Gateway is now available on AWS Marketplace](https://vercel.com/changelog/ai-gateway-is-now-available-on-aws-marketplace)
 来源: Vercel AI SDK | 时间: 2026/8/5 12:00:00
 
 ---
