@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/7 18:03:54
+🕒 最后自动更新时间：2026/8/7 21:11:42
 
 ---
 
@@ -102,12 +102,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Introducing Agent Plugins](https://vercel.com/blog/introducing-agent-plugins)
-来源: Vercel AI SDK | 时间: 2026/8/6 08:00:00
+### 📢 [vLLM Reaches 25K Total TPS/GPU on Qwen3.5](https://vllm.ai/blog/2026-08-06-qwen35-25k-tps)
+来源: vLLM Blog | 时间: 2026/8/6 08:00:00
 
 ---
 
-### 📢 [Seedance 2.5 now available on Vercel AI Gateway](https://vercel.com/changelog/seedance-2-5-now-available-on-vercel-ai-gateway)
+### 📢 [Introducing Agent Plugins](https://vercel.com/blog/introducing-agent-plugins)
 来源: Vercel AI SDK | 时间: 2026/8/6 08:00:00
 
 ---
