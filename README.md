@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/8 03:01:53
+🕒 最后自动更新时间：2026/8/8 05:42:02
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Managed Deep Agents: the fastest way to ship a production deep agent](https://www.langchain.com/blog/introducing-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/8/8 03:36:29
+
+---
+
+### 📢 [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway)
+来源: LangChain Blog | 时间: 2026/8/8 03:33:22
+
+---
+
 ### 📢 [Managed Deep Agents is now in public beta](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta)
 来源: LangChain Blog | 时间: 2026/8/8 02:32:35
 
@@ -67,6 +77,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Efficient Decode Context Parallelism with vLLM for Long Context Workloads](https://vllm.ai/blog/2026-08-07-decode-context-parallelism)
+来源: vLLM Blog | 时间: 2026/8/7 08:00:00
+
+---
+
 ### 📢 [Free domain now included with new Pro subscriptions](https://vercel.com/changelog/free-domain-now-included-with-new-pro-subscriptions)
 来源: Vercel AI SDK | 时间: 2026/8/7 08:00:00
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Securing AI agents with temporal policies in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/8/7 02:57:55
-
----
-
-### 📢 [PyTorch Conference North America Announces 2026 Keynotes](https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes/)
-来源: PyTorch Blog | 时间: 2026/8/7 02:37:47
-
----
-
-### 📢 [PyTorch by the Sea: The inaugural Santa Cruz PyTorch Meetup](https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup/)
-来源: PyTorch Blog | 时间: 2026/8/6 23:50:43
-
----
-
-### 📢 [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)
-来源: Google DeepMind | 时间: 2026/8/6 23:06:15
 
 ---
 <!-- END_LIVE_FEEDS -->
