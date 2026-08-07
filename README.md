@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/7 21:11:42
+🕒 最后自动更新时间：2026/8/7 23:59:25
 
 ---
 
@@ -14,6 +14,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- START_LIVE_FEEDS -->
 ### 📢 [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe)
 来源: OpenAI | 时间: 2026/8/7 17:00:00
+
+---
+
+### 📢 [Deep Agents vs LangChain vs LangGraph](https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph)
+来源: LangChain Blog | 时间: 2026/8/7 15:27:53
+
+---
+
+### 📢 [Free domain now included with new Pro subscriptions](https://vercel.com/changelog/free-domain-now-included-with-new-pro-subscriptions)
+来源: Vercel AI SDK | 时间: 2026/8/7 08:00:00
 
 ---
 
@@ -44,11 +54,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [PyTorch Conference North America Announces 2026 Keynotes](https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes/)
 来源: PyTorch Blog | 时间: 2026/8/7 02:37:47
-
----
-
-### 📢 [Deep Agents vs LangChain vs LangGraph](https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph)
-来源: LangChain Blog | 时间: 2026/8/7 02:15:51
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [vLLM Reaches 25K Total TPS/GPU on Qwen3.5](https://vllm.ai/blog/2026-08-06-qwen35-25k-tps)
 来源: vLLM Blog | 时间: 2026/8/6 08:00:00
-
----
-
-### 📢 [Introducing Agent Plugins](https://vercel.com/blog/introducing-agent-plugins)
-来源: Vercel AI SDK | 时间: 2026/8/6 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
