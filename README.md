@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/7 12:57:37
+🕒 最后自动更新时间：2026/8/7 15:21:20
 
 ---
 
@@ -102,12 +102,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Marketplace integrations now install provider skills](https://vercel.com/changelog/vercel-marketplace-agent-skills)
+### 📢 [Seedance 2.5 now available on Vercel AI Gateway](https://vercel.com/changelog/seedance-2-5-now-available-on-vercel-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/6 08:00:00
 
 ---
 
-### 📢 [Ling 3.0 Tiny is now available on AI Gateway](https://vercel.com/changelog/ling-3-0-tiny-is-now-available-on-ai-gateway)
+### 📢 [Marketplace integrations now install provider skills](https://vercel.com/changelog/vercel-marketplace-agent-skills)
 来源: Vercel AI SDK | 时间: 2026/8/6 08:00:00
 
 ---
