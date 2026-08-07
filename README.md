@@ -5,13 +5,48 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/7 23:59:25
+🕒 最后自动更新时间：2026/8/8 03:01:53
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Managed Deep Agents is now in public beta](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta)
+来源: LangChain Blog | 时间: 2026/8/8 02:32:35
+
+---
+
+### 📢 [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments)
+来源: Hugging Face Blog | 时间: 2026/8/8 01:53:32
+
+---
+
+### 📢 [Vercel Container Registry repositories can now be made public](https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public)
+来源: Vercel AI SDK | 时间: 2026/8/8 01:00:00
+
+---
+
+### 📢 [How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/8/8 00:26:58
+
+---
+
+### 📢 [How TReNDS automates root-cause analysis with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/8/8 00:22:50
+
+---
+
+### 📢 [Determining playoff clinching scenarios in the NHL using constraint programming](https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/)
+来源: AWS ML Blog | 时间: 2026/8/8 00:21:00
+
+---
+
+### 📢 [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities)
+来源: OpenAI | 时间: 2026/8/7 23:20:00
+
+---
+
 ### 📢 [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe)
 来源: OpenAI | 时间: 2026/8/7 17:00:00
 
@@ -19,6 +54,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Deep Agents vs LangChain vs LangGraph](https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph)
 来源: LangChain Blog | 时间: 2026/8/7 15:27:53
+
+---
+
+### 📢 [Audit Log Drains now support Datadog, Splunk, and Panther](https://vercel.com/changelog/audit-log-drains-now-support-datadog-splunk-and-panther)
+来源: Vercel AI SDK | 时间: 2026/8/7 12:00:00
+
+---
+
+### 📢 [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available)
+来源: Vercel AI SDK | 时间: 2026/8/7 12:00:00
 
 ---
 
@@ -57,21 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Configure rate limits for AI traffic on AgentCore gateway](https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/)
-来源: AWS ML Blog | 时间: 2026/8/7 01:50:42
-
----
-
-### 📢 [Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/8/7 00:43:19
-
----
-
-### 📢 [Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch](https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/)
-来源: AWS ML Blog | 时间: 2026/8/7 00:30:47
-
----
-
 ### 📢 [PyTorch by the Sea: The inaugural Santa Cruz PyTorch Meetup](https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup/)
 来源: PyTorch Blog | 时间: 2026/8/6 23:50:43
 
@@ -79,36 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)
 来源: Google DeepMind | 时间: 2026/8/6 23:06:15
-
----
-
-### 📢 [Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt)
-来源: OpenAI | 时间: 2026/8/6 18:00:00
-
----
-
-### 📢 [Working with the American Psychological Association on youth mental health and AI](https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai)
-来源: OpenAI | 时间: 2026/8/6 14:00:00
-
----
-
-### 📢 [How we built an autonomous SRE agent for Kubernetes](https://www.langchain.com/blog/how-we-build-an-autonomous-sre-agent-for-kubernetes-deployments)
-来源: LangChain Blog | 时间: 2026/8/6 09:28:21
-
----
-
-### 📢 [From asking to doing: How the world is putting ChatGPT to work](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work)
-来源: OpenAI | 时间: 2026/8/6 08:00:00
-
----
-
-### 📢 [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten)
-来源: Hugging Face Blog | 时间: 2026/8/6 08:00:00
-
----
-
-### 📢 [vLLM Reaches 25K Total TPS/GPU on Qwen3.5](https://vllm.ai/blog/2026-08-06-qwen35-25k-tps)
-来源: vLLM Blog | 时间: 2026/8/6 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
