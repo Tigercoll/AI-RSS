@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/8 05:42:02
+🕒 最后自动更新时间：2026/8/8 09:51:34
 
 ---
 
@@ -19,6 +19,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway)
 来源: LangChain Blog | 时间: 2026/8/8 03:33:22
+
+---
+
+### 📢 [Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent](https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent)
+来源: Vercel AI SDK | 时间: 2026/8/8 03:00:00
 
 ---
 
@@ -79,11 +84,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Efficient Decode Context Parallelism with vLLM for Long Context Workloads](https://vllm.ai/blog/2026-08-07-decode-context-parallelism)
 来源: vLLM Blog | 时间: 2026/8/7 08:00:00
-
----
-
-### 📢 [Free domain now included with new Pro subscriptions](https://vercel.com/changelog/free-domain-now-included-with-new-pro-subscriptions)
-来源: Vercel AI SDK | 时间: 2026/8/7 08:00:00
 
 ---
 
