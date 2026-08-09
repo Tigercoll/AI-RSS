@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/9 05:33:53
+🕒 最后自动更新时间：2026/8/9 09:58:56
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Grok Imagine Image 2.0 now available on Vercel AI Gateway](https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/8 08:00:00
+
+---
+
 ### 📢 [Managed Deep Agents: the fastest way to ship a production deep agent](https://www.langchain.com/blog/introducing-managed-deep-agents)
 来源: LangChain Blog | 时间: 2026/8/8 03:36:29
 
@@ -73,11 +78,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Audit Log Drains now support Datadog, Splunk, and Panther](https://vercel.com/changelog/audit-log-drains-now-support-datadog-splunk-and-panther)
-来源: Vercel AI SDK | 时间: 2026/8/7 12:00:00
-
----
-
-### 📢 [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available)
 来源: Vercel AI SDK | 时间: 2026/8/7 12:00:00
 
 ---
