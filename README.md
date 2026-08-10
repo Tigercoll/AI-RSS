@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/11 00:02:14
+🕒 最后自动更新时间：2026/8/11 03:01:47
 
 ---
 
@@ -13,7 +13,27 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA](https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/10 23:48:38
+来源: NVIDIA Developer Blog | 时间: 2026/8/11 02:52:07
+
+---
+
+### 📢 [What building an AI-native finance function taught me](https://openai.com/index/building-an-ai-native-finance-function)
+来源: OpenAI | 时间: 2026/8/11 01:00:00
+
+---
+
+### 📢 [Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows](https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/)
+来源: AWS ML Blog | 时间: 2026/8/11 00:34:37
+
+---
+
+### 📢 [How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/8/11 00:30:46
+
+---
+
+### 📢 [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents)
+来源: Hugging Face Blog | 时间: 2026/8/11 00:25:36
 
 ---
 
@@ -34,6 +54,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation)
 来源: Hugging Face Blog | 时间: 2026/8/10 18:05:36
+
+---
+
+### 📢 [Expanding Daybreak as the Cyber Defense Window Narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows)
+来源: OpenAI | 时间: 2026/8/10 18:00:00
 
 ---
 
@@ -84,31 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/8/8 00:26:58
-
----
-
-### 📢 [How TReNDS automates root-cause analysis with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/8/8 00:22:50
-
----
-
-### 📢 [Determining playoff clinching scenarios in the NHL using constraint programming](https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/)
-来源: AWS ML Blog | 时间: 2026/8/8 00:21:00
-
----
-
-### 📢 [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities)
-来源: OpenAI | 时间: 2026/8/7 23:20:00
-
----
-
-### 📢 [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe)
-来源: OpenAI | 时间: 2026/8/7 17:00:00
-
----
-
-### 📢 [Deep Agents vs LangChain vs LangGraph](https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph)
-来源: LangChain Blog | 时间: 2026/8/7 15:27:53
 
 ---
 <!-- END_LIVE_FEEDS -->
