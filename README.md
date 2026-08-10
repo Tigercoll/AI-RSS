@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/10 05:35:59
+🕒 最后自动更新时间：2026/8/10 10:03:30
 
 ---
 
@@ -17,23 +17,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Managed Deep Agents is now in public beta](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta)
+来源: LangChain Blog | 时间: 2026/8/8 03:39:38
+
+---
+
 ### 📢 [Managed Deep Agents: the fastest way to ship a production deep agent](https://www.langchain.com/blog/introducing-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/8/8 03:36:29
+来源: LangChain Blog | 时间: 2026/8/8 03:39:38
 
 ---
 
 ### 📢 [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway)
-来源: LangChain Blog | 时间: 2026/8/8 03:33:22
+来源: LangChain Blog | 时间: 2026/8/8 03:39:38
 
 ---
 
 ### 📢 [Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent](https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent)
 来源: Vercel AI SDK | 时间: 2026/8/8 03:00:00
-
----
-
-### 📢 [Managed Deep Agents is now in public beta](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta)
-来源: LangChain Blog | 时间: 2026/8/8 02:32:35
 
 ---
 
