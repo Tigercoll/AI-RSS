@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/10 18:19:52
+🕒 最后自动更新时间：2026/8/10 21:16:08
 
 ---
 
@@ -14,6 +14,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation)
 来源: Hugging Face Blog | 时间: 2026/8/10 18:05:36
+
+---
+
+### 📢 [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer)
+来源: Hugging Face Blog | 时间: 2026/8/10 08:00:00
+
+---
+
+### 📢 [Muse Glimmer from Meta Superintelligence Labs is now available](https://ollama.com/blog/muse-glimmer)
+来源: Ollama Blog | 时间: 2026/8/10 08:00:00
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure](https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/7 03:09:04
-
----
-
-### 📢 [Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super](https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/7 03:09:03
-
----
-
-### 📢 [Beyond VLAs: How World Action Models Reshape Robot Manipulation](https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/7 03:09:02
 
 ---
 <!-- END_LIVE_FEEDS -->
