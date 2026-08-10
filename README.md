@@ -5,13 +5,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/10 21:16:08
+🕒 最后自动更新时间：2026/8/11 00:02:14
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA](https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/10 23:48:38
+
+---
+
+### 📢 [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas)
+来源: OpenAI | 时间: 2026/8/10 22:00:00
+
+---
+
+### 📢 [Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch](https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/)
+来源: PyTorch Blog | 时间: 2026/8/10 21:42:54
+
+---
+
+### 📢 [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml)
+来源: OpenAI | 时间: 2026/8/10 20:00:00
+
+---
+
 ### 📢 [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation)
 来源: Hugging Face Blog | 时间: 2026/8/10 18:05:36
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Deep Agents vs LangChain vs LangGraph](https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph)
 来源: LangChain Blog | 时间: 2026/8/7 15:27:53
-
----
-
-### 📢 [Audit Log Drains now support Datadog, Splunk, and Panther](https://vercel.com/changelog/audit-log-drains-now-support-datadog-splunk-and-panther)
-来源: Vercel AI SDK | 时间: 2026/8/7 12:00:00
-
----
-
-### 📢 [Efficient Decode Context Parallelism with vLLM for Long Context Workloads](https://vllm.ai/blog/2026-08-07-decode-context-parallelism)
-来源: vLLM Blog | 时间: 2026/8/7 08:00:00
-
----
-
-### 📢 [NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage](https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/7 03:17:18
-
----
-
-### 📢 [How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure](https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/7 03:09:04
 
 ---
 <!-- END_LIVE_FEEDS -->
