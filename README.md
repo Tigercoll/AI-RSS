@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/11 15:13:15
+🕒 最后自动更新时间：2026/8/11 18:03:11
 
 ---
 
@@ -97,11 +97,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent](https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent)
-来源: Vercel AI SDK | 时间: 2026/8/8 03:00:00
-
----
-
 ### 📢 [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments)
 来源: Hugging Face Blog | 时间: 2026/8/8 01:53:32
 
@@ -109,6 +104,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/8/8 00:26:58
+
+---
+
+### 📢 [How TReNDS automates root-cause analysis with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/8/8 00:22:50
 
 ---
 <!-- END_LIVE_FEEDS -->
