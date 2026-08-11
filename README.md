@@ -5,20 +5,40 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/11 21:12:51
+🕒 最后自动更新时间：2026/8/12 00:02:48
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Deploying Anthropic Claude apps gateway for AWS for enterprise workloads](https://aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads/)
+来源: AWS ML Blog | 时间: 2026/8/11 23:59:22
+
+---
+
 ### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/11 21:08:02
+来源: NVIDIA Developer Blog | 时间: 2026/8/11 23:54:16
+
+---
+
+### 📢 [How many of your agent's calls actually need a frontier model?](https://www.langchain.com/blog/switchyard-agent-routing-benchmark)
+来源: LangChain Blog | 时间: 2026/8/11 22:08:56
+
+---
+
+### 📢 [Thinking of ACE? We Can Do It with Fewer Tokens](https://huggingface.co/blog/ibm-research/altk-evolve-sldd)
+来源: Hugging Face Blog | 时间: 2026/8/11 21:37:10
 
 ---
 
 ### 📢 [Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard](https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/11 21:00:27
+来源: NVIDIA Developer Blog | 时间: 2026/8/11 21:12:21
+
+---
+
+### 📢 [NVIDIA Nemotron 3.5 Lightning](https://ollama.com/blog/nemotron-3-5-lightning)
+来源: Ollama Blog | 时间: 2026/8/11 08:00:00
 
 ---
 
@@ -82,33 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Announcing Day-0 Support for NVIDIA Nemotron 3.5 Lightning on vLLM](https://vllm.ai/blog/2026-08-10-nemotron-3-5-lightning-vllm)
+来源: vLLM Blog | 时间: 2026/8/10 08:00:00
+
+---
+
 ### 📢 [Muse Glimmer from Meta Superintelligence Labs is now available](https://ollama.com/blog/muse-glimmer)
 来源: Ollama Blog | 时间: 2026/8/10 08:00:00
-
----
-
-### 📢 [Grok Imagine Image 2.0 now available on Vercel AI Gateway](https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/8 08:00:00
-
----
-
-### 📢 [Managed Deep Agents is now in public beta](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta)
-来源: LangChain Blog | 时间: 2026/8/8 03:39:38
-
----
-
-### 📢 [Managed Deep Agents: the fastest way to ship a production deep agent](https://www.langchain.com/blog/introducing-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/8/8 03:39:38
-
----
-
-### 📢 [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway)
-来源: LangChain Blog | 时间: 2026/8/8 03:39:38
-
----
-
-### 📢 [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments)
-来源: Hugging Face Blog | 时间: 2026/8/8 01:53:32
 
 ---
 <!-- END_LIVE_FEEDS -->
