@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/11 18:03:11
+🕒 最后自动更新时间：2026/8/11 21:12:51
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/11 21:08:02
+
+---
+
+### 📢 [Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard](https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/11 21:00:27
+
+---
+
 ### 📢 [Introducing ExtractBench: The Most Comprehensive Benchmark for Data Extraction from Enterprise Documents](https://www.llamaindex.ai/blog/introducing-extractbench)
 来源: LlamaIndex Blog | 时间: 2026/8/11 08:00:00
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments)
 来源: Hugging Face Blog | 时间: 2026/8/8 01:53:32
-
----
-
-### 📢 [How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/8/8 00:26:58
-
----
-
-### 📢 [How TReNDS automates root-cause analysis with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/8/8 00:22:50
 
 ---
 <!-- END_LIVE_FEEDS -->
