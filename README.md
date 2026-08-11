@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/11 05:44:59
+🕒 最后自动更新时间：2026/8/11 09:58:33
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing ExtractBench: The Most Comprehensive Benchmark for Data Extraction from Enterprise Documents](https://www.llamaindex.ai/blog/introducing-extractbench)
+来源: LlamaIndex Blog | 时间: 2026/8/11 08:00:00
+
+---
+
 ### 📢 [Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA](https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/11 03:48:05
 
@@ -99,11 +104,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments)
 来源: Hugging Face Blog | 时间: 2026/8/8 01:53:32
-
----
-
-### 📢 [Vercel Container Registry repositories can now be made public](https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public)
-来源: Vercel AI SDK | 时间: 2026/8/8 01:00:00
 
 ---
 
