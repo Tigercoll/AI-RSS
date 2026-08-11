@@ -5,25 +5,50 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/12 00:02:48
+🕒 最后自动更新时间：2026/8/12 03:06:07
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Enterprise Managed Users is now generally available](https://vercel.com/changelog/enterprise-managed-users)
+来源: Vercel AI SDK | 时间: 2026/8/12 04:38:00
+
+---
+
+### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/12 02:46:00
+
+---
+
+### 📢 [NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation](https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/12 00:56:10
+
+---
+
+### 📢 [How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC](https://aws.amazon.com/blogs/machine-learning/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic/)
+来源: AWS ML Blog | 时间: 2026/8/12 00:14:33
+
+---
+
+### 📢 [How Pixieset achieved 35% AI feature adoption by solving the right problem with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/8/12 00:11:15
+
+---
+
+### 📢 [First Orion accelerates QA automation using Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/first-orion-accelerates-qa-automation-using-amazon-nova-act/)
+来源: AWS ML Blog | 时间: 2026/8/12 00:09:06
+
+---
+
 ### 📢 [Deploying Anthropic Claude apps gateway for AWS for enterprise workloads](https://aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads/)
 来源: AWS ML Blog | 时间: 2026/8/11 23:59:22
 
 ---
 
-### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/11 23:54:16
-
----
-
 ### 📢 [How many of your agent's calls actually need a frontier model?](https://www.langchain.com/blog/switchyard-agent-routing-benchmark)
-来源: LangChain Blog | 时间: 2026/8/11 22:08:56
+来源: LangChain Blog | 时间: 2026/8/11 23:25:30
 
 ---
 
@@ -37,12 +62,22 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt)
+来源: OpenAI | 时间: 2026/8/11 18:00:00
+
+---
+
+### 📢 [Everything hackable will get hacked](https://vercel.com/blog/everything-hackable-will-get-hacked)
+来源: Vercel AI SDK | 时间: 2026/8/11 15:00:00
+
+---
+
 ### 📢 [NVIDIA Nemotron 3.5 Lightning](https://ollama.com/blog/nemotron-3-5-lightning)
 来源: Ollama Blog | 时间: 2026/8/11 08:00:00
 
 ---
 
-### 📢 [Introducing ExtractBench: The Most Comprehensive Benchmark for Data Extraction from Enterprise Documents](https://www.llamaindex.ai/blog/introducing-extractbench)
+### 📢 [ExtractBench: The Most Comprehensive Extraction Benchmark](https://www.llamaindex.ai/blog/introducing-extractbench)
 来源: LlamaIndex Blog | 时间: 2026/8/11 08:00:00
 
 ---
@@ -54,16 +89,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [What building an AI-native finance function taught me](https://openai.com/index/building-an-ai-native-finance-function)
 来源: OpenAI | 时间: 2026/8/11 01:00:00
-
----
-
-### 📢 [Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows](https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/)
-来源: AWS ML Blog | 时间: 2026/8/11 00:34:37
-
----
-
-### 📢 [How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/8/11 00:30:46
 
 ---
 
@@ -84,31 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml)
 来源: OpenAI | 时间: 2026/8/10 20:00:00
-
----
-
-### 📢 [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation)
-来源: Hugging Face Blog | 时间: 2026/8/10 18:05:36
-
----
-
-### 📢 [Expanding Daybreak as the Cyber Defense Window Narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows)
-来源: OpenAI | 时间: 2026/8/10 18:00:00
-
----
-
-### 📢 [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer)
-来源: Hugging Face Blog | 时间: 2026/8/10 08:00:00
-
----
-
-### 📢 [Announcing Day-0 Support for NVIDIA Nemotron 3.5 Lightning on vLLM](https://vllm.ai/blog/2026-08-10-nemotron-3-5-lightning-vllm)
-来源: vLLM Blog | 时间: 2026/8/10 08:00:00
-
----
-
-### 📢 [Muse Glimmer from Meta Superintelligence Labs is now available](https://ollama.com/blog/muse-glimmer)
-来源: Ollama Blog | 时间: 2026/8/10 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
