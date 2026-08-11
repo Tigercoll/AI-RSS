@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/11 09:58:33
+🕒 最后自动更新时间：2026/8/11 12:22:28
 
 ---
 
@@ -37,11 +37,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents)
-来源: Hugging Face Blog | 时间: 2026/8/11 00:25:36
-
----
-
 ### 📢 [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas)
 来源: OpenAI | 时间: 2026/8/10 22:00:00
 
@@ -57,18 +52,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation)
-来源: Hugging Face Blog | 时间: 2026/8/10 18:05:36
-
----
-
 ### 📢 [Expanding Daybreak as the Cyber Defense Window Narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows)
 来源: OpenAI | 时间: 2026/8/10 18:00:00
-
----
-
-### 📢 [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer)
-来源: Hugging Face Blog | 时间: 2026/8/10 08:00:00
 
 ---
 
@@ -102,13 +87,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments)
-来源: Hugging Face Blog | 时间: 2026/8/8 01:53:32
+### 📢 [How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/8/8 00:26:58
 
 ---
 
-### 📢 [How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/8/8 00:26:58
+### 📢 [How TReNDS automates root-cause analysis with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/8/8 00:22:50
+
+---
+
+### 📢 [Deep Agents vs LangChain vs LangGraph](https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph)
+来源: LangChain Blog | 时间: 2026/8/7 15:27:53
+
+---
+
+### 📢 [Efficient Decode Context Parallelism with vLLM for Long Context Workloads](https://vllm.ai/blog/2026-08-07-decode-context-parallelism)
+来源: vLLM Blog | 时间: 2026/8/7 08:00:00
+
+---
+
+### 📢 [How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure](https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/7 03:09:04
 
 ---
 <!-- END_LIVE_FEEDS -->
