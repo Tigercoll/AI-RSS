@@ -5,15 +5,25 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/12 03:06:07
+🕒 最后自动更新时间：2026/8/12 05:52:43
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/8/12 05:38:06
+
+---
+
 ### 📢 [Enterprise Managed Users is now generally available](https://vercel.com/changelog/enterprise-managed-users)
 来源: Vercel AI SDK | 时间: 2026/8/12 04:38:00
+
+---
+
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools)
+来源: LangChain Blog | 时间: 2026/8/12 04:20:54
 
 ---
 
@@ -42,11 +52,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Deploying Anthropic Claude apps gateway for AWS for enterprise workloads](https://aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads/)
-来源: AWS ML Blog | 时间: 2026/8/11 23:59:22
-
----
-
 ### 📢 [How many of your agent's calls actually need a frontier model?](https://www.langchain.com/blog/switchyard-agent-routing-benchmark)
 来源: LangChain Blog | 时间: 2026/8/11 23:25:30
 
@@ -67,6 +72,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Daybreak models are now available on AWS](https://openai.com/index/daybreak-models-are-now-available-on-aws)
+来源: OpenAI | 时间: 2026/8/11 18:00:00
+
+---
+
 ### 📢 [Everything hackable will get hacked](https://vercel.com/blog/everything-hackable-will-get-hacked)
 来源: Vercel AI SDK | 时间: 2026/8/11 15:00:00
 
@@ -82,13 +92,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA](https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/11 03:48:05
+### 📢 [LaunchDarkly is now available on the Vercel Marketplace](https://vercel.com/changelog/launchdarkly-is-now-available-on-the-vercel-marketplace)
+来源: Vercel AI SDK | 时间: 2026/8/11 08:00:00
 
 ---
 
-### 📢 [What building an AI-native finance function taught me](https://openai.com/index/building-an-ai-native-finance-function)
-来源: OpenAI | 时间: 2026/8/11 01:00:00
+### 📢 [Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA](https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/11 03:48:05
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas)
 来源: OpenAI | 时间: 2026/8/10 22:00:00
-
----
-
-### 📢 [Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch](https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/)
-来源: PyTorch Blog | 时间: 2026/8/10 21:42:54
-
----
-
-### 📢 [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml)
-来源: OpenAI | 时间: 2026/8/10 20:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
