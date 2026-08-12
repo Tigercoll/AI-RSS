@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/12 05:52:43
+🕒 最后自动更新时间：2026/8/12 10:11:43
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools)
+来源: LangChain Blog | 时间: 2026/8/12 06:44:30
+
+---
+
+### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/12 06:32:11
+
+---
+
 ### 📢 [Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/8/12 05:38:06
 
@@ -19,16 +29,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Enterprise Managed Users is now generally available](https://vercel.com/changelog/enterprise-managed-users)
 来源: Vercel AI SDK | 时间: 2026/8/12 04:38:00
-
----
-
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools)
-来源: LangChain Blog | 时间: 2026/8/12 04:20:54
-
----
-
-### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/12 02:46:00
 
 ---
 
@@ -82,6 +82,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [DeepSeek overtakes Google on volume, cost per token falls 13.6%](https://vercel.com/blog/deepseek-overtakes-google-on-volume-cost-per-token-falls)
+来源: Vercel AI SDK | 时间: 2026/8/11 12:00:00
+
+---
+
 ### 📢 [NVIDIA Nemotron 3.5 Lightning](https://ollama.com/blog/nemotron-3-5-lightning)
 来源: Ollama Blog | 时间: 2026/8/11 08:00:00
 
@@ -89,11 +94,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [ExtractBench: The Most Comprehensive Extraction Benchmark](https://www.llamaindex.ai/blog/introducing-extractbench)
 来源: LlamaIndex Blog | 时间: 2026/8/11 08:00:00
-
----
-
-### 📢 [LaunchDarkly is now available on the Vercel Marketplace](https://vercel.com/changelog/launchdarkly-is-now-available-on-the-vercel-marketplace)
-来源: Vercel AI SDK | 时间: 2026/8/11 08:00:00
 
 ---
 
