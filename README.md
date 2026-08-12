@@ -5,13 +5,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/13 00:01:11
+🕒 最后自动更新时间：2026/8/13 03:05:16
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/13 02:26:18
+
+---
+
+### 📢 [Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS](https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/)
+来源: AWS ML Blog | 时间: 2026/8/13 01:45:20
+
+---
+
+### 📢 [LangSmith BYOC on AWS is generally available](https://www.langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws)
+来源: LangChain Blog | 时间: 2026/8/13 01:43:30
+
+---
+
+### 📢 [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings)
+来源: Hugging Face Blog | 时间: 2026/8/13 00:14:36
+
+---
+
+### 📢 [How to Choose Full-Stack Observability for NVIDIA AI Factories](https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/13 00:14:09
+
+---
+
 ### 📢 [NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation](https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/12 23:28:18
 
@@ -42,6 +67,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [DeepSeek V4 Pro now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/12 15:00:00
+
+---
+
 ### 📢 [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work)
 来源: OpenAI | 时间: 2026/8/12 14:00:00
 
@@ -57,6 +87,21 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Building a software factory for AI SDK](https://vercel.com/blog/building-a-software-factory-for-ai-sdk)
+来源: Vercel AI SDK | 时间: 2026/8/12 08:00:00
+
+---
+
+### 📢 [Free domain for one year, now for all Pro teams](https://vercel.com/changelog/free-domain-for-one-year-now-for-all-pro-teams)
+来源: Vercel AI SDK | 时间: 2026/8/12 08:00:00
+
+---
+
+### 📢 [Grok 4.6 now available on AI Gateway](https://vercel.com/changelog/grok-4-6-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/12 08:00:00
+
+---
+
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools)
 来源: LangChain Blog | 时间: 2026/8/12 06:44:30
 
@@ -64,51 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/12 06:32:11
-
----
-
-### 📢 [How we migrated the database behind every Vercel build](https://vercel.com/blog/how-we-migrated-the-database-behind-every-vercel-build)
-来源: Vercel AI SDK | 时间: 2026/8/12 06:00:00
-
----
-
-### 📢 [Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/8/12 05:38:06
-
----
-
-### 📢 [Enterprise Managed Users is now generally available](https://vercel.com/changelog/enterprise-managed-users)
-来源: Vercel AI SDK | 时间: 2026/8/12 04:38:00
-
----
-
-### 📢 [How many of your agent's calls actually need a frontier model?](https://www.langchain.com/blog/switchyard-agent-routing-benchmark)
-来源: LangChain Blog | 时间: 2026/8/11 23:25:30
-
----
-
-### 📢 [Thinking of ACE? We Can Do It with Fewer Tokens](https://huggingface.co/blog/ibm-research/altk-evolve-sldd)
-来源: Hugging Face Blog | 时间: 2026/8/11 21:37:10
-
----
-
-### 📢 [Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard](https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/11 21:12:21
-
----
-
-### 📢 [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt)
-来源: OpenAI | 时间: 2026/8/11 18:00:00
-
----
-
-### 📢 [Daybreak models are now available on AWS](https://openai.com/index/daybreak-models-are-now-available-on-aws)
-来源: OpenAI | 时间: 2026/8/11 18:00:00
-
----
-
-### 📢 [Everything hackable will get hacked](https://vercel.com/blog/everything-hackable-will-get-hacked)
-来源: Vercel AI SDK | 时间: 2026/8/11 15:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
