@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/12 18:10:12
+🕒 最后自动更新时间：2026/8/12 21:16:58
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work)
+来源: OpenAI | 时间: 2026/8/12 14:00:00
+
+---
+
 ### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
 来源: LangChain Blog | 时间: 2026/8/12 13:47:11
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA](https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/11 03:48:05
-
----
-
-### 📢 [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents)
-来源: Hugging Face Blog | 时间: 2026/8/11 00:25:36
 
 ---
 <!-- END_LIVE_FEEDS -->
