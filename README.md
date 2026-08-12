@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/12 12:49:53
+🕒 最后自动更新时间：2026/8/12 15:42:47
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
+来源: LangChain Blog | 时间: 2026/8/12 13:47:11
+
+---
+
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools)
 来源: LangChain Blog | 时间: 2026/8/12 06:44:30
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents)
 来源: Hugging Face Blog | 时间: 2026/8/11 00:25:36
-
----
-
-### 📢 [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas)
-来源: OpenAI | 时间: 2026/8/10 22:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
