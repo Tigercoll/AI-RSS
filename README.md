@@ -5,13 +5,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/12 21:16:58
+🕒 最后自动更新时间：2026/8/13 00:01:11
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation](https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/12 23:28:18
+
+---
+
+### 📢 [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)
+来源: Google DeepMind | 时间: 2026/8/12 22:01:59
+
+---
+
+### 📢 [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b)
+来源: Hugging Face Blog | 时间: 2026/8/12 22:00:51
+
+---
+
+### 📢 [How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS](https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/)
+来源: AWS ML Blog | 时间: 2026/8/12 21:46:28
+
+---
+
+### 📢 [Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/)
+来源: AWS ML Blog | 时间: 2026/8/12 21:44:58
+
+---
+
+### 📢 [Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine](https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/)
+来源: AWS ML Blog | 时间: 2026/8/12 21:42:48
+
+---
+
 ### 📢 [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work)
 来源: OpenAI | 时间: 2026/8/12 14:00:00
 
@@ -19,6 +49,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
 来源: LangChain Blog | 时间: 2026/8/12 13:47:11
+
+---
+
+### 📢 [Day 0 Support for Qwen3.8-2.4T-A95B on vLLM](https://vllm.ai/blog/2026-08-12-qwen3.8)
+来源: vLLM Blog | 时间: 2026/8/12 08:00:00
 
 ---
 
@@ -32,6 +67,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How we migrated the database behind every Vercel build](https://vercel.com/blog/how-we-migrated-the-database-behind-every-vercel-build)
+来源: Vercel AI SDK | 时间: 2026/8/12 06:00:00
+
+---
+
 ### 📢 [Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/8/12 05:38:06
 
@@ -39,26 +79,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Enterprise Managed Users is now generally available](https://vercel.com/changelog/enterprise-managed-users)
 来源: Vercel AI SDK | 时间: 2026/8/12 04:38:00
-
----
-
-### 📢 [NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation](https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/12 00:56:10
-
----
-
-### 📢 [How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC](https://aws.amazon.com/blogs/machine-learning/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic/)
-来源: AWS ML Blog | 时间: 2026/8/12 00:14:33
-
----
-
-### 📢 [How Pixieset achieved 35% AI feature adoption by solving the right problem with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/8/12 00:11:15
-
----
-
-### 📢 [First Orion accelerates QA automation using Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/first-orion-accelerates-qa-automation-using-amazon-nova-act/)
-来源: AWS ML Blog | 时间: 2026/8/12 00:09:06
 
 ---
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Everything hackable will get hacked](https://vercel.com/blog/everything-hackable-will-get-hacked)
 来源: Vercel AI SDK | 时间: 2026/8/11 15:00:00
-
----
-
-### 📢 [DeepSeek overtakes Google on volume, cost per token falls 13.6%](https://vercel.com/blog/deepseek-overtakes-google-on-volume-cost-per-token-falls)
-来源: Vercel AI SDK | 时间: 2026/8/11 12:00:00
-
----
-
-### 📢 [NVIDIA Nemotron 3.5 Lightning](https://ollama.com/blog/nemotron-3-5-lightning)
-来源: Ollama Blog | 时间: 2026/8/11 08:00:00
-
----
-
-### 📢 [ExtractBench: The Most Comprehensive Extraction Benchmark](https://www.llamaindex.ai/blog/introducing-extractbench)
-来源: LlamaIndex Blog | 时间: 2026/8/11 08:00:00
-
----
-
-### 📢 [Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA](https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/11 03:48:05
 
 ---
 <!-- END_LIVE_FEEDS -->
