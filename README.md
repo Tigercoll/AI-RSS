@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/13 03:05:16
+🕒 最后自动更新时间：2026/8/13 05:50:39
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/13 05:37:31
+
+---
+
+### 📢 [LangSmith BYOC on AWS is generally available](https://www.langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws)
+来源: LangChain Blog | 时间: 2026/8/13 02:50:08
+
+---
+
 ### 📢 [Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/13 02:26:18
 
@@ -19,11 +29,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS](https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/)
 来源: AWS ML Blog | 时间: 2026/8/13 01:45:20
-
----
-
-### 📢 [LangSmith BYOC on AWS is generally available](https://www.langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws)
-来源: LangChain Blog | 时间: 2026/8/13 01:43:30
 
 ---
 
@@ -67,6 +72,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
+来源: LangChain Blog | 时间: 2026/8/12 16:57:48
+
+---
+
 ### 📢 [DeepSeek V4 Pro now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/12 15:00:00
 
@@ -77,38 +87,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
-来源: LangChain Blog | 时间: 2026/8/12 13:47:11
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools)
+来源: LangChain Blog | 时间: 2026/8/12 13:37:30
+
+---
+
+### 📢 [How to Monitor AI Agents in Production](https://www.langchain.com/blog/production-monitoring)
+来源: LangChain Blog | 时间: 2026/8/12 13:37:30
+
+---
+
+### 📢 [Exa web search free through August 31 on AI Gateway and eve](https://vercel.com/changelog/exa-web-search-free-through-august-31-on-ai-gateway-and-eve)
+来源: Vercel AI SDK | 时间: 2026/8/12 08:01:00
+
+---
+
+### 📢 [How RingCentral builds AI-native work from engineering to ops](https://openai.com/index/ringcentral)
+来源: OpenAI | 时间: 2026/8/12 08:00:00
 
 ---
 
 ### 📢 [Day 0 Support for Qwen3.8-2.4T-A95B on vLLM](https://vllm.ai/blog/2026-08-12-qwen3.8)
 来源: vLLM Blog | 时间: 2026/8/12 08:00:00
-
----
-
-### 📢 [Building a software factory for AI SDK](https://vercel.com/blog/building-a-software-factory-for-ai-sdk)
-来源: Vercel AI SDK | 时间: 2026/8/12 08:00:00
-
----
-
-### 📢 [Free domain for one year, now for all Pro teams](https://vercel.com/changelog/free-domain-for-one-year-now-for-all-pro-teams)
-来源: Vercel AI SDK | 时间: 2026/8/12 08:00:00
-
----
-
-### 📢 [Grok 4.6 now available on AI Gateway](https://vercel.com/changelog/grok-4-6-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/12 08:00:00
-
----
-
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools)
-来源: LangChain Blog | 时间: 2026/8/12 06:44:30
-
----
-
-### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/12 06:32:11
 
 ---
 <!-- END_LIVE_FEEDS -->
