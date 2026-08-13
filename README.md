@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/13 05:50:39
+🕒 最后自动更新时间：2026/8/13 10:13:15
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Why managed agents are the next big thing in agent building](https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building)
+来源: LangChain Blog | 时间: 2026/8/13 08:00:06
+
+---
+
 ### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/13 05:37:31
 
@@ -88,11 +93,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools)
-来源: LangChain Blog | 时间: 2026/8/12 13:37:30
-
----
-
-### 📢 [How to Monitor AI Agents in Production](https://www.langchain.com/blog/production-monitoring)
 来源: LangChain Blog | 时间: 2026/8/12 13:37:30
 
 ---
