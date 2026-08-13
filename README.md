@@ -5,15 +5,40 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/13 21:19:24
+🕒 最后自动更新时间：2026/8/14 00:01:33
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements](https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements/)
+来源: PyTorch Blog | 时间: 2026/8/14 00:00:31
+
+---
+
+### 📢 [Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool](https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/)
+来源: AWS ML Blog | 时间: 2026/8/13 23:56:07
+
+---
+
+### 📢 [Accelerating M&A due diligence with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/8/13 23:52:44
+
+---
+
+### 📢 [Amazon Quick for Microsoft 365: Agentic AI where you work](https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/)
+来源: AWS ML Blog | 时间: 2026/8/13 23:48:15
+
+---
+
 ### 📢 [Why managed agents are the next big thing in agent building](https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building)
 来源: LangChain Blog | 时间: 2026/8/13 14:16:37
+
+---
+
+### 📢 [Grok Build is now available in the AI SDK harness layer](https://vercel.com/changelog/grok-build-harness-adapter)
+来源: Vercel AI SDK | 时间: 2026/8/13 08:00:00
 
 ---
 
@@ -67,21 +92,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS](https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/)
-来源: AWS ML Blog | 时间: 2026/8/12 21:46:28
-
----
-
-### 📢 [Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/)
-来源: AWS ML Blog | 时间: 2026/8/12 21:44:58
-
----
-
-### 📢 [Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine](https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/)
-来源: AWS ML Blog | 时间: 2026/8/12 21:42:48
-
----
-
 ### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
 来源: LangChain Blog | 时间: 2026/8/12 16:57:48
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools)
 来源: LangChain Blog | 时间: 2026/8/12 13:37:30
-
----
-
-### 📢 [Exa web search free through August 31 on AI Gateway and eve](https://vercel.com/changelog/exa-web-search-free-through-august-31-on-ai-gateway-and-eve)
-来源: Vercel AI SDK | 时间: 2026/8/12 08:01:00
-
----
-
-### 📢 [How RingCentral builds AI-native work from engineering to ops](https://openai.com/index/ringcentral)
-来源: OpenAI | 时间: 2026/8/12 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
