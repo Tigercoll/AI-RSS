@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/14 00:01:33
+🕒 最后自动更新时间：2026/8/14 03:06:19
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)
+来源: Hugging Face Blog | 时间: 2026/8/14 01:16:04
+
+---
+
+### 📢 [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/)
+来源: Google DeepMind | 时间: 2026/8/14 01:04:18
+
+---
+
+### 📢 [Monitor on-premises and multi-cloud AI agents with AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/)
+来源: AWS ML Blog | 时间: 2026/8/14 00:02:10
+
+---
+
 ### 📢 [FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements](https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements/)
 来源: PyTorch Blog | 时间: 2026/8/14 00:00:31
 
@@ -32,8 +47,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6)
+来源: OpenAI | 时间: 2026/8/13 19:00:00
+
+---
+
+### 📢 [Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed](https://openai.com/index/previewing-ultrafast)
+来源: OpenAI | 时间: 2026/8/13 18:00:00
+
+---
+
+### 📢 [OpenAI appoints Dali Rajic as Chief Revenue Officer](https://openai.com/index/dali-rajic-chief-revenue-officer)
+来源: OpenAI | 时间: 2026/8/13 17:00:00
+
+---
+
 ### 📢 [Why managed agents are the next big thing in agent building](https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building)
 来源: LangChain Blog | 时间: 2026/8/13 14:16:37
+
+---
+
+### 📢 [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions)
+来源: Hugging Face Blog | 时间: 2026/8/13 08:00:00
+
+---
+
+### 📢 [GLM 5.2 free for eve agents through August 27 via Blackbox on AI Gateway](https://vercel.com/changelog/glm-5-2-free-for-eve-agents-through-august-27-via-blackbox-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/13 08:00:00
+
+---
+
+### 📢 [Gemini 3.7 Flash now available on AI Gateway for 50% off](https://vercel.com/changelog/gemini-3-7-flash-now-available-on-ai-gateway-for-50-off)
+来源: Vercel AI SDK | 时间: 2026/8/13 08:00:00
 
 ---
 
@@ -62,53 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS](https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/)
-来源: AWS ML Blog | 时间: 2026/8/13 01:45:20
-
----
-
 ### 📢 [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings)
 来源: Hugging Face Blog | 时间: 2026/8/13 00:14:36
-
----
-
-### 📢 [How to Choose Full-Stack Observability for NVIDIA AI Factories](https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/13 00:14:09
-
----
-
-### 📢 [NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation](https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/12 23:28:18
-
----
-
-### 📢 [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)
-来源: Google DeepMind | 时间: 2026/8/12 22:01:59
-
----
-
-### 📢 [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b)
-来源: Hugging Face Blog | 时间: 2026/8/12 22:00:51
-
----
-
-### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
-来源: LangChain Blog | 时间: 2026/8/12 16:57:48
-
----
-
-### 📢 [DeepSeek V4 Pro now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/12 15:00:00
-
----
-
-### 📢 [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work)
-来源: OpenAI | 时间: 2026/8/12 14:00:00
-
----
-
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools)
-来源: LangChain Blog | 时间: 2026/8/12 13:37:30
 
 ---
 <!-- END_LIVE_FEEDS -->
