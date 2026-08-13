@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/13 12:53:51
+🕒 最后自动更新时间：2026/8/13 15:39:39
 
 ---
 
@@ -13,7 +13,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Why managed agents are the next big thing in agent building](https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building)
-来源: LangChain Blog | 时间: 2026/8/13 08:00:06
+来源: LangChain Blog | 时间: 2026/8/13 14:16:37
 
 ---
 
