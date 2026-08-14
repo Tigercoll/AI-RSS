@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/14 21:13:34
+🕒 最后自动更新时间：2026/8/14 23:55:05
 
 ---
 
@@ -13,12 +13,22 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/14 21:02:43
+来源: NVIDIA Developer Blog | 时间: 2026/8/14 23:45:00
 
 ---
 
 ### 📢 [Why managed agents are the next big thing in agent building](https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building)
-来源: LangChain Blog | 时间: 2026/8/14 12:46:25
+来源: LangChain Blog | 时间: 2026/8/14 16:32:11
+
+---
+
+### 📢 [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026)
+来源: Hugging Face Blog | 时间: 2026/8/14 08:00:00
+
+---
+
+### 📢 [Adaptive Verification in vLLM: DSpark confidence-scheduled verification](https://vllm.ai/blog/2026-08-14-dspark-adaptive-verification)
+来源: vLLM Blog | 时间: 2026/8/14 08:00:00
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/13 05:37:31
-
----
-
-### 📢 [LangSmith BYOC on AWS is generally available](https://www.langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws)
-来源: LangChain Blog | 时间: 2026/8/13 02:50:08
-
----
-
-### 📢 [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings)
-来源: Hugging Face Blog | 时间: 2026/8/13 00:14:36
 
 ---
 <!-- END_LIVE_FEEDS -->
