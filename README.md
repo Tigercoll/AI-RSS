@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/14 10:11:35
+🕒 最后自动更新时间：2026/8/14 12:50:46
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Why managed agents are the next big thing in agent building](https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building)
+来源: LangChain Blog | 时间: 2026/8/14 12:46:25
+
+---
+
 ### 📢 [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)
 来源: Hugging Face Blog | 时间: 2026/8/14 01:16:04
 
@@ -59,11 +64,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [OpenAI appoints Dali Rajic as Chief Revenue Officer](https://openai.com/index/dali-rajic-chief-revenue-officer)
 来源: OpenAI | 时间: 2026/8/13 17:00:00
-
----
-
-### 📢 [Why managed agents are the next big thing in agent building](https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building)
-来源: LangChain Blog | 时间: 2026/8/13 14:16:37
 
 ---
 
