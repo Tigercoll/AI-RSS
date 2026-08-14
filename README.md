@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/14 23:55:05
+🕒 最后自动更新时间：2026/8/15 02:58:52
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge](https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/)
+来源: AWS ML Blog | 时间: 2026/8/15 00:02:10
+
+---
+
+### 📢 [Encrypted Client Hello (ECH) is now supported on Vercel CDN](https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn)
+来源: Vercel AI SDK | 时间: 2026/8/15 00:00:00
+
+---
+
+### 📢 [Building agentic workflows with SageMaker AI and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/8/14 23:58:44
+
+---
+
 ### 📢 [Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/14 23:45:00
 
@@ -57,16 +72,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Accelerating M&A due diligence with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/8/13 23:52:44
-
----
-
-### 📢 [Amazon Quick for Microsoft 365: Agentic AI where you work](https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/)
-来源: AWS ML Blog | 时间: 2026/8/13 23:48:15
-
----
-
 ### 📢 [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6)
 来源: OpenAI | 时间: 2026/8/13 19:00:00
 
@@ -98,11 +103,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Grok Build is now available in the AI SDK harness layer](https://vercel.com/changelog/grok-build-harness-adapter)
-来源: Vercel AI SDK | 时间: 2026/8/13 08:00:00
-
----
-
-### 📢 [Use ACP-compatible harnesses with the AI SDK harness layer](https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer)
 来源: Vercel AI SDK | 时间: 2026/8/13 08:00:00
 
 ---
