@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/16 17:29:58
+🕒 最后自动更新时间：2026/8/16 20:45:05
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
+来源: LangChain Blog | 时间: 2026/8/16 18:53:35
+
+---
+
 ### 📢 [Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge](https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/)
 来源: AWS ML Blog | 时间: 2026/8/15 00:02:10
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Grok Build is now available in the AI SDK harness layer](https://vercel.com/changelog/grok-build-harness-adapter)
 来源: Vercel AI SDK | 时间: 2026/8/13 08:00:00
-
----
-
-### 📢 [NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/13 05:37:31
 
 ---
 <!-- END_LIVE_FEEDS -->
