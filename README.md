@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/17 23:27:30
+🕒 最后自动更新时间：2026/8/18 02:43:18
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer](https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/18 02:13:08
+
+---
+
+### 📢 [NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/)
+来源: AWS ML Blog | 时间: 2026/8/18 02:06:33
+
+---
+
+### 📢 [Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/)
+来源: AWS ML Blog | 时间: 2026/8/18 00:19:56
+
+---
+
 ### 📢 [AgentCore Payments middleware for LangChain agents](https://www.langchain.com/blog/langchain-agentcore-payments)
 来源: LangChain Blog | 时间: 2026/8/17 22:52:56
 
@@ -92,23 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Monitor on-premises and multi-cloud AI agents with AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/)
-来源: AWS ML Blog | 时间: 2026/8/14 00:02:10
-
----
-
 ### 📢 [FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements](https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements/)
 来源: PyTorch Blog | 时间: 2026/8/14 00:00:31
-
----
-
-### 📢 [Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool](https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/)
-来源: AWS ML Blog | 时间: 2026/8/13 23:56:07
-
----
-
-### 📢 [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6)
-来源: OpenAI | 时间: 2026/8/13 19:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
