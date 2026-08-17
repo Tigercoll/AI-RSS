@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/17 15:01:29
+🕒 最后自动更新时间：2026/8/17 17:45:57
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Distributed Layerwise Offload: Scaling Toward 200B+ DiT Models Efficiently in vLLM-Omni](https://vllm.ai/blog/2026-08-17-distributed-layerwise-offload)
+来源: vLLM Blog | 时间: 2026/8/17 08:00:00
+
+---
+
 ### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
 来源: LangChain Blog | 时间: 2026/8/17 04:36:00
 
@@ -103,11 +108,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Gemini 3.7 Flash now available on AI Gateway for 50% off](https://vercel.com/changelog/gemini-3-7-flash-now-available-on-ai-gateway-for-50-off)
-来源: Vercel AI SDK | 时间: 2026/8/13 08:00:00
-
----
-
-### 📢 [Grok Build is now available in the AI SDK harness layer](https://vercel.com/changelog/grok-build-harness-adapter)
 来源: Vercel AI SDK | 时间: 2026/8/13 08:00:00
 
 ---
