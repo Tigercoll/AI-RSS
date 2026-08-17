@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/17 20:49:57
+🕒 最后自动更新时间：2026/8/17 23:27:30
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [AgentCore Payments middleware for LangChain agents](https://www.langchain.com/blog/langchain-agentcore-payments)
+来源: LangChain Blog | 时间: 2026/8/17 22:52:56
+
+---
+
+### 📢 [The Defender’s Window](https://openai.com/index/the-defenders-window)
+来源: OpenAI | 时间: 2026/8/17 13:30:00
+
+---
+
+### 📢 [OpenAI joins PORTS-Pike project](https://openai.com/index/openai-joins-ports-pike-project)
+来源: OpenAI | 时间: 2026/8/17 13:00:00
+
+---
+
 ### 📢 [New policy ideas for the Intelligence Age](https://openai.com/index/new-policy-ideas-for-the-intelligence-age)
 来源: OpenAI | 时间: 2026/8/17 11:15:00
 
@@ -19,6 +34,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Distributed Layerwise Offload: Scaling Toward 200B+ DiT Models Efficiently in vLLM-Omni](https://vllm.ai/blog/2026-08-17-distributed-layerwise-offload)
 来源: vLLM Blog | 时间: 2026/8/17 08:00:00
+
+---
+
+### 📢 [GPT-5.6 Sol is 50% off on AI Gateway for the next month](https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month)
+来源: Vercel AI SDK | 时间: 2026/8/17 08:00:00
 
 ---
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6)
 来源: OpenAI | 时间: 2026/8/13 19:00:00
-
----
-
-### 📢 [Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed](https://openai.com/index/previewing-ultrafast)
-来源: OpenAI | 时间: 2026/8/13 18:00:00
-
----
-
-### 📢 [OpenAI appoints Dali Rajic as Chief Revenue Officer](https://openai.com/index/dali-rajic-chief-revenue-officer)
-来源: OpenAI | 时间: 2026/8/13 17:00:00
-
----
-
-### 📢 [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions)
-来源: Hugging Face Blog | 时间: 2026/8/13 08:00:00
-
----
-
-### 📢 [GLM 5.2 free for eve agents through August 27 via Blackbox on AI Gateway](https://vercel.com/changelog/glm-5-2-free-for-eve-agents-through-august-27-via-blackbox-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/13 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
