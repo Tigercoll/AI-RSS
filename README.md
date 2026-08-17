@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/17 09:26:44
+🕒 最后自动更新时间：2026/8/17 11:52:59
 
 ---
 
@@ -13,7 +13,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 <!-- START_LIVE_FEEDS -->
 ### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
-来源: LangChain Blog | 时间: 2026/8/16 18:53:35
+来源: LangChain Blog | 时间: 2026/8/17 04:36:00
 
 ---
 
