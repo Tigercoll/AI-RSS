@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/18 02:43:18
+🕒 最后自动更新时间：2026/8/18 05:28:30
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2)
+来源: Hugging Face Blog | 时间: 2026/8/18 03:46:21
+
+---
+
 ### 📢 [Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer](https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/18 02:13:08
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/)
 来源: Google DeepMind | 时间: 2026/8/14 01:04:18
-
----
-
-### 📢 [FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements](https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements/)
-来源: PyTorch Blog | 时间: 2026/8/14 00:00:31
 
 ---
 <!-- END_LIVE_FEEDS -->
