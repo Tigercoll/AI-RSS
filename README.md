@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/18 20:52:22
+🕒 最后自动更新时间：2026/8/18 23:34:49
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Chat SDK adds Instagram adapter](https://vercel.com/changelog/chat-sdk-adds-instagram-adapter)
+来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
+
+---
+
+### 📢 [AgentCore Payments middleware for LangChain agents](https://www.langchain.com/blog/langchain-agentcore-payments)
+来源: LangChain Blog | 时间: 2026/8/18 22:55:43
+
+---
+
 ### 📢 [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai)
 来源: OpenAI | 时间: 2026/8/18 19:00:00
 
@@ -19,6 +29,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens)
 来源: OpenAI | 时间: 2026/8/18 19:00:00
+
+---
+
+### 📢 [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder)
+来源: Hugging Face Blog | 时间: 2026/8/18 08:00:00
 
 ---
 
@@ -39,11 +54,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/)
 来源: AWS ML Blog | 时间: 2026/8/18 00:19:56
-
----
-
-### 📢 [AgentCore Payments middleware for LangChain agents](https://www.langchain.com/blog/langchain-agentcore-payments)
-来源: LangChain Blog | 时间: 2026/8/17 22:52:56
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026)
 来源: Hugging Face Blog | 时间: 2026/8/14 08:00:00
-
----
-
-### 📢 [Adaptive Verification in vLLM: DSpark confidence-scheduled verification](https://vllm.ai/blog/2026-08-14-dspark-adaptive-verification)
-来源: vLLM Blog | 时间: 2026/8/14 08:00:00
-
----
-
-### 📢 [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)
-来源: Hugging Face Blog | 时间: 2026/8/14 01:16:04
 
 ---
 <!-- END_LIVE_FEEDS -->
