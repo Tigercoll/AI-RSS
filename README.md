@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/19 02:41:38
+🕒 最后自动更新时间：2026/8/19 05:27:18
 
 ---
 
@@ -18,27 +18,37 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [AgentCore Payments middleware for LangChain agents](https://www.langchain.com/blog/langchain-agentcore-payments)
-来源: LangChain Blog | 时间: 2026/8/19 02:20:33
+来源: LangChain Blog | 时间: 2026/8/19 03:27:37
+
+---
+
+### 📢 [Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security)
+来源: OpenAI | 时间: 2026/8/19 03:00:00
+
+---
+
+### 📢 [Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/)
+来源: AWS ML Blog | 时间: 2026/8/19 02:56:14
+
+---
+
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
+来源: LangChain Blog | 时间: 2026/8/19 02:49:52
+
+---
+
+### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
+来源: LangChain Blog | 时间: 2026/8/19 02:49:52
+
+---
+
+### 📢 [Introducing LangSmith Tuned Evaluators](https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error)
+来源: LangChain Blog | 时间: 2026/8/19 02:37:50
 
 ---
 
 ### 📢 [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
 来源: Hugging Face Blog | 时间: 2026/8/19 02:09:38
-
----
-
-### 📢 [Introducing LangSmith Tuned Evaluators](https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error)
-来源: LangChain Blog | 时间: 2026/8/19 02:06:31
-
----
-
-### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
-来源: LangChain Blog | 时间: 2026/8/19 01:55:04
-
----
-
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
-来源: LangChain Blog | 时间: 2026/8/19 01:26:56
 
 ---
 
@@ -54,11 +64,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Jumio built a real-time feature store on AWS](https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws/)
 来源: AWS ML Blog | 时间: 2026/8/19 01:05:48
-
----
-
-### 📢 [Improve contract search accuracy with auto-generated filters in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/8/19 01:02:52
 
 ---
 
@@ -84,11 +89,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens)
 来源: OpenAI | 时间: 2026/8/18 19:00:00
-
----
-
-### 📢 [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana)
-来源: OpenAI | 时间: 2026/8/18 15:00:00
 
 ---
 
