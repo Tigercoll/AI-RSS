@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/18 23:34:49
+🕒 最后自动更新时间：2026/8/19 02:41:38
 
 ---
 
@@ -18,11 +18,66 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [AgentCore Payments middleware for LangChain agents](https://www.langchain.com/blog/langchain-agentcore-payments)
-来源: LangChain Blog | 时间: 2026/8/18 22:55:43
+来源: LangChain Blog | 时间: 2026/8/19 02:20:33
+
+---
+
+### 📢 [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
+来源: Hugging Face Blog | 时间: 2026/8/19 02:09:38
+
+---
+
+### 📢 [Introducing LangSmith Tuned Evaluators](https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error)
+来源: LangChain Blog | 时间: 2026/8/19 02:06:31
+
+---
+
+### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
+来源: LangChain Blog | 时间: 2026/8/19 01:55:04
+
+---
+
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
+来源: LangChain Blog | 时间: 2026/8/19 01:26:56
+
+---
+
+### 📢 [Customize Amazon Quick embedded chat into your application](https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application/)
+来源: AWS ML Blog | 时间: 2026/8/19 01:13:13
+
+---
+
+### 📢 [Implement vector-prompt document classification using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/8/19 01:10:37
+
+---
+
+### 📢 [How Jumio built a real-time feature store on AWS](https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws/)
+来源: AWS ML Blog | 时间: 2026/8/19 01:05:48
+
+---
+
+### 📢 [Improve contract search accuracy with auto-generated filters in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/8/19 01:02:52
+
+---
+
+### 📢 [Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy](https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/19 00:48:23
+
+---
+
+### 📢 [$1 million hacker challenge for Vercel Sandbox](https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox)
+来源: Vercel AI SDK | 时间: 2026/8/18 21:00:00
 
 ---
 
 ### 📢 [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai)
+来源: OpenAI | 时间: 2026/8/18 19:00:00
+
+---
+
+### 📢 [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities)
 来源: OpenAI | 时间: 2026/8/18 19:00:00
 
 ---
@@ -32,83 +87,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana)
+来源: OpenAI | 时间: 2026/8/18 15:00:00
+
+---
+
 ### 📢 [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder)
 来源: Hugging Face Blog | 时间: 2026/8/18 08:00:00
 
 ---
 
-### 📢 [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2)
-来源: Hugging Face Blog | 时间: 2026/8/18 03:46:21
+### 📢 [Cline is now available in the AI SDK harness layer](https://vercel.com/changelog/cline-harness-adapter)
+来源: Vercel AI SDK | 时间: 2026/8/18 08:00:00
 
 ---
 
-### 📢 [Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer](https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/18 02:13:08
+### 📢 [GLM 5.3 now available on AI Gateway](https://vercel.com/changelog/glm-5-3-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/18 08:00:00
 
 ---
 
-### 📢 [NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/)
-来源: AWS ML Blog | 时间: 2026/8/18 02:06:33
-
----
-
-### 📢 [Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/)
-来源: AWS ML Blog | 时间: 2026/8/18 00:19:56
-
----
-
-### 📢 [The Defender’s Window](https://openai.com/index/the-defenders-window)
-来源: OpenAI | 时间: 2026/8/17 13:30:00
-
----
-
-### 📢 [OpenAI joins PORTS-Pike project](https://openai.com/index/openai-joins-ports-pike-project)
-来源: OpenAI | 时间: 2026/8/17 13:00:00
-
----
-
-### 📢 [Distributed Layerwise Offload: Scaling Toward 200B+ DiT Models Efficiently in vLLM-Omni](https://vllm.ai/blog/2026-08-17-distributed-layerwise-offload)
-来源: vLLM Blog | 时间: 2026/8/17 08:00:00
-
----
-
-### 📢 [GPT-5.6 Sol is 50% off on AI Gateway for the next month](https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month)
-来源: Vercel AI SDK | 时间: 2026/8/17 08:00:00
-
----
-
-### 📢 [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent)
-来源: LangChain Blog | 时间: 2026/8/17 04:36:00
-
----
-
-### 📢 [Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge](https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/)
-来源: AWS ML Blog | 时间: 2026/8/15 00:02:10
-
----
-
-### 📢 [Encrypted Client Hello (ECH) is now supported on Vercel CDN](https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn)
-来源: Vercel AI SDK | 时间: 2026/8/15 00:00:00
-
----
-
-### 📢 [Building agentic workflows with SageMaker AI and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/8/14 23:58:44
-
----
-
-### 📢 [Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/14 23:45:00
-
----
-
-### 📢 [Why managed agents are the next big thing in agent building](https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building)
-来源: LangChain Blog | 时间: 2026/8/14 16:32:11
-
----
-
-### 📢 [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026)
-来源: Hugging Face Blog | 时间: 2026/8/14 08:00:00
+### 📢 [How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit](https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/18 05:00:03
 
 ---
 <!-- END_LIVE_FEEDS -->
