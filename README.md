@@ -5,14 +5,24 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/20 02:39:33
+🕒 最后自动更新时间：2026/8/20 05:28:03
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Offering Zero Data Retention for frontier models](https://openai.com/index/our-commitment-to-zero-data-retention)
+### 📢 [How Fanatics Betting and Gaming built a multi-agent customer support system](https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/)
+来源: AWS ML Blog | 时间: 2026/8/20 04:40:45
+
+---
+
+### 📢 [KnowledgeForge: mining gold from the ITSM ticket graveyard](https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/)
+来源: AWS ML Blog | 时间: 2026/8/20 04:36:50
+
+---
+
+### 📢 [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)
 来源: OpenAI | 时间: 2026/8/20 03:00:00
 
 ---
@@ -34,6 +44,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit)
 来源: OpenAI | 时间: 2026/8/19 15:00:00
+
+---
+
+### 📢 [Introducing Vercel for Slack](https://vercel.com/blog/introducing-vercel-for-slack)
+来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
+
+---
+
+### 📢 [Vercel for Slack now in public beta](https://vercel.com/changelog/vercel-for-slack-now-in-public-beta)
+来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
 
 ---
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
 来源: Hugging Face Blog | 时间: 2026/8/19 02:09:38
-
----
-
-### 📢 [Customize Amazon Quick embedded chat into your application](https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application/)
-来源: AWS ML Blog | 时间: 2026/8/19 01:13:13
-
----
-
-### 📢 [Implement vector-prompt document classification using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/8/19 01:10:37
-
----
-
-### 📢 [How Jumio built a real-time feature store on AWS](https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws/)
-来源: AWS ML Blog | 时间: 2026/8/19 01:05:48
-
----
-
-### 📢 [$1 million hacker challenge for Vercel Sandbox](https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox)
-来源: Vercel AI SDK | 时间: 2026/8/18 21:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
