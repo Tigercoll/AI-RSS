@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/19 11:49:18
+🕒 最后自动更新时间：2026/8/19 14:49:28
 
 ---
 
@@ -19,6 +19,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing LangSmith Tuned Evaluators](https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error)
 来源: LangChain Blog | 时间: 2026/8/19 07:46:30
+
+---
+
+### 📢 [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe)
+来源: OpenAI | 时间: 2026/8/19 06:00:00
 
 ---
 
@@ -83,11 +88,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities)
-来源: OpenAI | 时间: 2026/8/18 19:00:00
-
----
-
-### 📢 [Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens)
 来源: OpenAI | 时间: 2026/8/18 19:00:00
 
 ---
