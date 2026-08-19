@@ -5,20 +5,30 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/19 20:53:14
+🕒 最后自动更新时间：2026/8/19 23:34:55
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Chat SDK adds Instagram adapter](https://vercel.com/changelog/chat-sdk-adds-instagram-adapter)
-来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
+### 📢 [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](https://huggingface.co/blog/LiquidAI/qad)
+来源: Hugging Face Blog | 时间: 2026/8/19 21:48:49
 
 ---
 
 ### 📢 [Introducing LangSmith Tuned Evaluators](https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error)
-来源: LangChain Blog | 时间: 2026/8/19 07:46:30
+来源: LangChain Blog | 时间: 2026/8/19 20:59:39
+
+---
+
+### 📢 [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit)
+来源: OpenAI | 时间: 2026/8/19 15:00:00
+
+---
+
+### 📢 [Chat SDK adds Instagram adapter](https://vercel.com/changelog/chat-sdk-adds-instagram-adapter)
+来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
 
 ---
 
@@ -87,11 +97,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities)
-来源: OpenAI | 时间: 2026/8/18 19:00:00
-
----
-
 ### 📢 [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder)
 来源: Hugging Face Blog | 时间: 2026/8/18 08:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [GLM 5.3 now available on AI Gateway](https://vercel.com/changelog/glm-5-3-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/18 08:00:00
-
----
-
-### 📢 [How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit](https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/18 05:00:03
 
 ---
 <!-- END_LIVE_FEEDS -->
