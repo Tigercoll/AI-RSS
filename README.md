@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/19 05:27:18
+🕒 最后自动更新时间：2026/8/19 09:24:52
 
 ---
 
@@ -14,6 +14,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Chat SDK adds Instagram adapter](https://vercel.com/changelog/chat-sdk-adds-instagram-adapter)
 来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
+
+---
+
+### 📢 [Introducing LangSmith Tuned Evaluators](https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error)
+来源: LangChain Blog | 时间: 2026/8/19 07:46:30
 
 ---
 
@@ -39,11 +44,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
 来源: LangChain Blog | 时间: 2026/8/19 02:49:52
-
----
-
-### 📢 [Introducing LangSmith Tuned Evaluators](https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error)
-来源: LangChain Blog | 时间: 2026/8/19 02:37:50
 
 ---
 
