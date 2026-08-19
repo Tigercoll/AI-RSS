@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/19 23:34:55
+🕒 最后自动更新时间：2026/8/20 02:39:33
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Offering Zero Data Retention for frontier models](https://openai.com/index/our-commitment-to-zero-data-retention)
+来源: OpenAI | 时间: 2026/8/20 03:00:00
+
+---
+
+### 📢 [Building Federated Multimodal AI Workflows with NVIDIA FLARE](https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/20 01:51:06
+
+---
+
 ### 📢 [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](https://huggingface.co/blog/LiquidAI/qad)
 来源: Hugging Face Blog | 时间: 2026/8/19 21:48:49
 
@@ -27,13 +37,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Vercel Connect now supports Microsoft](https://vercel.com/changelog/vercel-connect-supports-microsoft)
+来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
+
+---
+
 ### 📢 [Chat SDK adds Instagram adapter](https://vercel.com/changelog/chat-sdk-adds-instagram-adapter)
 来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
 
 ---
 
+### 📢 [Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator](https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/19 07:41:42
+
+---
+
 ### 📢 [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe)
 来源: OpenAI | 时间: 2026/8/19 06:00:00
+
+---
+
+### 📢 [Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control](https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/19 05:11:04
 
 ---
 
@@ -82,33 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy](https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/19 00:48:23
-
----
-
 ### 📢 [$1 million hacker challenge for Vercel Sandbox](https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox)
 来源: Vercel AI SDK | 时间: 2026/8/18 21:00:00
-
----
-
-### 📢 [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai)
-来源: OpenAI | 时间: 2026/8/18 19:00:00
-
----
-
-### 📢 [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder)
-来源: Hugging Face Blog | 时间: 2026/8/18 08:00:00
-
----
-
-### 📢 [Cline is now available in the AI SDK harness layer](https://vercel.com/changelog/cline-harness-adapter)
-来源: Vercel AI SDK | 时间: 2026/8/18 08:00:00
-
----
-
-### 📢 [GLM 5.3 now available on AI Gateway](https://vercel.com/changelog/glm-5-3-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/18 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
