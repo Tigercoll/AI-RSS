@@ -5,13 +5,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/21 02:43:51
+🕒 最后自动更新时间：2026/8/21 05:31:10
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/)
+来源: AWS ML Blog | 时间: 2026/8/21 05:23:38
+
+---
+
+### 📢 [Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/)
+来源: AWS ML Blog | 时间: 2026/8/21 05:23:29
+
+---
+
+### 📢 [Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/)
+来源: AWS ML Blog | 时间: 2026/8/21 05:23:23
+
+---
+
+### 📢 [PyTorch Conference North America 2026 Keynote Speaker Sessions Announced](https://pytorch.org/blog/pytorch-conference-north-america-2026-keynote-speaker-sessions-announced/)
+来源: PyTorch Blog | 时间: 2026/8/21 04:56:13
+
+---
+
+### 📢 [Test Agent Changes with LangSmith Preview Builds](https://www.langchain.com/blog/langsmith-preview-builds-test-agent-changes-before-production)
+来源: LangChain Blog | 时间: 2026/8/21 03:20:50
+
+---
+
 ### 📢 [Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control](https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/21 02:15:24
 
@@ -37,33 +62,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Test Agent Changes with LangSmith Preview Builds](https://www.langchain.com/blog/langsmith-preview-builds-test-agent-changes-before-production)
-来源: LangChain Blog | 时间: 2026/8/21 00:48:30
-
----
-
 ### 📢 [Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/8/21 00:31:28
 
 ---
 
-### 📢 [Scaling agentic AI: Enterprise patterns without vendor lock-in](https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/)
-来源: AWS ML Blog | 时间: 2026/8/21 00:24:12
-
----
-
-### 📢 [Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/8/21 00:11:18
-
----
-
-### 📢 [AWS vector solutions: Build agentic AI where your data lives](https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/)
-来源: AWS ML Blog | 时间: 2026/8/21 00:06:06
-
----
-
 ### 📢 [Harnessing AI for Day-One Model Enablement](https://pytorch.org/blog/harnessing-ai-for-day-one-model-enablement/)
 来源: PyTorch Blog | 时间: 2026/8/20 23:45:59
+
+---
+
+### 📢 [Introducing AI Futures](https://openai.com/index/introducing-ai-futures)
+来源: OpenAI | 时间: 2026/8/20 15:00:00
 
 ---
 
@@ -74,6 +84,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How ChatGPT Work helps Stampli move ideas to market](https://openai.com/index/stampli)
 来源: OpenAI | 时间: 2026/8/20 08:00:00
+
+---
+
+### 📢 [Manage Vercel Container Registry with Vercel CLI](https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli)
+来源: Vercel AI SDK | 时间: 2026/8/20 08:00:00
 
 ---
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit)
 来源: OpenAI | 时间: 2026/8/19 15:00:00
-
----
-
-### 📢 [Introducing Vercel for Slack](https://vercel.com/blog/introducing-vercel-for-slack)
-来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
-
----
-
-### 📢 [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe)
-来源: OpenAI | 时间: 2026/8/19 06:00:00
-
----
-
-### 📢 [AgentCore Payments middleware for LangChain agents](https://www.langchain.com/blog/langchain-agentcore-payments)
-来源: LangChain Blog | 时间: 2026/8/19 03:27:37
 
 ---
 <!-- END_LIVE_FEEDS -->
