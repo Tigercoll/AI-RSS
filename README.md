@@ -5,20 +5,35 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/20 05:28:03
+🕒 最后自动更新时间：2026/8/20 09:24:16
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [How Fanatics Betting and Gaming built a multi-agent customer support system](https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/)
-来源: AWS ML Blog | 时间: 2026/8/20 04:40:45
+### 📢 [Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents](https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/20 06:54:36
 
 ---
 
-### 📢 [KnowledgeForge: mining gold from the ITSM ticket graveyard](https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/)
-来源: AWS ML Blog | 时间: 2026/8/20 04:36:50
+### 📢 [Domain and publish date filters for Web Search on AgentCore](https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/)
+来源: AWS ML Blog | 时间: 2026/8/20 06:13:20
+
+---
+
+### 📢 [Automate Document Processing with Quick Automate and the IDP Accelerator](https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/)
+来源: AWS ML Blog | 时间: 2026/8/20 06:09:56
+
+---
+
+### 📢 [Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines](https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/)
+来源: AWS ML Blog | 时间: 2026/8/20 06:06:09
+
+---
+
+### 📢 [How Fanatics Betting and Gaming built a multi-agent customer support system](https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/)
+来源: AWS ML Blog | 时间: 2026/8/20 04:40:45
 
 ---
 
@@ -52,17 +67,17 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Compliance documents are now available in Team settings](https://vercel.com/changelog/compliance-documents-are-now-available-in-team-settings)
+来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
+
+---
+
+### 📢 [Fish Audio models now available on Vercel AI Gateway for free](https://vercel.com/changelog/fish-audio-models-now-available-on-ai-gateway-for-free)
+来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
+
+---
+
 ### 📢 [Vercel for Slack now in public beta](https://vercel.com/changelog/vercel-for-slack-now-in-public-beta)
-来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
-
----
-
-### 📢 [Vercel Connect now supports Microsoft](https://vercel.com/changelog/vercel-connect-supports-microsoft)
-来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
-
----
-
-### 📢 [Chat SDK adds Instagram adapter](https://vercel.com/changelog/chat-sdk-adds-instagram-adapter)
 来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
 
 ---
@@ -92,23 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/)
-来源: AWS ML Blog | 时间: 2026/8/19 02:56:14
-
----
-
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
 来源: LangChain Blog | 时间: 2026/8/19 02:49:52
-
----
-
-### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
-来源: LangChain Blog | 时间: 2026/8/19 02:49:52
-
----
-
-### 📢 [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
-来源: Hugging Face Blog | 时间: 2026/8/19 02:09:38
 
 ---
 <!-- END_LIVE_FEEDS -->
