@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/20 20:55:21
+🕒 最后自动更新时间：2026/8/20 23:36:47
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Build intelligent security for healthcare APIs with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/8/20 23:20:03
+
+---
+
+### 📢 [Bun 1.4 is now available in Vercel Functions](https://vercel.com/changelog/bun-1-4-is-now-available-in-vercel-functions)
+来源: Vercel AI SDK | 时间: 2026/8/20 08:00:00
+
+---
+
 ### 📢 [Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents](https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/20 06:54:36
 
@@ -29,11 +39,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines](https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/)
 来源: AWS ML Blog | 时间: 2026/8/20 06:06:09
-
----
-
-### 📢 [How Fanatics Betting and Gaming built a multi-agent customer support system](https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/)
-来源: AWS ML Blog | 时间: 2026/8/20 04:40:45
 
 ---
 
@@ -73,11 +78,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Fish Audio models now available on Vercel AI Gateway for free](https://vercel.com/changelog/fish-audio-models-now-available-on-ai-gateway-for-free)
-来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
-
----
-
-### 📢 [Vercel for Slack now in public beta](https://vercel.com/changelog/vercel-for-slack-now-in-public-beta)
 来源: Vercel AI SDK | 时间: 2026/8/19 08:00:00
 
 ---
