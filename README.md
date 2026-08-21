@@ -5,13 +5,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/21 23:36:59
+🕒 最后自动更新时间：2026/8/22 02:40:54
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How Ora benchmarks every major AI agent on Vercel](https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel)
+来源: Vercel AI SDK | 时间: 2026/8/22 05:00:00
+
+---
+
+### 📢 [Agentic Data Operations Platform (ADOP): Data engineering into hours](https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/)
+来源: AWS ML Blog | 时间: 2026/8/22 01:06:17
+
+---
+
+### 📢 [Govern AI agent tool access with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/)
+来源: AWS ML Blog | 时间: 2026/8/22 01:02:35
+
+---
+
+### 📢 [Reduce RAG costs on Amazon Bedrock with query-aware compression](https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/)
+来源: AWS ML Blog | 时间: 2026/8/22 00:59:15
+
+---
+
+### 📢 [Accelerating aircraft IFEC diagnostics with agentic AI on AWS](https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/)
+来源: AWS ML Blog | 时间: 2026/8/22 00:57:01
+
+---
+
+### 📢 [GPU-Accelerated Clustering for Financial Instruments at Scale](https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/22 00:21:21
+
+---
+
 ### 📢 [NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/21 21:09:11
 
@@ -37,23 +67,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/8/21 05:46:03
+### 📢 [DeepSeek V4 Flash Vision Experimental now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/21 08:00:00
 
 ---
 
-### 📢 [Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/)
-来源: AWS ML Blog | 时间: 2026/8/21 05:23:38
-
----
-
-### 📢 [Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/)
-来源: AWS ML Blog | 时间: 2026/8/21 05:23:29
-
----
-
-### 📢 [Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/)
-来源: AWS ML Blog | 时间: 2026/8/21 05:23:23
+### 📢 [Connect v0 apps to Slack, Google, and 100+ other services](https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services)
+来源: Vercel AI SDK | 时间: 2026/8/21 08:00:00
 
 ---
 
@@ -72,11 +92,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How Generative Recommenders Are Redefining RecSys at Scale](https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/21 02:15:22
-
----
-
 ### 📢 [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://huggingface.co/blog/LiquidAI/lfm25-dspark)
 来源: Hugging Face Blog | 时间: 2026/8/21 00:52:57
 
@@ -92,23 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How v0 authenticates to Snowflake without exposing the user's OAuth token](https://vercel.com/blog/how-v0-authenticates-to-snowflake-without-exposing-the-users-oauth-token)
-来源: Vercel AI SDK | 时间: 2026/8/20 12:00:00
-
----
-
 ### 📢 [Stampli cuts launch hours by 68% using ChatGPT Work](https://openai.com/index/stampli)
 来源: OpenAI | 时间: 2026/8/20 08:00:00
-
----
-
-### 📢 [Vercel Agent is now available in Slack code channels](https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels)
-来源: Vercel AI SDK | 时间: 2026/8/20 08:00:00
-
----
-
-### 📢 [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)
-来源: OpenAI | 时间: 2026/8/20 03:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
