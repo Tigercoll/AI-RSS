@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/22 02:40:54
+🕒 最后自动更新时间：2026/8/22 05:28:10
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/22 05:08:48
+
+---
+
 ### 📢 [How Ora benchmarks every major AI agent on Vercel](https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel)
 来源: Vercel AI SDK | 时间: 2026/8/22 05:00:00
 
@@ -42,11 +47,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/21 21:09:11
-
----
-
 ### 📢 [Where Security Fits in an AI Agent Stack](https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/21 20:45:45
 
@@ -67,12 +67,17 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [DeepSeek V4 Flash Vision Experimental now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway)
+### 📢 [Vercel CLI expands support for DNS, domains, and project commands](https://vercel.com/changelog/vercel-cli-expands-support-for-dns-domains-and-project-commands)
 来源: Vercel AI SDK | 时间: 2026/8/21 08:00:00
 
 ---
 
-### 📢 [Connect v0 apps to Slack, Google, and 100+ other services](https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services)
+### 📢 [GPT-5.6 Sol is now 50% off a lower price](https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price)
+来源: Vercel AI SDK | 时间: 2026/8/21 08:00:00
+
+---
+
+### 📢 [DeepSeek V4 Flash Vision Experimental now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/21 08:00:00
 
 ---
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing AI Futures](https://openai.com/index/introducing-ai-futures)
 来源: OpenAI | 时间: 2026/8/20 15:00:00
-
----
-
-### 📢 [Stampli cuts launch hours by 68% using ChatGPT Work](https://openai.com/index/stampli)
-来源: OpenAI | 时间: 2026/8/20 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
