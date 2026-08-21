@@ -5,15 +5,35 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/21 20:54:11
+🕒 最后自动更新时间：2026/8/21 23:36:59
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/21 21:09:11
+
+---
+
+### 📢 [Where Security Fits in an AI Agent Stack](https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/21 20:45:45
+
+---
+
 ### 📢 [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/)
 来源: Google DeepMind | 时间: 2026/8/21 19:59:48
+
+---
+
+### 📢 [Measuring benchmark optimization in speech recognition](https://huggingface.co/blog/asr-benchmark-optimization)
+来源: Hugging Face Blog | 时间: 2026/8/21 08:00:00
+
+---
+
+### 📢 [IsoExec: Unified Execution to Eliminate Trainer-Inference Mismatch in SkyRL](https://vllm.ai/blog/2026-08-21-isoexec)
+来源: vLLM Blog | 时间: 2026/8/21 08:00:00
 
 ---
 
@@ -42,27 +62,17 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS](https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/21 03:44:38
+
+---
+
 ### 📢 [Test Agent Changes with LangSmith Preview Builds](https://www.langchain.com/blog/langsmith-preview-builds-test-agent-changes-before-production)
 来源: LangChain Blog | 时间: 2026/8/21 03:20:50
 
 ---
 
-### 📢 [Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control](https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/21 02:15:24
-
----
-
-### 📢 [Building Federated Multimodal AI Workflows with NVIDIA FLARE](https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/21 02:15:23
-
----
-
 ### 📢 [How Generative Recommenders Are Redefining RecSys at Scale](https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/21 02:15:22
-
----
-
-### 📢 [Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents](https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/21 02:15:22
 
 ---
@@ -97,18 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Manage Vercel Container Registry with Vercel CLI](https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli)
-来源: Vercel AI SDK | 时间: 2026/8/20 08:00:00
-
----
-
 ### 📢 [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)
 来源: OpenAI | 时间: 2026/8/20 03:00:00
-
----
-
-### 📢 [Introducing LangSmith Tuned Evaluators](https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error)
-来源: LangChain Blog | 时间: 2026/8/19 20:59:39
 
 ---
 <!-- END_LIVE_FEEDS -->
