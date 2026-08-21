@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/21 17:40:12
+🕒 最后自动更新时间：2026/8/21 20:54:11
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/)
+来源: Google DeepMind | 时间: 2026/8/21 19:59:48
+
+---
+
 ### 📢 [Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/8/21 05:46:03
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing LangSmith Tuned Evaluators](https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error)
 来源: LangChain Blog | 时间: 2026/8/19 20:59:39
-
----
-
-### 📢 [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit)
-来源: OpenAI | 时间: 2026/8/19 15:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
