@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/21 14:52:36
+🕒 最后自动更新时间：2026/8/21 17:40:12
 
 ---
 
@@ -97,11 +97,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Bun 1.4 is now available in Vercel Functions](https://vercel.com/changelog/bun-1-4-is-now-available-in-vercel-functions)
-来源: Vercel AI SDK | 时间: 2026/8/20 08:00:00
-
----
-
 ### 📢 [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)
 来源: OpenAI | 时间: 2026/8/20 03:00:00
 
@@ -109,6 +104,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing LangSmith Tuned Evaluators](https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error)
 来源: LangChain Blog | 时间: 2026/8/19 20:59:39
+
+---
+
+### 📢 [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit)
+来源: OpenAI | 时间: 2026/8/19 15:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
