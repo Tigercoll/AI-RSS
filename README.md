@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/23 09:36:59
+🕒 最后自动更新时间：2026/8/23 11:53:02
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Exploring Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
+来源: vLLM Blog | 时间: 2026/8/23 08:00:00
+
+---
+
 ### 📢 [Building a 100x Cheaper Trace Judge with Fireworks](https://www.langchain.com/blog/building-a-100x-cheaper-trace-judge-with-fireworks)
 来源: LangChain Blog | 时间: 2026/8/22 07:08:46
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://huggingface.co/blog/LiquidAI/lfm25-dspark)
 来源: Hugging Face Blog | 时间: 2026/8/21 00:52:57
-
----
-
-### 📢 [Harnessing AI for Day-One Model Enablement](https://pytorch.org/blog/harnessing-ai-for-day-one-model-enablement/)
-来源: PyTorch Blog | 时间: 2026/8/20 23:45:59
 
 ---
 <!-- END_LIVE_FEEDS -->
