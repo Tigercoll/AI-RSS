@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/24 17:51:32
+🕒 最后自动更新时间：2026/8/24 20:56:26
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Vercel Sandbox is now globally available](https://vercel.com/changelog/vercel-sandbox-is-now-globally-available)
+来源: Vercel AI SDK | 时间: 2026/8/24 12:00:00
+
+---
+
 ### 📢 [Exploring Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
 来源: vLLM Blog | 时间: 2026/8/23 08:00:00
 
@@ -83,11 +88,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [GPT-5.6 Sol is now 50% off a lower price](https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price)
-来源: Vercel AI SDK | 时间: 2026/8/21 08:00:00
-
----
-
-### 📢 [DeepSeek V4 Flash Vision Experimental now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/21 08:00:00
 
 ---
