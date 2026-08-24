@@ -5,13 +5,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/24 20:56:26
+🕒 最后自动更新时间：2026/8/24 23:41:58
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt](https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/24 23:23:55
+
+---
+
+### 📢 [Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules](https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/24 23:08:58
+
+---
+
+### 📢 [NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories](https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/24 23:01:04
+
+---
+
+### 📢 [Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS](https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/24 23:00:46
+
+---
+
 ### 📢 [Vercel Sandbox is now globally available](https://vercel.com/changelog/vercel-sandbox-is-now-globally-available)
 来源: Vercel AI SDK | 时间: 2026/8/24 12:00:00
 
@@ -24,16 +44,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Building a 100x Cheaper Trace Judge with Fireworks](https://www.langchain.com/blog/building-a-100x-cheaper-trace-judge-with-fireworks)
 来源: LangChain Blog | 时间: 2026/8/22 07:08:46
-
----
-
-### 📢 [Where Security Fits in an AI Agent Stack](https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/22 06:32:02
-
----
-
-### 📢 [NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/22 05:08:48
 
 ---
 
@@ -59,11 +69,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Accelerating aircraft IFEC diagnostics with agentic AI on AWS](https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/)
 来源: AWS ML Blog | 时间: 2026/8/22 00:57:01
-
----
-
-### 📢 [GPU-Accelerated Clustering for Financial Instruments at Scale](https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/22 00:21:21
 
 ---
 
@@ -94,11 +99,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [PyTorch Conference North America 2026 Keynote Speaker Sessions Announced](https://pytorch.org/blog/pytorch-conference-north-america-2026-keynote-speaker-sessions-announced/)
 来源: PyTorch Blog | 时间: 2026/8/21 04:56:13
-
----
-
-### 📢 [Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS](https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/21 03:44:38
 
 ---
 
