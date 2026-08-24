@@ -5,15 +5,25 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/25 02:44:50
+🕒 最后自动更新时间：2026/8/25 05:32:52
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing new Ray capabilities on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/)
+来源: AWS ML Blog | 时间: 2026/8/25 03:32:14
+
+---
+
+### 📢 [Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS](https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/)
+来源: AWS ML Blog | 时间: 2026/8/25 02:59:15
+
+---
+
 ### 📢 [Toyota Scales Enterprise AI with Deep Agents and LangSmith](https://www.langchain.com/blog/how-toyota-north-america-put-enterprise-ai-on-the-balance-sheet-with-deep-agents-and-langsmith)
-来源: LangChain Blog | 时间: 2026/8/25 01:58:51
+来源: LangChain Blog | 时间: 2026/8/25 02:59:03
 
 ---
 
@@ -24,11 +34,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Building a restaurant telephony AI host with Amazon Connect](https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/)
 来源: AWS ML Blog | 时间: 2026/8/25 00:13:09
-
----
-
-### 📢 [AI-powered metadata correction and harmonization](https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/)
-来源: AWS ML Blog | 时间: 2026/8/24 23:53:03
 
 ---
 
@@ -57,6 +62,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro)
+来源: OpenAI | 时间: 2026/8/24 20:00:00
+
+---
+
 ### 📢 [Vercel Sandbox is now globally available](https://vercel.com/changelog/vercel-sandbox-is-now-globally-available)
 来源: Vercel AI SDK | 时间: 2026/8/24 12:00:00
 
@@ -77,11 +87,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Agentic Data Operations Platform (ADOP): Data engineering into hours](https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/)
-来源: AWS ML Blog | 时间: 2026/8/22 01:06:17
-
----
-
 ### 📢 [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/)
 来源: Google DeepMind | 时间: 2026/8/21 19:59:48
 
@@ -94,11 +99,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [IsoExec: Unified Execution to Eliminate Trainer-Inference Mismatch in SkyRL](https://vllm.ai/blog/2026-08-21-isoexec)
 来源: vLLM Blog | 时间: 2026/8/21 08:00:00
-
----
-
-### 📢 [Vercel CLI expands support for DNS, domains, and project commands](https://vercel.com/changelog/vercel-cli-expands-support-for-dns-domains-and-project-commands)
-来源: Vercel AI SDK | 时间: 2026/8/21 08:00:00
 
 ---
 
