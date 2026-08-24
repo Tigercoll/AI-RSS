@@ -5,13 +5,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/24 23:41:58
+🕒 最后自动更新时间：2026/8/25 02:44:50
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Toyota Scales Enterprise AI with Deep Agents and LangSmith](https://www.langchain.com/blog/how-toyota-north-america-put-enterprise-ai-on-the-balance-sheet-with-deep-agents-and-langsmith)
+来源: LangChain Blog | 时间: 2026/8/25 01:58:51
+
+---
+
+### 📢 [Agentic Resource Discovery (ARD): An open specification for agent discovery](https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/)
+来源: AWS ML Blog | 时间: 2026/8/25 00:22:03
+
+---
+
+### 📢 [Building a restaurant telephony AI host with Amazon Connect](https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/)
+来源: AWS ML Blog | 时间: 2026/8/25 00:13:09
+
+---
+
+### 📢 [AI-powered metadata correction and harmonization](https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/)
+来源: AWS ML Blog | 时间: 2026/8/24 23:53:03
+
+---
+
 ### 📢 [NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt](https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/24 23:23:55
 
@@ -32,18 +52,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Building a 100x Cheaper Trace Judge with Fireworks](https://www.langchain.com/blog/building-a-100x-cheaper-trace-judge-with-fireworks)
+来源: LangChain Blog | 时间: 2026/8/24 22:11:21
+
+---
+
 ### 📢 [Vercel Sandbox is now globally available](https://vercel.com/changelog/vercel-sandbox-is-now-globally-available)
 来源: Vercel AI SDK | 时间: 2026/8/24 12:00:00
 
 ---
 
-### 📢 [Exploring Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
-来源: vLLM Blog | 时间: 2026/8/23 08:00:00
+### 📢 [Connect v0 apps to Slack, Google, and 100+ other services](https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services)
+来源: Vercel AI SDK | 时间: 2026/8/24 08:00:00
 
 ---
 
-### 📢 [Building a 100x Cheaper Trace Judge with Fireworks](https://www.langchain.com/blog/building-a-100x-cheaper-trace-judge-with-fireworks)
-来源: LangChain Blog | 时间: 2026/8/22 07:08:46
+### 📢 [Exploring Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
+来源: vLLM Blog | 时间: 2026/8/23 08:00:00
 
 ---
 
@@ -54,21 +79,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Agentic Data Operations Platform (ADOP): Data engineering into hours](https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/)
 来源: AWS ML Blog | 时间: 2026/8/22 01:06:17
-
----
-
-### 📢 [Govern AI agent tool access with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/)
-来源: AWS ML Blog | 时间: 2026/8/22 01:02:35
-
----
-
-### 📢 [Reduce RAG costs on Amazon Bedrock with query-aware compression](https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/)
-来源: AWS ML Blog | 时间: 2026/8/22 00:59:15
-
----
-
-### 📢 [Accelerating aircraft IFEC diagnostics with agentic AI on AWS](https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/)
-来源: AWS ML Blog | 时间: 2026/8/22 00:57:01
 
 ---
 
@@ -92,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [GPT-5.6 Sol is now 50% off a lower price](https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price)
-来源: Vercel AI SDK | 时间: 2026/8/21 08:00:00
-
----
-
 ### 📢 [PyTorch Conference North America 2026 Keynote Speaker Sessions Announced](https://pytorch.org/blog/pytorch-conference-north-america-2026-keynote-speaker-sessions-announced/)
 来源: PyTorch Blog | 时间: 2026/8/21 04:56:13
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Test Agent Changes with LangSmith Preview Builds](https://www.langchain.com/blog/langsmith-preview-builds-test-agent-changes-before-production)
 来源: LangChain Blog | 时间: 2026/8/21 03:20:50
-
----
-
-### 📢 [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://huggingface.co/blog/LiquidAI/lfm25-dspark)
-来源: Hugging Face Blog | 时间: 2026/8/21 00:52:57
 
 ---
 <!-- END_LIVE_FEEDS -->
