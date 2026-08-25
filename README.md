@@ -5,15 +5,45 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/25 20:52:54
+🕒 最后自动更新时间：2026/8/25 23:45:50
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Speed Insights adds a free tier](https://vercel.com/changelog/speed-insights-free-tier)
+来源: Vercel AI SDK | 时间: 2026/8/26 00:00:00
+
+---
+
+### 📢 [Building Self-Correcting Memory in OpenWiki](https://www.langchain.com/blog/self-correcting-memory-openwiki)
+来源: LangChain Blog | 时间: 2026/8/25 23:28:02
+
+---
+
+### 📢 [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)
+来源: Hugging Face Blog | 时间: 2026/8/25 23:14:14
+
+---
+
+### 📢 [How We Build Agent Environments & Tasks](https://www.langchain.com/blog/building-agent-environments-and-tasks)
+来源: LangChain Blog | 时间: 2026/8/25 22:56:35
+
+---
+
 ### 📢 [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing)
 来源: Hugging Face Blog | 时间: 2026/8/25 19:39:24
+
+---
+
+### 📢 [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence)
+来源: OpenAI | 时间: 2026/8/25 15:05:00
+
+---
+
+### 📢 [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results)
+来源: OpenAI | 时间: 2026/8/25 15:00:00
 
 ---
 
@@ -27,7 +57,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Vercel Connect now supports Linq](https://vercel.com/changelog/vercel-connect-now-supports-linq)
+### 📢 [Chat SDK now supports Slack Enterprise Grid](https://vercel.com/changelog/chat-sdk-slack-enterprise-grid)
 来源: Vercel AI SDK | 时间: 2026/8/25 08:00:00
 
 ---
@@ -57,6 +87,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access](https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/25 01:52:50
+
+---
+
 ### 📢 [Agentic Resource Discovery (ARD): An open specification for agent discovery](https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/)
 来源: AWS ML Blog | 时间: 2026/8/25 00:22:03
 
@@ -74,41 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules](https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/24 23:08:58
-
----
-
-### 📢 [NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories](https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/24 23:01:04
-
----
-
-### 📢 [Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS](https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/24 23:00:46
-
----
-
-### 📢 [Building a 100x Cheaper Trace Judge with Fireworks](https://www.langchain.com/blog/building-a-100x-cheaper-trace-judge-with-fireworks)
-来源: LangChain Blog | 时间: 2026/8/24 22:11:21
-
----
-
-### 📢 [Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro)
-来源: OpenAI | 时间: 2026/8/24 20:00:00
-
----
-
-### 📢 [Vercel Sandbox is now globally available](https://vercel.com/changelog/vercel-sandbox-is-now-globally-available)
-来源: Vercel AI SDK | 时间: 2026/8/24 12:00:00
-
----
-
-### 📢 [Exploring Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
-来源: vLLM Blog | 时间: 2026/8/23 08:00:00
-
----
-
-### 📢 [Large-Scale Sharded Weight Transfer with Ray Direct Transport (RDT) in vLLM](https://vllm.ai/blog/2026-08-22-rdt-weight-transfer)
-来源: vLLM Blog | 时间: 2026/8/22 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
