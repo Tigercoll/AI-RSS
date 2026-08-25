@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/25 14:53:48
+🕒 最后自动更新时间：2026/8/25 17:38:43
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)
+来源: OpenAI | 时间: 2026/8/25 08:00:00
+
+---
+
 ### 📢 [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide)
 来源: Hugging Face Blog | 时间: 2026/8/25 08:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Measuring benchmark optimization in speech recognition](https://huggingface.co/blog/asr-benchmark-optimization)
 来源: Hugging Face Blog | 时间: 2026/8/21 08:00:00
-
----
-
-### 📢 [IsoExec: Unified Execution to Eliminate Trainer-Inference Mismatch in SkyRL](https://vllm.ai/blog/2026-08-21-isoexec)
-来源: vLLM Blog | 时间: 2026/8/21 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
