@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/25 11:51:32
+🕒 最后自动更新时间：2026/8/25 14:53:48
 
 ---
 
@@ -87,6 +87,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Large-Scale Sharded Weight Transfer with Ray Direct Transport (RDT) in vLLM](https://vllm.ai/blog/2026-08-22-rdt-weight-transfer)
+来源: vLLM Blog | 时间: 2026/8/22 08:00:00
+
+---
+
 ### 📢 [How Ora benchmarks every major AI agent on Vercel](https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel)
 来源: Vercel AI SDK | 时间: 2026/8/22 05:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [IsoExec: Unified Execution to Eliminate Trainer-Inference Mismatch in SkyRL](https://vllm.ai/blog/2026-08-21-isoexec)
 来源: vLLM Blog | 时间: 2026/8/21 08:00:00
-
----
-
-### 📢 [PyTorch Conference North America 2026 Keynote Speaker Sessions Announced](https://pytorch.org/blog/pytorch-conference-north-america-2026-keynote-speaker-sessions-announced/)
-来源: PyTorch Blog | 时间: 2026/8/21 04:56:13
 
 ---
 <!-- END_LIVE_FEEDS -->
