@@ -5,30 +5,45 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/25 23:45:50
+🕒 最后自动更新时间：2026/8/26 02:42:55
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How Lyft Built a Self-Serve AI Agent Platform with LangGraph and LangSmith](https://www.langchain.com/blog/lyft-built-a-self-serve-ai-agent-platform-for-customer-support-with-langgraph-and-langsmith)
+来源: LangChain Blog | 时间: 2026/8/26 02:38:36
+
+---
+
+### 📢 [The rise of "context engineering"](https://www.langchain.com/blog/the-rise-of-context-engineering)
+来源: LangChain Blog | 时间: 2026/8/26 02:36:51
+
+---
+
+### 📢 [Debugging Deep Agents with LangSmith](https://www.langchain.com/blog/debugging-deep-agents-with-langsmith)
+来源: LangChain Blog | 时间: 2026/8/26 02:35:43
+
+---
+
+### 📢 [Structured Tools](https://www.langchain.com/blog/structured-tools)
+来源: LangChain Blog | 时间: 2026/8/26 02:27:48
+
+---
+
+### 📢 [Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/)
+来源: AWS ML Blog | 时间: 2026/8/26 00:35:01
+
+---
+
 ### 📢 [Speed Insights adds a free tier](https://vercel.com/changelog/speed-insights-free-tier)
 来源: Vercel AI SDK | 时间: 2026/8/26 00:00:00
 
 ---
 
-### 📢 [Building Self-Correcting Memory in OpenWiki](https://www.langchain.com/blog/self-correcting-memory-openwiki)
-来源: LangChain Blog | 时间: 2026/8/25 23:28:02
-
----
-
 ### 📢 [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)
 来源: Hugging Face Blog | 时间: 2026/8/25 23:14:14
-
----
-
-### 📢 [How We Build Agent Environments & Tasks](https://www.langchain.com/blog/building-agent-environments-and-tasks)
-来源: LangChain Blog | 时间: 2026/8/25 22:56:35
 
 ---
 
@@ -47,7 +62,17 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [The end of credential sprawl for agents](https://vercel.com/blog/the-end-of-credential-sprawl-for-agents)
+来源: Vercel AI SDK | 时间: 2026/8/25 12:00:00
+
+---
+
 ### 📢 [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)
+来源: OpenAI | 时间: 2026/8/25 08:00:00
+
+---
+
+### 📢 [Introducing the Admin plugin for ChatGPT Work and Codex](https://openai.com/index/introducing-admin-plugin)
 来源: OpenAI | 时间: 2026/8/25 08:00:00
 
 ---
@@ -57,17 +82,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Chat SDK now supports Slack Enterprise Grid](https://vercel.com/changelog/chat-sdk-slack-enterprise-grid)
+### 📢 [MiniMax M3 and M2.7 are free on AI Gateway](https://vercel.com/changelog/minimax-m3-and-m2-7-are-free-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/25 08:00:00
 
 ---
 
-### 📢 [Bring your agent to Notion with Chat SDK](https://vercel.com/changelog/notion-chat-sdk)
-来源: Vercel AI SDK | 时间: 2026/8/25 08:00:00
-
----
-
-### 📢 [Chat SDK now supports XChat](https://vercel.com/changelog/chat-sdk-now-supports-xchat)
+### 📢 [Wan 3.0 now available on AI Gateway](https://vercel.com/changelog/wan-3-0-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/25 08:00:00
 
 ---
@@ -82,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Toyota Scales Enterprise AI with Deep Agents and LangSmith](https://www.langchain.com/blog/how-toyota-north-america-put-enterprise-ai-on-the-balance-sheet-with-deep-agents-and-langsmith)
-来源: LangChain Blog | 时间: 2026/8/25 02:59:03
-
----
-
 ### 📢 [CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access](https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/25 01:52:50
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Agentic Resource Discovery (ARD): An open specification for agent discovery](https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/)
 来源: AWS ML Blog | 时间: 2026/8/25 00:22:03
-
----
-
-### 📢 [Building a restaurant telephony AI host with Amazon Connect](https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/)
-来源: AWS ML Blog | 时间: 2026/8/25 00:13:09
-
----
-
-### 📢 [NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt](https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/24 23:23:55
-
----
-
-### 📢 [Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules](https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/24 23:08:58
 
 ---
 <!-- END_LIVE_FEEDS -->
