@@ -5,30 +5,40 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/26 02:42:55
+🕒 最后自动更新时间：2026/8/26 05:31:46
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [How Lyft Built a Self-Serve AI Agent Platform with LangGraph and LangSmith](https://www.langchain.com/blog/lyft-built-a-self-serve-ai-agent-platform-for-customer-support-with-langgraph-and-langsmith)
-来源: LangChain Blog | 时间: 2026/8/26 02:38:36
+### 📢 [Using LangSmith to Support Fine-tuning](https://www.langchain.com/blog/using-langsmith-to-support-fine-tuning-of-open-source-llms)
+来源: LangChain Blog | 时间: 2026/8/26 05:17:18
 
 ---
 
-### 📢 [The rise of "context engineering"](https://www.langchain.com/blog/the-rise-of-context-engineering)
-来源: LangChain Blog | 时间: 2026/8/26 02:36:51
+### 📢 [Benchmarking Question/Answering Over CSV Data](https://www.langchain.com/blog/benchmarking-question-answering-over-csv-data)
+来源: LangChain Blog | 时间: 2026/8/26 05:16:24
 
 ---
 
-### 📢 [Debugging Deep Agents with LangSmith](https://www.langchain.com/blog/debugging-deep-agents-with-langsmith)
-来源: LangChain Blog | 时间: 2026/8/26 02:35:43
+### 📢 [Timescale Vector x LangChain: Making PostgreSQL A Better Vector Database for AI Applications](https://www.langchain.com/blog/timescale-vector-x-langchain-making-postgresql-a-better-vector-database-for-ai-applications)
+来源: LangChain Blog | 时间: 2026/8/26 05:15:28
 
 ---
 
-### 📢 [Structured Tools](https://www.langchain.com/blog/structured-tools)
-来源: LangChain Blog | 时间: 2026/8/26 02:27:48
+### 📢 [Announcing our $10M seed round led by Benchmark](https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark)
+来源: LangChain Blog | 时间: 2026/8/26 05:13:35
+
+---
+
+### 📢 [Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo](https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/26 04:58:11
+
+---
+
+### 📢 [Agentic observability with Amazon OpenSearch Service MCP Apps](https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/)
+来源: AWS ML Blog | 时间: 2026/8/26 03:00:09
 
 ---
 
@@ -37,7 +47,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Speed Insights adds a free tier](https://vercel.com/changelog/speed-insights-free-tier)
+### 📢 [Speed Insights now has a free tier](https://vercel.com/changelog/speed-insights-free-tier)
 来源: Vercel AI SDK | 时间: 2026/8/26 00:00:00
 
 ---
@@ -59,6 +69,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results)
 来源: OpenAI | 时间: 2026/8/25 15:00:00
+
+---
+
+### 📢 [Introducing Run SDK: secure eval for your agents](https://vercel.com/blog/introducing-run)
+来源: Vercel AI SDK | 时间: 2026/8/25 12:00:00
 
 ---
 
@@ -87,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Wan 3.0 now available on AI Gateway](https://vercel.com/changelog/wan-3-0-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/25 08:00:00
-
----
-
 ### 📢 [Introducing new Ray capabilities on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/)
 来源: AWS ML Blog | 时间: 2026/8/25 03:32:14
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS](https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/)
 来源: AWS ML Blog | 时间: 2026/8/25 02:59:15
-
----
-
-### 📢 [CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access](https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/25 01:52:50
-
----
-
-### 📢 [Agentic Resource Discovery (ARD): An open specification for agent discovery](https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/)
-来源: AWS ML Blog | 时间: 2026/8/25 00:22:03
 
 ---
 <!-- END_LIVE_FEEDS -->
