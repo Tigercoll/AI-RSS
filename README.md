@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/25 17:38:43
+🕒 最后自动更新时间：2026/8/25 20:52:54
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing)
+来源: Hugging Face Blog | 时间: 2026/8/25 19:39:24
+
+---
+
 ### 📢 [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)
 来源: OpenAI | 时间: 2026/8/25 08:00:00
 
@@ -19,6 +24,21 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide)
 来源: Hugging Face Blog | 时间: 2026/8/25 08:00:00
+
+---
+
+### 📢 [Vercel Connect now supports Linq](https://vercel.com/changelog/vercel-connect-now-supports-linq)
+来源: Vercel AI SDK | 时间: 2026/8/25 08:00:00
+
+---
+
+### 📢 [Bring your agent to Notion with Chat SDK](https://vercel.com/changelog/notion-chat-sdk)
+来源: Vercel AI SDK | 时间: 2026/8/25 08:00:00
+
+---
+
+### 📢 [Chat SDK now supports XChat](https://vercel.com/changelog/chat-sdk-now-supports-xchat)
+来源: Vercel AI SDK | 时间: 2026/8/25 08:00:00
 
 ---
 
@@ -82,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Connect v0 apps to Slack, Google, and 100+ other services](https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services)
-来源: Vercel AI SDK | 时间: 2026/8/24 08:00:00
-
----
-
 ### 📢 [Exploring Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
 来源: vLLM Blog | 时间: 2026/8/23 08:00:00
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Large-Scale Sharded Weight Transfer with Ray Direct Transport (RDT) in vLLM](https://vllm.ai/blog/2026-08-22-rdt-weight-transfer)
 来源: vLLM Blog | 时间: 2026/8/22 08:00:00
-
----
-
-### 📢 [How Ora benchmarks every major AI agent on Vercel](https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel)
-来源: Vercel AI SDK | 时间: 2026/8/22 05:00:00
-
----
-
-### 📢 [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/)
-来源: Google DeepMind | 时间: 2026/8/21 19:59:48
-
----
-
-### 📢 [Measuring benchmark optimization in speech recognition](https://huggingface.co/blog/asr-benchmark-optimization)
-来源: Hugging Face Blog | 时间: 2026/8/21 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
