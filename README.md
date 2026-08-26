@@ -5,35 +5,70 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/27 00:20:37
+🕒 最后自动更新时间：2026/8/27 03:49:26
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [LangChain Announces Enterprise Agentic AI Platform Built with NVIDIA](https://www.langchain.com/blog/nvidia-enterprise)
-来源: LangChain Blog | 时间: 2026/8/27 00:13:12
+### 📢 [August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More](https://www.langchain.com/blog/august-2026-langchain-newsletter)
+来源: LangChain Blog | 时间: 2026/8/27 03:25:21
 
 ---
 
-### 📢 [AI Agent Latency 101: How do I speed up my AI agent?](https://www.langchain.com/blog/how-do-i-speed-up-my-agent)
-来源: LangChain Blog | 时间: 2026/8/27 00:11:12
+### 📢 [Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/)
+来源: AWS ML Blog | 时间: 2026/8/27 03:13:35
 
 ---
 
-### 📢 [LangGraph Platform is now Generally Available: Deploy & manage long-running, stateful Agents](https://www.langchain.com/blog/langgraph-platform-ga)
-来源: LangChain Blog | 时间: 2026/8/27 00:10:13
+### 📢 [Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding](https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/27 01:07:31
 
 ---
 
-### 📢 [Connect Amazon Bedrock AgentCore to cross-account knowledge bases](https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/)
-来源: AWS ML Blog | 时间: 2026/8/26 23:48:10
+### 📢 [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)
+来源: Google DeepMind | 时间: 2026/8/27 01:01:00
 
 ---
 
-### 📢 [LangChain raises $125M to build the platform for agent engineering](https://www.langchain.com/blog/series-b)
-来源: LangChain Blog | 时间: 2026/8/26 23:25:01
+### 📢 [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
+来源: LangChain Blog | 时间: 2026/8/27 00:53:53
+
+---
+
+### 📢 [How LangSmith and LangChain OSS Help You Meet EU AI Act Requirements](https://www.langchain.com/blog/langsmith-langchain-oss-eu-ai-act)
+来源: LangChain Blog | 时间: 2026/8/27 00:53:53
+
+---
+
+### 📢 [How Factory used LangSmith to automate their feedback loop and improve iteration speed by 2x](https://www.langchain.com/blog/customers-factory)
+来源: LangChain Blog | 时间: 2026/8/27 00:53:53
+
+---
+
+### 📢 [How GoDaddy transformed its analytics with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/8/27 00:51:53
+
+---
+
+### 📢 [Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/8/27 00:36:35
+
+---
+
+### 📢 [Bring your own model with Amazon SageMaker AI: Script mode in SDK v3](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/)
+来源: AWS ML Blog | 时间: 2026/8/27 00:31:32
+
+---
+
+### 📢 [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts)
+来源: OpenAI | 时间: 2026/8/26 18:00:00
+
+---
+
+### 📢 [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops)
+来源: OpenAI | 时间: 2026/8/26 18:00:00
 
 ---
 
@@ -44,6 +79,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder)
 来源: Hugging Face Blog | 时间: 2026/8/26 08:00:00
+
+---
+
+### 📢 [Gemini 3.5 Transcribe now available on AI Gateway](https://vercel.com/changelog/gemini-3-5-transcribe-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
+
+---
+
+### 📢 [Qwen 3.8 Flash now available on AI Gateway](https://vercel.com/changelog/qwen-3-8-flash-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
 
 ---
 
@@ -62,53 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Agentic observability with Amazon OpenSearch Service MCP Apps](https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/)
-来源: AWS ML Blog | 时间: 2026/8/26 03:00:09
-
----
-
-### 📢 [Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/)
-来源: AWS ML Blog | 时间: 2026/8/26 00:35:01
-
----
-
-### 📢 [Speed Insights now has a free tier](https://vercel.com/changelog/speed-insights-free-tier)
-来源: Vercel AI SDK | 时间: 2026/8/26 00:00:00
-
----
-
 ### 📢 [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)
 来源: Hugging Face Blog | 时间: 2026/8/25 23:14:14
-
----
-
-### 📢 [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing)
-来源: Hugging Face Blog | 时间: 2026/8/25 19:39:24
-
----
-
-### 📢 [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence)
-来源: OpenAI | 时间: 2026/8/25 15:05:00
-
----
-
-### 📢 [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results)
-来源: OpenAI | 时间: 2026/8/25 15:00:00
-
----
-
-### 📢 [Introducing Run SDK: secure eval for your agents](https://vercel.com/blog/introducing-run)
-来源: Vercel AI SDK | 时间: 2026/8/25 12:00:00
-
----
-
-### 📢 [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)
-来源: OpenAI | 时间: 2026/8/25 08:00:00
-
----
-
-### 📢 [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide)
-来源: Hugging Face Blog | 时间: 2026/8/25 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
