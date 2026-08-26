@@ -5,40 +5,60 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/26 20:58:26
+🕒 最后自动更新时间：2026/8/27 00:20:37
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [LangChain Announces Enterprise Agentic AI Platform Built with NVIDIA](https://www.langchain.com/blog/nvidia-enterprise)
+来源: LangChain Blog | 时间: 2026/8/27 00:13:12
+
+---
+
+### 📢 [AI Agent Latency 101: How do I speed up my AI agent?](https://www.langchain.com/blog/how-do-i-speed-up-my-agent)
+来源: LangChain Blog | 时间: 2026/8/27 00:11:12
+
+---
+
+### 📢 [LangGraph Platform is now Generally Available: Deploy & manage long-running, stateful Agents](https://www.langchain.com/blog/langgraph-platform-ga)
+来源: LangChain Blog | 时间: 2026/8/27 00:10:13
+
+---
+
+### 📢 [Connect Amazon Bedrock AgentCore to cross-account knowledge bases](https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/)
+来源: AWS ML Blog | 时间: 2026/8/26 23:48:10
+
+---
+
+### 📢 [LangChain raises $125M to build the platform for agent engineering](https://www.langchain.com/blog/series-b)
+来源: LangChain Blog | 时间: 2026/8/26 23:25:01
+
+---
+
 ### 📢 [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays)
 来源: OpenAI | 时间: 2026/8/26 08:00:00
 
 ---
 
+### 📢 [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder)
+来源: Hugging Face Blog | 时间: 2026/8/26 08:00:00
+
+---
+
+### 📢 [GLM 5.3 Flash now available on AI Gateway](https://vercel.com/changelog/glm-5-3-flash-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
+
+---
+
+### 📢 [Vercel Security Dashboard is now generally available](https://vercel.com/changelog/vercel-security-dashboard-is-now-generally-available)
+来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
+
+---
+
 ### 📢 [Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo](https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/26 06:03:16
-
----
-
-### 📢 [Using LangSmith to Support Fine-tuning](https://www.langchain.com/blog/using-langsmith-to-support-fine-tuning-of-open-source-llms)
-来源: LangChain Blog | 时间: 2026/8/26 05:17:18
-
----
-
-### 📢 [Benchmarking Question/Answering Over CSV Data](https://www.langchain.com/blog/benchmarking-question-answering-over-csv-data)
-来源: LangChain Blog | 时间: 2026/8/26 05:16:24
-
----
-
-### 📢 [Timescale Vector x LangChain: Making PostgreSQL A Better Vector Database for AI Applications](https://www.langchain.com/blog/timescale-vector-x-langchain-making-postgresql-a-better-vector-database-for-ai-applications)
-来源: LangChain Blog | 时间: 2026/8/26 05:15:28
-
----
-
-### 📢 [Announcing our $10M seed round led by Benchmark](https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark)
-来源: LangChain Blog | 时间: 2026/8/26 05:13:35
 
 ---
 
@@ -82,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [The end of credential sprawl for agents](https://vercel.com/blog/the-end-of-credential-sprawl-for-agents)
-来源: Vercel AI SDK | 时间: 2026/8/25 12:00:00
-
----
-
 ### 📢 [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)
 来源: OpenAI | 时间: 2026/8/25 08:00:00
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide)
 来源: Hugging Face Blog | 时间: 2026/8/25 08:00:00
-
----
-
-### 📢 [Claude Desktop support with Ollama](https://ollama.com/blog/claude-desktop)
-来源: Ollama Blog | 时间: 2026/8/25 08:00:00
-
----
-
-### 📢 [MiniMax M3 and M2.7 are free on AI Gateway](https://vercel.com/changelog/minimax-m3-and-m2-7-are-free-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/25 08:00:00
-
----
-
-### 📢 [Introducing new Ray capabilities on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/)
-来源: AWS ML Blog | 时间: 2026/8/25 03:32:14
 
 ---
 <!-- END_LIVE_FEEDS -->
