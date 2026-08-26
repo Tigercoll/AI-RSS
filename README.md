@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/26 17:46:07
+🕒 最后自动更新时间：2026/8/26 20:58:26
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays)
+来源: OpenAI | 时间: 2026/8/26 08:00:00
+
+---
+
 ### 📢 [Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo](https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/26 06:03:16
 
@@ -83,11 +88,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)
-来源: OpenAI | 时间: 2026/8/25 08:00:00
-
----
-
-### 📢 [Introducing the Admin plugin for ChatGPT Work and Codex](https://openai.com/index/introducing-admin-plugin)
 来源: OpenAI | 时间: 2026/8/25 08:00:00
 
 ---
