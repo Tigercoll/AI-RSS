@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/26 09:35:23
+🕒 最后自动更新时间：2026/8/26 11:56:02
 
 ---
 
@@ -97,6 +97,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Claude Desktop support with Ollama](https://ollama.com/blog/claude-desktop)
+来源: Ollama Blog | 时间: 2026/8/25 08:00:00
+
+---
+
 ### 📢 [MiniMax M3 and M2.7 are free on AI Gateway](https://vercel.com/changelog/minimax-m3-and-m2-7-are-free-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/25 08:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing new Ray capabilities on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/)
 来源: AWS ML Blog | 时间: 2026/8/25 03:32:14
-
----
-
-### 📢 [Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS](https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/)
-来源: AWS ML Blog | 时间: 2026/8/25 02:59:15
 
 ---
 <!-- END_LIVE_FEEDS -->
