@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/26 05:31:46
+🕒 最后自动更新时间：2026/8/26 09:35:23
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo](https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/26 06:03:16
+
+---
+
 ### 📢 [Using LangSmith to Support Fine-tuning](https://www.langchain.com/blog/using-langsmith-to-support-fine-tuning-of-open-source-llms)
 来源: LangChain Blog | 时间: 2026/8/26 05:17:18
 
@@ -29,11 +34,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Announcing our $10M seed round led by Benchmark](https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark)
 来源: LangChain Blog | 时间: 2026/8/26 05:13:35
-
----
-
-### 📢 [Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo](https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/26 04:58:11
 
 ---
 
