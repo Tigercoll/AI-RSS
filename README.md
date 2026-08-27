@@ -5,15 +5,25 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/27 08:33:34
+🕒 最后自动更新时间：2026/8/27 21:57:07
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding](https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/27 07:40:08
+### 📢 [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/)
+来源: Google DeepMind | 时间: 2026/8/27 20:59:16
+
+---
+
+### 📢 [Expanding OpenAI’s presence in Brazil](https://openai.com/index/expanding-our-presence-in-brazil)
+来源: OpenAI | 时间: 2026/8/27 11:00:00
+
+---
+
+### 📢 [Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding](https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/27 09:22:15
 
 ---
 
@@ -92,22 +102,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays)
-来源: OpenAI | 时间: 2026/8/26 08:00:00
-
----
-
 ### 📢 [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder)
 来源: Hugging Face Blog | 时间: 2026/8/26 08:00:00
 
 ---
 
 ### 📢 [Muse Image now available on AI Gateway](https://vercel.com/changelog/muse-image-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
-
----
-
-### 📢 [Gemini 3.5 Transcribe now available on AI Gateway](https://vercel.com/changelog/gemini-3-5-transcribe-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
 
 ---
