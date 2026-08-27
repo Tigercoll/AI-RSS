@@ -5,25 +5,40 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/27 03:49:26
+🕒 最后自动更新时间：2026/8/27 08:33:34
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding](https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/27 07:40:08
+
+---
+
+### 📢 [How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents](https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/27 06:34:18
+
+---
+
 ### 📢 [August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More](https://www.langchain.com/blog/august-2026-langchain-newsletter)
-来源: LangChain Blog | 时间: 2026/8/27 03:25:21
+来源: LangChain Blog | 时间: 2026/8/27 06:28:36
+
+---
+
+### 📢 [NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure](https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/27 05:08:40
+
+---
+
+### 📢 [PyTorch Ecosystem Landscape Welcomes Perforated, AReaL, TorchJD, RLinf, Miles, SMG, FiftyOne, TokenSpeed, VisualTorch, and TorchSurv](https://pytorch.org/blog/pytorch-ecosystem-landscape-q3-update/)
+来源: PyTorch Blog | 时间: 2026/8/27 04:53:37
 
 ---
 
 ### 📢 [Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/)
 来源: AWS ML Blog | 时间: 2026/8/27 03:13:35
-
----
-
-### 📢 [Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding](https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/27 01:07:31
 
 ---
 
@@ -72,6 +87,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead)
+来源: OpenAI | 时间: 2026/8/26 08:00:00
+
+---
+
 ### 📢 [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays)
 来源: OpenAI | 时间: 2026/8/26 08:00:00
 
@@ -82,33 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Muse Image now available on AI Gateway](https://vercel.com/changelog/muse-image-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
+
+---
+
 ### 📢 [Gemini 3.5 Transcribe now available on AI Gateway](https://vercel.com/changelog/gemini-3-5-transcribe-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
-
----
-
-### 📢 [Qwen 3.8 Flash now available on AI Gateway](https://vercel.com/changelog/qwen-3-8-flash-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
-
----
-
-### 📢 [GLM 5.3 Flash now available on AI Gateway](https://vercel.com/changelog/glm-5-3-flash-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
-
----
-
-### 📢 [Vercel Security Dashboard is now generally available](https://vercel.com/changelog/vercel-security-dashboard-is-now-generally-available)
-来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
-
----
-
-### 📢 [Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo](https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/26 06:03:16
-
----
-
-### 📢 [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)
-来源: Hugging Face Blog | 时间: 2026/8/25 23:14:14
 
 ---
 <!-- END_LIVE_FEEDS -->
