@@ -5,15 +5,65 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/27 21:57:07
+🕒 最后自动更新时间：2026/8/28 08:18:09
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Run Claude Managed Agents with Chat SDK](https://vercel.com/changelog/claude-managed-agents-with-chat-sdk)
+来源: Vercel AI SDK | 时间: 2026/8/28 08:00:00
+
+---
+
+### 📢 [Build agentic creative workflows with Amazon Quick and fal](https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/)
+来源: AWS ML Blog | 时间: 2026/8/28 07:04:22
+
+---
+
+### 📢 [Core PyTorch Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026/)
+来源: PyTorch Blog | 时间: 2026/8/28 04:49:08
+
+---
+
+### 📢 [Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/)
+来源: AWS ML Blog | 时间: 2026/8/28 02:36:08
+
+---
+
+### 📢 [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)
+来源: Google DeepMind | 时间: 2026/8/28 00:11:32
+
+---
+
+### 📢 [Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics](https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/)
+来源: AWS ML Blog | 时间: 2026/8/28 00:11:27
+
+---
+
+### 📢 [Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2](https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/)
+来源: AWS ML Blog | 时间: 2026/8/28 00:05:10
+
+---
+
+### 📢 [Cursor is now available in the AI SDK harness layer](https://vercel.com/changelog/cursor-ai-sdk-harness-adapter)
+来源: Vercel AI SDK | 时间: 2026/8/27 22:47:00
+
+---
+
 ### 📢 [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/)
 来源: Google DeepMind | 时间: 2026/8/27 20:59:16
+
+---
+
+### 📢 [Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training)
+来源: OpenAI | 时间: 2026/8/27 17:00:00
+
+---
+
+### 📢 [August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More](https://www.langchain.com/blog/august-2026-langchain-newsletter)
+来源: LangChain Blog | 时间: 2026/8/27 12:26:36
 
 ---
 
@@ -27,13 +77,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents](https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/27 06:34:18
+### 📢 [Model Hardware Standard Research Preview](https://www.anthropic.com/news/model-hardware-standard-research-preview)
+来源: Anthropic News | 时间: 2026/8/27 08:00:00
 
 ---
 
-### 📢 [August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More](https://www.langchain.com/blog/august-2026-langchain-newsletter)
-来源: LangChain Blog | 时间: 2026/8/27 06:28:36
+### 📢 [Ling 3.0 Flash Fin now available on AI Gateway for free](https://vercel.com/changelog/ling-3-0-flash-fin-now-available-on-ai-gateway-for-free)
+来源: Vercel AI SDK | 时间: 2026/8/27 08:00:00
+
+---
+
+### 📢 [How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents](https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/27 06:34:18
 
 ---
 
@@ -47,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/)
-来源: AWS ML Blog | 时间: 2026/8/27 03:13:35
-
----
-
 ### 📢 [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)
 来源: Google DeepMind | 时间: 2026/8/27 01:01:00
 
@@ -59,56 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
 来源: LangChain Blog | 时间: 2026/8/27 00:53:53
-
----
-
-### 📢 [How LangSmith and LangChain OSS Help You Meet EU AI Act Requirements](https://www.langchain.com/blog/langsmith-langchain-oss-eu-ai-act)
-来源: LangChain Blog | 时间: 2026/8/27 00:53:53
-
----
-
-### 📢 [How Factory used LangSmith to automate their feedback loop and improve iteration speed by 2x](https://www.langchain.com/blog/customers-factory)
-来源: LangChain Blog | 时间: 2026/8/27 00:53:53
-
----
-
-### 📢 [How GoDaddy transformed its analytics with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/8/27 00:51:53
-
----
-
-### 📢 [Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/8/27 00:36:35
-
----
-
-### 📢 [Bring your own model with Amazon SageMaker AI: Script mode in SDK v3](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/)
-来源: AWS ML Blog | 时间: 2026/8/27 00:31:32
-
----
-
-### 📢 [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts)
-来源: OpenAI | 时间: 2026/8/26 18:00:00
-
----
-
-### 📢 [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops)
-来源: OpenAI | 时间: 2026/8/26 18:00:00
-
----
-
-### 📢 [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead)
-来源: OpenAI | 时间: 2026/8/26 08:00:00
-
----
-
-### 📢 [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder)
-来源: Hugging Face Blog | 时间: 2026/8/26 08:00:00
-
----
-
-### 📢 [Muse Image now available on AI Gateway](https://vercel.com/changelog/muse-image-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/26 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
