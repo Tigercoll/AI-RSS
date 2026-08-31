@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/31 12:36:20
+🕒 最后自动更新时间：2026/8/31 21:07:19
 
 ---
 
@@ -19,11 +19,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding](https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/29 06:22:27
-
----
-
-### 📢 [vLLM Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026/)
-来源: PyTorch Blog | 时间: 2026/8/29 05:30:18
 
 ---
 
@@ -82,11 +77,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Core PyTorch Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026/)
-来源: PyTorch Blog | 时间: 2026/8/28 04:49:08
-
----
-
 ### 📢 [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)
 来源: Google DeepMind | 时间: 2026/8/28 00:11:32
 
@@ -102,13 +92,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More](https://www.langchain.com/blog/august-2026-langchain-newsletter)
-来源: LangChain Blog | 时间: 2026/8/27 12:26:36
+### 📢 [Expanding OpenAI’s presence in Brazil](https://openai.com/index/expanding-our-presence-in-brazil)
+来源: OpenAI | 时间: 2026/8/27 11:00:00
 
 ---
 
-### 📢 [Expanding OpenAI’s presence in Brazil](https://openai.com/index/expanding-our-presence-in-brazil)
-来源: OpenAI | 时间: 2026/8/27 11:00:00
+### 📢 [Model Hardware Standard Research Preview](https://www.anthropic.com/news/model-hardware-standard-research-preview)
+来源: Anthropic News | 时间: 2026/8/27 08:00:00
+
+---
+
+### 📢 [How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents](https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/27 06:34:18
+
+---
+
+### 📢 [NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure](https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/27 05:08:40
 
 ---
 <!-- END_LIVE_FEEDS -->
