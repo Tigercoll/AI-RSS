@@ -5,40 +5,65 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/8/31 21:07:19
+🕒 最后自动更新时间：2026/9/1 04:43:13
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025](https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/)
+来源: AWS ML Blog | 时间: 2026/9/1 03:50:12
+
+---
+
+### 📢 [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)
+来源: AWS ML Blog | 时间: 2026/9/1 03:18:09
+
+---
+
+### 📢 [Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation](https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/)
+来源: AWS ML Blog | 时间: 2026/9/1 03:08:45
+
+---
+
+### 📢 [Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/)
+来源: AWS ML Blog | 时间: 2026/9/1 02:56:12
+
+---
+
+### 📢 [Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science](https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/1 00:23:58
+
+---
+
+### 📢 [Set per-user budgets on AI Gateway](https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/8/31 14:00:00
+
+---
+
+### 📢 [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)
+来源: OpenAI | 时间: 2026/8/31 12:00:00
+
+---
+
 ### 📢 [MiniMax H3 and H3 Max are 50% off on AI Gateway](https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/30 08:00:00
 
 ---
 
-### 📢 [Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding](https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/29 06:22:27
+### 📢 [vLLM Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026/)
+来源: PyTorch Blog | 时间: 2026/8/29 05:30:18
 
 ---
 
-### 📢 [Batch write and discover records in Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/)
-来源: AWS ML Blog | 时间: 2026/8/29 03:31:05
+### 📢 [Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec](https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/)
+来源: NVIDIA Developer Blog | 时间: 2026/8/29 03:07:31
 
 ---
 
 ### 📢 [Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect](https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/)
 来源: NVIDIA Developer Blog | 时间: 2026/8/29 01:06:37
-
----
-
-### 📢 [How Decathlon runs demand forecasting at scale with Chronos-2](https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/)
-来源: AWS ML Blog | 时间: 2026/8/29 00:22:30
-
----
-
-### 📢 [Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components](https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/)
-来源: AWS ML Blog | 时间: 2026/8/29 00:20:40
 
 ---
 
@@ -67,13 +92,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Vercel CLI expands commands for DNS, domains, and projects](https://vercel.com/changelog/vercel-cli-expands-commands-for-dns-domains-and-projects)
-来源: Vercel AI SDK | 时间: 2026/8/28 08:00:00
-
----
-
-### 📢 [Build agentic creative workflows with Amazon Quick and fal](https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/)
-来源: AWS ML Blog | 时间: 2026/8/28 07:04:22
+### 📢 [Core PyTorch Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026/)
+来源: PyTorch Blog | 时间: 2026/8/28 04:49:08
 
 ---
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training)
 来源: OpenAI | 时间: 2026/8/27 17:00:00
-
----
-
-### 📢 [Expanding OpenAI’s presence in Brazil](https://openai.com/index/expanding-our-presence-in-brazil)
-来源: OpenAI | 时间: 2026/8/27 11:00:00
-
----
-
-### 📢 [Model Hardware Standard Research Preview](https://www.anthropic.com/news/model-hardware-standard-research-preview)
-来源: Anthropic News | 时间: 2026/8/27 08:00:00
-
----
-
-### 📢 [How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents](https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/27 06:34:18
-
----
-
-### 📢 [NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure](https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/27 05:08:40
 
 ---
 <!-- END_LIVE_FEEDS -->
