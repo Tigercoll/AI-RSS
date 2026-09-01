@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/1 08:27:51
+🕒 最后自动更新时间：2026/9/1 16:26:49
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [MiniMax H3 on vLLM-Omni: From System-Wide Optimization to Real-Time Serving with FastVideo’s FastH3](https://vllm.ai/blog/2026-09-01-minimax-h3-production-serving)
+来源: vLLM Blog | 时间: 2026/9/1 08:00:00
+
+---
+
 ### 📢 [Connect an AgentCore Runtime hosted MCP server to Amazon Quick](https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/)
 来源: AWS ML Blog | 时间: 2026/9/1 06:47:53
 
@@ -34,6 +39,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science](https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/1 00:23:58
+
+---
+
+### 📢 [OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety)
+来源: OpenAI | 时间: 2026/8/31 15:00:00
 
 ---
 
@@ -92,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Supporting Thailand’s next generation of AI startups](https://openai.com/index/supporting-next-generation-ai-startups-thailand)
-来源: OpenAI | 时间: 2026/8/28 10:00:00
-
----
-
 ### 📢 [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south)
 来源: Hugging Face Blog | 时间: 2026/8/28 08:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Core PyTorch Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026/)
 来源: PyTorch Blog | 时间: 2026/8/28 04:49:08
-
----
-
-### 📢 [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)
-来源: Google DeepMind | 时间: 2026/8/28 00:11:32
 
 ---
 <!-- END_LIVE_FEEDS -->
