@@ -5,20 +5,30 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/2 02:15:48
+🕒 最后自动更新时间：2026/9/2 07:08:57
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/)
-来源: Google DeepMind | 时间: 2026/9/2 01:08:51
+### 📢 [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt)
+来源: Hugging Face Blog | 时间: 2026/9/2 05:39:07
+
+---
+
+### 📢 [Introducing Claude Fable 5.1 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/)
+来源: AWS ML Blog | 时间: 2026/9/2 03:12:43
 
 ---
 
 ### 📢 [Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron](https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/2 01:00:12
+来源: NVIDIA Developer Blog | 时间: 2026/9/2 03:00:37
+
+---
+
+### 📢 [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/)
+来源: Google DeepMind | 时间: 2026/9/2 01:08:51
 
 ---
 
@@ -42,8 +52,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How t54 built a trust layer with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/)
-来源: AWS ML Blog | 时间: 2026/9/1 23:50:00
+### 📢 [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra)
+来源: OpenAI | 时间: 2026/9/1 21:00:00
 
 ---
 
@@ -67,6 +77,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Claude Fable 5.1 now available on AI Gateway](https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/1 08:00:00
+
+---
+
 ### 📢 [AWS PrivateLink is now available on Pro and Enterprise](https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise)
 来源: Vercel AI SDK | 时间: 2026/9/1 08:00:00
 
@@ -87,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill)
-来源: OpenAI | 时间: 2026/8/31 15:00:00
-
----
-
 ### 📢 [fx is now available in the AI SDK harness layer](https://vercel.com/changelog/fx-ai-sdk-harness-adapter)
 来源: Vercel AI SDK | 时间: 2026/8/31 14:00:00
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Set per-user budgets on AI Gateway](https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/31 14:00:00
-
----
-
-### 📢 [How our agents build on-brand pages with design.md](https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md)
-来源: Vercel AI SDK | 时间: 2026/8/31 12:00:00
-
----
-
-### 📢 [Ollama's transparent pricing](https://ollama.com/blog/transparent-pricing)
-来源: Ollama Blog | 时间: 2026/8/31 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
