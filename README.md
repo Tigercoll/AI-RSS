@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/1 04:43:13
+🕒 最后自动更新时间：2026/9/1 08:27:51
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Connect an AgentCore Runtime hosted MCP server to Amazon Quick](https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/9/1 06:47:53
+
+---
+
 ### 📢 [AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025](https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/)
 来源: AWS ML Blog | 时间: 2026/9/1 03:50:12
 
@@ -27,13 +32,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/)
-来源: AWS ML Blog | 时间: 2026/9/1 02:56:12
+### 📢 [Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science](https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/1 00:23:58
 
 ---
 
-### 📢 [Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science](https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/1 00:23:58
+### 📢 [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill)
+来源: OpenAI | 时间: 2026/8/31 15:00:00
+
+---
+
+### 📢 [fx is now available in the AI SDK harness layer](https://vercel.com/changelog/fx-ai-sdk-harness-adapter)
+来源: Vercel AI SDK | 时间: 2026/8/31 14:00:00
 
 ---
 
@@ -47,8 +57,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [MiniMax H3 and H3 Max are 50% off on AI Gateway](https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/30 08:00:00
+### 📢 [How our agents build on-brand pages with design.md](https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md)
+来源: Vercel AI SDK | 时间: 2026/8/31 12:00:00
+
+---
+
+### 📢 [Ollama's transparent pricing](https://ollama.com/blog/transparent-pricing)
+来源: Ollama Blog | 时间: 2026/8/31 08:00:00
+
+---
+
+### 📢 [Vercel Sandbox now calculates snapshot storage costs daily](https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily)
+来源: Vercel AI SDK | 时间: 2026/8/31 08:00:00
 
 ---
 
@@ -82,16 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Hy4 Preview now available on AI Gateway](https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/8/28 08:00:00
-
----
-
-### 📢 [Build and deploy eve agents from the Vercel dashboard](https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard)
-来源: Vercel AI SDK | 时间: 2026/8/28 08:00:00
-
----
-
 ### 📢 [Core PyTorch Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026/)
 来源: PyTorch Blog | 时间: 2026/8/28 04:49:08
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)
 来源: Google DeepMind | 时间: 2026/8/28 00:11:32
-
----
-
-### 📢 [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/)
-来源: Google DeepMind | 时间: 2026/8/27 20:59:16
-
----
-
-### 📢 [Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training)
-来源: OpenAI | 时间: 2026/8/27 17:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
