@@ -5,35 +5,75 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/1 22:01:26
+🕒 最后自动更新时间：2026/9/2 02:15:48
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/)
+来源: Google DeepMind | 时间: 2026/9/2 01:08:51
+
+---
+
+### 📢 [Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron](https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/2 01:00:12
+
+---
+
+### 📢 [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows)
+来源: OpenAI | 时间: 2026/9/2 01:00:00
+
+---
+
+### 📢 [From theory to delivery: How Atos upskilled 400 engineers in agentic AI](https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/)
+来源: AWS ML Blog | 时间: 2026/9/2 00:17:54
+
+---
+
+### 📢 [Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/2 00:03:41
+
+---
+
+### 📢 [Securing Amazon Quick from POC to production: Agents, Flows, and Spaces](https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/)
+来源: AWS ML Blog | 时间: 2026/9/2 00:02:22
+
+---
+
+### 📢 [How t54 built a trust layer with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/)
+来源: AWS ML Blog | 时间: 2026/9/1 23:50:00
+
+---
+
+### 📢 [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)
+来源: OpenAI | 时间: 2026/9/1 20:00:00
+
+---
+
+### 📢 [Enterprise Frontier Safeguards](https://www.anthropic.com/news/enterprise-frontier-safeguards)
+来源: Anthropic News | 时间: 2026/9/1 08:00:00
+
+---
+
+### 📢 [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels)
+来源: Hugging Face Blog | 时间: 2026/9/1 08:00:00
+
+---
+
 ### 📢 [MiniMax H3 on vLLM-Omni: From System-Wide Optimization to Real-Time Serving with FastVideo’s FastH3](https://vllm.ai/blog/2026-09-01-minimax-h3-production-serving)
 来源: vLLM Blog | 时间: 2026/9/1 08:00:00
 
 ---
 
-### 📢 [Connect an AgentCore Runtime hosted MCP server to Amazon Quick](https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/9/1 06:47:53
+### 📢 [AWS PrivateLink is now available on Pro and Enterprise](https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise)
+来源: Vercel AI SDK | 时间: 2026/9/1 08:00:00
 
 ---
 
-### 📢 [AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025](https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/)
-来源: AWS ML Blog | 时间: 2026/9/1 03:50:12
-
----
-
-### 📢 [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)
-来源: AWS ML Blog | 时间: 2026/9/1 03:18:09
-
----
-
-### 📢 [Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation](https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/)
-来源: AWS ML Blog | 时间: 2026/9/1 03:08:45
+### 📢 [How to Size GPUs for AI Inference and TCO Without Overspending](https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/1 03:28:23
 
 ---
 
@@ -62,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)
-来源: OpenAI | 时间: 2026/8/31 12:00:00
-
----
-
 ### 📢 [How our agents build on-brand pages with design.md](https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md)
 来源: Vercel AI SDK | 时间: 2026/8/31 12:00:00
 
@@ -74,41 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Ollama's transparent pricing](https://ollama.com/blog/transparent-pricing)
 来源: Ollama Blog | 时间: 2026/8/31 08:00:00
-
----
-
-### 📢 [Vercel Sandbox now calculates snapshot storage costs daily](https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily)
-来源: Vercel AI SDK | 时间: 2026/8/31 08:00:00
-
----
-
-### 📢 [vLLM Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026/)
-来源: PyTorch Blog | 时间: 2026/8/29 05:30:18
-
----
-
-### 📢 [Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec](https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/29 03:07:31
-
----
-
-### 📢 [Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect](https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/)
-来源: NVIDIA Developer Blog | 时间: 2026/8/29 01:06:37
-
----
-
-### 📢 [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)
-来源: OpenAI | 时间: 2026/8/28 14:00:00
-
----
-
-### 📢 [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south)
-来源: Hugging Face Blog | 时间: 2026/8/28 08:00:00
-
----
-
-### 📢 [Core PyTorch Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026/)
-来源: PyTorch Blog | 时间: 2026/8/28 04:49:08
 
 ---
 <!-- END_LIVE_FEEDS -->
