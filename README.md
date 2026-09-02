@@ -5,20 +5,75 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/3 00:15:03
+🕒 最后自动更新时间：2026/9/3 04:46:19
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [PyTorch 2.14 Release Blog](https://pytorch.org/blog/pytorch-2-14-release-blog/)
+来源: PyTorch Blog | 时间: 2026/9/3 02:41:48
+
+---
+
+### 📢 [Modernizing and scaling support operations with generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/)
+来源: AWS ML Blog | 时间: 2026/9/3 02:26:35
+
+---
+
+### 📢 [How an AWS team detects dashboard content failures at scale using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/3 02:21:20
+
+---
+
+### 📢 [From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/3 02:18:47
+
+---
+
+### 📢 [Trinity: Agentic AI-powered transition planning for students with disabilities](https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/)
+来源: AWS ML Blog | 时间: 2026/9/3 02:14:17
+
+---
+
+### 📢 [The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough](https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/3 01:16:06
+
+---
+
+### 📢 [Agentic AI and Next-Gen Intelligence Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/agentic-ai-and-next-gen-intelligence-sessions-at-pytorch-conference-north-america-2026/)
+来源: PyTorch Blog | 时间: 2026/9/3 00:50:44
+
+---
+
 ### 📢 [Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference](https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/3 00:04:28
+来源: NVIDIA Developer Blog | 时间: 2026/9/3 00:38:23
+
+---
+
+### 📢 [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/)
+来源: Google DeepMind | 时间: 2026/9/3 00:24:24
+
+---
+
+### 📢 [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/)
+来源: Google DeepMind | 时间: 2026/9/3 00:18:31
 
 ---
 
 ### 📢 [Real-Time Intelligence with IBM Time Series Models on Confluent](https://huggingface.co/blog/ibm-research/real-time-intelligence)
 来源: Hugging Face Blog | 时间: 2026/9/2 21:49:14
+
+---
+
+### 📢 [Free domain with Pro offer now includes .app and .dev](https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro)
+来源: Vercel AI SDK | 时间: 2026/9/2 15:00:00
+
+---
+
+### 📢 [GLM-5.3 is 50% off through DigitalOcean on AI Gateway](https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/2 08:00:00
 
 ---
 
@@ -29,11 +84,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt)
 来源: Hugging Face Blog | 时间: 2026/9/2 05:39:07
-
----
-
-### 📢 [Introducing Claude Fable 5.1 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/)
-来源: AWS ML Blog | 时间: 2026/9/2 03:12:43
 
 ---
 
@@ -52,21 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [From theory to delivery: How Atos upskilled 400 engineers in agentic AI](https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/)
-来源: AWS ML Blog | 时间: 2026/9/2 00:17:54
-
----
-
-### 📢 [Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/2 00:03:41
-
----
-
-### 📢 [Securing Amazon Quick from POC to production: Agents, Flows, and Spaces](https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/)
-来源: AWS ML Blog | 时间: 2026/9/2 00:02:22
-
----
-
 ### 📢 [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra)
 来源: OpenAI | 时间: 2026/9/1 21:00:00
 
@@ -74,41 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)
 来源: OpenAI | 时间: 2026/9/1 20:00:00
-
----
-
-### 📢 [How law firm Gilbert + Tobin governs and scales AI with OpenAI](https://openai.com/index/gilbert-tobin)
-来源: OpenAI | 时间: 2026/9/1 09:00:00
-
----
-
-### 📢 [Enterprise Frontier Safeguards](https://www.anthropic.com/news/enterprise-frontier-safeguards)
-来源: Anthropic News | 时间: 2026/9/1 08:00:00
-
----
-
-### 📢 [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels)
-来源: Hugging Face Blog | 时间: 2026/9/1 08:00:00
-
----
-
-### 📢 [MiniMax H3 on vLLM-Omni: From System-Wide Optimization to Real-Time Serving with FastVideo’s FastH3](https://vllm.ai/blog/2026-09-01-minimax-h3-production-serving)
-来源: vLLM Blog | 时间: 2026/9/1 08:00:00
-
----
-
-### 📢 [Qwen 3.8 Max 0902 now available on AI Gateway](https://vercel.com/changelog/qwen-3-8-max-0902-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/1 08:00:00
-
----
-
-### 📢 [Claude Fable 5.1 now available on AI Gateway](https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/1 08:00:00
-
----
-
-### 📢 [AWS PrivateLink is now available on Pro and Enterprise](https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise)
-来源: Vercel AI SDK | 时间: 2026/9/1 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
