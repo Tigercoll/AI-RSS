@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/2 11:41:04
+🕒 最后自动更新时间：2026/9/2 18:55:21
 
 ---
 
@@ -82,6 +82,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Qwen 3.8 Max 0902 now available on AI Gateway](https://vercel.com/changelog/qwen-3-8-max-0902-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/1 08:00:00
+
+---
+
 ### 📢 [Claude Fable 5.1 now available on AI Gateway](https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/9/1 08:00:00
 
@@ -103,11 +108,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [fx is now available in the AI SDK harness layer](https://vercel.com/changelog/fx-ai-sdk-harness-adapter)
-来源: Vercel AI SDK | 时间: 2026/8/31 14:00:00
-
----
-
-### 📢 [Set per-user budgets on AI Gateway](https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/8/31 14:00:00
 
 ---
