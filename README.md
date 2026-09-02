@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/2 18:55:21
+🕒 最后自动更新时间：2026/9/3 00:15:03
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference](https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/3 00:04:28
+
+---
+
+### 📢 [Real-Time Intelligence with IBM Time Series Models on Confluent](https://huggingface.co/blog/ibm-research/real-time-intelligence)
+来源: Hugging Face Blog | 时间: 2026/9/2 21:49:14
+
+---
+
+### 📢 [Gemini 3.8 Flash now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/2 08:00:00
+
+---
+
 ### 📢 [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt)
 来源: Hugging Face Blog | 时间: 2026/9/2 05:39:07
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [AWS PrivateLink is now available on Pro and Enterprise](https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise)
 来源: Vercel AI SDK | 时间: 2026/9/1 08:00:00
-
----
-
-### 📢 [How to Size GPUs for AI Inference and TCO Without Overspending](https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/1 03:28:23
-
----
-
-### 📢 [Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science](https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/1 00:23:58
-
----
-
-### 📢 [fx is now available in the AI SDK harness layer](https://vercel.com/changelog/fx-ai-sdk-harness-adapter)
-来源: Vercel AI SDK | 时间: 2026/8/31 14:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
