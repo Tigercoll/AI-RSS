@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/3 04:46:19
+🕒 最后自动更新时间：2026/9/3 07:07:39
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference](https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/3 07:06:37
+
+---
+
+### 📢 [Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/)
+来源: AWS ML Blog | 时间: 2026/9/3 05:22:05
+
+---
+
 ### 📢 [PyTorch 2.14 Release Blog](https://pytorch.org/blog/pytorch-2-14-release-blog/)
 来源: PyTorch Blog | 时间: 2026/9/3 02:41:48
 
@@ -32,11 +42,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Trinity: Agentic AI-powered transition planning for students with disabilities](https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/)
-来源: AWS ML Blog | 时间: 2026/9/3 02:14:17
-
----
-
 ### 📢 [The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough](https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/3 01:16:06
 
@@ -44,11 +49,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Agentic AI and Next-Gen Intelligence Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/agentic-ai-and-next-gen-intelligence-sessions-at-pytorch-conference-north-america-2026/)
 来源: PyTorch Blog | 时间: 2026/9/3 00:50:44
-
----
-
-### 📢 [Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference](https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/3 00:38:23
 
 ---
 
@@ -69,6 +69,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Free domain with Pro offer now includes .app and .dev](https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro)
 来源: Vercel AI SDK | 时间: 2026/9/2 15:00:00
+
+---
+
+### 📢 [Muse Spark 1.3 now available on AI Gateway](https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/2 08:00:00
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra)
 来源: OpenAI | 时间: 2026/9/1 21:00:00
-
----
-
-### 📢 [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)
-来源: OpenAI | 时间: 2026/9/1 20:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
