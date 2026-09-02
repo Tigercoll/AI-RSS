@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/2 07:08:57
+🕒 最后自动更新时间：2026/9/2 11:41:04
 
 ---
 
@@ -62,6 +62,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How law firm Gilbert + Tobin governs and scales AI with OpenAI](https://openai.com/index/gilbert-tobin)
+来源: OpenAI | 时间: 2026/9/1 09:00:00
+
+---
+
 ### 📢 [Enterprise Frontier Safeguards](https://www.anthropic.com/news/enterprise-frontier-safeguards)
 来源: Anthropic News | 时间: 2026/9/1 08:00:00
 
@@ -94,11 +99,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science](https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/1 00:23:58
-
----
-
-### 📢 [OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety)
-来源: OpenAI | 时间: 2026/8/31 15:00:00
 
 ---
 
