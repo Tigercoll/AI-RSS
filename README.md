@@ -5,15 +5,35 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/4 00:04:42
+🕒 最后自动更新时间：2026/9/4 04:43:55
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Embed Quick Sight visuals using Cognito user authentication](https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/)
-来源: AWS ML Blog | 时间: 2026/9/4 00:01:56
+### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
+来源: LangChain Blog | 时间: 2026/9/4 01:09:46
+
+---
+
+### 📢 [AI-driven development lifecycle using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/4 00:16:28
+
+---
+
+### 📢 [Migrate agentic workloads to Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/4 00:14:12
+
+---
+
+### 📢 [Integrating Outlook with Amazon Quick for AI-powered email automation](https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/)
+来源: AWS ML Blog | 时间: 2026/9/4 00:11:57
+
+---
+
+### 📢 [Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/4 00:10:39
 
 ---
 
@@ -72,23 +92,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/)
-来源: AWS ML Blog | 时间: 2026/9/3 05:22:05
-
----
-
 ### 📢 [PyTorch 2.14 Release Blog](https://pytorch.org/blog/pytorch-2-14-release-blog/)
 来源: PyTorch Blog | 时间: 2026/9/3 02:41:48
-
----
-
-### 📢 [Modernizing and scaling support operations with generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/)
-来源: AWS ML Blog | 时间: 2026/9/3 02:26:35
-
----
-
-### 📢 [How an AWS team detects dashboard content failures at scale using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/3 02:21:20
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/)
 来源: Google DeepMind | 时间: 2026/9/3 00:24:24
-
----
-
-### 📢 [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/)
-来源: Google DeepMind | 时间: 2026/9/3 00:18:31
 
 ---
 <!-- END_LIVE_FEEDS -->
