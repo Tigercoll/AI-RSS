@@ -5,20 +5,55 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/3 18:54:41
+🕒 最后自动更新时间：2026/9/4 00:04:42
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Embed Quick Sight visuals using Cognito user authentication](https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/)
+来源: AWS ML Blog | 时间: 2026/9/4 00:01:56
+
+---
+
+### 📢 [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/)
+来源: Google DeepMind | 时间: 2026/9/3 23:02:08
+
+---
+
+### 📢 [Cursor Cloud Agents can now run in Vercel Sandbox](https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox)
+来源: Vercel AI SDK | 时间: 2026/9/3 23:00:00
+
+---
+
+### 📢 [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme)
+来源: Hugging Face Blog | 时间: 2026/9/3 21:13:48
+
+---
+
 ### 📢 [Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com](https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com)
 来源: LangChain Blog | 时间: 2026/9/3 10:04:21
 
 ---
 
+### 📢 [Basic build machines are now available on Pro and Enterprise](https://vercel.com/changelog/basic-build-machines)
+来源: Vercel AI SDK | 时间: 2026/9/3 09:00:00
+
+---
+
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/agents-that-pay-how-nevermined-empowers-langchain-agents-to-buy-and-sell-services)
 来源: LangChain Blog | 时间: 2026/9/3 08:37:59
+
+---
+
+### 📢 [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct)
+来源: Hugging Face Blog | 时间: 2026/9/3 08:00:00
+
+---
+
+### 📢 [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes)
+来源: Hugging Face Blog | 时间: 2026/9/3 08:00:00
 
 ---
 
@@ -29,6 +64,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference](https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/3 07:06:37
+
+---
+
+### 📢 [NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network](https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/3 05:33:39
 
 ---
 
@@ -52,11 +92,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/3 02:18:47
-
----
-
 ### 📢 [The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough](https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/3 01:16:06
 
@@ -74,41 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/)
 来源: Google DeepMind | 时间: 2026/9/3 00:18:31
-
----
-
-### 📢 [Real-Time Intelligence with IBM Time Series Models on Confluent](https://huggingface.co/blog/ibm-research/real-time-intelligence)
-来源: Hugging Face Blog | 时间: 2026/9/2 21:49:14
-
----
-
-### 📢 [ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT](https://openai.com/index/atv-big-air-tour)
-来源: OpenAI | 时间: 2026/9/2 20:00:00
-
----
-
-### 📢 [Free domain with Pro offer now includes .app and .dev](https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro)
-来源: Vercel AI SDK | 时间: 2026/9/2 15:00:00
-
----
-
-### 📢 [Muse Spark 1.3 now available on AI Gateway](https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/2 08:00:00
-
----
-
-### 📢 [GLM-5.3 is 50% off through DigitalOcean on AI Gateway](https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/2 08:00:00
-
----
-
-### 📢 [Gemini 3.8 Flash now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/2 08:00:00
-
----
-
-### 📢 [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt)
-来源: Hugging Face Blog | 时间: 2026/9/2 05:39:07
 
 ---
 <!-- END_LIVE_FEEDS -->
