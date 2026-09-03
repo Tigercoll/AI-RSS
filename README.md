@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/3 11:40:10
+🕒 最后自动更新时间：2026/9/3 18:54:41
 
 ---
 
@@ -19,6 +19,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/agents-that-pay-how-nevermined-empowers-langchain-agents-to-buy-and-sell-services)
 来源: LangChain Blog | 时间: 2026/9/3 08:37:59
+
+---
+
+### 📢 [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code)
+来源: Hugging Face Blog | 时间: 2026/9/3 08:00:00
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt)
 来源: Hugging Face Blog | 时间: 2026/9/2 05:39:07
-
----
-
-### 📢 [Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron](https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/2 03:00:37
 
 ---
 <!-- END_LIVE_FEEDS -->
