@@ -5,15 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/4 04:43:55
+🕒 最后自动更新时间：2026/9/4 07:05:06
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How to Carry User Identity Across Federated Kubernetes and AI Platforms](https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/4 06:36:46
+
+---
+
 ### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
-来源: LangChain Blog | 时间: 2026/9/4 01:09:46
+来源: LangChain Blog | 时间: 2026/9/4 03:50:34
 
 ---
 
@@ -47,13 +52,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders)
+来源: OpenAI | 时间: 2026/9/3 21:15:00
+
+---
+
 ### 📢 [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme)
 来源: Hugging Face Blog | 时间: 2026/9/3 21:13:48
 
 ---
 
+### 📢 [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra)
+来源: OpenAI | 时间: 2026/9/3 20:00:00
+
+---
+
+### 📢 [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra)
+来源: OpenAI | 时间: 2026/9/3 20:00:00
+
+---
+
 ### 📢 [Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com](https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com)
-来源: LangChain Blog | 时间: 2026/9/3 10:04:21
+来源: LangChain Blog | 时间: 2026/9/3 14:21:13
+
+---
+
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/agents-that-pay-how-nevermined-empowers-langchain-agents-to-buy-and-sell-services)
+来源: LangChain Blog | 时间: 2026/9/3 14:21:13
 
 ---
 
@@ -62,8 +87,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/agents-that-pay-how-nevermined-empowers-langchain-agents-to-buy-and-sell-services)
-来源: LangChain Blog | 时间: 2026/9/3 08:37:59
+### 📢 [Safety overview: GPT-6 Astra](https://openai.com/index/safety-overview-gpt-6-astra)
+来源: OpenAI | 时间: 2026/9/3 08:00:00
 
 ---
 
@@ -84,31 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference](https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/3 07:06:37
-
----
-
-### 📢 [NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network](https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/3 05:33:39
-
----
-
-### 📢 [PyTorch 2.14 Release Blog](https://pytorch.org/blog/pytorch-2-14-release-blog/)
-来源: PyTorch Blog | 时间: 2026/9/3 02:41:48
-
----
-
-### 📢 [The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough](https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/3 01:16:06
-
----
-
-### 📢 [Agentic AI and Next-Gen Intelligence Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/agentic-ai-and-next-gen-intelligence-sessions-at-pytorch-conference-north-america-2026/)
-来源: PyTorch Blog | 时间: 2026/9/3 00:50:44
-
----
-
-### 📢 [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/)
-来源: Google DeepMind | 时间: 2026/9/3 00:24:24
 
 ---
 <!-- END_LIVE_FEEDS -->
