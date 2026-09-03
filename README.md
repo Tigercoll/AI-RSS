@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/3 07:07:39
+🕒 最后自动更新时间：2026/9/3 11:40:10
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com](https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com)
+来源: LangChain Blog | 时间: 2026/9/3 10:04:21
+
+---
+
+### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/agents-that-pay-how-nevermined-empowers-langchain-agents-to-buy-and-sell-services)
+来源: LangChain Blog | 时间: 2026/9/3 08:37:59
+
+---
+
 ### 📢 [Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference](https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/3 07:06:37
 
@@ -67,6 +77,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT](https://openai.com/index/atv-big-air-tour)
+来源: OpenAI | 时间: 2026/9/2 20:00:00
+
+---
+
 ### 📢 [Free domain with Pro offer now includes .app and .dev](https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro)
 来源: Vercel AI SDK | 时间: 2026/9/2 15:00:00
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron](https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/2 03:00:37
-
----
-
-### 📢 [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/)
-来源: Google DeepMind | 时间: 2026/9/2 01:08:51
-
----
-
-### 📢 [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows)
-来源: OpenAI | 时间: 2026/9/2 01:00:00
-
----
-
-### 📢 [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra)
-来源: OpenAI | 时间: 2026/9/1 21:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
