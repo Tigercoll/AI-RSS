@@ -5,20 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/4 11:41:19
+🕒 最后自动更新时间：2026/9/4 18:54:08
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [How to Carry User Identity Across Federated Kubernetes and AI Platforms](https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/4 06:36:46
+### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
+来源: LangChain Blog | 时间: 2026/9/4 12:24:04
 
 ---
 
-### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
-来源: LangChain Blog | 时间: 2026/9/4 03:50:34
+### 📢 [How to Carry User Identity Across Federated Kubernetes and AI Platforms](https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/4 06:36:46
 
 ---
 
