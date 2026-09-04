@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/5 04:30:43
+🕒 最后自动更新时间：2026/9/5 06:52:54
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/5 05:45:52
+
+---
+
 ### 📢 [Building a Memory-Driven Agent with NVIDIA NemoClaw](https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/5 02:05:02
 
@@ -42,13 +47,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract](https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/)
-来源: AWS ML Blog | 时间: 2026/9/5 00:08:10
+### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
+来源: LangChain Blog | 时间: 2026/9/4 12:24:04
 
 ---
 
-### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
-来源: LangChain Blog | 时间: 2026/9/4 12:24:04
+### 📢 [Ling 3.0 Flash Sante is now available on AI Gateway for free](https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free)
+来源: Vercel AI SDK | 时间: 2026/9/4 08:00:00
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Basic build machines are now available on Pro and Enterprise](https://vercel.com/changelog/basic-build-machines)
 来源: Vercel AI SDK | 时间: 2026/9/3 09:00:00
-
----
-
-### 📢 [Safety overview: GPT-6 Astra](https://openai.com/index/safety-overview-gpt-6-astra)
-来源: OpenAI | 时间: 2026/9/3 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
