@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/5 06:52:54
+🕒 最后自动更新时间：2026/9/5 11:40:43
 
 ---
 
@@ -97,6 +97,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [GPT-6 Astra: A new generation of intelligence](https://openai.com/index/gpt-6-astra)
+来源: OpenAI | 时间: 2026/9/3 19:00:00
+
+---
+
 ### 📢 [Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com](https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com)
 来源: LangChain Blog | 时间: 2026/9/3 14:21:13
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/agents-that-pay-how-nevermined-empowers-langchain-agents-to-buy-and-sell-services)
 来源: LangChain Blog | 时间: 2026/9/3 14:21:13
-
----
-
-### 📢 [Basic build machines are now available on Pro and Enterprise](https://vercel.com/changelog/basic-build-machines)
-来源: Vercel AI SDK | 时间: 2026/9/3 09:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
