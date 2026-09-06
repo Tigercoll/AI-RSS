@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/6 23:11:04
+🕒 最后自动更新时间：2026/9/7 04:11:35
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [An Alien Mind](https://openai.com/index/an-alien-mind)
+来源: OpenAI | 时间: 2026/9/6 17:00:00
+
+---
+
+### 📢 [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai)
+来源: OpenAI | 时间: 2026/9/6 16:00:00
+
+---
+
 ### 📢 [Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/9/5 05:45:52
 
@@ -87,18 +97,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra)
-来源: OpenAI | 时间: 2026/9/3 20:00:00
-
----
-
 ### 📢 [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra)
 来源: OpenAI | 时间: 2026/9/3 20:00:00
-
----
-
-### 📢 [GPT-6 Astra: A new generation of intelligence](https://openai.com/index/gpt-6-astra)
-来源: OpenAI | 时间: 2026/9/3 19:00:00
 
 ---
 
