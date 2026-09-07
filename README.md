@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/7 11:42:17
+🕒 最后自动更新时间：2026/9/7 19:59:14
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Supporting independent journalism in Ukraine](https://openai.com/index/supporting-independent-journalism-in-ukraine)
+来源: OpenAI | 时间: 2026/9/7 08:00:00
+
+---
+
+### 📢 [Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin](https://vllm.ai/blog/2026-09-07-vllm-tt-plugin)
+来源: vLLM Blog | 时间: 2026/9/7 08:00:00
+
+---
+
 ### 📢 [An Alien Mind](https://openai.com/index/an-alien-mind)
 来源: OpenAI | 时间: 2026/9/6 17:00:00
 
@@ -97,17 +107,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra)
-来源: OpenAI | 时间: 2026/9/3 20:00:00
-
----
-
 ### 📢 [Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com](https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com)
-来源: LangChain Blog | 时间: 2026/9/3 14:21:13
-
----
-
-### 📢 [" name="description"/><meta content=](https://www.langchain.com/blog/agents-that-pay-how-nevermined-empowers-langchain-agents-to-buy-and-sell-services)
 来源: LangChain Blog | 时间: 2026/9/3 14:21:13
 
 ---
