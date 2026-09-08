@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/8 05:19:05
+🕒 最后自动更新时间：2026/9/8 11:47:04
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China](https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/)
+来源: PyTorch Blog | 时间: 2026/9/8 09:00:02
+
+---
+
+### 📢 [Cambricon Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member/)
+来源: PyTorch Blog | 时间: 2026/9/8 08:59:13
+
+---
+
 ### 📢 [PyTorch x Hugging Face in Bengaluru: Building India’s Next Generation of ML Systems Contributors](https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors/)
 来源: PyTorch Blog | 时间: 2026/9/7 21:05:37
 
@@ -19,6 +29,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Supporting independent journalism in Ukraine](https://openai.com/index/supporting-independent-journalism-in-ukraine)
 来源: OpenAI | 时间: 2026/9/7 08:00:00
+
+---
+
+### 📢 [GLM 5.3 Optimizations, Part 1: Hybrid HiSparse Offloading in vLLM](https://vllm.ai/blog/2026-09-07-glm53-part1-hybrid-sparse-offloading)
+来源: vLLM Blog | 时间: 2026/9/7 08:00:00
 
 ---
 
@@ -73,7 +88,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
-来源: LangChain Blog | 时间: 2026/9/4 12:24:04
+来源: LangChain Blog | 时间: 2026/9/4 14:13:59
 
 ---
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/)
 来源: Google DeepMind | 时间: 2026/9/3 23:02:08
-
----
-
-### 📢 [Cursor Cloud Agents can now run in Vercel Sandbox](https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox)
-来源: Vercel AI SDK | 时间: 2026/9/3 23:00:00
-
----
-
-### 📢 [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders)
-来源: OpenAI | 时间: 2026/9/3 21:15:00
-
----
-
-### 📢 [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme)
-来源: Hugging Face Blog | 时间: 2026/9/3 21:13:48
 
 ---
 <!-- END_LIVE_FEEDS -->
