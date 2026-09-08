@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/8 11:47:04
+🕒 最后自动更新时间：2026/9/8 18:54:27
 
 ---
 
@@ -22,6 +22,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [GLM 5.3 Optimizations, Part 1: Hybrid HiSparse Offloading in vLLM](https://vllm.ai/blog/2026-09-08-glm53-part1-hybrid-sparse-offloading)
+来源: vLLM Blog | 时间: 2026/9/8 08:00:00
+
+---
+
 ### 📢 [PyTorch x Hugging Face in Bengaluru: Building India’s Next Generation of ML Systems Contributors](https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors/)
 来源: PyTorch Blog | 时间: 2026/9/7 21:05:37
 
@@ -29,11 +34,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Supporting independent journalism in Ukraine](https://openai.com/index/supporting-independent-journalism-in-ukraine)
 来源: OpenAI | 时间: 2026/9/7 08:00:00
-
----
-
-### 📢 [GLM 5.3 Optimizations, Part 1: Hybrid HiSparse Offloading in vLLM](https://vllm.ai/blog/2026-09-07-glm53-part1-hybrid-sparse-offloading)
-来源: vLLM Blog | 时间: 2026/9/7 08:00:00
 
 ---
 
