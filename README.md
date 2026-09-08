@@ -5,20 +5,40 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/9 00:18:25
+🕒 最后自动更新时间：2026/9/9 04:54:13
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/9 00:15:23
+### 📢 [Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/)
+来源: AWS ML Blog | 时间: 2026/9/9 03:12:51
 
 ---
 
-### 📢 [How DiDi built intelligent contact center QA with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/9 00:11:11
+### 📢 [Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/)
+来源: AWS ML Blog | 时间: 2026/9/9 02:29:15
+
+---
+
+### 📢 [Organizing Context in a Multi-Agent Harness](https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness)
+来源: LangChain Blog | 时间: 2026/9/9 02:07:23
+
+---
+
+### 📢 [Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2](https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/)
+来源: AWS ML Blog | 时间: 2026/9/9 01:03:50
+
+---
+
+### 📢 [Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1](https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/)
+来源: AWS ML Blog | 时间: 2026/9/9 01:03:20
+
+---
+
+### 📢 [How GPT-5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments)
+来源: OpenAI | 时间: 2026/9/9 01:00:00
 
 ---
 
@@ -37,6 +57,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5)
+来源: OpenAI | 时间: 2026/9/8 19:30:00
+
+---
+
+### 📢 [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution)
+来源: OpenAI | 时间: 2026/9/8 18:00:00
+
+---
+
 ### 📢 [Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China](https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/)
 来源: PyTorch Blog | 时间: 2026/9/8 09:00:02
 
@@ -47,13 +77,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [OpenAI expands initiatives to support journalism from classrooms to newsrooms](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms)
-来源: OpenAI | 时间: 2026/9/8 08:00:00
+### 📢 [GLM 5.3 Optimizations, Part 1: Hybrid HiSparse Offloading in vLLM](https://vllm.ai/blog/2026-09-08-glm53-part1-hybrid-sparse-offloading)
+来源: vLLM Blog | 时间: 2026/9/8 08:00:00
 
 ---
 
-### 📢 [GLM 5.3 Optimizations, Part 1: Hybrid HiSparse Offloading in vLLM](https://vllm.ai/blog/2026-09-08-glm53-part1-hybrid-sparse-offloading)
+### 📢 [vLLM x AgentX: Optimizing for Real-World Agentic Serving](https://vllm.ai/blog/2026-09-08-vllm-agentx)
 来源: vLLM Blog | 时间: 2026/9/8 08:00:00
+
+---
+
+### 📢 [Flat Rate CDN is now GA for Pro teams](https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams)
+来源: Vercel AI SDK | 时间: 2026/9/8 08:00:00
 
 ---
 
@@ -62,18 +97,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Supporting independent journalism in Ukraine](https://openai.com/index/supporting-independent-journalism-in-ukraine)
-来源: OpenAI | 时间: 2026/9/7 08:00:00
-
----
-
 ### 📢 [Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin](https://vllm.ai/blog/2026-09-07-vllm-tt-plugin)
 来源: vLLM Blog | 时间: 2026/9/7 08:00:00
-
----
-
-### 📢 [An Alien Mind](https://openai.com/index/an-alien-mind)
-来源: OpenAI | 时间: 2026/9/6 17:00:00
 
 ---
 
@@ -82,33 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/5 05:45:52
-
----
-
 ### 📢 [Building a Memory-Driven Agent with NVIDIA NemoClaw](https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/5 02:05:02
-
----
-
-### 📢 [Your Guide to Hardware Acceleration & Compute Infrastructure at PyTorch Conference North America 2026](https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026/)
-来源: PyTorch Blog | 时间: 2026/9/5 01:45:31
-
----
-
-### 📢 [Designing lifecycle policies for AgentCore memory](https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/)
-来源: AWS ML Blog | 时间: 2026/9/5 01:20:04
-
----
-
-### 📢 [Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson](https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/5 00:21:13
-
----
-
-### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
-来源: LangChain Blog | 时间: 2026/9/4 14:13:59
 
 ---
 <!-- END_LIVE_FEEDS -->
