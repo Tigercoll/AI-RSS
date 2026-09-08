@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/9 04:54:13
+🕒 最后自动更新时间：2026/9/9 07:15:33
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/9 06:06:58
+
+---
+
+### 📢 [Vercel Sandbox routing is now 18x faster globally](https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally)
+来源: Vercel AI SDK | 时间: 2026/9/9 04:00:00
+
+---
+
 ### 📢 [Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/)
 来源: AWS ML Blog | 时间: 2026/9/9 03:12:51
 
@@ -29,11 +39,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2](https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/)
 来源: AWS ML Blog | 时间: 2026/9/9 01:03:50
-
----
-
-### 📢 [Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1](https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/)
-来源: AWS ML Blog | 时间: 2026/9/9 01:03:20
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing CUDA Rust: Two Tracks for Writing GPU Kernels](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/5 07:07:14
-
----
-
-### 📢 [Building a Memory-Driven Agent with NVIDIA NemoClaw](https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/5 02:05:02
 
 ---
 <!-- END_LIVE_FEEDS -->
