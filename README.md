@@ -5,13 +5,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/8 18:54:27
+🕒 最后自动更新时间：2026/9/9 00:18:25
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/9 00:15:23
+
+---
+
+### 📢 [How DiDi built intelligent contact center QA with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/9 00:11:11
+
+---
+
+### 📢 [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom)
+来源: Hugging Face Blog | 时间: 2026/9/8 22:23:07
+
+---
+
+### 📢 [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/)
+来源: Google DeepMind | 时间: 2026/9/8 22:00:15
+
+---
+
+### 📢 [The Work Now Within Reach](https://openai.com/index/the-work-now-within-reach)
+来源: OpenAI | 时间: 2026/9/8 21:00:00
+
+---
+
 ### 📢 [Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China](https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/)
 来源: PyTorch Blog | 时间: 2026/9/8 09:00:02
 
@@ -19,6 +44,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Cambricon Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member/)
 来源: PyTorch Blog | 时间: 2026/9/8 08:59:13
+
+---
+
+### 📢 [OpenAI expands initiatives to support journalism from classrooms to newsrooms](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms)
+来源: OpenAI | 时间: 2026/9/8 08:00:00
 
 ---
 
@@ -47,8 +77,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai)
-来源: OpenAI | 时间: 2026/9/6 16:00:00
+### 📢 [Introducing CUDA Rust: Two Tracks for Writing GPU Kernels](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/5 07:07:14
 
 ---
 
@@ -77,38 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/)
-来源: AWS ML Blog | 时间: 2026/9/5 00:16:00
-
----
-
-### 📢 [Run agent-driven Amazon SageMaker HyperPod operations with InstantStart](https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/)
-来源: AWS ML Blog | 时间: 2026/9/5 00:12:17
-
----
-
 ### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
 来源: LangChain Blog | 时间: 2026/9/4 14:13:59
-
----
-
-### 📢 [Ling 3.0 Flash Sante is now available on AI Gateway for free](https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free)
-来源: Vercel AI SDK | 时间: 2026/9/4 08:00:00
-
----
-
-### 📢 [GPT 6 Astra now available on Vercel AI Gateway](https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/4 08:00:00
-
----
-
-### 📢 [How to Carry User Identity Across Federated Kubernetes and AI Platforms](https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/4 06:36:46
-
----
-
-### 📢 [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/)
-来源: Google DeepMind | 时间: 2026/9/3 23:02:08
 
 ---
 <!-- END_LIVE_FEEDS -->
