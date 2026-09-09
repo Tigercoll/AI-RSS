@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/9 11:51:55
+🕒 最后自动更新时间：2026/9/9 18:58:49
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Protect production deployments for free on every plan](https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan)
+来源: Vercel AI SDK | 时间: 2026/9/9 14:00:00
+
+---
+
 ### 📢 [Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/9/9 06:06:58
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [PyTorch x Hugging Face in Bengaluru: Building India’s Next Generation of ML Systems Contributors](https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors/)
 来源: PyTorch Blog | 时间: 2026/9/7 21:05:37
-
----
-
-### 📢 [Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin](https://vllm.ai/blog/2026-09-07-vllm-tt-plugin)
-来源: vLLM Blog | 时间: 2026/9/7 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
