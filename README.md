@@ -5,13 +5,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/10 00:13:20
+🕒 最后自动更新时间：2026/9/10 04:42:18
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving](https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/10 04:31:11
+
+---
+
+### 📢 [CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs](https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/10 04:24:19
+
+---
+
+### 📢 [ICYMI: What landed for AI builders in August 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/)
+来源: AWS ML Blog | 时间: 2026/9/10 04:01:03
+
+---
+
+### 📢 [Connections: managed credentials and per-caller identity for Managed Deep Agents](https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/9/10 02:33:03
+
+---
+
+### 📢 [How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/10 02:11:12
+
+---
+
+### 📢 [Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board)
+来源: OpenAI | 时间: 2026/9/10 01:00:00
+
+---
+
 ### 📢 [Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/)
 来源: AWS ML Blog | 时间: 2026/9/9 23:51:29
 
@@ -27,23 +57,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Password Protection is now available per project on Pro](https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro)
+来源: Vercel AI SDK | 时间: 2026/9/9 14:00:00
+
+---
+
 ### 📢 [Protect production deployments for free on every plan](https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan)
 来源: Vercel AI SDK | 时间: 2026/9/9 14:00:00
 
 ---
 
-### 📢 [Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/9 06:06:58
+### 📢 [Persistent memory for eve agents](https://vercel.com/changelog/persistent-memory-for-eve-agents)
+来源: Vercel AI SDK | 时间: 2026/9/9 08:00:00
 
 ---
 
-### 📢 [Vercel Sandbox routing is now 18x faster globally](https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally)
-来源: Vercel AI SDK | 时间: 2026/9/9 04:00:00
-
----
-
-### 📢 [Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/)
-来源: AWS ML Blog | 时间: 2026/9/9 03:12:51
+### 📢 [v0 adds one-click integrations for email, auth, search, and databases](https://vercel.com/changelog/v0-adds-one-click-integrations-for-email-auth-search-and-databases)
+来源: Vercel AI SDK | 时间: 2026/9/9 08:00:00
 
 ---
 
@@ -77,38 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution)
-来源: OpenAI | 时间: 2026/9/8 18:00:00
-
----
-
 ### 📢 [Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China](https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/)
 来源: PyTorch Blog | 时间: 2026/9/8 09:00:02
-
----
-
-### 📢 [Cambricon Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member/)
-来源: PyTorch Blog | 时间: 2026/9/8 08:59:13
-
----
-
-### 📢 [GLM 5.3 Optimizations, Part 1: Hybrid HiSparse Offloading in vLLM](https://vllm.ai/blog/2026-09-08-glm53-part1-hybrid-sparse-offloading)
-来源: vLLM Blog | 时间: 2026/9/8 08:00:00
-
----
-
-### 📢 [vLLM x AgentX: Optimizing for Real-World Agentic Serving](https://vllm.ai/blog/2026-09-08-vllm-agentx)
-来源: vLLM Blog | 时间: 2026/9/8 08:00:00
-
----
-
-### 📢 [GPT Image 2.5 Flare and Sunburst now available on AI Gateway](https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/8 08:00:00
-
----
-
-### 📢 [Flat Rate CDN is now GA for Pro teams](https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams)
-来源: Vercel AI SDK | 时间: 2026/9/8 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
