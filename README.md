@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/10 04:42:18
+🕒 最后自动更新时间：2026/9/10 07:03:33
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM](https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/)
+来源: AWS ML Blog | 时间: 2026/9/10 06:26:29
+
+---
+
 ### 📢 [When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving](https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/10 04:31:11
 
@@ -47,13 +52,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Automate user-level custom permissions for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/9/9 23:45:24
+### 📢 [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series)
+来源: Hugging Face Blog | 时间: 2026/9/9 23:36:24
 
 ---
 
-### 📢 [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series)
-来源: Hugging Face Blog | 时间: 2026/9/9 23:36:24
+### 📢 [GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work)
+来源: OpenAI | 时间: 2026/9/9 19:00:00
 
 ---
 
@@ -62,8 +67,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Protect production deployments for free on every plan](https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan)
-来源: Vercel AI SDK | 时间: 2026/9/9 14:00:00
+### 📢 [You can now read and search changelogs from the CLI](https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli)
+来源: Vercel AI SDK | 时间: 2026/9/9 08:00:00
 
 ---
 
@@ -99,11 +104,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [The Work Now Within Reach](https://openai.com/index/the-work-now-within-reach)
 来源: OpenAI | 时间: 2026/9/8 21:00:00
-
----
-
-### 📢 [Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5)
-来源: OpenAI | 时间: 2026/9/8 19:30:00
 
 ---
 
