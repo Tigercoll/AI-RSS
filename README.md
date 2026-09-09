@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/9 18:58:49
+🕒 最后自动更新时间：2026/9/10 00:13:20
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/)
+来源: AWS ML Blog | 时间: 2026/9/9 23:51:29
+
+---
+
+### 📢 [Automate user-level custom permissions for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/9/9 23:45:24
+
+---
+
+### 📢 [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series)
+来源: Hugging Face Blog | 时间: 2026/9/9 23:36:24
+
+---
+
 ### 📢 [Protect production deployments for free on every plan](https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan)
 来源: Vercel AI SDK | 时间: 2026/9/9 14:00:00
 
@@ -32,18 +47,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/)
-来源: AWS ML Blog | 时间: 2026/9/9 02:29:15
-
----
-
 ### 📢 [Organizing Context in a Multi-Agent Harness](https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness)
 来源: LangChain Blog | 时间: 2026/9/9 02:07:23
-
----
-
-### 📢 [Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2](https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/)
-来源: AWS ML Blog | 时间: 2026/9/9 01:03:50
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Flat Rate CDN is now GA for Pro teams](https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams)
 来源: Vercel AI SDK | 时间: 2026/9/8 08:00:00
-
----
-
-### 📢 [PyTorch x Hugging Face in Bengaluru: Building India’s Next Generation of ML Systems Contributors](https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors/)
-来源: PyTorch Blog | 时间: 2026/9/7 21:05:37
 
 ---
 <!-- END_LIVE_FEEDS -->
