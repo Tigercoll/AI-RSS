@@ -5,13 +5,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/10 18:55:43
+🕒 最后自动更新时间：2026/9/11 00:04:50
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Model-agnostic PII detection with LLMs](https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/)
+来源: AWS ML Blog | 时间: 2026/9/11 00:02:16
+
+---
+
+### 📢 [Agent Evaluation Metric for multi-turn conversations](https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/)
+来源: AWS ML Blog | 时间: 2026/9/10 23:55:41
+
+---
+
+### 📢 [How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/)
+来源: AWS ML Blog | 时间: 2026/9/10 23:53:05
+
+---
+
+### 📢 [Now everyone can put data to work](https://openai.com/index/put-data-to-work)
+来源: OpenAI | 时间: 2026/9/10 23:00:00
+
+---
+
+### 📢 [How Credit Genie keeps codebase docs fresh with OpenWiki](https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated)
+来源: LangChain Blog | 时间: 2026/9/10 21:00:01
+
+---
+
+### 📢 [Expanding AI access and cyber defense for federal, state, local, and tribal governments](https://openai.com/index/expanding-ai-access-us-government)
+来源: OpenAI | 时间: 2026/9/10 15:00:00
+
+---
+
 ### 📢 [From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry](https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/10 13:31:11
 
@@ -22,6 +52,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111)
+来源: Hugging Face Blog | 时间: 2026/9/10 08:00:00
+
+---
+
 ### 📢 [Following the Bottleneck: Optimizing MiniMax M3 on AMD Instinct MI355X](https://vllm.ai/blog/2026-09-10-minimax-m3-mi355x)
 来源: vLLM Blog | 时间: 2026/9/10 08:00:00
 
@@ -29,6 +64,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Vercel Sandbox is now available in all regions](https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions)
 来源: Vercel AI SDK | 时间: 2026/9/10 08:00:00
+
+---
+
+### 📢 [High-Throughput Structure Prediction with BioNeMo Inference Runtime](https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/10 07:45:42
 
 ---
 
@@ -47,28 +87,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [ICYMI: What landed for AI builders in August 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/)
-来源: AWS ML Blog | 时间: 2026/9/10 04:01:03
-
----
-
 ### 📢 [Connections: managed credentials and per-caller identity for Managed Deep Agents](https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents)
 来源: LangChain Blog | 时间: 2026/9/10 02:33:03
-
----
-
-### 📢 [How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/10 02:11:12
-
----
-
-### 📢 [Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board)
-来源: OpenAI | 时间: 2026/9/10 01:00:00
-
----
-
-### 📢 [Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/)
-来源: AWS ML Blog | 时间: 2026/9/9 23:51:29
 
 ---
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Password Protection is now available per project on Pro](https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro)
 来源: Vercel AI SDK | 时间: 2026/9/9 14:00:00
-
----
-
-### 📢 [DeepSeek V4.1 Flash now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/9 08:00:00
-
----
-
-### 📢 [You can now read and search changelogs from the CLI](https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli)
-来源: Vercel AI SDK | 时间: 2026/9/9 08:00:00
-
----
-
-### 📢 [Organizing Context in a Multi-Agent Harness](https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness)
-来源: LangChain Blog | 时间: 2026/9/9 02:07:23
-
----
-
-### 📢 [How GPT-5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments)
-来源: OpenAI | 时间: 2026/9/9 01:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
