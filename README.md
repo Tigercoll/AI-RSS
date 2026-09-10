@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/10 07:03:33
+🕒 最后自动更新时间：2026/9/10 11:50:53
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [PyTorch Conference China 2026: Advancing the Open Source AI Stack](https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack/)
+来源: PyTorch Blog | 时间: 2026/9/10 08:01:29
+
+---
+
 ### 📢 [Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM](https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/)
 来源: AWS ML Blog | 时间: 2026/9/10 06:26:29
 
@@ -57,6 +62,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [The AI policy window is open. We need to act.](https://openai.com/index/ai-policy-window)
+来源: OpenAI | 时间: 2026/9/9 21:00:00
+
+---
+
 ### 📢 [GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work)
 来源: OpenAI | 时间: 2026/9/9 19:00:00
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/)
 来源: Google DeepMind | 时间: 2026/9/8 22:00:15
-
----
-
-### 📢 [The Work Now Within Reach](https://openai.com/index/the-work-now-within-reach)
-来源: OpenAI | 时间: 2026/9/8 21:00:00
-
----
-
-### 📢 [Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China](https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/)
-来源: PyTorch Blog | 时间: 2026/9/8 09:00:02
 
 ---
 <!-- END_LIVE_FEEDS -->
