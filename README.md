@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/11 04:37:11
+🕒 最后自动更新时间：2026/9/11 07:00:21
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference](https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/)
+来源: AWS ML Blog | 时间: 2026/9/11 05:58:09
+
+---
+
+### 📢 [Reduce inference cold starts on Amazon SageMaker HyperPod with model caching](https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/)
+来源: AWS ML Blog | 时间: 2026/9/11 05:37:49
+
+---
+
+### 📢 [Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0](https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/)
+来源: AWS ML Blog | 时间: 2026/9/11 05:15:39
+
+---
+
 ### 📢 [How Credit Genie keeps codebase docs fresh with OpenWiki](https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated)
 来源: LangChain Blog | 时间: 2026/9/11 03:09:10
 
@@ -22,28 +37,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [GitHub Copilot is now available in the AI SDK harness layer](https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter)
+来源: Vercel AI SDK | 时间: 2026/9/11 01:39:00
+
+---
+
 ### 📢 [How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra](https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/11 00:55:39
 
 ---
 
-### 📢 [Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/)
-来源: AWS ML Blog | 时间: 2026/9/11 00:08:57
-
----
-
-### 📢 [Model-agnostic PII detection with LLMs](https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/)
-来源: AWS ML Blog | 时间: 2026/9/11 00:02:16
-
----
-
 ### 📢 [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)
 来源: OpenAI | 时间: 2026/9/11 00:00:00
-
----
-
-### 📢 [Agent Evaluation Metric for multi-turn conversations](https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/)
-来源: AWS ML Blog | 时间: 2026/9/10 23:55:41
 
 ---
 
@@ -87,12 +92,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Tako Search is free on AI Gateway through September 30th](https://vercel.com/changelog/tako-search-is-free-on-ai-gateway-through-september-30th)
+### 📢 [Build with OpenAI Agents API on Vercel](https://vercel.com/changelog/build-with-openai-agents-api-on-vercel)
 来源: Vercel AI SDK | 时间: 2026/9/10 08:00:00
 
 ---
 
-### 📢 [Vercel Sandbox is now available in all regions](https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions)
+### 📢 [Tako Search is free on AI Gateway through September 30](https://vercel.com/changelog/tako-search-is-free-on-ai-gateway-through-september-30th)
 来源: Vercel AI SDK | 时间: 2026/9/10 08:00:00
 
 ---
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving](https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/10 04:31:11
-
----
-
-### 📢 [Connections: managed credentials and per-caller identity for Managed Deep Agents](https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/9/10 02:33:03
 
 ---
 <!-- END_LIVE_FEEDS -->
