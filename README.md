@@ -5,15 +5,30 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/10 11:50:53
+🕒 最后自动更新时间：2026/9/10 18:55:43
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry](https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/10 13:31:11
+
+---
+
 ### 📢 [PyTorch Conference China 2026: Advancing the Open Source AI Stack](https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack/)
 来源: PyTorch Blog | 时间: 2026/9/10 08:01:29
+
+---
+
+### 📢 [Following the Bottleneck: Optimizing MiniMax M3 on AMD Instinct MI355X](https://vllm.ai/blog/2026-09-10-minimax-m3-mi355x)
+来源: vLLM Blog | 时间: 2026/9/10 08:00:00
+
+---
+
+### 📢 [Vercel Sandbox is now available in all regions](https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions)
+来源: Vercel AI SDK | 时间: 2026/9/10 08:00:00
 
 ---
 
@@ -77,17 +92,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [DeepSeek V4.1 Flash now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/9 08:00:00
+
+---
+
 ### 📢 [You can now read and search changelogs from the CLI](https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli)
-来源: Vercel AI SDK | 时间: 2026/9/9 08:00:00
-
----
-
-### 📢 [Persistent memory for eve agents](https://vercel.com/changelog/persistent-memory-for-eve-agents)
-来源: Vercel AI SDK | 时间: 2026/9/9 08:00:00
-
----
-
-### 📢 [v0 adds one-click integrations for email, auth, search, and databases](https://vercel.com/changelog/v0-adds-one-click-integrations-for-email-auth-search-and-databases)
 来源: Vercel AI SDK | 时间: 2026/9/9 08:00:00
 
 ---
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How GPT-5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments)
 来源: OpenAI | 时间: 2026/9/9 01:00:00
-
----
-
-### 📢 [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom)
-来源: Hugging Face Blog | 时间: 2026/9/8 22:23:07
-
----
-
-### 📢 [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/)
-来源: Google DeepMind | 时间: 2026/9/8 22:00:15
 
 ---
 <!-- END_LIVE_FEEDS -->
