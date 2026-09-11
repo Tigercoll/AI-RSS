@@ -5,35 +5,55 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/12 00:08:29
+🕒 最后自动更新时间：2026/9/12 04:41:50
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/)
+来源: AWS ML Blog | 时间: 2026/9/12 02:26:38
+
+---
+
+### 📢 [Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload](https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/)
+来源: AWS ML Blog | 时间: 2026/9/12 02:24:38
+
+---
+
+### 📢 [Build interactive MCP Apps using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/12 02:23:17
+
+---
+
+### 📢 [Helion x 🤗 HF Kernels: Building and Shipping Out-of-the-box Performant Kernels](https://pytorch.org/blog/helion-x-%f0%9f%a4%97-hf-kernels-building-and-shipping-out-of-the-box-performant-kernels/)
+来源: PyTorch Blog | 时间: 2026/9/12 01:45:57
+
+---
+
+### 📢 [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one)
+来源: OpenAI | 时间: 2026/9/11 18:00:00
+
+---
+
+### 📢 [How Tailscale built a customer-facing model router on AI Gateway](https://vercel.com/blog/how-tailscale-built-a-customer-facing-model-router-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/11 12:00:00
+
+---
+
+### 📢 [Control who can manage connectors in Vercel Connect](https://vercel.com/changelog/control-who-can-manage-connectors-in-vercel-connect)
+来源: Vercel AI SDK | 时间: 2026/9/11 08:00:00
+
+---
+
 ### 📢 [Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference](https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/)
 来源: AWS ML Blog | 时间: 2026/9/11 05:58:09
 
 ---
 
-### 📢 [Reduce inference cold starts on Amazon SageMaker HyperPod with model caching](https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/)
-来源: AWS ML Blog | 时间: 2026/9/11 05:37:49
-
----
-
-### 📢 [Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0](https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/)
-来源: AWS ML Blog | 时间: 2026/9/11 05:15:39
-
----
-
 ### 📢 [How Credit Genie keeps codebase docs fresh with OpenWiki](https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated)
 来源: LangChain Blog | 时间: 2026/9/11 03:09:10
-
----
-
-### 📢 [Amazon Quick is now generally available on desktop](https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/)
-来源: AWS ML Blog | 时间: 2026/9/11 02:16:37
 
 ---
 
@@ -58,11 +78,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services)
-来源: OpenAI | 时间: 2026/9/10 15:00:00
-
----
-
-### 📢 [Expanding AI access and cyber defense for federal, state, local, and tribal governments](https://openai.com/index/expanding-ai-access-us-government)
 来源: OpenAI | 时间: 2026/9/10 15:00:00
 
 ---
@@ -92,23 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Build with OpenAI Agents API on Vercel](https://vercel.com/changelog/build-with-openai-agents-api-on-vercel)
-来源: Vercel AI SDK | 时间: 2026/9/10 08:00:00
-
----
-
-### 📢 [Tako Search is free on AI Gateway through September 30](https://vercel.com/changelog/tako-search-is-free-on-ai-gateway-through-september-30th)
-来源: Vercel AI SDK | 时间: 2026/9/10 08:00:00
-
----
-
 ### 📢 [High-Throughput Structure Prediction with BioNeMo Inference Runtime](https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/10 07:45:42
-
----
-
-### 📢 [When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving](https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/10 04:31:11
 
 ---
 <!-- END_LIVE_FEEDS -->
