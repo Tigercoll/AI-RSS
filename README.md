@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/12 07:04:59
+🕒 最后自动更新时间：2026/9/12 11:50:34
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
+来源: OpenAI | 时间: 2026/9/14 08:00:00
+
+---
+
+### 📢 [From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry](https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/12 07:57:34
+
+---
+
 ### 📢 [Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/)
 来源: AWS ML Blog | 时间: 2026/9/12 02:26:38
 
@@ -29,6 +39,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Helion x 🤗 HF Kernels: Building and Shipping Out-of-the-box Performant Kernels](https://pytorch.org/blog/helion-x-%f0%9f%a4%97-hf-kernels-building-and-shipping-out-of-the-box-performant-kernels/)
 来源: PyTorch Blog | 时间: 2026/9/12 01:45:57
+
+---
+
+### 📢 [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra)
+来源: OpenAI | 时间: 2026/9/12 00:00:00
 
 ---
 
@@ -69,21 +84,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)
 来源: OpenAI | 时间: 2026/9/11 00:00:00
-
----
-
-### 📢 [Now everyone can put data to work](https://openai.com/index/put-data-to-work)
-来源: OpenAI | 时间: 2026/9/10 23:00:00
-
----
-
-### 📢 [Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services)
-来源: OpenAI | 时间: 2026/9/10 15:00:00
-
----
-
-### 📢 [From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry](https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/10 13:31:11
 
 ---
 
