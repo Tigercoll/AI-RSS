@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/15 03:46:08
+🕒 最后自动更新时间：2026/9/15 07:44:16
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [AI SDK harness layer now supports native subscription authentication](https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication)
+来源: Vercel AI SDK | 时间: 2026/9/15 05:28:00
+
+---
+
+### 📢 [Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale](https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/)
+来源: AWS ML Blog | 时间: 2026/9/15 05:22:45
+
+---
+
+### 📢 [Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/15 04:35:45
+
+---
+
 ### 📢 [How We Built LangChain’s Paid Media Agent](https://www.langchain.com/blog/paid-media-agent)
 来源: LangChain Blog | 时间: 2026/9/15 03:42:20
 
@@ -37,11 +52,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Automate replenishment with MMF, Databricks Genie, and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/9/14 23:42:06
-
----
-
 ### 📢 [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer)
 来源: OpenAI | 时间: 2026/9/14 20:00:00
 
@@ -64,11 +74,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry](https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/12 07:57:34
-
----
-
-### 📢 [Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/)
-来源: AWS ML Blog | 时间: 2026/9/12 02:26:38
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra](https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/11 00:55:39
-
----
-
-### 📢 [PyTorch Conference China 2026: Advancing the Open Source AI Stack](https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack/)
-来源: PyTorch Blog | 时间: 2026/9/10 08:01:29
 
 ---
 <!-- END_LIVE_FEEDS -->
