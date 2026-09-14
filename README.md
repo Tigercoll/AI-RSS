@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/14 12:06:59
+🕒 最后自动更新时间：2026/9/14 20:14:07
 
 ---
 
@@ -107,7 +107,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111)
+### 📢 [Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL](https://huggingface.co/blog/asyncgrpo-lora-hfjobs)
 来源: Hugging Face Blog | 时间: 2026/9/10 08:00:00
 
 ---
