@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/14 20:14:07
+🕒 最后自动更新时间：2026/9/15 03:46:08
 
 ---
 
@@ -13,27 +13,52 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 <!-- START_LIVE_FEEDS -->
 ### 📢 [How We Built LangChain’s Paid Media Agent](https://www.langchain.com/blog/paid-media-agent)
-来源: LangChain Blog | 时间: 2026/9/14 10:43:39
+来源: LangChain Blog | 时间: 2026/9/15 03:42:20
 
 ---
 
-### 📢 [How we built LangChain’s GTM Agent](https://www.langchain.com/blog/how-we-built-langchains-gtm-agent)
-来源: LangChain Blog | 时间: 2026/9/14 08:59:47
+### 📢 [Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com](https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com)
+来源: LangChain Blog | 时间: 2026/9/15 01:18:20
+
+---
+
+### 📢 [Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine](https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/15 00:39:23
+
+---
+
+### 📢 [How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/14 23:58:57
+
+---
+
+### 📢 [The generative AI customization spectrum: From prompt engineering to custom models on AWS](https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/)
+来源: AWS ML Blog | 时间: 2026/9/14 23:47:12
+
+---
+
+### 📢 [Automate replenishment with MMF, Databricks Genie, and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/9/14 23:42:06
+
+---
+
+### 📢 [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer)
+来源: OpenAI | 时间: 2026/9/14 20:00:00
 
 ---
 
 ### 📢 [How Credit Genie keeps codebase docs fresh with OpenWiki](https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated)
-来源: LangChain Blog | 时间: 2026/9/14 08:20:13
+来源: LangChain Blog | 时间: 2026/9/14 09:53:59
+
+---
+
+### 📢 [Connections: managed credentials and per-caller identity for Managed Deep Agents](https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/9/14 09:53:59
 
 ---
 
 ### 📢 [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
 来源: OpenAI | 时间: 2026/9/14 08:00:00
-
----
-
-### 📢 [Connections: managed credentials and per-caller identity for Managed Deep Agents](https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/9/14 07:30:49
 
 ---
 
@@ -44,16 +69,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/)
 来源: AWS ML Blog | 时间: 2026/9/12 02:26:38
-
----
-
-### 📢 [Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload](https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/)
-来源: AWS ML Blog | 时间: 2026/9/12 02:24:38
-
----
-
-### 📢 [Build interactive MCP Apps using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/12 02:23:17
 
 ---
 
@@ -82,11 +97,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference](https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/)
-来源: AWS ML Blog | 时间: 2026/9/11 05:58:09
-
----
-
 ### 📢 [GitHub Copilot is now available in the AI SDK harness layer](https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter)
 来源: Vercel AI SDK | 时间: 2026/9/11 01:39:00
 
@@ -97,18 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)
-来源: OpenAI | 时间: 2026/9/11 00:00:00
-
----
-
 ### 📢 [PyTorch Conference China 2026: Advancing the Open Source AI Stack](https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack/)
 来源: PyTorch Blog | 时间: 2026/9/10 08:01:29
-
----
-
-### 📢 [Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL](https://huggingface.co/blog/asyncgrpo-lora-hfjobs)
-来源: Hugging Face Blog | 时间: 2026/9/10 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
