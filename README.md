@@ -5,15 +5,35 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/14 07:00:23
+🕒 最后自动更新时间：2026/9/14 12:06:59
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How We Built LangChain’s Paid Media Agent](https://www.langchain.com/blog/paid-media-agent)
+来源: LangChain Blog | 时间: 2026/9/14 10:43:39
+
+---
+
+### 📢 [How we built LangChain’s GTM Agent](https://www.langchain.com/blog/how-we-built-langchains-gtm-agent)
+来源: LangChain Blog | 时间: 2026/9/14 08:59:47
+
+---
+
+### 📢 [How Credit Genie keeps codebase docs fresh with OpenWiki](https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated)
+来源: LangChain Blog | 时间: 2026/9/14 08:20:13
+
+---
+
 ### 📢 [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
 来源: OpenAI | 时间: 2026/9/14 08:00:00
+
+---
+
+### 📢 [Connections: managed credentials and per-caller identity for Managed Deep Agents](https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/9/14 07:30:49
 
 ---
 
@@ -67,11 +87,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How Credit Genie keeps codebase docs fresh with OpenWiki](https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated)
-来源: LangChain Blog | 时间: 2026/9/11 03:09:10
-
----
-
 ### 📢 [GitHub Copilot is now available in the AI SDK harness layer](https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter)
 来源: Vercel AI SDK | 时间: 2026/9/11 01:39:00
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111)
 来源: Hugging Face Blog | 时间: 2026/9/10 08:00:00
-
----
-
-### 📢 [Following the Bottleneck: Optimizing MiniMax M3 on AMD Instinct MI355X](https://vllm.ai/blog/2026-09-10-minimax-m3-mi355x)
-来源: vLLM Blog | 时间: 2026/9/10 08:00:00
-
----
-
-### 📢 [Tiered KV Cache Offloading in vLLM](https://vllm.ai/blog/2026-09-10-tiered-kv-offloading)
-来源: vLLM Blog | 时间: 2026/9/10 08:00:00
-
----
-
-### 📢 [High-Throughput Structure Prediction with BioNeMo Inference Runtime](https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/10 07:45:42
 
 ---
 <!-- END_LIVE_FEEDS -->
