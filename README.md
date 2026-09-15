@@ -5,13 +5,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/16 00:35:21
+🕒 最后自动更新时间：2026/9/16 05:01:25
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin](https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/16 01:06:22
+
+---
+
+### 📢 [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)
+来源: Google DeepMind | 时间: 2026/9/16 01:05:57
+
+---
+
+### 📢 [Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each](https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/16 01:00:18
+
+---
+
+### 📢 [How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories](https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/16 00:42:44
+
+---
+
 ### 📢 [Optimizing cost and latency with Amazon Bedrock prompt caching](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/)
 来源: AWS ML Blog | 时间: 2026/9/16 00:18:19
 
@@ -47,6 +67,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How we trained the fastest DSpark for Kimi-K3 using GB300 NVL72](https://vllm.ai/blog/2026-09-15-kimi-k3-dspark)
+来源: vLLM Blog | 时间: 2026/9/15 08:00:00
+
+---
+
+### 📢 [Gemini 3.8 Live models now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/15 08:00:00
+
+---
+
 ### 📢 [AI SDK harness layer now supports native subscription authentication](https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication)
 来源: Vercel AI SDK | 时间: 2026/9/15 05:28:00
 
@@ -59,11 +89,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How We Built LangChain’s Paid Media Agent](https://www.langchain.com/blog/paid-media-agent)
 来源: LangChain Blog | 时间: 2026/9/15 03:42:20
-
----
-
-### 📢 [Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine](https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/15 00:39:23
 
 ---
 
@@ -82,33 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Helion x 🤗 HF Kernels: Building and Shipping Out-of-the-box Performant Kernels](https://pytorch.org/blog/helion-x-%f0%9f%a4%97-hf-kernels-building-and-shipping-out-of-the-box-performant-kernels/)
-来源: PyTorch Blog | 时间: 2026/9/12 01:45:57
-
----
-
-### 📢 [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra)
-来源: OpenAI | 时间: 2026/9/12 00:00:00
-
----
-
-### 📢 [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one)
-来源: OpenAI | 时间: 2026/9/11 18:00:00
-
----
-
-### 📢 [How Tailscale built a customer-facing model router on AI Gateway](https://vercel.com/blog/how-tailscale-built-a-customer-facing-model-router-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/11 12:00:00
-
----
-
-### 📢 [Control who can manage connectors in Vercel Connect](https://vercel.com/changelog/control-who-can-manage-connectors-in-vercel-connect)
-来源: Vercel AI SDK | 时间: 2026/9/11 08:00:00
-
----
-
-### 📢 [GitHub Copilot is now available in the AI SDK harness layer](https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter)
-来源: Vercel AI SDK | 时间: 2026/9/11 01:39:00
+### 📢 [Kimi K3 Performance Optimizations in vLLM: The Road to 2.8× Throughput](https://vllm.ai/blog/2026-09-13-kimi-k3-performance-optimization)
+来源: vLLM Blog | 时间: 2026/9/13 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
