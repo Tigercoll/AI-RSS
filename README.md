@@ -5,15 +5,45 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/15 19:23:20
+🕒 最后自动更新时间：2026/9/16 00:35:21
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Optimizing cost and latency with Amazon Bedrock prompt caching](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/)
+来源: AWS ML Blog | 时间: 2026/9/16 00:18:19
+
+---
+
+### 📢 [Build an AI-powered product tagging system with Amazon SageMaker serverless model customization](https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/)
+来源: AWS ML Blog | 时间: 2026/9/16 00:11:36
+
+---
+
+### 📢 [Announcing instance preference lists for Amazon SageMaker AI training jobs](https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/)
+来源: AWS ML Blog | 时间: 2026/9/16 00:01:47
+
+---
+
+### 📢 [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency)
+来源: Hugging Face Blog | 时间: 2026/9/16 00:00:44
+
+---
+
+### 📢 [Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient](https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient)
+来源: LangChain Blog | 时间: 2026/9/15 22:00:02
+
+---
+
 ### 📢 [Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com](https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com)
 来源: LangChain Blog | 时间: 2026/9/15 12:52:58
+
+---
+
+### 📢 [Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE](https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/15 10:49:31
 
 ---
 
@@ -27,11 +57,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/15 04:35:45
-
----
-
 ### 📢 [How We Built LangChain’s Paid Media Agent](https://www.langchain.com/blog/paid-media-agent)
 来源: LangChain Blog | 时间: 2026/9/15 03:42:20
 
@@ -39,16 +64,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine](https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/15 00:39:23
-
----
-
-### 📢 [How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/14 23:58:57
-
----
-
-### 📢 [The generative AI customization spectrum: From prompt engineering to custom models on AWS](https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/)
-来源: AWS ML Blog | 时间: 2026/9/14 23:47:12
 
 ---
 
@@ -62,18 +77,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Connections: managed credentials and per-caller identity for Managed Deep Agents](https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/9/14 09:53:59
-
----
-
 ### 📢 [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
 来源: OpenAI | 时间: 2026/9/14 08:00:00
-
----
-
-### 📢 [From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry](https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/12 07:57:34
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [GitHub Copilot is now available in the AI SDK harness layer](https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter)
 来源: Vercel AI SDK | 时间: 2026/9/11 01:39:00
-
----
-
-### 📢 [How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra](https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/11 00:55:39
 
 ---
 <!-- END_LIVE_FEEDS -->
