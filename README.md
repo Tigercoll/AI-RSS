@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/15 12:05:47
+🕒 最后自动更新时间：2026/9/15 19:23:20
 
 ---
 
@@ -13,7 +13,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com](https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com)
-来源: LangChain Blog | 时间: 2026/9/15 10:44:20
+来源: LangChain Blog | 时间: 2026/9/15 12:52:58
 
 ---
 
