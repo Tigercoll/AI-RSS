@@ -5,15 +5,50 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/17 00:28:01
+🕒 最后自动更新时间：2026/9/17 05:03:55
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor](https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/17 04:37:15
+
+---
+
+### 📢 [Open Research, Tooling & Optimization at PyTorch Conference North America 2026](https://pytorch.org/blog/open-research-tooling-optimization-at-pytorch-conference-north-america-2026/)
+来源: PyTorch Blog | 时间: 2026/9/17 03:00:47
+
+---
+
+### 📢 [Improving HCLS AI reasoning with open-source agent skills](https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/)
+来源: AWS ML Blog | 时间: 2026/9/17 03:00:00
+
+---
+
+### 📢 [Fault tolerant distributed training on Amazon EKS using NVRx](https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/)
+来源: AWS ML Blog | 时间: 2026/9/17 02:59:25
+
+---
+
+### 📢 [Low Precision Flash Attention 4: End-to-End Block-Scaled Attention for Blackwell](https://pytorch.org/blog/low-precision-flash-attention-4-end-to-end-block-scaled-attention-for-blackwell/)
+来源: PyTorch Blog | 时间: 2026/9/17 02:55:21
+
+---
+
+### 📢 [Hobby projects now retain fewer deployments to free up storage](https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage)
+来源: Vercel AI SDK | 时间: 2026/9/17 02:00:00
+
+---
+
 ### 📢 [Mem0 joins the Vercel Marketplace](https://vercel.com/changelog/mem0-joins-the-vercel-marketplace)
 来源: Vercel AI SDK | 时间: 2026/9/17 01:00:00
+
+---
+
+### 📢 [Translating CUDA Tile Operations from Python to Rust Using Agentic AI](https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/17 00:29:07
 
 ---
 
@@ -34,6 +69,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)
 来源: OpenAI | 时间: 2026/9/16 21:00:00
+
+---
+
+### 📢 [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value)
+来源: OpenAI | 时间: 2026/9/16 20:00:00
+
+---
+
+### 📢 [How workers are unlocking new ways of working](https://openai.com/index/unlocking-new-ways-of-working)
+来源: OpenAI | 时间: 2026/9/16 17:00:00
 
 ---
 
@@ -62,53 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories](https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/16 00:42:44
-
----
-
-### 📢 [Optimizing cost and latency with Amazon Bedrock prompt caching](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/)
-来源: AWS ML Blog | 时间: 2026/9/16 00:18:19
-
----
-
-### 📢 [Build an AI-powered product tagging system with Amazon SageMaker serverless model customization](https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/)
-来源: AWS ML Blog | 时间: 2026/9/16 00:11:36
-
----
-
 ### 📢 [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency)
 来源: Hugging Face Blog | 时间: 2026/9/16 00:00:44
-
----
-
-### 📢 [Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com](https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com)
-来源: LangChain Blog | 时间: 2026/9/15 12:52:58
-
----
-
-### 📢 [Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE](https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/15 10:49:31
-
----
-
-### 📢 [How we trained the fastest DSpark for Kimi-K3 using GB300 NVL72](https://vllm.ai/blog/2026-09-15-kimi-k3-dspark)
-来源: vLLM Blog | 时间: 2026/9/15 08:00:00
-
----
-
-### 📢 [vLLM x Novita AI: Chord, Faster INT4 MoE for Kimi K2.x. Up to 1.3x on H200, 2.15x on Untuned B300](https://vllm.ai/blog/2026-09-15-novita-chord-w4a16-moe)
-来源: vLLM Blog | 时间: 2026/9/15 08:00:00
-
----
-
-### 📢 [Gemini 3.8 Live models now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/15 08:00:00
-
----
-
-### 📢 [AI SDK harness layer now supports native subscription authentication](https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication)
-来源: Vercel AI SDK | 时间: 2026/9/15 05:28:00
 
 ---
 <!-- END_LIVE_FEEDS -->
