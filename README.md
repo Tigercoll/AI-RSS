@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/16 05:01:25
+🕒 最后自动更新时间：2026/9/16 12:02:27
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient](https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient)
+来源: LangChain Blog | 时间: 2026/9/16 09:29:00
+
+---
+
+### 📢 [Is Agentic now tailors its audit by site type](https://vercel.com/changelog/is-agentic-report-categories)
+来源: Vercel AI SDK | 时间: 2026/9/16 08:00:00
+
+---
+
 ### 📢 [How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin](https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/16 01:06:22
 
@@ -52,11 +62,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient](https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient)
-来源: LangChain Blog | 时间: 2026/9/15 22:00:02
-
----
-
 ### 📢 [Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com](https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com)
 来源: LangChain Blog | 时间: 2026/9/15 12:52:58
 
@@ -68,6 +73,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [How we trained the fastest DSpark for Kimi-K3 using GB300 NVL72](https://vllm.ai/blog/2026-09-15-kimi-k3-dspark)
+来源: vLLM Blog | 时间: 2026/9/15 08:00:00
+
+---
+
+### 📢 [vLLM x Novita AI: Chord, Faster INT4 MoE for Kimi K2.x. Up to 1.3x on H200, 2.15x on Untuned B300](https://vllm.ai/blog/2026-09-15-novita-chord-w4a16-moe)
 来源: vLLM Blog | 时间: 2026/9/15 08:00:00
 
 ---
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Credit Genie keeps codebase docs fresh with OpenWiki](https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated)
 来源: LangChain Blog | 时间: 2026/9/14 09:53:59
-
----
-
-### 📢 [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
-来源: OpenAI | 时间: 2026/9/14 08:00:00
-
----
-
-### 📢 [Kimi K3 Performance Optimizations in vLLM: The Road to 2.8× Throughput](https://vllm.ai/blog/2026-09-13-kimi-k3-performance-optimization)
-来源: vLLM Blog | 时间: 2026/9/13 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
