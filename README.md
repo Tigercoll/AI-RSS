@@ -5,13 +5,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/16 19:08:08
+🕒 最后自动更新时间：2026/9/17 00:28:01
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Mem0 joins the Vercel Marketplace](https://vercel.com/changelog/mem0-joins-the-vercel-marketplace)
+来源: Vercel AI SDK | 时间: 2026/9/17 01:00:00
+
+---
+
+### 📢 [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
+来源: OpenAI | 时间: 2026/9/17 00:00:00
+
+---
+
+### 📢 [Optimizing agent system prompts with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/16 23:47:39
+
+---
+
+### 📢 [Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/)
+来源: AWS ML Blog | 时间: 2026/9/16 23:17:37
+
+---
+
+### 📢 [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)
+来源: OpenAI | 时间: 2026/9/16 21:00:00
+
+---
+
 ### 📢 [Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient](https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient)
 来源: LangChain Blog | 时间: 2026/9/16 09:29:00
 
@@ -52,11 +77,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Announcing instance preference lists for Amazon SageMaker AI training jobs](https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/)
-来源: AWS ML Blog | 时间: 2026/9/16 00:01:47
-
----
-
 ### 📢 [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency)
 来源: Hugging Face Blog | 时间: 2026/9/16 00:00:44
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [AI SDK harness layer now supports native subscription authentication](https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication)
 来源: Vercel AI SDK | 时间: 2026/9/15 05:28:00
-
----
-
-### 📢 [Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale](https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/)
-来源: AWS ML Blog | 时间: 2026/9/15 05:22:45
-
----
-
-### 📢 [How We Built LangChain’s Paid Media Agent](https://www.langchain.com/blog/paid-media-agent)
-来源: LangChain Blog | 时间: 2026/9/15 03:42:20
-
----
-
-### 📢 [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer)
-来源: OpenAI | 时间: 2026/9/14 20:00:00
-
----
-
-### 📢 [How Credit Genie keeps codebase docs fresh with OpenWiki](https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated)
-来源: LangChain Blog | 时间: 2026/9/14 09:53:59
 
 ---
 <!-- END_LIVE_FEEDS -->
