@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/17 05:03:55
+🕒 最后自动更新时间：2026/9/17 12:09:23
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How to Use AI Agents to Prepare 3D Scenes for Simulation](https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/17 07:25:01
+
+---
+
 ### 📢 [TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor](https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/17 04:37:15
 
@@ -39,6 +44,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Hobby projects now retain fewer deployments to free up storage](https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage)
 来源: Vercel AI SDK | 时间: 2026/9/17 02:00:00
+
+---
+
+### 📢 [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework)
+来源: OpenAI | 时间: 2026/9/17 01:00:00
 
 ---
 
@@ -77,23 +87,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How workers are unlocking new ways of working](https://openai.com/index/unlocking-new-ways-of-working)
-来源: OpenAI | 时间: 2026/9/16 17:00:00
-
----
-
 ### 📢 [Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient](https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient)
 来源: LangChain Blog | 时间: 2026/9/16 09:29:00
 
 ---
 
-### 📢 [Is Agentic now tailors its audit by site type](https://vercel.com/changelog/is-agentic-report-categories)
+### 📢 [TypeSafe AI's Jev now available on AI Gateway](https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/9/16 08:00:00
 
 ---
 
-### 📢 [How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin](https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/16 01:06:22
+### 📢 [Is Agentic now tailors its audit by site type](https://vercel.com/changelog/is-agentic-report-categories)
+来源: Vercel AI SDK | 时间: 2026/9/16 08:00:00
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each](https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/16 01:00:18
-
----
-
-### 📢 [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency)
-来源: Hugging Face Blog | 时间: 2026/9/16 00:00:44
 
 ---
 <!-- END_LIVE_FEEDS -->
