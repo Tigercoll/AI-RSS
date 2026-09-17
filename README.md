@@ -5,13 +5,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/18 00:33:53
+🕒 最后自动更新时间：2026/9/18 05:06:24
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Scaling Multi-GPU Video Captioning with PyNvVideoCodec and vLLM](https://vllm.ai/blog/2026-09-18-pynvvideocodec)
+来源: vLLM Blog | 时间: 2026/9/18 08:00:00
+
+---
+
+### 📢 [The skills CLI now supports Notion hosted skills](https://vercel.com/changelog/skills-cli-notion-skills)
+来源: Vercel AI SDK | 时间: 2026/9/18 02:00:00
+
+---
+
+### 📢 [Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent](https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/)
+来源: AWS ML Blog | 时间: 2026/9/18 01:55:20
+
+---
+
+### 📢 [How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents](https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph)
+来源: LangChain Blog | 时间: 2026/9/18 01:40:45
+
+---
+
+### 📢 [Building an Agent Harness for Life Sciences: Introducing Deep Life Sci](https://www.langchain.com/blog/agent-harness-life-sciences)
+来源: LangChain Blog | 时间: 2026/9/18 01:40:45
+
+---
+
 ### 📢 [How to Use AI Agents to Prepare 3D Scenes for Simulation](https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/18 00:21:31
 
@@ -32,13 +57,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How MRH Trowe enabled secure self-service AI agents in financial services](https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/)
-来源: AWS ML Blog | 时间: 2026/9/17 23:36:42
+### 📢 [Introducing Astra for Law](https://openai.com/index/astra-for-law)
+来源: OpenAI | 时间: 2026/9/17 08:00:00
 
 ---
 
-### 📢 [How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents](https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph)
-来源: LangChain Blog | 时间: 2026/9/17 23:21:56
+### 📢 [Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program)
+来源: Anthropic News | 时间: 2026/9/17 08:00:00
 
 ---
 
@@ -62,16 +87,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework)
-来源: OpenAI | 时间: 2026/9/17 01:00:00
-
----
-
-### 📢 [Mem0 joins the Vercel Marketplace](https://vercel.com/changelog/mem0-joins-the-vercel-marketplace)
-来源: Vercel AI SDK | 时间: 2026/9/17 01:00:00
-
----
-
 ### 📢 [Translating CUDA Tile Operations from Python to Rust Using Agentic AI](https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/17 00:29:07
 
@@ -82,6 +97,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient](https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient)
+来源: LangChain Blog | 时间: 2026/9/16 23:55:03
+
+---
+
 ### 📢 [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)
 来源: OpenAI | 时间: 2026/9/16 21:00:00
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value)
 来源: OpenAI | 时间: 2026/9/16 20:00:00
-
----
-
-### 📢 [Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient](https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient)
-来源: LangChain Blog | 时间: 2026/9/16 09:29:00
-
----
-
-### 📢 [TypeSafe AI's Jev now available on AI Gateway](https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/16 08:00:00
-
----
-
-### 📢 [Is Agentic now tailors its audit by site type](https://vercel.com/changelog/is-agentic-report-categories)
-来源: Vercel AI SDK | 时间: 2026/9/16 08:00:00
-
----
-
-### 📢 [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)
-来源: Google DeepMind | 时间: 2026/9/16 01:05:57
 
 ---
 <!-- END_LIVE_FEEDS -->
