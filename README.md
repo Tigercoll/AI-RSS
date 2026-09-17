@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/17 19:17:04
+🕒 最后自动更新时间：2026/9/18 00:33:53
 
 ---
 
@@ -13,7 +13,32 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 <!-- START_LIVE_FEEDS -->
 ### 📢 [How to Use AI Agents to Prepare 3D Scenes for Simulation](https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/17 07:25:01
+来源: NVIDIA Developer Blog | 时间: 2026/9/18 00:21:31
+
+---
+
+### 📢 [Selecting a vector store for Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/)
+来源: AWS ML Blog | 时间: 2026/9/17 23:53:13
+
+---
+
+### 📢 [A serverless, data-driven Git metrics dashboard using Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/)
+来源: AWS ML Blog | 时间: 2026/9/17 23:42:31
+
+---
+
+### 📢 [A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/17 23:41:03
+
+---
+
+### 📢 [How MRH Trowe enabled secure self-service AI agents in financial services](https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/)
+来源: AWS ML Blog | 时间: 2026/9/17 23:36:42
+
+---
+
+### 📢 [How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents](https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph)
+来源: LangChain Blog | 时间: 2026/9/17 23:21:56
 
 ---
 
@@ -24,16 +49,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Open Research, Tooling & Optimization at PyTorch Conference North America 2026](https://pytorch.org/blog/open-research-tooling-optimization-at-pytorch-conference-north-america-2026/)
 来源: PyTorch Blog | 时间: 2026/9/17 03:00:47
-
----
-
-### 📢 [Improving HCLS AI reasoning with open-source agent skills](https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/)
-来源: AWS ML Blog | 时间: 2026/9/17 03:00:00
-
----
-
-### 📢 [Fault tolerant distributed training on Amazon EKS using NVRx](https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/)
-来源: AWS ML Blog | 时间: 2026/9/17 02:59:25
 
 ---
 
@@ -67,16 +82,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Optimizing agent system prompts with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/16 23:47:39
-
----
-
-### 📢 [Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/)
-来源: AWS ML Blog | 时间: 2026/9/16 23:17:37
-
----
-
 ### 📢 [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)
 来源: OpenAI | 时间: 2026/9/16 21:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)
 来源: Google DeepMind | 时间: 2026/9/16 01:05:57
-
----
-
-### 📢 [Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each](https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/16 01:00:18
 
 ---
 <!-- END_LIVE_FEEDS -->
