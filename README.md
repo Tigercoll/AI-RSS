@@ -5,15 +5,30 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/18 05:06:24
+🕒 最后自动更新时间：2026/9/18 11:55:02
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
+来源: LangChain Blog | 时间: 2026/9/18 09:47:48
+
+---
+
+### 📢 [PyTorch Day Japan 2026 Comes to Tokyo on December 10](https://pytorch.org/blog/pytorch-day-japan-2026-comes-to-tokyo/)
+来源: PyTorch Blog | 时间: 2026/9/18 08:25:32
+
+---
+
 ### 📢 [Scaling Multi-GPU Video Captioning with PyNvVideoCodec and vLLM](https://vllm.ai/blog/2026-09-18-pynvvideocodec)
 来源: vLLM Blog | 时间: 2026/9/18 08:00:00
+
+---
+
+### 📢 [Sub-second artifact deployments are now supported in Vercel CLI](https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli)
+来源: Vercel AI SDK | 时间: 2026/9/18 06:00:00
 
 ---
 
@@ -57,6 +72,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic)
+来源: OpenAI | 时间: 2026/9/17 20:00:00
+
+---
+
+### 📢 [Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend](https://vercel.com/blog/ai-gateway-production-index-september-2026)
+来源: Vercel AI SDK | 时间: 2026/9/17 15:00:00
+
+---
+
 ### 📢 [Introducing Astra for Law](https://openai.com/index/astra-for-law)
 来源: OpenAI | 时间: 2026/9/17 08:00:00
 
@@ -82,33 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Hobby projects now retain fewer deployments to free up storage](https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage)
-来源: Vercel AI SDK | 时间: 2026/9/17 02:00:00
-
----
-
 ### 📢 [Translating CUDA Tile Operations from Python to Rust Using Agentic AI](https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/17 00:29:07
-
----
-
-### 📢 [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
-来源: OpenAI | 时间: 2026/9/17 00:00:00
-
----
-
-### 📢 [Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient](https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient)
-来源: LangChain Blog | 时间: 2026/9/16 23:55:03
-
----
-
-### 📢 [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)
-来源: OpenAI | 时间: 2026/9/16 21:00:00
-
----
-
-### 📢 [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value)
-来源: OpenAI | 时间: 2026/9/16 20:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
