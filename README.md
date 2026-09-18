@@ -5,13 +5,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/19 00:05:27
+🕒 最后自动更新时间：2026/9/19 04:38:40
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Spend Management expands to Enterprise Flexible Commitment plans](https://vercel.com/changelog/spend-management-enterprise-flex)
+来源: Vercel AI SDK | 时间: 2026/9/19 04:00:00
+
+---
+
+### 📢 [Benchmarking LLM Inference at Scale with AIPerf](https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/19 03:04:50
+
+---
+
+### 📢 [WebMCP support now available in mcp-handler](https://vercel.com/changelog/webmcp-mcp-handler)
+来源: Vercel AI SDK | 时间: 2026/9/19 02:00:00
+
+---
+
+### 📢 [v0 now reads npm credentials from shared environment variables](https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables)
+来源: Vercel AI SDK | 时间: 2026/9/19 01:00:00
+
+---
+
+### 📢 [Introducing Kimi K3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/19 00:52:01
+
+---
+
 ### 📢 [Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/)
 来源: AWS ML Blog | 时间: 2026/9/18 23:38:53
 
@@ -27,11 +52,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Introducing Amazon SageMaker HyperPod Inference Gateway](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/)
-来源: AWS ML Blog | 时间: 2026/9/18 21:08:34
-
----
-
 ### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
 来源: LangChain Blog | 时间: 2026/9/18 09:47:48
 
@@ -42,6 +62,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Accenture Embedded Evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation)
+来源: Anthropic News | 时间: 2026/9/18 08:00:00
+
+---
+
 ### 📢 [Scaling Multi-GPU Video Captioning with PyNvVideoCodec and vLLM](https://vllm.ai/blog/2026-09-18-pynvvideocodec)
 来源: vLLM Blog | 时间: 2026/9/18 08:00:00
 
@@ -49,16 +74,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [GLM 5.3 FlashX now available on AI Gateway](https://vercel.com/changelog/glm-5-3-flashx-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/9/18 08:00:00
-
----
-
-### 📢 [Sub-second artifact deployments are now supported in Vercel CLI](https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli)
-来源: Vercel AI SDK | 时间: 2026/9/18 06:00:00
-
----
-
-### 📢 [The skills CLI now supports Notion hosted skills](https://vercel.com/changelog/skills-cli-notion-skills)
-来源: Vercel AI SDK | 时间: 2026/9/18 02:00:00
 
 ---
 
@@ -82,11 +97,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend](https://vercel.com/blog/ai-gateway-production-index-september-2026)
-来源: Vercel AI SDK | 时间: 2026/9/17 15:00:00
-
----
-
 ### 📢 [Introducing Astra for Law](https://openai.com/index/astra-for-law)
 来源: OpenAI | 时间: 2026/9/17 08:00:00
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor](https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/17 04:37:15
-
----
-
-### 📢 [Open Research, Tooling & Optimization at PyTorch Conference North America 2026](https://pytorch.org/blog/open-research-tooling-optimization-at-pytorch-conference-north-america-2026/)
-来源: PyTorch Blog | 时间: 2026/9/17 03:00:47
-
----
-
-### 📢 [Low Precision Flash Attention 4: End-to-End Block-Scaled Attention for Blackwell](https://pytorch.org/blog/low-precision-flash-attention-4-end-to-end-block-scaled-attention-for-blackwell/)
-来源: PyTorch Blog | 时间: 2026/9/17 02:55:21
 
 ---
 <!-- END_LIVE_FEEDS -->
