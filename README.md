@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/19 04:38:40
+🕒 最后自动更新时间：2026/9/19 07:07:44
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Amazon SageMaker Inference: 2026 year-to-date launches in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/)
+来源: AWS ML Blog | 时间: 2026/9/19 04:52:14
+
+---
+
 ### 📢 [Spend Management expands to Enterprise Flexible Commitment plans](https://vercel.com/changelog/spend-management-enterprise-flex)
 来源: Vercel AI SDK | 时间: 2026/9/19 04:00:00
 
@@ -47,8 +52,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Deploy Hugging Face models on Amazon SageMaker AI with coding agents](https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/)
-来源: AWS ML Blog | 时间: 2026/9/18 23:25:23
+### 📢 [Jev is the fastest-adopted model in AI Gateway history](https://vercel.com/blog/ai-gateway-jev-model-launch)
+来源: Vercel AI SDK | 时间: 2026/9/18 15:00:00
 
 ---
 
@@ -69,11 +74,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Scaling Multi-GPU Video Captioning with PyNvVideoCodec and vLLM](https://vllm.ai/blog/2026-09-18-pynvvideocodec)
 来源: vLLM Blog | 时间: 2026/9/18 08:00:00
-
----
-
-### 📢 [GLM 5.3 FlashX now available on AI Gateway](https://vercel.com/changelog/glm-5-3-flashx-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/18 08:00:00
 
 ---
 
