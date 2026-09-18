@@ -5,13 +5,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/18 18:50:18
+🕒 最后自动更新时间：2026/9/19 00:05:27
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/)
+来源: AWS ML Blog | 时间: 2026/9/18 23:38:53
+
+---
+
+### 📢 [The new AgentCore runtime: Elastic, optimized, and consistently fast starts](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/)
+来源: AWS ML Blog | 时间: 2026/9/18 23:31:34
+
+---
+
+### 📢 [Deploy Hugging Face models on Amazon SageMaker AI with coding agents](https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/)
+来源: AWS ML Blog | 时间: 2026/9/18 23:25:23
+
+---
+
+### 📢 [Introducing Amazon SageMaker HyperPod Inference Gateway](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/)
+来源: AWS ML Blog | 时间: 2026/9/18 21:08:34
+
+---
+
 ### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
 来源: LangChain Blog | 时间: 2026/9/18 09:47:48
 
@@ -42,11 +62,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent](https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/)
-来源: AWS ML Blog | 时间: 2026/9/18 01:55:20
-
----
-
 ### 📢 [How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents](https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph)
 来源: LangChain Blog | 时间: 2026/9/18 01:40:45
 
@@ -59,21 +74,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How to Use AI Agents to Prepare 3D Scenes for Simulation](https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/18 00:21:31
-
----
-
-### 📢 [Selecting a vector store for Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/)
-来源: AWS ML Blog | 时间: 2026/9/17 23:53:13
-
----
-
-### 📢 [A serverless, data-driven Git metrics dashboard using Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/)
-来源: AWS ML Blog | 时间: 2026/9/17 23:42:31
-
----
-
-### 📢 [A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/17 23:41:03
 
 ---
 
