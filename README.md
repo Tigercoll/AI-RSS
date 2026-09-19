@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/19 11:52:01
+🕒 最后自动更新时间：2026/9/19 18:34:19
 
 ---
 
@@ -57,6 +57,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint)
+来源: OpenAI | 时间: 2026/9/18 20:00:00
+
+---
+
 ### 📢 [Jev is the fastest-adopted model in AI Gateway history](https://vercel.com/blog/ai-gateway-jev-model-launch)
 来源: Vercel AI SDK | 时间: 2026/9/18 15:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program)
 来源: Anthropic News | 时间: 2026/9/17 08:00:00
-
----
-
-### 📢 [TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor](https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/17 04:37:15
 
 ---
 <!-- END_LIVE_FEEDS -->
