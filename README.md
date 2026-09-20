@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/20 06:46:09
+🕒 最后自动更新时间：2026/9/20 12:08:44
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Can Jev Be a Better Agent Evaluator?](https://www.langchain.com/blog/jev-agent-evals-langsmith)
+来源: LangChain Blog | 时间: 2026/9/20 08:43:49
+
+---
+
 ### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
 来源: LangChain Blog | 时间: 2026/9/19 10:12:03
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing Astra for Law](https://openai.com/index/astra-for-law)
 来源: OpenAI | 时间: 2026/9/17 08:00:00
-
----
-
-### 📢 [Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program)
-来源: Anthropic News | 时间: 2026/9/17 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
