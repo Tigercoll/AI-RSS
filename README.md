@@ -5,40 +5,95 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/21 20:22:48
+🕒 最后自动更新时间：2026/9/22 03:55:07
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Benchmarking LLM Inference at Scale with AIPerf](https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/22 02:45:07
+
+---
+
+### 📢 [xAI’s Grok 4.6 is now available in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/22 02:30:34
+
+---
+
+### 📢 [Jev is now available in LangSmith Evals](https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals)
+来源: LangChain Blog | 时间: 2026/9/22 01:14:45
+
+---
+
+### 📢 [How BMW Group detects cost anomalies across 14,000 cloud accounts](https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/)
+来源: AWS ML Blog | 时间: 2026/9/22 00:36:10
+
+---
+
+### 📢 [Run Positron on Amazon SageMaker AI for data science workflows](https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/)
+来源: AWS ML Blog | 时间: 2026/9/22 00:34:21
+
+---
+
+### 📢 [How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/22 00:27:34
+
+---
+
+### 📢 [Can Jev Be a Better Agent Evaluator?](https://www.langchain.com/blog/jev-agent-evals-langsmith)
+来源: LangChain Blog | 时间: 2026/9/21 23:29:03
+
+---
+
+### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
+来源: LangChain Blog | 时间: 2026/9/21 23:29:03
+
+---
+
+### 📢 [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an)
+来源: Hugging Face Blog | 时间: 2026/9/21 21:44:34
+
+---
+
+### 📢 [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai)
+来源: OpenAI | 时间: 2026/9/21 20:00:00
+
+---
+
+### 📢 [Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai)
+来源: OpenAI | 时间: 2026/9/21 18:00:00
+
+---
+
+### 📢 [Expanding OpenAI Academy with new learning paths](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)
+来源: OpenAI | 时间: 2026/9/21 15:00:00
+
+---
+
+### 📢 [How V7 gives AI agents institutional memory](https://openai.com/index/v7)
+来源: OpenAI | 时间: 2026/9/21 08:00:00
+
+---
+
+### 📢 [tokenizers v1: encode, decode and scaling, measured](https://huggingface.co/blog/tokenizers-v1)
+来源: Hugging Face Blog | 时间: 2026/9/21 08:00:00
+
+---
+
 ### 📢 [PD Serving of Qwen3.8-2.4T](https://vllm.ai/blog/2026-09-21-qwen38-pd-serving)
 来源: vLLM Blog | 时间: 2026/9/21 08:00:00
 
 ---
 
-### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
-来源: LangChain Blog | 时间: 2026/9/21 02:51:38
-
----
-
-### 📢 [Can Jev Be a Better Agent Evaluator?](https://www.langchain.com/blog/jev-agent-evals-langsmith)
-来源: LangChain Blog | 时间: 2026/9/21 00:01:52
-
----
-
-### 📢 [Amazon SageMaker Inference: 2026 year-to-date launches in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/)
-来源: AWS ML Blog | 时间: 2026/9/19 04:52:14
+### 📢 [Grok 4.7 now available and 40% off on AI Gateway, fx, and eve](https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve)
+来源: Vercel AI SDK | 时间: 2026/9/21 08:00:00
 
 ---
 
 ### 📢 [Spend Management expands to Enterprise Flexible Commitment plans](https://vercel.com/changelog/spend-management-enterprise-flex)
 来源: Vercel AI SDK | 时间: 2026/9/19 04:00:00
-
----
-
-### 📢 [Benchmarking LLM Inference at Scale with AIPerf](https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/19 03:04:50
 
 ---
 
@@ -52,63 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Introducing Kimi K3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/19 00:52:01
-
----
-
-### 📢 [Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/)
-来源: AWS ML Blog | 时间: 2026/9/18 23:38:53
-
----
-
-### 📢 [The new AgentCore runtime: Elastic, optimized, and consistently fast starts](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/)
-来源: AWS ML Blog | 时间: 2026/9/18 23:31:34
-
----
-
-### 📢 [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint)
-来源: OpenAI | 时间: 2026/9/18 20:00:00
-
----
-
-### 📢 [Jev is the fastest-adopted model in AI Gateway history](https://vercel.com/blog/ai-gateway-jev-model-launch)
-来源: Vercel AI SDK | 时间: 2026/9/18 15:00:00
-
----
-
 ### 📢 [PyTorch Day Japan 2026 Comes to Tokyo on December 10](https://pytorch.org/blog/pytorch-day-japan-2026-comes-to-tokyo/)
 来源: PyTorch Blog | 时间: 2026/9/18 08:25:32
-
----
-
-### 📢 [Accenture Embedded Evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation)
-来源: Anthropic News | 时间: 2026/9/18 08:00:00
-
----
-
-### 📢 [Scaling Multi-GPU Video Captioning with PyNvVideoCodec and vLLM](https://vllm.ai/blog/2026-09-18-pynvvideocodec)
-来源: vLLM Blog | 时间: 2026/9/18 08:00:00
-
----
-
-### 📢 [How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents](https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph)
-来源: LangChain Blog | 时间: 2026/9/18 01:40:45
-
----
-
-### 📢 [Building an Agent Harness for Life Sciences: Introducing Deep Life Sci](https://www.langchain.com/blog/agent-harness-life-sciences)
-来源: LangChain Blog | 时间: 2026/9/18 01:40:45
-
----
-
-### 📢 [How to Use AI Agents to Prepare 3D Scenes for Simulation](https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/18 00:21:31
-
----
-
-### 📢 [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic)
-来源: OpenAI | 时间: 2026/9/17 20:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
