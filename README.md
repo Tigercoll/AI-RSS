@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/22 03:55:07
+🕒 最后自动更新时间：2026/9/22 07:56:17
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton](https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/22 05:51:14
+
+---
+
+### 📢 [How to Evaluate AI Agents From Tool Calls to Task Completion](https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/22 05:05:37
+
+---
+
+### 📢 [TinyTorch: Don’t Just Import PyTorch. Build It.](https://pytorch.org/blog/tinytorch-dont-just-import-pytorch-build-it/)
+来源: PyTorch Blog | 时间: 2026/9/22 04:41:14
+
+---
+
 ### 📢 [Benchmarking LLM Inference at Scale with AIPerf](https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/22 02:45:07
 
@@ -62,6 +77,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Higgsfield AI ships new video features in a day with GPT-6 Astra](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra)
+来源: OpenAI | 时间: 2026/9/21 20:00:00
+
+---
+
 ### 📢 [Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai)
 来源: OpenAI | 时间: 2026/9/21 18:00:00
 
@@ -69,11 +89,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Expanding OpenAI Academy with new learning paths](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)
 来源: OpenAI | 时间: 2026/9/21 15:00:00
-
----
-
-### 📢 [How V7 gives AI agents institutional memory](https://openai.com/index/v7)
-来源: OpenAI | 时间: 2026/9/21 08:00:00
 
 ---
 
@@ -87,28 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Grok 4.7 now available and 40% off on AI Gateway, fx, and eve](https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve)
+### 📢 [AI Gateway now supports TypeSafe clients and an HTTP API for Jev](https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev)
 来源: Vercel AI SDK | 时间: 2026/9/21 08:00:00
 
 ---
 
-### 📢 [Spend Management expands to Enterprise Flexible Commitment plans](https://vercel.com/changelog/spend-management-enterprise-flex)
-来源: Vercel AI SDK | 时间: 2026/9/19 04:00:00
-
----
-
-### 📢 [WebMCP support now available in mcp-handler](https://vercel.com/changelog/webmcp-mcp-handler)
-来源: Vercel AI SDK | 时间: 2026/9/19 02:00:00
-
----
-
-### 📢 [v0 now reads npm credentials from shared environment variables](https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables)
-来源: Vercel AI SDK | 时间: 2026/9/19 01:00:00
-
----
-
-### 📢 [PyTorch Day Japan 2026 Comes to Tokyo on December 10](https://pytorch.org/blog/pytorch-day-japan-2026-comes-to-tokyo/)
-来源: PyTorch Blog | 时间: 2026/9/18 08:25:32
+### 📢 [Grok 4.7 now available and 40% off on AI Gateway, fx, and eve](https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve)
+来源: Vercel AI SDK | 时间: 2026/9/21 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
