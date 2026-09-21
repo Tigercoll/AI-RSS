@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/21 12:06:43
+🕒 最后自动更新时间：2026/9/21 20:22:48
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [PD Serving of Qwen3.8-2.4T](https://vllm.ai/blog/2026-09-21-qwen38-pd-serving)
+来源: vLLM Blog | 时间: 2026/9/21 08:00:00
+
+---
+
 ### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
 来源: LangChain Blog | 时间: 2026/9/21 02:51:38
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic)
 来源: OpenAI | 时间: 2026/9/17 20:00:00
-
----
-
-### 📢 [Introducing Astra for Law](https://openai.com/index/astra-for-law)
-来源: OpenAI | 时间: 2026/9/17 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
