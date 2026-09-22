@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/22 12:10:50
+🕒 最后自动更新时间：2026/9/22 19:13:39
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Transformers now runs llama.cpp quants](https://huggingface.co/blog/transformers-llama-cpp-quants)
+来源: Hugging Face Blog | 时间: 2026/9/22 08:00:00
+
+---
+
+### 📢 [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx)
+来源: Hugging Face Blog | 时间: 2026/9/22 08:00:00
+
+---
+
 ### 📢 [Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton](https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/22 05:51:14
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [PD Serving of Qwen3.8-2.4T](https://vllm.ai/blog/2026-09-21-qwen38-pd-serving)
 来源: vLLM Blog | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [MiMo V2.6 models now available on AI Gateway](https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [AI Gateway now supports TypeSafe clients and an HTTP API for Jev](https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev)
-来源: Vercel AI SDK | 时间: 2026/9/21 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
