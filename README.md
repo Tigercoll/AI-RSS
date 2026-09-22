@@ -5,13 +5,48 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/22 19:13:39
+🕒 最后自动更新时间：2026/9/23 00:35:56
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/22 23:46:07
+
+---
+
+### 📢 [Hardware-Agnostic Models in vLLM](https://pytorch.org/blog/hardware-agnostic-models-in-vllm/)
+来源: PyTorch Blog | 时间: 2026/9/22 23:45:46
+
+---
+
+### 📢 [Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/)
+来源: AWS ML Blog | 时间: 2026/9/22 23:35:53
+
+---
+
+### 📢 [How Trane gets building insights 60x faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/22 23:30:34
+
+---
+
+### 📢 [How Tata Elxsi detects industrial safety risks in seconds on AWS](https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/)
+来源: AWS ML Blog | 时间: 2026/9/22 23:19:54
+
+---
+
+### 📢 [How Shopify built a continual learning loop with PyTorch and vLLM](https://pytorch.org/blog/how-shopify-built-a-continual-learning-loop-with-pytorch-and-vllm/)
+来源: PyTorch Blog | 时间: 2026/9/22 21:45:18
+
+---
+
+### 📢 [What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities](https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/22 10:01:44
+
+---
+
 ### 📢 [Transformers now runs llama.cpp quants](https://huggingface.co/blog/transformers-llama-cpp-quants)
 来源: Hugging Face Blog | 时间: 2026/9/22 08:00:00
 
@@ -37,33 +72,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Benchmarking LLM Inference at Scale with AIPerf](https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/22 02:45:07
-
----
-
-### 📢 [xAI’s Grok 4.6 is now available in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/22 02:30:34
+### 📢 [Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS](https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/22 03:07:33
 
 ---
 
 ### 📢 [Jev is now available in LangSmith Evals](https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals)
 来源: LangChain Blog | 时间: 2026/9/22 01:14:45
-
----
-
-### 📢 [How BMW Group detects cost anomalies across 14,000 cloud accounts](https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/)
-来源: AWS ML Blog | 时间: 2026/9/22 00:36:10
-
----
-
-### 📢 [Run Positron on Amazon SageMaker AI for data science workflows](https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/)
-来源: AWS ML Blog | 时间: 2026/9/22 00:34:21
-
----
-
-### 📢 [How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/22 00:27:34
 
 ---
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai)
 来源: OpenAI | 时间: 2026/9/21 18:00:00
-
----
-
-### 📢 [Expanding OpenAI Academy with new learning paths](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)
-来源: OpenAI | 时间: 2026/9/21 15:00:00
-
----
-
-### 📢 [tokenizers v1: encode, decode and scaling, measured](https://huggingface.co/blog/tokenizers-v1)
-来源: Hugging Face Blog | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [PD Serving of Qwen3.8-2.4T](https://vllm.ai/blog/2026-09-21-qwen38-pd-serving)
-来源: vLLM Blog | 时间: 2026/9/21 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
