@@ -5,13 +5,58 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/23 00:35:56
+🕒 最后自动更新时间：2026/9/23 05:03:12
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Better prompt caching for GPT-6](https://openai.com/index/better-prompt-caching-for-gpt-6)
+来源: OpenAI | 时间: 2026/9/23 05:00:00
+
+---
+
+### 📢 [What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities](https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/23 04:48:36
+
+---
+
+### 📢 [Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/23 02:10:22
+
+---
+
+### 📢 [Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)
+来源: OpenAI | 时间: 2026/9/23 02:00:00
+
+---
+
+### 📢 [Claude Opus 5.5 is now available on AWS](https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/)
+来源: AWS ML Blog | 时间: 2026/9/23 01:28:01
+
+---
+
+### 📢 [Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing](https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/23 01:27:48
+
+---
+
+### 📢 [Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/9/23 01:18:13
+
+---
+
+### 📢 [Topology-Aware Workload Scheduling with NVIDIA Topograph](https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/23 01:16:36
+
+---
+
+### 📢 [The Reliability Layer for Healthcare AI: Common LangSmith Use Cases](https://www.langchain.com/blog/reliability-healthcare-ai-langsmith-use-cases)
+来源: LangChain Blog | 时间: 2026/9/23 01:08:51
+
+---
+
 ### 📢 [How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/9/22 23:46:07
 
@@ -22,28 +67,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/9/22 23:35:53
-
----
-
-### 📢 [How Trane gets building insights 60x faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/22 23:30:34
-
----
-
-### 📢 [How Tata Elxsi detects industrial safety risks in seconds on AWS](https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/)
-来源: AWS ML Blog | 时间: 2026/9/22 23:19:54
-
----
-
 ### 📢 [How Shopify built a continual learning loop with PyTorch and vLLM](https://pytorch.org/blog/how-shopify-built-a-continual-learning-loop-with-pytorch-and-vllm/)
 来源: PyTorch Blog | 时间: 2026/9/22 21:45:18
 
 ---
 
-### 📢 [What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities](https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/22 10:01:44
+### 📢 [Priorities and principles for effective third party assessments](https://openai.com/index/priorities-principles-third-party-assessments)
+来源: OpenAI | 时间: 2026/9/22 08:00:00
+
+---
+
+### 📢 [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi)
+来源: Hugging Face Blog | 时间: 2026/9/22 08:00:00
 
 ---
 
@@ -57,58 +92,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton](https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/22 05:51:14
+### 📢 [GPT-6 Sol and Luna now available on AI Gateway](https://vercel.com/changelog/gpt-6-sol-and-luna-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/22 08:00:00
 
 ---
 
-### 📢 [How to Evaluate AI Agents From Tool Calls to Task Completion](https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/22 05:05:37
+### 📢 [Drives for Vercel Sandbox are now in public beta](https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta)
+来源: Vercel AI SDK | 时间: 2026/9/22 08:00:00
+
+---
+
+### 📢 [Claude Opus 5.5 now available on AI Gateway](https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/22 08:00:00
 
 ---
 
 ### 📢 [TinyTorch: Don’t Just Import PyTorch. Build It.](https://pytorch.org/blog/tinytorch-dont-just-import-pytorch-build-it/)
 来源: PyTorch Blog | 时间: 2026/9/22 04:41:14
-
----
-
-### 📢 [Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS](https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/22 03:07:33
-
----
-
-### 📢 [Jev is now available in LangSmith Evals](https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals)
-来源: LangChain Blog | 时间: 2026/9/22 01:14:45
-
----
-
-### 📢 [Can Jev Be a Better Agent Evaluator?](https://www.langchain.com/blog/jev-agent-evals-langsmith)
-来源: LangChain Blog | 时间: 2026/9/21 23:29:03
-
----
-
-### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
-来源: LangChain Blog | 时间: 2026/9/21 23:29:03
-
----
-
-### 📢 [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an)
-来源: Hugging Face Blog | 时间: 2026/9/21 21:44:34
-
----
-
-### 📢 [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai)
-来源: OpenAI | 时间: 2026/9/21 20:00:00
-
----
-
-### 📢 [Higgsfield AI ships new video features in a day with GPT-6 Astra](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra)
-来源: OpenAI | 时间: 2026/9/21 20:00:00
-
----
-
-### 📢 [Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai)
-来源: OpenAI | 时间: 2026/9/21 18:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
