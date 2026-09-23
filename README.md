@@ -5,13 +5,53 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/24 00:26:57
+🕒 最后自动更新时间：2026/9/24 05:17:58
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [From Research Project to Open Source Ecosystem: Bring Your Academic PyTorch Project to PyTorchCon NA](https://pytorch.org/blog/from-research-project-to-open-source-ecosystem-bring-your-academic-pytorch-project-to-pytorchcon-na/)
+来源: PyTorch Blog | 时间: 2026/9/24 04:18:34
+
+---
+
+### 📢 [Validate GPU Cluster Readiness Before AI Workloads Land](https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/24 03:45:27
+
+---
+
+### 📢 [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp)
+来源: Hugging Face Blog | 时间: 2026/9/24 02:41:40
+
+---
+
+### 📢 [From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/24 02:41:09
+
+---
+
+### 📢 [Manage Kubernetes Node Fleets with NodeWright](https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/24 02:25:56
+
+---
+
+### 📢 [Agentic conversational video intelligence built on AWS](https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/)
+来源: AWS ML Blog | 时间: 2026/9/24 02:21:54
+
+---
+
+### 📢 [Use open weight models as your AI coding agent with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/24 02:17:44
+
+---
+
+### 📢 [Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing](https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/24 00:26:24
+
+---
+
 ### 📢 [How SWE-Serve Exposes the Gap Between Local Tests and Live Serving](https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/24 00:05:30
 
@@ -32,13 +72,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**](https://huggingface.co/blog/nvidia/nemotron-diarization)
-来源: Hugging Face Blog | 时间: 2026/9/23 21:17:01
+### 📢 [OpenAI extends cyber access to Ukraine for civilian defense](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense)
+来源: OpenAI | 时间: 2026/9/23 21:00:00
 
 ---
 
-### 📢 [OpenAI extends cyber access to Ukraine for civilian defense](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense)
-来源: OpenAI | 时间: 2026/9/23 21:00:00
+### 📢 [Sam Altman’s remarks at the United Nations Security Council](https://openai.com/index/sam-altman-un-security-council-remarks)
+来源: OpenAI | 时间: 2026/9/23 20:00:00
+
+---
+
+### 📢 [Harvey turns legal context into stronger drafts with GPT-6 Astra](https://openai.com/index/harvey-from-context-to-confidence-with-astra)
+来源: OpenAI | 时间: 2026/9/23 20:00:00
 
 ---
 
@@ -47,8 +92,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Grab and OpenAI bring practical AI skills to Southeast Asia](https://openai.com/index/grab-openai-ai-skills-southeast-asia)
-来源: OpenAI | 时间: 2026/9/23 08:00:00
+### 📢 [Claude Discovers Novel Enzyme System](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+来源: Anthropic News | 时间: 2026/9/23 08:00:00
 
 ---
 
@@ -57,58 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Better prompt caching for GPT-6](https://openai.com/index/better-prompt-caching-for-gpt-6)
-来源: OpenAI | 时间: 2026/9/23 05:00:00
-
----
-
-### 📢 [What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities](https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/23 04:48:36
-
----
-
 ### 📢 [Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/9/23 02:10:22
 
 ---
 
-### 📢 [Claude Opus 5.5 is now available on AWS](https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/)
-来源: AWS ML Blog | 时间: 2026/9/23 01:28:01
-
----
-
-### 📢 [Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing](https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/23 01:27:48
-
----
-
-### 📢 [Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/23 01:18:13
-
----
-
-### 📢 [Topology-Aware Workload Scheduling with NVIDIA Topograph](https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/23 01:16:36
-
----
-
 ### 📢 [The Reliability Layer for Healthcare AI: Common LangSmith Use Cases](https://www.langchain.com/blog/reliability-healthcare-ai-langsmith-use-cases)
 来源: LangChain Blog | 时间: 2026/9/23 01:08:51
-
----
-
-### 📢 [How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/9/22 23:46:07
-
----
-
-### 📢 [Hardware-Agnostic Models in vLLM](https://pytorch.org/blog/hardware-agnostic-models-in-vllm/)
-来源: PyTorch Blog | 时间: 2026/9/22 23:45:46
-
----
-
-### 📢 [How Shopify built a continual learning loop with PyTorch and vLLM](https://pytorch.org/blog/how-shopify-built-a-continual-learning-loop-with-pytorch-and-vllm/)
-来源: PyTorch Blog | 时间: 2026/9/22 21:45:18
 
 ---
 <!-- END_LIVE_FEEDS -->
