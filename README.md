@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/23 05:03:12
+🕒 最后自动更新时间：2026/9/23 12:00:20
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
+来源: LangChain Blog | 时间: 2026/9/23 10:32:35
+
+---
+
 ### 📢 [Better prompt caching for GPT-6](https://openai.com/index/better-prompt-caching-for-gpt-6)
 来源: OpenAI | 时间: 2026/9/23 05:00:00
 
@@ -72,6 +77,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra)
+来源: OpenAI | 时间: 2026/9/22 20:00:00
+
+---
+
 ### 📢 [Priorities and principles for effective third party assessments](https://openai.com/index/priorities-principles-third-party-assessments)
 来源: OpenAI | 时间: 2026/9/22 08:00:00
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Drives for Vercel Sandbox are now in public beta](https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta)
 来源: Vercel AI SDK | 时间: 2026/9/22 08:00:00
-
----
-
-### 📢 [Claude Opus 5.5 now available on AI Gateway](https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/22 08:00:00
-
----
-
-### 📢 [TinyTorch: Don’t Just Import PyTorch. Build It.](https://pytorch.org/blog/tinytorch-dont-just-import-pytorch-build-it/)
-来源: PyTorch Blog | 时间: 2026/9/22 04:41:14
 
 ---
 <!-- END_LIVE_FEEDS -->
