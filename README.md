@@ -5,15 +5,55 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/23 19:05:40
+🕒 最后自动更新时间：2026/9/24 00:26:57
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How SWE-Serve Exposes the Gap Between Local Tests and Live Serving](https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/24 00:05:30
+
+---
+
+### 📢 [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
+来源: Google DeepMind | 时间: 2026/9/24 00:00:57
+
+---
+
+### 📢 [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
+来源: OpenAI | 时间: 2026/9/24 00:00:00
+
+---
+
+### 📢 [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/)
+来源: Google DeepMind | 时间: 2026/9/23 23:25:14
+
+---
+
+### 📢 [**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**](https://huggingface.co/blog/nvidia/nemotron-diarization)
+来源: Hugging Face Blog | 时间: 2026/9/23 21:17:01
+
+---
+
+### 📢 [OpenAI extends cyber access to Ukraine for civilian defense](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense)
+来源: OpenAI | 时间: 2026/9/23 21:00:00
+
+---
+
 ### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
 来源: LangChain Blog | 时间: 2026/9/23 10:32:35
+
+---
+
+### 📢 [Grab and OpenAI bring practical AI skills to Southeast Asia](https://openai.com/index/grab-openai-ai-skills-southeast-asia)
+来源: OpenAI | 时间: 2026/9/23 08:00:00
+
+---
+
+### 📢 [Drives for Vercel Sandbox are now in public beta](https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta)
+来源: Vercel AI SDK | 时间: 2026/9/23 08:00:00
 
 ---
 
@@ -29,11 +69,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/9/23 02:10:22
-
----
-
-### 📢 [Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)
-来源: OpenAI | 时间: 2026/9/23 02:00:00
 
 ---
 
@@ -74,41 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Shopify built a continual learning loop with PyTorch and vLLM](https://pytorch.org/blog/how-shopify-built-a-continual-learning-loop-with-pytorch-and-vllm/)
 来源: PyTorch Blog | 时间: 2026/9/22 21:45:18
-
----
-
-### 📢 [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra)
-来源: OpenAI | 时间: 2026/9/22 20:00:00
-
----
-
-### 📢 [Priorities and principles for effective third party assessments](https://openai.com/index/priorities-principles-third-party-assessments)
-来源: OpenAI | 时间: 2026/9/22 08:00:00
-
----
-
-### 📢 [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi)
-来源: Hugging Face Blog | 时间: 2026/9/22 08:00:00
-
----
-
-### 📢 [Transformers now runs llama.cpp quants](https://huggingface.co/blog/transformers-llama-cpp-quants)
-来源: Hugging Face Blog | 时间: 2026/9/22 08:00:00
-
----
-
-### 📢 [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx)
-来源: Hugging Face Blog | 时间: 2026/9/22 08:00:00
-
----
-
-### 📢 [GPT-6 Sol and Luna now available on AI Gateway](https://vercel.com/changelog/gpt-6-sol-and-luna-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/22 08:00:00
-
----
-
-### 📢 [Drives for Vercel Sandbox are now in public beta](https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta)
-来源: Vercel AI SDK | 时间: 2026/9/22 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
