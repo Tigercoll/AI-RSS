@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/24 05:17:58
+🕒 最后自动更新时间：2026/9/24 11:54:56
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Vercel Connect now supports TanStack AI](https://vercel.com/changelog/vercel-connect-tanstack-ai)
+来源: Vercel AI SDK | 时间: 2026/9/24 08:00:00
+
+---
+
+### 📢 [Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning](https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/24 06:55:03
+
+---
+
 ### 📢 [From Research Project to Open Source Ecosystem: Bring Your Academic PyTorch Project to PyTorchCon NA](https://pytorch.org/blog/from-research-project-to-open-source-ecosystem-bring-your-academic-pytorch-project-to-pytorchcon-na/)
 来源: PyTorch Blog | 时间: 2026/9/24 04:18:34
 
@@ -44,11 +54,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Use open weight models as your AI coding agent with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/9/24 02:17:44
-
----
-
-### 📢 [Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing](https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/24 00:26:24
 
 ---
 
@@ -97,18 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Drives for Vercel Sandbox are now in public beta](https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta)
+### 📢 [Gemini 3.8 text-to-speech models now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/9/23 08:00:00
 
 ---
 
-### 📢 [Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/23 02:10:22
-
----
-
-### 📢 [The Reliability Layer for Healthcare AI: Common LangSmith Use Cases](https://www.langchain.com/blog/reliability-healthcare-ai-langsmith-use-cases)
-来源: LangChain Blog | 时间: 2026/9/23 01:08:51
+### 📢 [Drives for Vercel Sandbox are now in public beta](https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta)
+来源: Vercel AI SDK | 时间: 2026/9/23 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
