@@ -5,13 +5,63 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/24 19:23:51
+🕒 最后自动更新时间：2026/9/25 00:48:03
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)
+来源: Google DeepMind | 时间: 2026/9/25 00:20:39
+
+---
+
+### 📢 [Speaker-labeled transcription with WhisperX on SageMaker AI](https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/)
+来源: AWS ML Blog | 时间: 2026/9/25 00:20:12
+
+---
+
+### 📢 [Build a multi-account AI agent with AgentCore Gateway and MCP](https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/)
+来源: AWS ML Blog | 时间: 2026/9/25 00:12:47
+
+---
+
+### 📢 [Aderant builds intelligent ticket triage with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/)
+来源: AWS ML Blog | 时间: 2026/9/25 00:06:46
+
+---
+
+### 📢 [Introducing LangSmith Fine-Tuning](https://www.langchain.com/blog/langsmith-fine-tuning)
+来源: LangChain Blog | 时间: 2026/9/24 23:50:30
+
+---
+
+### 📢 [Trajectories now in LangSmith: A readable view of every agent session](https://www.langchain.com/blog/langsmith-trajectories-tracing)
+来源: LangChain Blog | 时间: 2026/9/24 23:48:00
+
+---
+
+### 📢 [Managed Deep Agents delivers a better user experience for agents in production](https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new)
+来源: LangChain Blog | 时间: 2026/9/24 23:43:05
+
+---
+
+### 📢 [LangSmith Custom Apps: Build custom interfaces around your agent data](https://www.langchain.com/blog/langsmith-custom-apps)
+来源: LangChain Blog | 时间: 2026/9/24 23:01:41
+
+---
+
+### 📢 [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark)
+来源: Hugging Face Blog | 时间: 2026/9/24 22:08:57
+
+---
+
+### 📢 [The Vercel Bug Bounty Program is now publicly available](https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available)
+来源: Vercel AI SDK | 时间: 2026/9/24 15:00:00
+
+---
+
 ### 📢 [Vercel Connect now supports TanStack AI](https://vercel.com/changelog/vercel-connect-tanstack-ai)
 来源: Vercel AI SDK | 时间: 2026/9/24 08:00:00
 
@@ -24,6 +74,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [From Research Project to Open Source Ecosystem: Bring Your Academic PyTorch Project to PyTorchCon NA](https://pytorch.org/blog/from-research-project-to-open-source-ecosystem-bring-your-academic-pytorch-project-to-pytorchcon-na/)
 来源: PyTorch Blog | 时间: 2026/9/24 04:18:34
+
+---
+
+### 📢 [Efficient MoE Training for Biological Foundation Models](https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/24 04:10:55
 
 ---
 
@@ -47,21 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Agentic conversational video intelligence built on AWS](https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/)
-来源: AWS ML Blog | 时间: 2026/9/24 02:21:54
-
----
-
-### 📢 [Use open weight models as your AI coding agent with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/24 02:17:44
-
----
-
-### 📢 [How SWE-Serve Exposes the Gap Between Local Tests and Live Serving](https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/24 00:05:30
-
----
-
 ### 📢 [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
 来源: Google DeepMind | 时间: 2026/9/24 00:00:57
 
@@ -69,46 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
 来源: OpenAI | 时间: 2026/9/24 00:00:00
-
----
-
-### 📢 [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/)
-来源: Google DeepMind | 时间: 2026/9/23 23:25:14
-
----
-
-### 📢 [OpenAI extends cyber access to Ukraine for civilian defense](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense)
-来源: OpenAI | 时间: 2026/9/23 21:00:00
-
----
-
-### 📢 [Sam Altman’s remarks at the United Nations Security Council](https://openai.com/index/sam-altman-un-security-council-remarks)
-来源: OpenAI | 时间: 2026/9/23 20:00:00
-
----
-
-### 📢 [Harvey turns legal context into stronger drafts with GPT-6 Astra](https://openai.com/index/harvey-from-context-to-confidence-with-astra)
-来源: OpenAI | 时间: 2026/9/23 20:00:00
-
----
-
-### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
-来源: LangChain Blog | 时间: 2026/9/23 10:32:35
-
----
-
-### 📢 [Claude Discovers Novel Enzyme System](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
-来源: Anthropic News | 时间: 2026/9/23 08:00:00
-
----
-
-### 📢 [Gemini 3.8 text-to-speech models now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/23 08:00:00
-
----
-
-### 📢 [Drives for Vercel Sandbox are now in public beta](https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta)
-来源: Vercel AI SDK | 时间: 2026/9/23 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
