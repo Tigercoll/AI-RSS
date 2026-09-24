@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/25 00:48:03
+🕒 最后自动更新时间：2026/9/25 05:19:56
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Accelerate Your AI Journey with new Introduction Track at PyTorch Conference NA 2026 and PyTorch Associate Training](https://pytorch.org/blog/accelerate-your-ai-journey-with-new-introduction-track-at-pytorch-conference-na-2026-and-pytorch-associate-training/)
+来源: PyTorch Blog | 时间: 2026/9/25 05:06:09
+
+---
+
+### 📢 [New in LangSmith Engine: red teaming and automated testing](https://www.langchain.com/blog/langsmith-engine-v2-redteam)
+来源: LangChain Blog | 时间: 2026/9/25 01:22:02
+
+---
+
 ### 📢 [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)
 来源: Google DeepMind | 时间: 2026/9/25 00:20:39
 
@@ -33,22 +43,17 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Introducing LangSmith Fine-Tuning](https://www.langchain.com/blog/langsmith-fine-tuning)
-来源: LangChain Blog | 时间: 2026/9/24 23:50:30
-
----
-
-### 📢 [Trajectories now in LangSmith: A readable view of every agent session](https://www.langchain.com/blog/langsmith-trajectories-tracing)
-来源: LangChain Blog | 时间: 2026/9/24 23:48:00
+来源: LangChain Blog | 时间: 2026/9/24 23:51:45
 
 ---
 
 ### 📢 [Managed Deep Agents delivers a better user experience for agents in production](https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new)
-来源: LangChain Blog | 时间: 2026/9/24 23:43:05
+来源: LangChain Blog | 时间: 2026/9/24 23:51:45
 
 ---
 
-### 📢 [LangSmith Custom Apps: Build custom interfaces around your agent data](https://www.langchain.com/blog/langsmith-custom-apps)
-来源: LangChain Blog | 时间: 2026/9/24 23:01:41
+### 📢 [Trajectories now in LangSmith: A readable view of every agent session](https://www.langchain.com/blog/langsmith-trajectories-tracing)
+来源: LangChain Blog | 时间: 2026/9/24 23:51:45
 
 ---
 
@@ -59,6 +64,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [The Vercel Bug Bounty Program is now publicly available](https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available)
 来源: Vercel AI SDK | 时间: 2026/9/24 15:00:00
+
+---
+
+### 📢 [Watermarking in vLLM](https://vllm.ai/blog/2026-09-24-watermarking-in-vllm)
+来源: vLLM Blog | 时间: 2026/9/24 08:00:00
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Manage Kubernetes Node Fleets with NodeWright](https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/24 02:25:56
-
----
-
-### 📢 [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
-来源: Google DeepMind | 时间: 2026/9/24 00:00:57
-
----
-
-### 📢 [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
-来源: OpenAI | 时间: 2026/9/24 00:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
