@@ -5,15 +5,40 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/25 19:28:36
+🕒 最后自动更新时间：2026/9/26 00:53:08
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more](https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories)
-来源: LangChain Blog | 时间: 2026/9/25 16:00:01
+### 📢 [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
+来源: OpenAI | 时间: 2026/9/26 03:00:00
+
+---
+
+### 📢 [Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput](https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/)
+来源: AWS ML Blog | 时间: 2026/9/26 00:29:50
+
+---
+
+### 📢 [Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/)
+来源: AWS ML Blog | 时间: 2026/9/26 00:18:07
+
+---
+
+### 📢 [NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/26 00:15:22
+
+---
+
+### 📢 [Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/)
+来源: AWS ML Blog | 时间: 2026/9/26 00:09:46
+
+---
+
+### 📢 [State of agent skills](https://vercel.com/blog/state-of-agent-skills)
+来源: Vercel AI SDK | 时间: 2026/9/25 14:00:00
 
 ---
 
@@ -22,38 +47,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [New in LangSmith Engine: red teaming and automated testing](https://www.langchain.com/blog/langsmith-engine-v2-redteam)
-来源: LangChain Blog | 时间: 2026/9/25 01:22:02
-
----
-
 ### 📢 [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)
 来源: Google DeepMind | 时间: 2026/9/25 00:20:39
-
----
-
-### 📢 [Speaker-labeled transcription with WhisperX on SageMaker AI](https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/9/25 00:20:12
-
----
-
-### 📢 [Build a multi-account AI agent with AgentCore Gateway and MCP](https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/)
-来源: AWS ML Blog | 时间: 2026/9/25 00:12:47
-
----
-
-### 📢 [Aderant builds intelligent ticket triage with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/)
-来源: AWS ML Blog | 时间: 2026/9/25 00:06:46
-
----
-
-### 📢 [Introducing LangSmith Fine-Tuning](https://www.langchain.com/blog/langsmith-fine-tuning)
-来源: LangChain Blog | 时间: 2026/9/24 23:51:45
-
----
-
-### 📢 [Managed Deep Agents delivers a better user experience for agents in production](https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new)
-来源: LangChain Blog | 时间: 2026/9/24 23:51:45
 
 ---
 
@@ -102,13 +97,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/24 02:41:09
+### 📢 [Manage Kubernetes Node Fleets with NodeWright](https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/24 02:25:56
 
 ---
 
-### 📢 [Manage Kubernetes Node Fleets with NodeWright](https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/24 02:25:56
+### 📢 [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
+来源: Google DeepMind | 时间: 2026/9/24 00:00:57
+
+---
+
+### 📢 [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
+来源: OpenAI | 时间: 2026/9/24 00:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
