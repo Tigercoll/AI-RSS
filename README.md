@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/26 00:53:08
+🕒 最后自动更新时间：2026/9/26 05:17:33
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Building Production Agents with Jev and LangGraph](https://www.langchain.com/blog/building-prod-with-jev-and-langgraph)
+来源: LangChain Blog | 时间: 2026/9/26 04:19:50
+
+---
+
+### 📢 [LangSmith Custom Apps: Build custom interfaces around your agent data](https://www.langchain.com/blog/langsmith-custom-apps)
+来源: LangChain Blog | 时间: 2026/9/26 03:04:31
+
+---
+
 ### 📢 [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
 来源: OpenAI | 时间: 2026/9/26 03:00:00
 
@@ -37,6 +47,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more](https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories)
+来源: LangChain Blog | 时间: 2026/9/25 16:00:01
+
+---
+
 ### 📢 [State of agent skills](https://vercel.com/blog/state-of-agent-skills)
 来源: Vercel AI SDK | 时间: 2026/9/25 14:00:00
 
@@ -44,6 +59,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Accelerate Your AI Journey with new Introduction Track at PyTorch Conference NA 2026 and PyTorch Associate Training](https://pytorch.org/blog/accelerate-your-ai-journey-with-new-introduction-track-at-pytorch-conference-na-2026-and-pytorch-associate-training/)
 来源: PyTorch Blog | 时间: 2026/9/25 05:06:09
+
+---
+
+### 📢 [New in LangSmith Engine: red teaming and automated testing](https://www.langchain.com/blog/langsmith-engine-v2-redteam)
+来源: LangChain Blog | 时间: 2026/9/25 01:22:02
 
 ---
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Validate GPU Cluster Readiness Before AI Workloads Land](https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/24 03:45:27
-
----
-
-### 📢 [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp)
-来源: Hugging Face Blog | 时间: 2026/9/24 02:41:40
-
----
-
-### 📢 [Manage Kubernetes Node Fleets with NodeWright](https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/24 02:25:56
-
----
-
-### 📢 [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
-来源: Google DeepMind | 时间: 2026/9/24 00:00:57
-
----
-
-### 📢 [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
-来源: OpenAI | 时间: 2026/9/24 00:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
