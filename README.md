@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/25 12:09:44
+🕒 最后自动更新时间：2026/9/25 19:28:36
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more](https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories)
+来源: LangChain Blog | 时间: 2026/9/25 16:00:01
+
+---
+
 ### 📢 [Accelerate Your AI Journey with new Introduction Track at PyTorch Conference NA 2026 and PyTorch Associate Training](https://pytorch.org/blog/accelerate-your-ai-journey-with-new-introduction-track-at-pytorch-conference-na-2026-and-pytorch-associate-training/)
 来源: PyTorch Blog | 时间: 2026/9/25 05:06:09
 
@@ -48,11 +53,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Managed Deep Agents delivers a better user experience for agents in production](https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new)
-来源: LangChain Blog | 时间: 2026/9/24 23:51:45
-
----
-
-### 📢 [Trajectories now in LangSmith: A readable view of every agent session](https://www.langchain.com/blog/langsmith-trajectories-tracing)
 来源: LangChain Blog | 时间: 2026/9/24 23:51:45
 
 ---
