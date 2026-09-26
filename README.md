@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/26 05:17:33
+🕒 最后自动更新时间：2026/9/26 12:14:21
 
 ---
 
@@ -47,6 +47,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Push images to Vercel Container Registry from GitHub Actions](https://vercel.com/changelog/vcr-login-github-action)
+来源: Vercel AI SDK | 时间: 2026/9/25 17:15:00
+
+---
+
 ### 📢 [New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more](https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories)
 来源: LangChain Blog | 时间: 2026/9/25 16:00:01
 
@@ -54,6 +59,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [State of agent skills](https://vercel.com/blog/state-of-agent-skills)
 来源: Vercel AI SDK | 时间: 2026/9/25 14:00:00
+
+---
+
+### 📢 [Pixel Canary is now available in stealth for free on AI Gateway](https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/25 08:00:00
 
 ---
 
@@ -87,11 +97,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Vercel Connect now supports TanStack AI](https://vercel.com/changelog/vercel-connect-tanstack-ai)
-来源: Vercel AI SDK | 时间: 2026/9/24 08:00:00
-
----
-
 ### 📢 [Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning](https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/24 06:55:03
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Efficient MoE Training for Biological Foundation Models](https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/24 04:10:55
-
----
-
-### 📢 [Validate GPU Cluster Readiness Before AI Workloads Land](https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/24 03:45:27
 
 ---
 <!-- END_LIVE_FEEDS -->
