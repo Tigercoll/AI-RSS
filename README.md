@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/26 19:03:55
+🕒 最后自动更新时间：2026/9/27 00:04:01
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning](https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/26 23:25:12
+
+---
+
 ### 📢 [Building Production Agents with Jev and LangGraph](https://www.langchain.com/blog/building-prod-with-jev-and-langgraph)
 来源: LangChain Blog | 时间: 2026/9/26 04:19:50
 
@@ -94,11 +99,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Watermarking in vLLM](https://vllm.ai/blog/2026-09-24-watermarking-in-vllm)
 来源: vLLM Blog | 时间: 2026/9/24 08:00:00
-
----
-
-### 📢 [Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning](https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/24 06:55:03
 
 ---
 
