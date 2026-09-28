@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/28 12:31:06
+🕒 最后自动更新时间：2026/9/28 21:19:30
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)
+来源: Hugging Face Blog | 时间: 2026/9/28 17:44:05
+
+---
+
+### 📢 [NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring](https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/28 17:36:02
+
+---
+
+### 📢 [Add Runtime Controls to AI Agents with NVIDIA OpenShell](https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/28 16:40:06
+
+---
+
 ### 📢 [How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency](https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/28 03:16:41
 
@@ -19,11 +34,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Ember-1 from Fireworks now available on AI Gateway](https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/9/27 08:00:00
-
----
-
-### 📢 [Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning](https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/26 23:25:12
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark)
 来源: Hugging Face Blog | 时间: 2026/9/24 22:08:57
-
----
-
-### 📢 [Watermarking in vLLM](https://vllm.ai/blog/2026-09-24-watermarking-in-vllm)
-来源: vLLM Blog | 时间: 2026/9/24 08:00:00
-
----
-
-### 📢 [From Research Project to Open Source Ecosystem: Bring Your Academic PyTorch Project to PyTorchCon NA](https://pytorch.org/blog/from-research-project-to-open-source-ecosystem-bring-your-academic-pytorch-project-to-pytorchcon-na/)
-来源: PyTorch Blog | 时间: 2026/9/24 04:18:34
 
 ---
 <!-- END_LIVE_FEEDS -->
