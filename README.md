@@ -5,25 +5,75 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/28 21:19:30
+🕒 最后自动更新时间：2026/9/29 05:08:31
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing Claude Sonnet 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/)
+来源: AWS ML Blog | 时间: 2026/9/29 02:57:13
+
+---
+
+### 📢 [NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring](https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/29 01:24:46
+
+---
+
+### 📢 [Efficient MoE Training for Biological Foundation Models](https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/29 01:00:03
+
+---
+
+### 📢 [Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1](https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/)
+来源: AWS ML Blog | 时间: 2026/9/29 00:15:46
+
+---
+
+### 📢 [Generate images and video with vLLM-Omni on SageMaker AI – Part 2](https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/)
+来源: AWS ML Blog | 时间: 2026/9/29 00:15:17
+
+---
+
+### 📢 [Implementing synthetic monitoring using Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/)
+来源: AWS ML Blog | 时间: 2026/9/28 23:56:32
+
+---
+
+### 📢 [Add Runtime Controls to AI Agents with NVIDIA OpenShell](https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/28 23:10:06
+
+---
+
+### 📢 [Building Production Agents with Jev and LangGraph](https://www.langchain.com/blog/building-prod-with-jev-and-langgraph)
+来源: LangChain Blog | 时间: 2026/9/28 19:45:35
+
+---
+
+### 📢 [New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more](https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories)
+来源: LangChain Blog | 时间: 2026/9/28 19:45:35
+
+---
+
+### 📢 [LangSmith Custom Apps: Build custom interfaces around your agent data](https://www.langchain.com/blog/langsmith-custom-apps)
+来源: LangChain Blog | 时间: 2026/9/28 19:45:35
+
+---
+
 ### 📢 [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)
 来源: Hugging Face Blog | 时间: 2026/9/28 17:44:05
 
 ---
 
-### 📢 [NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring](https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/28 17:36:02
+### 📢 [The Lenfest Institute grows landmark program with expanded OpenAI support](https://openai.com/index/lenfest-ai-collaborative-expansion)
+来源: OpenAI | 时间: 2026/9/28 15:00:00
 
 ---
 
-### 📢 [Add Runtime Controls to AI Agents with NVIDIA OpenShell](https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/28 16:40:06
+### 📢 [Claude Sonnet 5.5 now available on AI Gateway](https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/28 08:00:00
 
 ---
 
@@ -37,38 +87,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Building Production Agents with Jev and LangGraph](https://www.langchain.com/blog/building-prod-with-jev-and-langgraph)
-来源: LangChain Blog | 时间: 2026/9/26 04:19:50
-
----
-
-### 📢 [LangSmith Custom Apps: Build custom interfaces around your agent data](https://www.langchain.com/blog/langsmith-custom-apps)
-来源: LangChain Blog | 时间: 2026/9/26 03:04:31
-
----
-
 ### 📢 [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
 来源: OpenAI | 时间: 2026/9/26 03:00:00
-
----
-
-### 📢 [Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput](https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/)
-来源: AWS ML Blog | 时间: 2026/9/26 00:29:50
-
----
-
-### 📢 [Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/)
-来源: AWS ML Blog | 时间: 2026/9/26 00:18:07
-
----
-
-### 📢 [NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/26 00:15:22
-
----
-
-### 📢 [Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/9/26 00:09:46
 
 ---
 
@@ -77,18 +97,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more](https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories)
-来源: LangChain Blog | 时间: 2026/9/25 16:00:01
-
----
-
 ### 📢 [State of agent skills](https://vercel.com/blog/state-of-agent-skills)
 来源: Vercel AI SDK | 时间: 2026/9/25 14:00:00
-
----
-
-### 📢 [Pixel Canary is now available in stealth for free on AI Gateway](https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/25 08:00:00
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [New in LangSmith Engine: red teaming and automated testing](https://www.langchain.com/blog/langsmith-engine-v2-redteam)
 来源: LangChain Blog | 时间: 2026/9/25 01:22:02
-
----
-
-### 📢 [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)
-来源: Google DeepMind | 时间: 2026/9/25 00:20:39
-
----
-
-### 📢 [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark)
-来源: Hugging Face Blog | 时间: 2026/9/24 22:08:57
 
 ---
 <!-- END_LIVE_FEEDS -->
