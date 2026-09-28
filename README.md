@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/28 05:06:25
+🕒 最后自动更新时间：2026/9/28 12:31:06
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency](https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/28 03:16:41
+
+---
+
+### 📢 [Ember-1 from Fireworks now available on AI Gateway](https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/27 08:00:00
+
+---
+
 ### 📢 [Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning](https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/26 23:25:12
 
@@ -92,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [The Vercel Bug Bounty Program is now publicly available](https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available)
-来源: Vercel AI SDK | 时间: 2026/9/24 15:00:00
-
----
-
 ### 📢 [Watermarking in vLLM](https://vllm.ai/blog/2026-09-24-watermarking-in-vllm)
 来源: vLLM Blog | 时间: 2026/9/24 08:00:00
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [From Research Project to Open Source Ecosystem: Bring Your Academic PyTorch Project to PyTorchCon NA](https://pytorch.org/blog/from-research-project-to-open-source-ecosystem-bring-your-academic-pytorch-project-to-pytorchcon-na/)
 来源: PyTorch Blog | 时间: 2026/9/24 04:18:34
-
----
-
-### 📢 [Efficient MoE Training for Biological Foundation Models](https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/24 04:10:55
 
 ---
 <!-- END_LIVE_FEEDS -->
