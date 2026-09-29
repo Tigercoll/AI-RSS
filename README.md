@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/29 13:00:09
+🕒 最后自动更新时间：2026/9/29 20:25:57
 
 ---
 
@@ -18,6 +18,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia)
+来源: OpenAI | 时间: 2026/9/29 03:00:00
+
+---
+
+### 📢 [Towards safety cases for frontier AI training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training)
 来源: OpenAI | 时间: 2026/9/29 03:00:00
 
 ---
@@ -78,11 +83,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Are you a Codex Original?](https://openai.com/form/codex-originals)
-来源: OpenAI | 时间: 2026/9/28 08:00:00
-
----
-
-### 📢 [Basis completes a tax workbook 2x faster with GPT-6 Astra](https://openai.com/index/basis-tax-workbook-with-astra)
 来源: OpenAI | 时间: 2026/9/28 08:00:00
 
 ---
