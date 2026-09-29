@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/29 05:08:31
+🕒 最后自动更新时间：2026/9/29 13:00:09
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Grok 4.7 is now available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/9/29 06:13:16
+
+---
+
+### 📢 [How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia)
+来源: OpenAI | 时间: 2026/9/29 03:00:00
+
+---
+
 ### 📢 [Introducing Claude Sonnet 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/)
 来源: AWS ML Blog | 时间: 2026/9/29 02:57:13
 
@@ -34,11 +44,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Generate images and video with vLLM-Omni on SageMaker AI – Part 2](https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/)
 来源: AWS ML Blog | 时间: 2026/9/29 00:15:17
-
----
-
-### 📢 [Implementing synthetic monitoring using Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/)
-来源: AWS ML Blog | 时间: 2026/9/28 23:56:32
 
 ---
 
@@ -72,6 +77,21 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Are you a Codex Original?](https://openai.com/form/codex-originals)
+来源: OpenAI | 时间: 2026/9/28 08:00:00
+
+---
+
+### 📢 [Basis completes a tax workbook 2x faster with GPT-6 Astra](https://openai.com/index/basis-tax-workbook-with-astra)
+来源: OpenAI | 时间: 2026/9/28 08:00:00
+
+---
+
+### 📢 [Search domains without authentication](https://vercel.com/changelog/search-domains-without-authentication)
+来源: Vercel AI SDK | 时间: 2026/9/28 08:00:00
+
+---
+
 ### 📢 [Claude Sonnet 5.5 now available on AI Gateway](https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/9/28 08:00:00
 
@@ -87,28 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
-来源: OpenAI | 时间: 2026/9/26 03:00:00
-
----
-
 ### 📢 [Push images to Vercel Container Registry from GitHub Actions](https://vercel.com/changelog/vcr-login-github-action)
 来源: Vercel AI SDK | 时间: 2026/9/25 17:15:00
-
----
-
-### 📢 [State of agent skills](https://vercel.com/blog/state-of-agent-skills)
-来源: Vercel AI SDK | 时间: 2026/9/25 14:00:00
-
----
-
-### 📢 [Accelerate Your AI Journey with new Introduction Track at PyTorch Conference NA 2026 and PyTorch Associate Training](https://pytorch.org/blog/accelerate-your-ai-journey-with-new-introduction-track-at-pytorch-conference-na-2026-and-pytorch-associate-training/)
-来源: PyTorch Blog | 时间: 2026/9/25 05:06:09
-
----
-
-### 📢 [New in LangSmith Engine: red teaming and automated testing](https://www.langchain.com/blog/langsmith-engine-v2-redteam)
-来源: LangChain Blog | 时间: 2026/9/25 01:22:02
 
 ---
 <!-- END_LIVE_FEEDS -->
