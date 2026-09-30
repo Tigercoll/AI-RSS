@@ -5,13 +5,48 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/30 17:28:19
+🕒 最后自动更新时间：2026/10/1 01:48:51
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [A Ray-Focused Guide to PyTorch Conference North America](https://pytorch.org/blog/a-ray-focused-guide-to-pytorch-conference-north-america/)
+来源: PyTorch Blog | 时间: 2026/10/1 00:45:20
+
+---
+
+### 📢 [Query claims in natural language with Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/)
+来源: AWS ML Blog | 时间: 2026/9/30 23:37:15
+
+---
+
+### 📢 [Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances](https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/)
+来源: AWS ML Blog | 时间: 2026/9/30 23:21:57
+
+---
+
+### 📢 [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/)
+来源: Google DeepMind | 时间: 2026/9/30 23:03:07
+
+---
+
+### 📢 [From Upstream Changes to Downstream Confidence: Inside Torch Spyre’s Integration with PyTorch CRCR](https://pytorch.org/blog/from-upstream-changes-to-downstream-confidence-inside-torch-spyres-integration-with-pytorch-crcr/)
+来源: PyTorch Blog | 时间: 2026/9/30 21:40:56
+
+---
+
+### 📢 [Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)
+来源: OpenAI | 时间: 2026/9/30 18:30:00
+
+---
+
+### 📢 [Helping small businesses put AI to work](https://openai.com/index/helping-small-businesses-put-ai-to-work)
+来源: OpenAI | 时间: 2026/9/30 18:00:00
+
+---
+
 ### 📢 [Amazon Bedrock expands Claude model availability to in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/)
 来源: AWS ML Blog | 时间: 2026/9/30 09:13:14
 
@@ -19,6 +54,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore](https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/)
 来源: AWS ML Blog | 时间: 2026/9/30 09:13:12
+
+---
+
+### 📢 [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard)
+来源: Hugging Face Blog | 时间: 2026/9/30 08:00:00
 
 ---
 
@@ -32,8 +72,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/9/30 03:34:14
+### 📢 [Tracing Agent Harness Behavior with NVIDIA NeMo Relay](https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/)
+来源: NVIDIA Developer Blog | 时间: 2026/9/30 05:06:38
 
 ---
 
@@ -44,11 +84,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3](https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/30 02:56:05
-
----
-
-### 📢 [Prompt engineering fundamentals for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/9/30 00:27:57
 
 ---
 
@@ -74,41 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)
 来源: OpenAI | 时间: 2026/9/29 18:00:00
-
----
-
-### 📢 [Introducing dots](https://openai.com/index/introducing-dots)
-来源: OpenAI | 时间: 2026/9/29 08:00:00
-
----
-
-### 📢 [Ollama now supports Jev-style decision models](https://ollama.com/blog/ollama-now-supports-jev-style-decision-models)
-来源: Ollama Blog | 时间: 2026/9/29 08:00:00
-
----
-
-### 📢 [GPT-6.1 Sol now available on AI Gateway](https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/29 08:00:00
-
----
-
-### 📢 [Towards safety cases for frontier AI training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training)
-来源: OpenAI | 时间: 2026/9/29 03:00:00
-
----
-
-### 📢 [NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring](https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/29 01:24:46
-
----
-
-### 📢 [Add Runtime Controls to AI Agents with NVIDIA OpenShell](https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/28 23:10:06
-
----
-
-### 📢 [Building Production Agents with Jev and LangGraph](https://www.langchain.com/blog/building-prod-with-jev-and-langgraph)
-来源: LangChain Blog | 时间: 2026/9/28 19:45:35
 
 ---
 <!-- END_LIVE_FEEDS -->
