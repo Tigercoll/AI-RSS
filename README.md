@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/9/30 03:52:54
+🕒 最后自动更新时间：2026/9/30 08:10:03
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Jev is now available in LangSmith Evals](https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals)
+来源: LangChain Blog | 时间: 2026/9/30 07:06:28
+
+---
+
 ### 📢 [Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/9/30 03:34:14
 
@@ -57,12 +62,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)
+### 📢 [Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol)
 来源: OpenAI | 时间: 2026/9/29 18:00:00
 
 ---
 
-### 📢 [Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol)
+### 📢 [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)
 来源: OpenAI | 时间: 2026/9/29 18:00:00
 
 ---
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [LangSmith Custom Apps: Build custom interfaces around your agent data](https://www.langchain.com/blog/langsmith-custom-apps)
 来源: LangChain Blog | 时间: 2026/9/28 19:45:35
-
----
-
-### 📢 [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)
-来源: Hugging Face Blog | 时间: 2026/9/28 17:44:05
 
 ---
 <!-- END_LIVE_FEEDS -->
