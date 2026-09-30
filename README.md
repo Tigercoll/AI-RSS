@@ -5,13 +5,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/1 01:48:51
+🕒 最后自动更新时间：2026/10/1 06:01:34
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton](https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/1 05:19:27
+
+---
+
+### 📢 [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/)
+来源: Google DeepMind | 时间: 2026/10/1 04:01:45
+
+---
+
+### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
+来源: LangChain Blog | 时间: 2026/10/1 03:32:43
+
+---
+
+### 📢 [Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK](https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/1 03:13:08
+
+---
+
 ### 📢 [A Ray-Focused Guide to PyTorch Conference North America](https://pytorch.org/blog/a-ray-focused-guide-to-pytorch-conference-north-america/)
 来源: PyTorch Blog | 时间: 2026/10/1 00:45:20
 
@@ -62,6 +82,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Ling 3.1 Flash is now available on AI Gateway](https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/9/30 08:00:00
+
+---
+
 ### 📢 [Jev is now available in LangSmith Evals](https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals)
 来源: LangChain Blog | 时间: 2026/9/30 07:06:28
 
@@ -82,33 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3](https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/30 02:56:05
-
----
-
 ### 📢 [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](https://huggingface.co/blog/nvidia/kumo-tabular)
 来源: Hugging Face Blog | 时间: 2026/9/29 23:30:38
-
----
-
-### 📢 [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source)
-来源: Hugging Face Blog | 时间: 2026/9/29 21:07:00
-
----
-
-### 📢 [Search trace spans from the Vercel CLI](https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli)
-来源: Vercel AI SDK | 时间: 2026/9/29 21:00:00
-
----
-
-### 📢 [Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol)
-来源: OpenAI | 时间: 2026/9/29 18:00:00
-
----
-
-### 📢 [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)
-来源: OpenAI | 时间: 2026/9/29 18:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
