@@ -5,15 +5,25 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/1 06:01:34
+🕒 最后自动更新时间：2026/10/1 12:59:08
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Vercel Agent now installs private packages from npm and custom registries](https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries)
+来源: Vercel AI SDK | 时间: 2026/10/1 07:22:00
+
+---
+
 ### 📢 [Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton](https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/1 05:19:27
+
+---
+
+### 📢 [AI Gateway adds Browserbase Search and Fetch tools](https://vercel.com/changelog/ai-gateway-adds-browserbase-search-and-fetch-tools)
+来源: Vercel AI SDK | 时间: 2026/10/1 05:00:00
 
 ---
 
@@ -92,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Vercel Connect now accepts service submissions](https://vercel.com/changelog/vercel-connect-service-submissions)
-来源: Vercel AI SDK | 时间: 2026/9/30 06:00:00
-
----
-
 ### 📢 [Tracing Agent Harness Behavior with NVIDIA NeMo Relay](https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/30 05:06:38
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect](https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/)
 来源: NVIDIA Developer Blog | 时间: 2026/9/30 03:10:59
-
----
-
-### 📢 [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](https://huggingface.co/blog/nvidia/kumo-tabular)
-来源: Hugging Face Blog | 时间: 2026/9/29 23:30:38
 
 ---
 <!-- END_LIVE_FEEDS -->
