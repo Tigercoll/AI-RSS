@@ -5,30 +5,95 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/1 20:45:17
+🕒 最后自动更新时间：2026/10/2 04:12:59
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Serve live, governed data in AI-built apps with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/10/2 03:49:06
+
+---
+
+### 📢 [Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton](https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:31:14
+
+---
+
+### 📢 [Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages](https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:31:13
+
+---
+
+### 📢 [Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples](https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:31:12
+
+---
+
+### 📢 [Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills](https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:13:32
+
+---
+
+### 📢 [Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors](https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/)
+来源: AWS ML Blog | 时间: 2026/10/2 01:34:56
+
+---
+
+### 📢 [How to Build a Model Router in the Harness](https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness)
+来源: LangChain Blog | 时间: 2026/10/2 01:01:32
+
+---
+
+### 📢 [The eternal complement](https://openai.com/index/the-eternal-complement)
+来源: OpenAI | 时间: 2026/10/2 01:00:00
+
+---
+
+### 📢 [Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS](https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/)
+来源: AWS ML Blog | 时间: 2026/10/2 00:51:04
+
+---
+
+### 📢 [Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows](https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/)
+来源: AWS ML Blog | 时间: 2026/10/2 00:40:24
+
+---
+
+### 📢 [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail)
+来源: OpenAI | 时间: 2026/10/2 00:00:00
+
+---
+
+### 📢 [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://huggingface.co/blog/allenai/olmocore3)
+来源: Hugging Face Blog | 时间: 2026/10/1 23:01:43
+
+---
+
+### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
+来源: LangChain Blog | 时间: 2026/10/1 10:25:25
+
+---
+
 ### 📢 [Barclays Scales Claude](https://www.anthropic.com/news/barclays-scales-claude)
 来源: Anthropic News | 时间: 2026/10/1 08:00:00
 
 ---
 
+### 📢 [Laya decision model now available on AI Gateway, free through October 31](https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31)
+来源: Vercel AI SDK | 时间: 2026/10/1 08:00:00
+
+---
+
+### 📢 [Microsoft AI models are now available on AI Gateway](https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/10/1 08:00:00
+
+---
+
 ### 📢 [Vercel Agent now installs private packages from npm and custom registries](https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries)
 来源: Vercel AI SDK | 时间: 2026/10/1 07:22:00
-
----
-
-### 📢 [Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages](https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/1 05:26:04
-
----
-
-### 📢 [Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton](https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/1 05:19:27
 
 ---
 
@@ -42,73 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
-来源: LangChain Blog | 时间: 2026/10/1 03:32:43
-
----
-
-### 📢 [Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK](https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/1 03:13:08
-
----
-
 ### 📢 [A Ray-Focused Guide to PyTorch Conference North America](https://pytorch.org/blog/a-ray-focused-guide-to-pytorch-conference-north-america/)
 来源: PyTorch Blog | 时间: 2026/10/1 00:45:20
-
----
-
-### 📢 [Query claims in natural language with Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/)
-来源: AWS ML Blog | 时间: 2026/9/30 23:37:15
-
----
-
-### 📢 [Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances](https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/)
-来源: AWS ML Blog | 时间: 2026/9/30 23:21:57
-
----
-
-### 📢 [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/)
-来源: Google DeepMind | 时间: 2026/9/30 23:03:07
-
----
-
-### 📢 [From Upstream Changes to Downstream Confidence: Inside Torch Spyre’s Integration with PyTorch CRCR](https://pytorch.org/blog/from-upstream-changes-to-downstream-confidence-inside-torch-spyres-integration-with-pytorch-crcr/)
-来源: PyTorch Blog | 时间: 2026/9/30 21:40:56
-
----
-
-### 📢 [Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)
-来源: OpenAI | 时间: 2026/9/30 18:30:00
-
----
-
-### 📢 [Helping small businesses put AI to work](https://openai.com/index/helping-small-businesses-put-ai-to-work)
-来源: OpenAI | 时间: 2026/9/30 18:00:00
-
----
-
-### 📢 [Amazon Bedrock expands Claude model availability to in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/)
-来源: AWS ML Blog | 时间: 2026/9/30 09:13:14
-
----
-
-### 📢 [Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore](https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/)
-来源: AWS ML Blog | 时间: 2026/9/30 09:13:12
-
----
-
-### 📢 [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard)
-来源: Hugging Face Blog | 时间: 2026/9/30 08:00:00
-
----
-
-### 📢 [Ling 3.1 Flash is now available on AI Gateway](https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/9/30 08:00:00
-
----
-
-### 📢 [Jev is now available in LangSmith Evals](https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals)
-来源: LangChain Blog | 时间: 2026/9/30 07:06:28
 
 ---
 <!-- END_LIVE_FEEDS -->
