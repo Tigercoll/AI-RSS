@@ -5,15 +5,25 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/1 12:59:08
+🕒 最后自动更新时间：2026/10/1 20:45:17
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Barclays Scales Claude](https://www.anthropic.com/news/barclays-scales-claude)
+来源: Anthropic News | 时间: 2026/10/1 08:00:00
+
+---
+
 ### 📢 [Vercel Agent now installs private packages from npm and custom registries](https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries)
 来源: Vercel AI SDK | 时间: 2026/10/1 07:22:00
+
+---
+
+### 📢 [Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages](https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/1 05:26:04
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Jev is now available in LangSmith Evals](https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals)
 来源: LangChain Blog | 时间: 2026/9/30 07:06:28
-
----
-
-### 📢 [Tracing Agent Harness Behavior with NVIDIA NeMo Relay](https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/30 05:06:38
-
----
-
-### 📢 [AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect](https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/)
-来源: NVIDIA Developer Blog | 时间: 2026/9/30 03:10:59
 
 ---
 <!-- END_LIVE_FEEDS -->
