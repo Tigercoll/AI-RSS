@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/3 01:39:57
+🕒 最后自动更新时间：2026/10/3 05:59:10
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Building a High-Performance and Portable vLLM Linear Backend with Helion](https://pytorch.org/blog/building-a-high-performance-and-portable-vllm-linear-backend-with-helion/)
+来源: PyTorch Blog | 时间: 2026/10/3 03:55:07
+
+---
+
+### 📢 [New Pathway to PyTorch Certified Associate (PTCA) Certification](https://pytorch.org/blog/new-pathway-to-pytorch-certified-associate-ptca-certification/)
+来源: PyTorch Blog | 时间: 2026/10/3 03:33:47
+
+---
+
 ### 📢 [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
 来源: OpenAI | 时间: 2026/10/3 00:15:00
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail)
 来源: OpenAI | 时间: 2026/10/2 00:00:00
-
----
-
-### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
-来源: LangChain Blog | 时间: 2026/10/1 10:25:25
-
----
-
-### 📢 [Barclays Scales Claude](https://www.anthropic.com/news/barclays-scales-claude)
-来源: Anthropic News | 时间: 2026/10/1 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
