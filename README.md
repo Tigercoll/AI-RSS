@@ -5,15 +5,60 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/2 17:30:30
+🕒 最后自动更新时间：2026/10/3 01:39:57
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
+来源: OpenAI | 时间: 2026/10/3 00:15:00
+
+---
+
+### 📢 [Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern](https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/)
+来源: AWS ML Blog | 时间: 2026/10/2 23:48:26
+
+---
+
+### 📢 [Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/10/2 23:46:05
+
+---
+
+### 📢 [Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/)
+来源: AWS ML Blog | 时间: 2026/10/2 23:44:20
+
+---
+
+### 📢 [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief)
+来源: Hugging Face Blog | 时间: 2026/10/2 23:19:50
+
+---
+
+### 📢 [How to Build a Model Router in the Harness](https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness)
+来源: LangChain Blog | 时间: 2026/10/2 21:31:57
+
+---
+
 ### 📢 [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata)
 来源: Hugging Face Blog | 时间: 2026/10/2 12:01:31
+
+---
+
+### 📢 [How Rogo ships agent-written code to production in 5 minutes on Vercel](https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel)
+来源: Vercel AI SDK | 时间: 2026/10/2 12:00:00
+
+---
+
+### 📢 [Chatham scales its capital markets expertise with OpenAI](https://openai.com/index/chatham-financial)
+来源: OpenAI | 时间: 2026/10/2 08:00:00
+
+---
+
+### 📢 [Claude Frontier Academy](https://www.anthropic.com/news/claude-frontier-academy)
+来源: Anthropic News | 时间: 2026/10/2 08:00:00
 
 ---
 
@@ -24,11 +69,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/10/2 06:06:14
-
----
-
-### 📢 [Serve live, governed data in AI-built apps with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/10/2 03:49:06
 
 ---
 
@@ -52,23 +92,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors](https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/)
-来源: AWS ML Blog | 时间: 2026/10/2 01:34:56
-
----
-
-### 📢 [How to Build a Model Router in the Harness](https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness)
-来源: LangChain Blog | 时间: 2026/10/2 01:01:32
-
----
-
 ### 📢 [The eternal complement](https://openai.com/index/the-eternal-complement)
 来源: OpenAI | 时间: 2026/10/2 01:00:00
-
----
-
-### 📢 [Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS](https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/)
-来源: AWS ML Blog | 时间: 2026/10/2 00:51:04
 
 ---
 
@@ -77,38 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://huggingface.co/blog/allenai/olmocore3)
-来源: Hugging Face Blog | 时间: 2026/10/1 23:01:43
-
----
-
 ### 📢 [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev)
 来源: LangChain Blog | 时间: 2026/10/1 10:25:25
 
 ---
 
-### 📢 [The Den frees up 10-15 hours a week to grow with ChatGPT Work](https://openai.com/index/the-den-family-social)
-来源: OpenAI | 时间: 2026/10/1 08:00:00
-
----
-
 ### 📢 [Barclays Scales Claude](https://www.anthropic.com/news/barclays-scales-claude)
 来源: Anthropic News | 时间: 2026/10/1 08:00:00
-
----
-
-### 📢 [Laya decision model now available on AI Gateway, free through October 31](https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31)
-来源: Vercel AI SDK | 时间: 2026/10/1 08:00:00
-
----
-
-### 📢 [Microsoft AI models are now available on AI Gateway](https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/1 08:00:00
-
----
-
-### 📢 [Vercel Agent now installs private packages from npm and custom registries](https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries)
-来源: Vercel AI SDK | 时间: 2026/10/1 07:22:00
 
 ---
 <!-- END_LIVE_FEEDS -->
