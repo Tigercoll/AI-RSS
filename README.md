@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/4 04:47:39
+🕒 最后自动更新时间：2026/10/4 07:36:56
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox)
+来源: Hugging Face Blog | 时间: 2026/10/4 06:56:48
+
+---
+
 ### 📢 [Building a High-Performance and Portable vLLM Linear Backend with Helion](https://pytorch.org/blog/building-a-high-performance-and-portable-vllm-linear-backend-with-helion/)
 来源: PyTorch Blog | 时间: 2026/10/3 03:55:07
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [The eternal complement](https://openai.com/index/the-eternal-complement)
 来源: OpenAI | 时间: 2026/10/2 01:00:00
-
----
-
-### 📢 [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail)
-来源: OpenAI | 时间: 2026/10/2 00:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
