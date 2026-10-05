@@ -5,13 +5,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/5 22:02:36
+🕒 最后自动更新时间：2026/10/6 05:54:30
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Evolution of the PyTorch Media Processing Landscape](https://pytorch.org/blog/evolution-of-the-pytorch-media-processing-landscape/)
+来源: PyTorch Blog | 时间: 2026/10/6 04:45:50
+
+---
+
+### 📢 [Supercharge regulated workloads with Claude Code and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/10/6 01:25:20
+
+---
+
+### 📢 [New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent](https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/)
+来源: AWS ML Blog | 时间: 2026/10/6 01:23:19
+
+---
+
+### 📢 [Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion](https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/)
+来源: AWS ML Blog | 时间: 2026/10/5 23:56:28
+
+---
+
+### 📢 [Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/)
+来源: AWS ML Blog | 时间: 2026/10/5 23:53:56
+
+---
+
+### 📢 [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance)
+来源: OpenAI | 时间: 2026/10/5 23:00:00
+
+---
+
 ### 📢 [PyTorch Hardware Enablement: Updates from the Accelerator Integration Working Group](https://pytorch.org/blog/pytorch-hardware-enablement-updates-from-the-acceleration-integration-working-group/)
 来源: PyTorch Blog | 时间: 2026/10/5 21:12:59
 
@@ -39,21 +69,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
 来源: OpenAI | 时间: 2026/10/3 00:15:00
-
----
-
-### 📢 [Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern](https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/)
-来源: AWS ML Blog | 时间: 2026/10/2 23:48:26
-
----
-
-### 📢 [Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/10/2 23:46:05
-
----
-
-### 📢 [Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/10/2 23:44:20
 
 ---
 
@@ -87,16 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Optimizing Jagged Flash Attention with TLX: The Road Toward SOTA FA4 on Blackwell](https://pytorch.org/blog/optimizing-jagged-flash-attention-with-tlx-the-road-toward-sota-fa4-on-blackwell/)
-来源: PyTorch Blog | 时间: 2026/10/2 06:26:57
-
----
-
-### 📢 [Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/10/2 06:06:14
-
----
-
 ### 📢 [Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton](https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:31:14
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages](https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:31:13
-
----
-
-### 📢 [Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples](https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:31:12
 
 ---
 <!-- END_LIVE_FEEDS -->
