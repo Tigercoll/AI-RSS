@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/5 12:48:56
+🕒 最后自动更新时间：2026/10/5 22:02:36
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [PyTorch Hardware Enablement: Updates from the Accelerator Integration Working Group](https://pytorch.org/blog/pytorch-hardware-enablement-updates-from-the-acceleration-integration-working-group/)
+来源: PyTorch Blog | 时间: 2026/10/5 21:12:59
+
+---
+
+### 📢 [Building advertising for the way people use AI](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
+来源: OpenAI | 时间: 2026/10/5 18:00:00
+
+---
+
 ### 📢 [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox)
 来源: Hugging Face Blog | 时间: 2026/10/4 06:56:48
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples](https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:31:12
-
----
-
-### 📢 [Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills](https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:13:32
-
----
-
-### 📢 [The eternal complement](https://openai.com/index/the-eternal-complement)
-来源: OpenAI | 时间: 2026/10/2 01:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
