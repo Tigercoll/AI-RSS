@@ -5,40 +5,85 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/6 21:02:04
+🕒 最后自动更新时间：2026/10/7 04:05:34
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Building a context-aware AI assistant on AgentCore and OpenClaw](https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/)
+来源: AWS ML Blog | 时间: 2026/10/7 03:19:15
+
+---
+
+### 📢 [How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack](https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/7 03:07:06
+
+---
+
+### 📢 [AI Gateway adds confidence-based decision fallbacks](https://vercel.com/changelog/confidence-based-decision-fallbacks)
+来源: Vercel AI SDK | 时间: 2026/10/7 01:19:00
+
+---
+
+### 📢 [AICR v1.0: Open, stable, and verifiable GPU cluster configuration](https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/7 00:13:50
+
+---
+
+### 📢 [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership)
+来源: OpenAI | 时间: 2026/10/7 00:00:00
+
+---
+
+### 📢 [Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025](https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/)
+来源: AWS ML Blog | 时间: 2026/10/6 23:53:28
+
+---
+
+### 📢 [Best practices for Amazon SageMaker HyperPod administration and governance](https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/)
+来源: AWS ML Blog | 时间: 2026/10/6 23:50:23
+
+---
+
+### 📢 [Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio](https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/)
+来源: AWS ML Blog | 时间: 2026/10/6 23:47:02
+
+---
+
+### 📢 [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad)
+来源: OpenAI | 时间: 2026/10/6 18:00:00
+
+---
+
 ### 📢 [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati)
 来源: Hugging Face Blog | 时间: 2026/10/6 14:44:39
 
 ---
 
-### 📢 [Introducing GLM 5.3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/6 07:25:17
+### 📢 [Cyber Verification Program](https://www.anthropic.com/news/cyber-verification-program)
+来源: Anthropic News | 时间: 2026/10/6 08:00:00
+
+---
+
+### 📢 [Nano Banana 2.1 now available on AI Gateway](https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/10/6 08:00:00
+
+---
+
+### 📢 [Mistral Large 4 now available on AI Gateway](https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/10/6 08:00:00
+
+---
+
+### 📢 [Control How Your GPU Shares Work with Green Contexts](https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/6 05:44:07
 
 ---
 
 ### 📢 [Evolution of the PyTorch Media Processing Landscape](https://pytorch.org/blog/evolution-of-the-pytorch-media-processing-landscape/)
 来源: PyTorch Blog | 时间: 2026/10/6 04:45:50
-
----
-
-### 📢 [Supercharge regulated workloads with Claude Code and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/6 01:25:20
-
----
-
-### 📢 [New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent](https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/)
-来源: AWS ML Blog | 时间: 2026/10/6 01:23:19
-
----
-
-### 📢 [Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion](https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/)
-来源: AWS ML Blog | 时间: 2026/10/5 23:56:28
 
 ---
 
@@ -64,51 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Building a High-Performance and Portable vLLM Linear Backend with Helion](https://pytorch.org/blog/building-a-high-performance-and-portable-vllm-linear-backend-with-helion/)
 来源: PyTorch Blog | 时间: 2026/10/3 03:55:07
-
----
-
-### 📢 [New Pathway to PyTorch Certified Associate (PTCA) Certification](https://pytorch.org/blog/new-pathway-to-pytorch-certified-associate-ptca-certification/)
-来源: PyTorch Blog | 时间: 2026/10/3 03:33:47
-
----
-
-### 📢 [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
-来源: OpenAI | 时间: 2026/10/3 00:15:00
-
----
-
-### 📢 [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief)
-来源: Hugging Face Blog | 时间: 2026/10/2 23:19:50
-
----
-
-### 📢 [How to Build a Model Router in the Harness](https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness)
-来源: LangChain Blog | 时间: 2026/10/2 21:31:57
-
----
-
-### 📢 [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata)
-来源: Hugging Face Blog | 时间: 2026/10/2 12:01:31
-
----
-
-### 📢 [How Rogo ships agent-written code to production in 5 minutes on Vercel](https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel)
-来源: Vercel AI SDK | 时间: 2026/10/2 12:00:00
-
----
-
-### 📢 [Chatham scales its capital markets expertise with OpenAI](https://openai.com/index/chatham-financial)
-来源: OpenAI | 时间: 2026/10/2 08:00:00
-
----
-
-### 📢 [Claude Frontier Academy](https://www.anthropic.com/news/claude-frontier-academy)
-来源: Anthropic News | 时间: 2026/10/2 08:00:00
-
----
-
-### 📢 [Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton](https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:31:14
 
 ---
 <!-- END_LIVE_FEEDS -->
