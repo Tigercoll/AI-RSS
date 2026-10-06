@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/6 13:36:21
+🕒 最后自动更新时间：2026/10/6 21:02:04
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati)
+来源: Hugging Face Blog | 时间: 2026/10/6 14:44:39
+
+---
+
 ### 📢 [Introducing GLM 5.3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/10/6 07:25:17
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton](https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:31:14
-
----
-
-### 📢 [Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages](https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/2 02:31:13
 
 ---
 <!-- END_LIVE_FEEDS -->
