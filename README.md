@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/7 04:05:34
+🕒 最后自动更新时间：2026/10/7 08:29:47
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Modernizing Table Batched Embeddings with FBTriton](https://pytorch.org/blog/modernizing-table-batched-embeddings-with-fbtriton/)
+来源: PyTorch Blog | 时间: 2026/10/7 06:57:33
+
+---
+
+### 📢 [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)
+来源: Google DeepMind | 时间: 2026/10/7 03:57:04
+
+---
+
 ### 📢 [Building a context-aware AI assistant on AgentCore and OpenClaw](https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/)
 来源: AWS ML Blog | 时间: 2026/10/7 03:19:15
 
@@ -52,6 +62,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How Jump Trading is scaling quant research with ChatGPT](https://openai.com/index/jump-trading)
+来源: OpenAI | 时间: 2026/10/6 20:00:00
+
+---
+
+### 📢 [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics)
+来源: OpenAI | 时间: 2026/10/6 20:00:00
+
+---
+
 ### 📢 [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad)
 来源: OpenAI | 时间: 2026/10/6 18:00:00
 
@@ -87,28 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance)
-来源: OpenAI | 时间: 2026/10/5 23:00:00
-
----
-
 ### 📢 [PyTorch Hardware Enablement: Updates from the Accelerator Integration Working Group](https://pytorch.org/blog/pytorch-hardware-enablement-updates-from-the-acceleration-integration-working-group/)
 来源: PyTorch Blog | 时间: 2026/10/5 21:12:59
-
----
-
-### 📢 [Building advertising for the way people use AI](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
-来源: OpenAI | 时间: 2026/10/5 18:00:00
-
----
-
-### 📢 [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox)
-来源: Hugging Face Blog | 时间: 2026/10/4 06:56:48
-
----
-
-### 📢 [Building a High-Performance and Portable vLLM Linear Backend with Helion](https://pytorch.org/blog/building-a-high-performance-and-portable-vllm-linear-backend-with-helion/)
-来源: PyTorch Blog | 时间: 2026/10/3 03:55:07
 
 ---
 <!-- END_LIVE_FEEDS -->
