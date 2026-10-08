@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/8 02:40:29
+🕒 最后自动更新时间：2026/10/8 08:50:19
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/)
+来源: AWS ML Blog | 时间: 2026/10/8 02:52:10
+
+---
+
 ### 📢 [Rethinking access control for RAG with Amazon Quick and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/10/8 02:34:44
 
@@ -19,11 +24,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [The Machines that Make the Machines](https://developer.nvidia.com/blog/the-machines-that-make-the-machines/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/8 02:21:08
-
----
-
-### 📢 [What's New in Managed Deep Agents: schedules, per-run configuration, and Slack reactions](https://www.langchain.com/blog/managed-deep-agents-schedules-per-run-configuration-slack)
-来源: LangChain Blog | 时间: 2026/10/8 02:09:51
 
 ---
 
@@ -39,11 +39,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Qlik built grounded, enterprise-scale AI with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/10/7 23:48:46
-
----
-
-### 📢 [Automate remediation post AWS DevOps Agent investigation](https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/)
-来源: AWS ML Blog | 时间: 2026/10/7 23:46:49
 
 ---
 
@@ -74,6 +69,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [GPT-6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone)
 来源: OpenAI | 时间: 2026/10/7 08:00:00
+
+---
+
+### 📢 [DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0](https://vllm.ai/blog/2026-10-07-deepseek-v41-flash)
+来源: vLLM Blog | 时间: 2026/10/7 08:00:00
 
 ---
 
