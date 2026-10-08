@@ -5,15 +5,30 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/8 08:50:19
+🕒 最后自动更新时间：2026/10/8 18:13:28
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing LangSmith Fine-Tuning](https://www.langchain.com/blog/langsmith-fine-tuning)
+来源: LangChain Blog | 时间: 2026/10/8 10:57:12
+
+---
+
+### 📢 [Managed Deep Agents delivers a better user experience for agents in production](https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new)
+来源: LangChain Blog | 时间: 2026/10/8 10:56:17
+
+---
+
 ### 📢 [Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/)
 来源: AWS ML Blog | 时间: 2026/10/8 02:52:10
+
+---
+
+### 📢 [Revamping Skills in Deep Agents](https://www.langchain.com/blog/revamping-skills-in-deep-agents)
+来源: LangChain Blog | 时间: 2026/10/8 02:49:50
 
 ---
 
@@ -24,6 +39,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [The Machines that Make the Machines](https://developer.nvidia.com/blog/the-machines-that-make-the-machines/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/8 02:21:08
+
+---
+
+### 📢 [What's New in Managed Deep Agents: schedules, per-run configuration, and Slack reactions](https://www.langchain.com/blog/managed-deep-agents-schedules-per-run-configuration-slack)
+来源: LangChain Blog | 时间: 2026/10/8 02:09:51
 
 ---
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Glyph Cluster is now available in stealth for free on AI Gateway](https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/10/7 08:00:00
-
----
-
-### 📢 [Timestamp attributes are now supported in Vercel Flags](https://vercel.com/changelog/timestamp-attributes-are-now-supported-in-vercel-flags)
-来源: Vercel AI SDK | 时间: 2026/10/7 08:00:00
-
----
-
-### 📢 [Modernizing Table Batched Embeddings with FBTriton](https://pytorch.org/blog/modernizing-table-batched-embeddings-with-fbtriton/)
-来源: PyTorch Blog | 时间: 2026/10/7 06:57:33
-
----
-
-### 📢 [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)
-来源: Google DeepMind | 时间: 2026/10/7 03:57:04
-
----
-
-### 📢 [How Jump Trading is scaling quant research with ChatGPT](https://openai.com/index/jump-trading)
-来源: OpenAI | 时间: 2026/10/6 20:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
