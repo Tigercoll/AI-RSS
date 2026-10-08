@@ -5,13 +5,58 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/8 18:13:28
+🕒 最后自动更新时间：2026/10/9 02:38:52
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/)
+来源: AWS ML Blog | 时间: 2026/10/9 02:33:29
+
+---
+
+### 📢 [Building Reliable Data Analytics Agents: Lessons from the KDD Cup](https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/9 02:30:07
+
+---
+
+### 📢 [Session-Aware Agentic Inference with NVIDIA Dynamo](https://pytorch.org/blog/session-aware-agentic-inference-with-nvidia-dynamo/)
+来源: PyTorch Blog | 时间: 2026/10/9 02:13:46
+
+---
+
+### 📢 [Agents that can pay: building Restock with Stripe's Link and Managed Deep Agents](https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link)
+来源: LangChain Blog | 时间: 2026/10/9 00:21:08
+
+---
+
+### 📢 [Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/)
+来源: AWS ML Blog | 时间: 2026/10/9 00:20:04
+
+---
+
+### 📢 [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle)
+来源: OpenAI | 时间: 2026/10/9 00:00:00
+
+---
+
+### 📢 [Building Spyre as a Native PyTorch Device](https://pytorch.org/blog/building-spyre-as-a-native-pytorch-device/)
+来源: PyTorch Blog | 时间: 2026/10/8 20:45:49
+
+---
+
+### 📢 [Pollo AI turns creative ideas into campaigns with OpenAI](https://openai.com/index/pollo-ai)
+来源: OpenAI | 时间: 2026/10/8 20:00:00
+
+---
+
+### 📢 [Vercel Sandbox creation now returns a ready sandbox](https://vercel.com/changelog/sandbox-create-waits-until-ready)
+来源: Vercel AI SDK | 时间: 2026/10/8 14:00:00
+
+---
+
 ### 📢 [Introducing LangSmith Fine-Tuning](https://www.langchain.com/blog/langsmith-fine-tuning)
 来源: LangChain Blog | 时间: 2026/10/8 10:57:12
 
@@ -19,6 +64,31 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Managed Deep Agents delivers a better user experience for agents in production](https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new)
 来源: LangChain Blog | 时间: 2026/10/8 10:56:17
+
+---
+
+### 📢 [Disrupting AI-enabled “false front” operations](https://openai.com/index/disrupting-ai-enabled-false-front-operations)
+来源: OpenAI | 时间: 2026/10/8 08:00:00
+
+---
+
+### 📢 [2026 Usage Policy Update](https://www.anthropic.com/news/2026-usage-policy-update)
+来源: Anthropic News | 时间: 2026/10/8 08:00:00
+
+---
+
+### 📢 [Genesis Mission Commitment](https://www.anthropic.com/news/genesis-mission-commitment)
+来源: Anthropic News | 时间: 2026/10/8 08:00:00
+
+---
+
+### 📢 [Step 5 Preview now available on AI Gateway](https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/10/8 08:00:00
+
+---
+
+### 📢 [FLUX 3 Image now available on AI Gateway](https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/10/8 08:00:00
 
 ---
 
@@ -39,76 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [The Machines that Make the Machines](https://developer.nvidia.com/blog/the-machines-that-make-the-machines/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/8 02:21:08
-
----
-
-### 📢 [What's New in Managed Deep Agents: schedules, per-run configuration, and Slack reactions](https://www.langchain.com/blog/managed-deep-agents-schedules-per-run-configuration-slack)
-来源: LangChain Blog | 时间: 2026/10/8 02:09:51
-
----
-
-### 📢 [Multimodal open d1 decision models for the edge](https://huggingface.co/blog/LiquidAI/open-d1)
-来源: Hugging Face Blog | 时间: 2026/10/8 00:54:33
-
----
-
-### 📢 [Beyond hours saved: Building the business case for agentic automation](https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/)
-来源: AWS ML Blog | 时间: 2026/10/7 23:50:00
-
----
-
-### 📢 [How Qlik built grounded, enterprise-scale AI with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/7 23:48:46
-
----
-
-### 📢 [Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt](https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/7 23:42:42
-
----
-
-### 📢 [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026)
-来源: Hugging Face Blog | 时间: 2026/10/7 20:45:31
-
----
-
-### 📢 [Helping teens learn, plan, and shape the future of AI](https://openai.com/index/teens-learn-and-plan)
-来源: OpenAI | 时间: 2026/10/7 20:00:00
-
----
-
-### 📢 [Radisson Hotel Group brings hotel discovery into ChatGPT](https://openai.com/index/radisson)
-来源: OpenAI | 时间: 2026/10/7 15:00:00
-
----
-
-### 📢 [Faster Scientific Image Analysis with NVIDIA cuPhoton](https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/7 08:12:47
-
----
-
-### 📢 [GPT-6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone)
-来源: OpenAI | 时间: 2026/10/7 08:00:00
-
----
-
-### 📢 [DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0](https://vllm.ai/blog/2026-10-07-deepseek-v41-flash)
-来源: vLLM Blog | 时间: 2026/10/7 08:00:00
-
----
-
-### 📢 [OpenAI Decisions API now available on AI Gateway](https://vercel.com/changelog/openai-decisions-api-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/7 08:00:00
-
----
-
-### 📢 [Claude Haiku 5.5 now available on AI Gateway](https://vercel.com/changelog/claude-haiku-5-5-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/7 08:00:00
-
----
-
-### 📢 [Glyph Cluster is now available in stealth for free on AI Gateway](https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/7 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
