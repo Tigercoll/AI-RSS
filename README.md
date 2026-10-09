@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/9 02:38:52
+🕒 最后自动更新时间：2026/10/9 09:03:47
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How Snyk Turned an Internal Support Agent into a Customer Feature](https://www.langchain.com/blog/how-snyk-turned-an-internal-support-agent-into-a-customer-feature)
+来源: LangChain Blog | 时间: 2026/10/9 08:43:34
+
+---
+
+### 📢 [5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/9 04:57:59
+
+---
+
 ### 📢 [Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/)
 来源: AWS ML Blog | 时间: 2026/10/9 02:33:29
 
@@ -28,7 +38,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Agents that can pay: building Restock with Stripe's Link and Managed Deep Agents](https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link)
-来源: LangChain Blog | 时间: 2026/10/9 00:21:08
+来源: LangChain Blog | 时间: 2026/10/9 01:37:00
 
 ---
 
@@ -52,18 +62,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Vercel Sandbox creation now returns a ready sandbox](https://vercel.com/changelog/sandbox-create-waits-until-ready)
-来源: Vercel AI SDK | 时间: 2026/10/8 14:00:00
+### 📢 [LegalOn halves Codex costs while maintaining development speed](https://openai.com/index/legalon-halves-codex-costs)
+来源: OpenAI | 时间: 2026/10/8 20:00:00
+
+---
+
+### 📢 [Revamping Skills in Deep Agents](https://www.langchain.com/blog/revamping-skills-in-deep-agents)
+来源: LangChain Blog | 时间: 2026/10/8 19:05:30
 
 ---
 
 ### 📢 [Introducing LangSmith Fine-Tuning](https://www.langchain.com/blog/langsmith-fine-tuning)
-来源: LangChain Blog | 时间: 2026/10/8 10:57:12
+来源: LangChain Blog | 时间: 2026/10/8 19:05:30
 
 ---
 
-### 📢 [Managed Deep Agents delivers a better user experience for agents in production](https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new)
-来源: LangChain Blog | 时间: 2026/10/8 10:56:17
+### 📢 [Vercel Sandbox creation now returns a ready sandbox](https://vercel.com/changelog/sandbox-create-waits-until-ready)
+来源: Vercel AI SDK | 时间: 2026/10/8 14:00:00
 
 ---
 
@@ -82,33 +97,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Step 5 Preview now available on AI Gateway](https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway)
+### 📢 [Anthropic Cyber Mission](https://www.anthropic.com/news/anthropic-cyber-mission)
+来源: Anthropic News | 时间: 2026/10/8 08:00:00
+
+---
+
+### 📢 [The model that didn't exist, so you made it yourself](https://huggingface.co/blog/building-with-ml-intern)
+来源: Hugging Face Blog | 时间: 2026/10/8 08:00:00
+
+---
+
+### 📢 [Grok Imagine Video 1.5 Lite on AI Gateway](https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/10/8 08:00:00
-
----
-
-### 📢 [FLUX 3 Image now available on AI Gateway](https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/8 08:00:00
-
----
-
-### 📢 [Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/)
-来源: AWS ML Blog | 时间: 2026/10/8 02:52:10
-
----
-
-### 📢 [Revamping Skills in Deep Agents](https://www.langchain.com/blog/revamping-skills-in-deep-agents)
-来源: LangChain Blog | 时间: 2026/10/8 02:49:50
-
----
-
-### 📢 [Rethinking access control for RAG with Amazon Quick and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/8 02:34:44
-
----
-
-### 📢 [The Machines that Make the Machines](https://developer.nvidia.com/blog/the-machines-that-make-the-machines/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/8 02:21:08
 
 ---
 <!-- END_LIVE_FEEDS -->
