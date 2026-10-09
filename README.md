@@ -5,13 +5,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/9 18:15:17
+🕒 最后自动更新时间：2026/10/10 02:09:47
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How to Build a Model Router in the Harness](https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness)
+来源: LangChain Blog | 时间: 2026/10/10 01:19:13
+
+---
+
+### 📢 [How to build great out-of-the-box user experiences with Managed Deep Agents](https://www.langchain.com/blog/slack-sdk-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/10/10 00:52:14
+
+---
+
+### 📢 [ICYMI: What landed for AI builders in September 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/)
+来源: AWS ML Blog | 时间: 2026/10/9 23:38:39
+
+---
+
+### 📢 [How Postman runs Agent Mode for 40 million developers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/10/9 23:35:02
+
+---
+
+### 📢 [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling)
+来源: Hugging Face Blog | 时间: 2026/10/9 23:20:29
+
+---
+
 ### 📢 [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
 来源: OpenAI | 时间: 2026/10/9 15:00:00
 
@@ -72,16 +97,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Revamping Skills in Deep Agents](https://www.langchain.com/blog/revamping-skills-in-deep-agents)
-来源: LangChain Blog | 时间: 2026/10/8 19:05:30
-
----
-
-### 📢 [Introducing LangSmith Fine-Tuning](https://www.langchain.com/blog/langsmith-fine-tuning)
-来源: LangChain Blog | 时间: 2026/10/8 19:05:30
-
----
-
 ### 📢 [Vercel Sandbox creation now returns a ready sandbox](https://vercel.com/changelog/sandbox-create-waits-until-ready)
 来源: Vercel AI SDK | 时间: 2026/10/8 14:00:00
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Genesis Mission Commitment](https://www.anthropic.com/news/genesis-mission-commitment)
 来源: Anthropic News | 时间: 2026/10/8 08:00:00
-
----
-
-### 📢 [Anthropic Cyber Mission](https://www.anthropic.com/news/anthropic-cyber-mission)
-来源: Anthropic News | 时间: 2026/10/8 08:00:00
-
----
-
-### 📢 [The model that didn't exist, so you made it yourself](https://huggingface.co/blog/building-with-ml-intern)
-来源: Hugging Face Blog | 时间: 2026/10/8 08:00:00
-
----
-
-### 📢 [Grok Imagine Video 1.5 Lite on AI Gateway](https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/8 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
