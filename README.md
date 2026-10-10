@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/10 08:35:58
+🕒 最后自动更新时间：2026/10/10 17:35:50
 
 ---
 
@@ -72,6 +72,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [vLLM Support for NVIDIA Vera Rubin NVL72: 7.8x Throughput over GB200 NVL72](https://vllm.ai/blog/2026-10-09-vera-rubin-preview)
+来源: vLLM Blog | 时间: 2026/10/9 08:00:00
+
+---
+
 ### 📢 [5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/9 04:57:59
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle)
 来源: OpenAI | 时间: 2026/10/9 00:00:00
-
----
-
-### 📢 [Building Spyre as a Native PyTorch Device](https://pytorch.org/blog/building-spyre-as-a-native-pytorch-device/)
-来源: PyTorch Blog | 时间: 2026/10/8 20:45:49
 
 ---
 <!-- END_LIVE_FEEDS -->
