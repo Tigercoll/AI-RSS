@@ -5,20 +5,35 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/10 02:09:47
+🕒 最后自动更新时间：2026/10/10 08:35:58
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [How to Build a Model Router in the Harness](https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness)
-来源: LangChain Blog | 时间: 2026/10/10 01:19:13
+### 📢 [Agents can now buy domains with the Vercel CLI](https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli)
+来源: Vercel AI SDK | 时间: 2026/10/10 04:24:00
 
 ---
 
 ### 📢 [How to build great out-of-the-box user experiences with Managed Deep Agents](https://www.langchain.com/blog/slack-sdk-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/10/10 00:52:14
+来源: LangChain Blog | 时间: 2026/10/10 03:34:01
+
+---
+
+### 📢 [How to Build a Model Router in the Harness](https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness)
+来源: LangChain Blog | 时间: 2026/10/10 03:34:01
+
+---
+
+### 📢 [New Pro teams now default to 30-day deployment retention](https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention)
+来源: Vercel AI SDK | 时间: 2026/10/10 02:00:00
+
+---
+
+### 📢 [Deployment Storage billing begins for existing Pro teams](https://vercel.com/changelog/deployment-storage-pricing-expands-to-existing-teams)
+来源: Vercel AI SDK | 时间: 2026/10/10 02:00:00
 
 ---
 
@@ -37,13 +52,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How Snyk Turned an Internal Support Agent into a Customer Feature](https://www.langchain.com/blog/how-snyk-turned-an-internal-support-agent-into-a-customer-feature)
+来源: LangChain Blog | 时间: 2026/10/9 18:29:19
+
+---
+
 ### 📢 [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
 来源: OpenAI | 时间: 2026/10/9 15:00:00
 
 ---
 
-### 📢 [How Snyk Turned an Internal Support Agent into a Customer Feature](https://www.langchain.com/blog/how-snyk-turned-an-internal-support-agent-into-a-customer-feature)
-来源: LangChain Blog | 时间: 2026/10/9 08:43:34
+### 📢 [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent)
+来源: OpenAI | 时间: 2026/10/9 15:00:00
+
+---
+
+### 📢 [How Rillet ships 3× faster with AI agents on Vercel](https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel)
+来源: Vercel AI SDK | 时间: 2026/10/9 12:00:00
 
 ---
 
@@ -84,31 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Building Spyre as a Native PyTorch Device](https://pytorch.org/blog/building-spyre-as-a-native-pytorch-device/)
 来源: PyTorch Blog | 时间: 2026/10/8 20:45:49
-
----
-
-### 📢 [Pollo AI turns creative ideas into campaigns with OpenAI](https://openai.com/index/pollo-ai)
-来源: OpenAI | 时间: 2026/10/8 20:00:00
-
----
-
-### 📢 [LegalOn halves Codex costs while maintaining development speed](https://openai.com/index/legalon-halves-codex-costs)
-来源: OpenAI | 时间: 2026/10/8 20:00:00
-
----
-
-### 📢 [Vercel Sandbox creation now returns a ready sandbox](https://vercel.com/changelog/sandbox-create-waits-until-ready)
-来源: Vercel AI SDK | 时间: 2026/10/8 14:00:00
-
----
-
-### 📢 [2026 Usage Policy Update](https://www.anthropic.com/news/2026-usage-policy-update)
-来源: Anthropic News | 时间: 2026/10/8 08:00:00
-
----
-
-### 📢 [Genesis Mission Commitment](https://www.anthropic.com/news/genesis-mission-commitment)
-来源: Anthropic News | 时间: 2026/10/8 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
