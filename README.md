@@ -5,13 +5,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/12 18:28:15
+🕒 最后自动更新时间：2026/10/13 05:05:27
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/)
+来源: AWS ML Blog | 时间: 2026/10/13 01:52:22
+
+---
+
+### 📢 [ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding](https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/13 00:20:48
+
+---
+
+### 📢 [Deploy decision models with llama.cpp on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/)
+来源: AWS ML Blog | 时间: 2026/10/12 23:51:46
+
+---
+
+### 📢 [Run multi-node inference workloads using Ray LLM Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/)
+来源: AWS ML Blog | 时间: 2026/10/12 23:50:14
+
+---
+
+### 📢 [Improve TTFT for Multi-Turn Agentic Workloads with Bi-Directional KV Transfer in vLLM](https://vllm.ai/blog/2026-10-12-bidirectional-kvxfer-multiturn-agentic-workload)
+来源: vLLM Blog | 时间: 2026/10/12 08:00:00
+
+---
+
+### 📢 [Muse Wonder now available on AI Gateway](https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/10/12 08:00:00
+
+---
+
 ### 📢 [Agents can now buy domains with the Vercel CLI](https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli)
 来源: Vercel AI SDK | 时间: 2026/10/10 04:24:00
 
@@ -42,11 +72,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How Postman runs Agent Mode for 40 million developers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/9 23:35:02
-
----
-
 ### 📢 [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling)
 来源: Hugging Face Blog | 时间: 2026/10/9 23:20:29
 
@@ -67,11 +92,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How Rillet ships 3× faster with AI agents on Vercel](https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel)
-来源: Vercel AI SDK | 时间: 2026/10/9 12:00:00
-
----
-
 ### 📢 [vLLM Support for NVIDIA Vera Rubin NVL72: 7.8x Throughput over GB200 NVL72](https://vllm.ai/blog/2026-10-09-vera-rubin-preview)
 来源: vLLM Blog | 时间: 2026/10/9 08:00:00
 
@@ -82,11 +102,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/)
-来源: AWS ML Blog | 时间: 2026/10/9 02:33:29
-
----
-
 ### 📢 [Building Reliable Data Analytics Agents: Lessons from the KDD Cup](https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/9 02:30:07
 
@@ -94,21 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Session-Aware Agentic Inference with NVIDIA Dynamo](https://pytorch.org/blog/session-aware-agentic-inference-with-nvidia-dynamo/)
 来源: PyTorch Blog | 时间: 2026/10/9 02:13:46
-
----
-
-### 📢 [Agents that can pay: building Restock with Stripe's Link and Managed Deep Agents](https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link)
-来源: LangChain Blog | 时间: 2026/10/9 01:37:00
-
----
-
-### 📢 [Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/)
-来源: AWS ML Blog | 时间: 2026/10/9 00:20:04
-
----
-
-### 📢 [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle)
-来源: OpenAI | 时间: 2026/10/9 00:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
