@@ -5,30 +5,80 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/13 14:07:52
+🕒 最后自动更新时间：2026/10/14 00:48:10
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/)
-来源: AWS ML Blog | 时间: 2026/10/13 01:52:22
+### 📢 [Open Models have crossed a threshold](https://www.langchain.com/blog/open-models-have-crossed-a-threshold)
+来源: LangChain Blog | 时间: 2026/10/14 00:11:23
+
+---
+
+### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
+来源: LangChain Blog | 时间: 2026/10/14 00:11:23
+
+---
+
+### 📢 [How We Made Our Docs Test Themselves](https://www.langchain.com/blog/our-docs-test-themselves)
+来源: LangChain Blog | 时间: 2026/10/14 00:08:04
+
+---
+
+### 📢 [Open SWE: An Open-Source Framework for Internal Coding Agents](https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents)
+来源: LangChain Blog | 时间: 2026/10/14 00:06:43
+
+---
+
+### 📢 [Natural language security queries at Orca Security using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/10/14 00:03:31
+
+---
+
+### 📢 [Gemini 4 Argon for Robotics- Google Developers Blog](https://deepmind.google/blog/gemini-4-argon-for-robotics/)
+来源: Google DeepMind | 时间: 2026/10/14 00:01:58
+
+---
+
+### 📢 [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/)
+来源: Google DeepMind | 时间: 2026/10/14 00:01:52
+
+---
+
+### 📢 [How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/10/13 23:54:49
+
+---
+
+### 📢 [Build long-horizon agents with Grok 4.7 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/10/13 23:52:20
+
+---
+
+### 📢 [Mixture-of-Experts kernel engineering on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/)
+来源: AWS ML Blog | 时间: 2026/10/13 23:17:09
+
+---
+
+### 📢 [NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform](https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/13 22:58:00
+
+---
+
+### 📢 [Extending Inductor for the IBM Spyre Accelerator](https://pytorch.org/blog/extending-inductor-for-the-ibm-spyre-accelerator/)
+来源: PyTorch Blog | 时间: 2026/10/13 20:45:30
+
+---
+
+### 📢 [Gemini 4 Argon now available on AI Gateway](https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/10/13 08:00:00
 
 ---
 
 ### 📢 [ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding](https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/13 00:20:48
-
----
-
-### 📢 [Deploy decision models with llama.cpp on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/10/12 23:51:46
-
----
-
-### 📢 [Run multi-node inference workloads using Ray LLM Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/)
-来源: AWS ML Blog | 时间: 2026/10/12 23:50:14
 
 ---
 
@@ -47,28 +97,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How to build great out-of-the-box user experiences with Managed Deep Agents](https://www.langchain.com/blog/slack-sdk-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/10/10 03:34:01
-
----
-
-### 📢 [How to Build a Model Router in the Harness](https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness)
-来源: LangChain Blog | 时间: 2026/10/10 03:34:01
-
----
-
 ### 📢 [New Pro teams now default to 30-day deployment retention](https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention)
 来源: Vercel AI SDK | 时间: 2026/10/10 02:00:00
-
----
-
-### 📢 [Deployment Storage billing begins for existing Pro teams](https://vercel.com/changelog/deployment-storage-pricing-expands-to-existing-teams)
-来源: Vercel AI SDK | 时间: 2026/10/10 02:00:00
-
----
-
-### 📢 [ICYMI: What landed for AI builders in September 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/)
-来源: AWS ML Blog | 时间: 2026/10/9 23:38:39
 
 ---
 
@@ -77,38 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How Snyk Turned an Internal Support Agent into a Customer Feature](https://www.langchain.com/blog/how-snyk-turned-an-internal-support-agent-into-a-customer-feature)
-来源: LangChain Blog | 时间: 2026/10/9 18:29:19
-
----
-
 ### 📢 [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
 来源: OpenAI | 时间: 2026/10/9 15:00:00
-
----
-
-### 📢 [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent)
-来源: OpenAI | 时间: 2026/10/9 15:00:00
-
----
-
-### 📢 [vLLM Support for NVIDIA Vera Rubin NVL72: 7.8x Throughput over GB200 NVL72](https://vllm.ai/blog/2026-10-09-vera-rubin-preview)
-来源: vLLM Blog | 时间: 2026/10/9 08:00:00
-
----
-
-### 📢 [5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/9 04:57:59
-
----
-
-### 📢 [Building Reliable Data Analytics Agents: Lessons from the KDD Cup](https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/9 02:30:07
-
----
-
-### 📢 [Session-Aware Agentic Inference with NVIDIA Dynamo](https://pytorch.org/blog/session-aware-agentic-inference-with-nvidia-dynamo/)
-来源: PyTorch Blog | 时间: 2026/10/9 02:13:46
 
 ---
 <!-- END_LIVE_FEEDS -->
