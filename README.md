@@ -5,30 +5,60 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/14 00:48:10
+🕒 最后自动更新时间：2026/10/14 06:26:25
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Open Models have crossed a threshold](https://www.langchain.com/blog/open-models-have-crossed-a-threshold)
-来源: LangChain Blog | 时间: 2026/10/14 00:11:23
+### 📢 [NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform](https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/14 05:46:33
+
+---
+
+### 📢 [How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents](https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/14 05:33:24
+
+---
+
+### 📢 [Building agents that transact with Anchor Browser and AgentCore payments](https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/)
+来源: AWS ML Blog | 时间: 2026/10/14 04:10:33
+
+---
+
+### 📢 [How Orange Business Built Live Intelligence with LangChain and LangSmith](https://www.langchain.com/blog/how-orange-business-built-live-intelligence-on-langchain-and-langsmith)
+来源: LangChain Blog | 时间: 2026/10/14 03:56:07
 
 ---
 
 ### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
-来源: LangChain Blog | 时间: 2026/10/14 00:11:23
+来源: LangChain Blog | 时间: 2026/10/14 03:56:07
 
 ---
 
 ### 📢 [How We Made Our Docs Test Themselves](https://www.langchain.com/blog/our-docs-test-themselves)
-来源: LangChain Blog | 时间: 2026/10/14 00:08:04
+来源: LangChain Blog | 时间: 2026/10/14 03:56:07
 
 ---
 
-### 📢 [Open SWE: An Open-Source Framework for Internal Coding Agents](https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents)
-来源: LangChain Blog | 时间: 2026/10/14 00:06:43
+### 📢 [Deep Agents Deploy: an open alternative to Claude Managed Agents](https://www.langchain.com/blog/deep-agents-deploy-an-open-alternative-to-claude-managed-agents)
+来源: LangChain Blog | 时间: 2026/10/14 03:56:07
+
+---
+
+### 📢 [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)
+来源: Google DeepMind | 时间: 2026/10/14 03:43:07
+
+---
+
+### 📢 [Manage private pricing offers for Amazon Bedrock with managed entitlements](https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/)
+来源: AWS ML Blog | 时间: 2026/10/14 01:17:25
+
+---
+
+### 📢 [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
+来源: Hugging Face Blog | 时间: 2026/10/14 01:05:48
 
 ---
 
@@ -52,23 +82,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Build long-horizon agents with Grok 4.7 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/13 23:52:20
-
----
-
-### 📢 [Mixture-of-Experts kernel engineering on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/10/13 23:17:09
-
----
-
-### 📢 [NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform](https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/13 22:58:00
-
----
-
 ### 📢 [Extending Inductor for the IBM Spyre Accelerator](https://pytorch.org/blog/extending-inductor-for-the-ibm-spyre-accelerator/)
 来源: PyTorch Blog | 时间: 2026/10/13 20:45:30
+
+---
+
+### 📢 [Higgsfield takes AI video from 1 minute to over 10](https://openai.com/index/higgsfield-longer-videos-voice)
+来源: OpenAI | 时间: 2026/10/13 20:00:00
+
+---
+
+### 📢 [Run AI agents safely with Ollama and Fly.io](https://ollama.com/blog/fly-io-sprites)
+来源: Ollama Blog | 时间: 2026/10/13 08:00:00
+
+---
+
+### 📢 [MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway](https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/10/13 08:00:00
 
 ---
 
@@ -79,36 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding](https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/13 00:20:48
-
----
-
-### 📢 [Improve TTFT for Multi-Turn Agentic Workloads with Bi-Directional KV Transfer in vLLM](https://vllm.ai/blog/2026-10-12-bidirectional-kvxfer-multiturn-agentic-workload)
-来源: vLLM Blog | 时间: 2026/10/12 08:00:00
-
----
-
-### 📢 [Muse Wonder now available on AI Gateway](https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/12 08:00:00
-
----
-
-### 📢 [Agents can now buy domains with the Vercel CLI](https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli)
-来源: Vercel AI SDK | 时间: 2026/10/10 04:24:00
-
----
-
-### 📢 [New Pro teams now default to 30-day deployment retention](https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention)
-来源: Vercel AI SDK | 时间: 2026/10/10 02:00:00
-
----
-
-### 📢 [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling)
-来源: Hugging Face Blog | 时间: 2026/10/9 23:20:29
-
----
-
-### 📢 [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
-来源: OpenAI | 时间: 2026/10/9 15:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
