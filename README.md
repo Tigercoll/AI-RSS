@@ -5,13 +5,48 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/14 19:28:46
+🕒 最后自动更新时间：2026/10/15 00:50:50
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Build self-improving document processing using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/10/15 00:24:07
+
+---
+
+### 📢 [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2)
+来源: Hugging Face Blog | 时间: 2026/10/15 00:12:42
+
+---
+
+### 📢 [Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym](https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/15 00:10:48
+
+---
+
+### 📢 [Generate presentations with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/10/14 21:58:43
+
+---
+
+### 📢 [How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/10/14 21:53:33
+
+---
+
+### 📢 [Deploy and evaluate models with Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/)
+来源: AWS ML Blog | 时间: 2026/10/14 21:14:36
+
+---
+
+### 📢 [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research)
+来源: OpenAI | 时间: 2026/10/14 15:00:00
+
+---
+
 ### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
 来源: Google DeepMind | 时间: 2026/10/14 10:00:14
 
@@ -27,6 +62,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Nemotron 3.5 Lightning now available on AI Gateway for free](https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free)
+来源: Vercel AI SDK | 时间: 2026/10/14 08:00:00
+
+---
+
 ### 📢 [NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform](https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/14 05:46:33
 
@@ -34,11 +74,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents](https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/14 05:33:24
-
----
-
-### 📢 [Building agents that transact with Anchor Browser and AgentCore payments](https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/)
-来源: AWS ML Blog | 时间: 2026/10/14 04:10:33
 
 ---
 
@@ -67,48 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Manage private pricing offers for Amazon Bedrock with managed entitlements](https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/)
-来源: AWS ML Blog | 时间: 2026/10/14 01:17:25
-
----
-
 ### 📢 [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
 来源: Hugging Face Blog | 时间: 2026/10/14 01:05:48
 
 ---
 
-### 📢 [Natural language security queries at Orca Security using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/14 00:03:31
-
----
-
 ### 📢 [Gemini 4 Argon for Robotics- Google Developers Blog](https://deepmind.google/blog/gemini-4-argon-for-robotics/)
 来源: Google DeepMind | 时间: 2026/10/14 00:01:58
-
----
-
-### 📢 [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/)
-来源: Google DeepMind | 时间: 2026/10/14 00:01:52
-
----
-
-### 📢 [How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/10/13 23:54:49
-
----
-
-### 📢 [Extending Inductor for the IBM Spyre Accelerator](https://pytorch.org/blog/extending-inductor-for-the-ibm-spyre-accelerator/)
-来源: PyTorch Blog | 时间: 2026/10/13 20:45:30
-
----
-
-### 📢 [Higgsfield takes AI video from 1 minute to over 10](https://openai.com/index/higgsfield-longer-videos-voice)
-来源: OpenAI | 时间: 2026/10/13 20:00:00
-
----
-
-### 📢 [Run AI agents safely with Ollama and Fly.io](https://ollama.com/blog/fly-io-sprites)
-来源: Ollama Blog | 时间: 2026/10/13 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
