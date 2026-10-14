@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/15 00:50:50
+🕒 最后自动更新时间：2026/10/15 05:24:54
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
+来源: LangChain Blog | 时间: 2026/10/15 01:39:26
+
+---
+
 ### 📢 [Build self-improving document processing using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/10/15 00:24:07
 
@@ -42,6 +47,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding)
+来源: OpenAI | 时间: 2026/10/14 20:00:00
+
+---
+
+### 📢 [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone)
+来源: OpenAI | 时间: 2026/10/14 20:00:00
+
+---
+
 ### 📢 [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research)
 来源: OpenAI | 时间: 2026/10/14 15:00:00
 
@@ -57,8 +72,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [2026 Us Midterms](https://www.anthropic.com/news/2026-us-midterms)
+来源: Anthropic News | 时间: 2026/10/14 08:00:00
+
+---
+
 ### 📢 [Singapore Office Opening](https://www.anthropic.com/news/singapore-office-opening)
 来源: Anthropic News | 时间: 2026/10/14 08:00:00
+
+---
+
+### 📢 [Push-Based KV Transfer to Improve TTFT and TPOT for Disaggregated Inference in vLLM](https://vllm.ai/blog/2026-10-14-nixl-push-connector)
+来源: vLLM Blog | 时间: 2026/10/14 08:00:00
 
 ---
 
@@ -84,31 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [MCP in LangChain: Stateless Protocol, Elicitation, and More!](https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more)
 来源: LangChain Blog | 时间: 2026/10/14 03:56:07
-
----
-
-### 📢 [How We Made Our Docs Test Themselves](https://www.langchain.com/blog/our-docs-test-themselves)
-来源: LangChain Blog | 时间: 2026/10/14 03:56:07
-
----
-
-### 📢 [Deep Agents Deploy: an open alternative to Claude Managed Agents](https://www.langchain.com/blog/deep-agents-deploy-an-open-alternative-to-claude-managed-agents)
-来源: LangChain Blog | 时间: 2026/10/14 03:56:07
-
----
-
-### 📢 [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)
-来源: Google DeepMind | 时间: 2026/10/14 03:43:07
-
----
-
-### 📢 [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
-来源: Hugging Face Blog | 时间: 2026/10/14 01:05:48
-
----
-
-### 📢 [Gemini 4 Argon for Robotics- Google Developers Blog](https://deepmind.google/blog/gemini-4-argon-for-robotics/)
-来源: Google DeepMind | 时间: 2026/10/14 00:01:58
 
 ---
 <!-- END_LIVE_FEEDS -->
