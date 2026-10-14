@@ -5,15 +5,25 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/14 12:10:43
+🕒 最后自动更新时间：2026/10/14 19:28:46
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
+### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
 来源: Google DeepMind | 时间: 2026/10/14 10:00:14
+
+---
+
+### 📢 [The EU’s next chapter in AI is agentic](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)
+来源: OpenAI | 时间: 2026/10/14 08:00:00
+
+---
+
+### 📢 [Singapore Office Opening](https://www.anthropic.com/news/singapore-office-opening)
+来源: Anthropic News | 时间: 2026/10/14 08:00:00
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Run AI agents safely with Ollama and Fly.io](https://ollama.com/blog/fly-io-sprites)
 来源: Ollama Blog | 时间: 2026/10/13 08:00:00
-
----
-
-### 📢 [Drama 3 now available on AI Gateway](https://vercel.com/changelog/drama-3-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/13 08:00:00
-
----
-
-### 📢 [MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway](https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/13 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
