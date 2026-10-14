@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/14 06:26:25
+🕒 最后自动更新时间：2026/10/14 12:10:43
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
+来源: Google DeepMind | 时间: 2026/10/14 10:00:14
+
+---
+
 ### 📢 [NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform](https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/14 05:46:33
 
@@ -97,18 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Drama 3 now available on AI Gateway](https://vercel.com/changelog/drama-3-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/10/13 08:00:00
+
+---
+
 ### 📢 [MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway](https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway)
 来源: Vercel AI SDK | 时间: 2026/10/13 08:00:00
-
----
-
-### 📢 [Gemini 4 Argon now available on AI Gateway](https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/13 08:00:00
-
----
-
-### 📢 [ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding](https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/13 00:20:48
 
 ---
 <!-- END_LIVE_FEEDS -->
