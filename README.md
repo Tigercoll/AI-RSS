@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/15 11:53:08
+🕒 最后自动更新时间：2026/10/15 19:04:36
 
 ---
 
@@ -102,13 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Nemotron 3.5 Lightning now available on AI Gateway for free](https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free)
-来源: Vercel AI SDK | 时间: 2026/10/14 08:00:00
+### 📢 [Finish RL Training Faster: Bitwise-Consistent, High-Performance, Agent-Driven](https://vllm.ai/blog/2026-10-14-train-inference-consistency)
+来源: vLLM Blog | 时间: 2026/10/14 08:00:00
 
 ---
 
-### 📢 [How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents](https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/14 05:33:24
+### 📢 [Nemotron 3.5 Lightning now available on AI Gateway for free](https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free)
+来源: Vercel AI SDK | 时间: 2026/10/14 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
