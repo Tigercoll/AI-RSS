@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/16 11:48:49
+🕒 最后自动更新时间：2026/10/16 19:00:56
 
 ---
 
@@ -22,28 +22,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/16 03:23:24
-
----
-
 ### 📢 [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
 来源: OpenAI | 时间: 2026/10/16 03:00:00
 
 ---
 
-### 📢 [Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/16 02:29:53
-
----
-
-### 📢 [How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents](https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/16 02:13:15
-
----
-
-### 📢 [Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym](https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/16 02:13:14
+### 📢 [Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/)
+来源: AWS ML Blog | 时间: 2026/10/16 01:43:35
 
 ---
 
@@ -54,6 +39,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
 来源: Google DeepMind | 时间: 2026/10/16 00:08:03
+
+---
+
+### 📢 [Trust in Depth: Giving agents more autonomy without losing control](https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/)
+来源: AWS ML Blog | 时间: 2026/10/15 23:05:35
 
 ---
 
@@ -107,8 +97,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Build self-improving document processing using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/10/15 00:24:07
+
+---
+
 ### 📢 [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2)
 来源: Hugging Face Blog | 时间: 2026/10/15 00:12:42
+
+---
+
+### 📢 [Generate presentations with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/10/14 21:58:43
 
 ---
 <!-- END_LIVE_FEEDS -->
