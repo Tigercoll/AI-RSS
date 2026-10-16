@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/17 00:21:05
+🕒 最后自动更新时间：2026/10/17 04:42:56
 
 ---
 
@@ -19,6 +19,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
 来源: Hugging Face Blog | 时间: 2026/10/16 09:44:47
+
+---
+
+### 📢 [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
+来源: OpenAI | 时间: 2026/10/16 08:00:00
 
 ---
 
@@ -42,43 +47,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/16 03:23:24
-
----
-
 ### 📢 [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
 来源: OpenAI | 时间: 2026/10/16 03:00:00
 
 ---
 
-### 📢 [Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/16 02:29:53
-
----
-
-### 📢 [How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents](https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/16 02:13:15
-
----
-
-### 📢 [Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym](https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/16 02:13:14
-
----
-
 ### 📢 [Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/)
 来源: AWS ML Blog | 时间: 2026/10/16 01:43:35
-
----
-
-### 📢 [October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London](https://www.langchain.com/blog/october-2026-langchain-newsletter)
-来源: LangChain Blog | 时间: 2026/10/16 01:02:58
-
----
-
-### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
-来源: Google DeepMind | 时间: 2026/10/16 00:08:03
 
 ---
 
@@ -92,16 +67,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [The Most Common Questions About Agent Evals, Answered](https://www.langchain.com/blog/common-questions-about-agent-evals)
-来源: LangChain Blog | 时间: 2026/10/15 17:18:55
-
----
-
-### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
-来源: LangChain Blog | 时间: 2026/10/15 17:18:55
-
----
-
 ### 📢 [Sullivan & Cromwell brings legal expertise into agreement review](https://openai.com/index/sullivan-cromwell)
 来源: OpenAI | 时间: 2026/10/15 08:00:00
 
@@ -109,6 +74,41 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [An Update On Independent Evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
 来源: Anthropic News | 时间: 2026/10/15 08:00:00
+
+---
+
+### 📢 [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](https://huggingface.co/blog/meta-muse-spark-open)
+来源: Hugging Face Blog | 时间: 2026/10/15 08:00:00
+
+---
+
+### 📢 [Welcome FLUX.3 Image Klein in Diffusers](https://huggingface.co/blog/flux-3)
+来源: Hugging Face Blog | 时间: 2026/10/15 08:00:00
+
+---
+
+### 📢 [Day 0 support for Muse Spark Open on vLLM](https://vllm.ai/blog/2026-10-15-muse-spark-open)
+来源: vLLM Blog | 时间: 2026/10/15 08:00:00
+
+---
+
+### 📢 [Announcing Day 0 Support for NVIDIA Nemotron 3.5 Super VL on vLLM](https://vllm.ai/blog/2026-10-15-nemotron-3-5-super-vl-vllm)
+来源: vLLM Blog | 时间: 2026/10/15 08:00:00
+
+---
+
+### 📢 [ExtractBench Pro: The Long Tail of Document Extraction](https://www.llamaindex.ai/blog/introducing-extractbench-pro)
+来源: LlamaIndex Blog | 时间: 2026/10/15 08:00:00
+
+---
+
+### 📢 [Build self-improving document processing using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/10/15 00:24:07
+
+---
+
+### 📢 [2026 Us Midterms](https://www.anthropic.com/news/2026-us-midterms)
+来源: Anthropic News | 时间: 2026/10/14 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
