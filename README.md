@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/17 07:20:27
+🕒 最后自动更新时间：2026/10/17 11:39:18
 
 ---
 
@@ -14,6 +14,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/10/17 04:48:16
+
+---
+
+### 📢 [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
+来源: OpenAI | 时间: 2026/10/17 03:00:00
 
 ---
 
@@ -34,6 +39,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
 来源: Hugging Face Blog | 时间: 2026/10/16 08:00:00
+
+---
+
+### 📢 [Hyper Optimizing Kimi K3 in vLLM: Moving Fast and Responsibly](https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel)
+来源: vLLM Blog | 时间: 2026/10/16 08:00:00
 
 ---
 
@@ -97,18 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Sullivan & Cromwell brings legal expertise into agreement review](https://openai.com/index/sullivan-cromwell)
-来源: OpenAI | 时间: 2026/10/15 08:00:00
-
----
-
 ### 📢 [An Update On Independent Evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
 来源: Anthropic News | 时间: 2026/10/15 08:00:00
-
----
-
-### 📢 [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](https://huggingface.co/blog/meta-muse-spark-open)
-来源: Hugging Face Blog | 时间: 2026/10/15 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
