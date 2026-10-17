@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/18 04:20:21
+🕒 最后自动更新时间：2026/10/18 06:57:51
 
 ---
 
@@ -49,11 +49,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
 来源: OpenAI | 时间: 2026/10/16 08:00:00
-
----
-
-### 📢 [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
-来源: Hugging Face Blog | 时间: 2026/10/16 08:00:00
 
 ---
 
@@ -109,6 +104,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
 来源: Google DeepMind | 时间: 2026/10/16 00:08:03
+
+---
+
+### 📢 [Trust in Depth: Giving agents more autonomy without losing control](https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/)
+来源: AWS ML Blog | 时间: 2026/10/15 23:05:35
 
 ---
 <!-- END_LIVE_FEEDS -->
