@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/18 06:57:51
+🕒 最后自动更新时间：2026/10/18 11:45:55
 
 ---
 
@@ -37,11 +37,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
-来源: Hugging Face Blog | 时间: 2026/10/16 09:44:47
-
----
-
 ### 📢 [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners)
 来源: OpenAI | 时间: 2026/10/16 08:00:00
 
@@ -49,6 +44,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
 来源: OpenAI | 时间: 2026/10/16 08:00:00
+
+---
+
+### 📢 [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
+来源: Hugging Face Blog | 时间: 2026/10/16 08:00:00
 
 ---
 
