@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/19 11:55:24
+🕒 最后自动更新时间：2026/10/19 20:36:39
 
 ---
 
@@ -27,18 +27,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/17 02:43:33
-
----
-
-### 📢 [Code, Test, and Deploy on One Machine with NVIDIA RTX Spark](https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/17 00:46:50
-
----
-
 ### 📢 [Introducing Reflection Beam: an open-weight model for agentic coding on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/)
 来源: AWS ML Blog | 时间: 2026/10/16 23:23:10
+
+---
+
+### 📢 [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
+来源: Hugging Face Blog | 时间: 2026/10/16 09:44:47
 
 ---
 
@@ -77,23 +72,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
-来源: Hugging Face Blog | 时间: 2026/10/16 04:34:01
-
----
-
 ### 📢 [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
 来源: OpenAI | 时间: 2026/10/16 03:00:00
-
----
-
-### 📢 [Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/16 02:29:53
-
----
-
-### 📢 [Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym](https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/16 02:13:14
 
 ---
 
@@ -109,6 +89,26 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
 来源: Google DeepMind | 时间: 2026/10/16 00:08:03
+
+---
+
+### 📢 [Trust in Depth: Giving agents more autonomy without losing control](https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/)
+来源: AWS ML Blog | 时间: 2026/10/15 23:05:35
+
+---
+
+### 📢 [The Most Common Questions About Agent Evals, Answered](https://www.langchain.com/blog/common-questions-about-agent-evals)
+来源: LangChain Blog | 时间: 2026/10/15 17:18:55
+
+---
+
+### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
+来源: LangChain Blog | 时间: 2026/10/15 17:18:55
+
+---
+
+### 📢 [Apertus 1.5 Release Notes](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)
+来源: Hugging Face Blog | 时间: 2026/10/15 17:08:45
 
 ---
 <!-- END_LIVE_FEEDS -->
