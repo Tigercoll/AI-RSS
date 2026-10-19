@@ -5,25 +5,15 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/19 06:53:06
+🕒 最后自动更新时间：2026/10/19 11:55:24
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [AI Gateway logs now show session affinity](https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity)
-来源: Vercel AI SDK | 时间: 2026/10/19 04:03:00
-
----
-
 ### 📢 [Public Benefit Fund](https://www.anthropic.com/news/public-benefit-fund)
 来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [DeepSeek V4.1 Flash 1017 now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/17 08:00:00
 
 ---
 
@@ -47,23 +37,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Bringing Elastically Deterministic Data Loading to TorchTitan with Zephon](https://pytorch.org/blog/bringing-elastically-deterministic-data-loading-to-torchtitan-with-zephon/)
-来源: PyTorch Blog | 时间: 2026/10/17 00:30:46
-
----
-
 ### 📢 [Introducing Reflection Beam: an open-weight model for agentic coding on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/)
 来源: AWS ML Blog | 时间: 2026/10/16 23:23:10
-
----
-
-### 📢 [Vercel and Shopify make agents first-class shoppers](https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers)
-来源: Vercel AI SDK | 时间: 2026/10/16 15:00:00
-
----
-
-### 📢 [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
-来源: Hugging Face Blog | 时间: 2026/10/16 09:44:47
 
 ---
 
@@ -102,13 +77,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Elorian AI's Glimpse now available on AI Gateway](https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/10/16 08:00:00
+### 📢 [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
+来源: Hugging Face Blog | 时间: 2026/10/16 04:34:01
 
 ---
 
-### 📢 [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
-来源: Hugging Face Blog | 时间: 2026/10/16 04:34:01
+### 📢 [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
+来源: OpenAI | 时间: 2026/10/16 03:00:00
+
+---
+
+### 📢 [Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72](https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/16 02:29:53
+
+---
+
+### 📢 [Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym](https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/16 02:13:14
+
+---
+
+### 📢 [Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/)
+来源: AWS ML Blog | 时间: 2026/10/16 01:43:35
+
+---
+
+### 📢 [October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London](https://www.langchain.com/blog/october-2026-langchain-newsletter)
+来源: LangChain Blog | 时间: 2026/10/16 01:02:58
+
+---
+
+### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
+来源: Google DeepMind | 时间: 2026/10/16 00:08:03
 
 ---
 <!-- END_LIVE_FEEDS -->
