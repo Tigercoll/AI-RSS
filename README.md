@@ -5,35 +5,50 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/19 20:36:39
+🕒 最后自动更新时间：2026/10/20 04:27:26
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/10/20 00:49:19
+
+---
+
+### 📢 [How Deepgram optimized voice AI at scale with AWS Trainium](https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/)
+来源: AWS ML Blog | 时间: 2026/10/20 00:23:22
+
+---
+
+### 📢 [Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM](https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/)
+来源: AWS ML Blog | 时间: 2026/10/20 00:05:17
+
+---
+
+### 📢 [Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM](https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/)
+来源: AWS ML Blog | 时间: 2026/10/20 00:03:23
+
+---
+
+### 📢 [How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith](https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith)
+来源: LangChain Blog | 时间: 2026/10/19 23:00:01
+
+---
+
+### 📢 [TorchNeuron: running HF models on AWS Trainium is easier than ever](https://huggingface.co/blog/hf-torchneuron)
+来源: Hugging Face Blog | 时间: 2026/10/19 08:00:00
+
+---
+
 ### 📢 [Public Benefit Fund](https://www.anthropic.com/news/public-benefit-fund)
 来源: Anthropic News | 时间: 2026/10/18 08:00:00
 
 ---
 
-### 📢 [Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/10/17 04:48:16
-
----
-
 ### 📢 [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
 来源: OpenAI | 时间: 2026/10/17 03:00:00
-
----
-
-### 📢 [Introducing Reflection Beam: an open-weight model for agentic coding on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/)
-来源: AWS ML Blog | 时间: 2026/10/16 23:23:10
-
----
-
-### 📢 [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
-来源: Hugging Face Blog | 时间: 2026/10/16 09:44:47
 
 ---
 
@@ -72,13 +87,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
-来源: OpenAI | 时间: 2026/10/16 03:00:00
+### 📢 [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
+来源: Hugging Face Blog | 时间: 2026/10/16 04:34:01
 
 ---
 
-### 📢 [Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/)
-来源: AWS ML Blog | 时间: 2026/10/16 01:43:35
+### 📢 [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
+来源: OpenAI | 时间: 2026/10/16 03:00:00
 
 ---
 
@@ -92,23 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Trust in Depth: Giving agents more autonomy without losing control](https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/)
-来源: AWS ML Blog | 时间: 2026/10/15 23:05:35
-
----
-
 ### 📢 [The Most Common Questions About Agent Evals, Answered](https://www.langchain.com/blog/common-questions-about-agent-evals)
 来源: LangChain Blog | 时间: 2026/10/15 17:18:55
-
----
-
-### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
-来源: LangChain Blog | 时间: 2026/10/15 17:18:55
-
----
-
-### 📢 [Apertus 1.5 Release Notes](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)
-来源: Hugging Face Blog | 时间: 2026/10/15 17:08:45
 
 ---
 <!-- END_LIVE_FEEDS -->
