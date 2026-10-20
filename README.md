@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/20 16:19:29
+🕒 最后自动更新时间：2026/10/20 22:11:29
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms](https://huggingface.co/blog/anylanguagemodel-1-0)
+来源: Hugging Face Blog | 时间: 2026/10/20 08:00:00
+
+---
+
+### 📢 [MPS in PyTorch 2.15](https://huggingface.co/blog/mps-pytorch-2-15)
+来源: Hugging Face Blog | 时间: 2026/10/20 08:00:00
+
+---
+
 ### 📢 [Structured outputs for Anthropic Claude models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/10/20 07:32:19
 
@@ -98,16 +108,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Hyper Optimizing Kimi K3 in vLLM: Moving Fast and Responsibly](https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel)
-来源: vLLM Blog | 时间: 2026/10/16 08:00:00
-
----
-
-### 📢 [Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX](https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x)
-来源: vLLM Blog | 时间: 2026/10/16 08:00:00
-
----
-
-### 📢 [Serving Reflection Beam on vLLM from Day 0](https://vllm.ai/blog/2026-10-16-reflection-beam)
 来源: vLLM Blog | 时间: 2026/10/16 08:00:00
 
 ---
