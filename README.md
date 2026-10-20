@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/20 08:09:43
+🕒 最后自动更新时间：2026/10/20 16:19:29
 
 ---
 
@@ -24,6 +24,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Amazon SageMaker JumpStart: 2026 year-to-date in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/)
 来源: AWS ML Blog | 时间: 2026/10/20 05:14:44
+
+---
+
+### 📢 [Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile](https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/20 03:29:30
 
 ---
 
@@ -47,6 +52,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
+来源: Ollama Blog | 时间: 2026/10/19 08:00:00
+
+---
+
 ### 📢 [Public Benefit Fund](https://www.anthropic.com/news/public-benefit-fund)
 来源: Anthropic News | 时间: 2026/10/18 08:00:00
 
@@ -57,17 +67,27 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/17 02:43:33
+
+---
+
+### 📢 [Code, Test, and Deploy on One Machine with NVIDIA RTX Spark](https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/17 00:46:50
+
+---
+
 ### 📢 [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
 来源: Hugging Face Blog | 时间: 2026/10/16 09:44:47
 
 ---
 
-### 📢 [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
+### 📢 [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners)
 来源: OpenAI | 时间: 2026/10/16 08:00:00
 
 ---
 
-### 📢 [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners)
+### 📢 [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
 来源: OpenAI | 时间: 2026/10/16 08:00:00
 
 ---
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Serving Reflection Beam on vLLM from Day 0](https://vllm.ai/blog/2026-10-16-reflection-beam)
 来源: vLLM Blog | 时间: 2026/10/16 08:00:00
-
----
-
-### 📢 [Reflection's Beam is freely available on Ollama for a limited time](https://ollama.com/blog/reflection-beam)
-来源: Ollama Blog | 时间: 2026/10/16 08:00:00
-
----
-
-### 📢 [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
-来源: Hugging Face Blog | 时间: 2026/10/16 04:34:01
-
----
-
-### 📢 [October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London](https://www.langchain.com/blog/october-2026-langchain-newsletter)
-来源: LangChain Blog | 时间: 2026/10/16 01:02:58
-
----
-
-### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
-来源: Google DeepMind | 时间: 2026/10/16 00:08:03
 
 ---
 <!-- END_LIVE_FEEDS -->
