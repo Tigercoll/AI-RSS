@@ -5,45 +5,70 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/20 22:11:29
+🕒 最后自动更新时间：2026/10/21 03:05:04
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](https://huggingface.co/blog/nvidia/cosmos3-h-dreams)
+来源: Hugging Face Blog | 时间: 2026/10/21 02:17:47
+
+---
+
+### 📢 [Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/)
+来源: AWS ML Blog | 时间: 2026/10/21 01:59:07
+
+---
+
+### 📢 [From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/10/21 01:52:50
+
+---
+
+### 📢 [Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/)
+来源: AWS ML Blog | 时间: 2026/10/21 01:48:27
+
+---
+
+### 📢 [How Octave built a secure multi-tenant AI foundation on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/10/21 01:34:04
+
+---
+
+### 📢 [Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile](https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/21 01:11:37
+
+---
+
+### 📢 [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress)
+来源: Hugging Face Blog | 时间: 2026/10/21 00:09:19
+
+---
+
+### 📢 [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant)
+来源: OpenAI | 时间: 2026/10/20 18:00:00
+
+---
+
+### 📢 [OpenAI acquires Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio)
+来源: OpenAI | 时间: 2026/10/20 08:00:00
+
+---
+
+### 📢 [Hugging Face ❤️ TorchTPU: TPUs, Natively](https://huggingface.co/blog/hf-torchtpu)
+来源: Hugging Face Blog | 时间: 2026/10/20 08:00:00
+
+---
+
 ### 📢 [AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms](https://huggingface.co/blog/anylanguagemodel-1-0)
 来源: Hugging Face Blog | 时间: 2026/10/20 08:00:00
 
 ---
 
-### 📢 [MPS in PyTorch 2.15](https://huggingface.co/blog/mps-pytorch-2-15)
-来源: Hugging Face Blog | 时间: 2026/10/20 08:00:00
-
----
-
-### 📢 [Structured outputs for Anthropic Claude models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/20 07:32:19
-
----
-
-### 📢 [Developers can now access SageMaker Studio through the new AWS experience](https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/)
-来源: AWS ML Blog | 时间: 2026/10/20 06:39:24
-
----
-
-### 📢 [Amazon SageMaker JumpStart: 2026 year-to-date in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/)
-来源: AWS ML Blog | 时间: 2026/10/20 05:14:44
-
----
-
-### 📢 [Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile](https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/20 03:29:30
-
----
-
-### 📢 [Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/20 00:49:19
+### 📢 [Introducing vLLM TorchTPU](https://vllm.ai/blog/2026-10-20-vllm-torchtpu)
+来源: vLLM Blog | 时间: 2026/10/20 08:00:00
 
 ---
 
@@ -67,11 +92,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Public Benefit Fund](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
 ### 📢 [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
 来源: OpenAI | 时间: 2026/10/17 03:00:00
 
@@ -84,26 +104,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Code, Test, and Deploy on One Machine with NVIDIA RTX Spark](https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/17 00:46:50
-
----
-
-### 📢 [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
-来源: Hugging Face Blog | 时间: 2026/10/16 09:44:47
-
----
-
-### 📢 [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners)
-来源: OpenAI | 时间: 2026/10/16 08:00:00
-
----
-
-### 📢 [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
-来源: OpenAI | 时间: 2026/10/16 08:00:00
-
----
-
-### 📢 [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
-来源: Hugging Face Blog | 时间: 2026/10/16 08:00:00
 
 ---
 
