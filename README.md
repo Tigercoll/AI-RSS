@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/21 03:05:04
+🕒 最后自动更新时间：2026/10/21 07:42:57
 
 ---
 
@@ -17,33 +17,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/)
-来源: AWS ML Blog | 时间: 2026/10/21 01:59:07
-
----
-
-### 📢 [From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/10/21 01:52:50
-
----
-
-### 📢 [Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/)
-来源: AWS ML Blog | 时间: 2026/10/21 01:48:27
-
----
-
-### 📢 [How Octave built a secure multi-tenant AI foundation on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/21 01:34:04
-
----
-
-### 📢 [Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile](https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/21 01:11:37
-
----
-
-### 📢 [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress)
-来源: Hugging Face Blog | 时间: 2026/10/21 00:09:19
+### 📢 [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](https://huggingface.co/blog/ibm-research/altk-evolve-bc)
+来源: Hugging Face Blog | 时间: 2026/10/20 23:19:48
 
 ---
 
@@ -97,18 +72,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/17 02:43:33
-
----
-
-### 📢 [Code, Test, and Deploy on One Machine with NVIDIA RTX Spark](https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/17 00:46:50
-
----
-
 ### 📢 [Hyper Optimizing Kimi K3 in vLLM: Moving Fast and Responsibly](https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel)
 来源: vLLM Blog | 时间: 2026/10/16 08:00:00
+
+---
+
+### 📢 [Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX](https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x)
+来源: vLLM Blog | 时间: 2026/10/16 08:00:00
+
+---
+
+### 📢 [Reflection's Beam is freely available on Ollama for a limited time](https://ollama.com/blog/reflection-beam)
+来源: Ollama Blog | 时间: 2026/10/16 08:00:00
+
+---
+
+### 📢 [October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London](https://www.langchain.com/blog/october-2026-langchain-newsletter)
+来源: LangChain Blog | 时间: 2026/10/16 01:02:58
+
+---
+
+### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
+来源: Google DeepMind | 时间: 2026/10/16 00:08:03
+
+---
+
+### 📢 [The Most Common Questions About Agent Evals, Answered](https://www.langchain.com/blog/common-questions-about-agent-evals)
+来源: LangChain Blog | 时间: 2026/10/15 17:18:55
+
+---
+
+### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
+来源: LangChain Blog | 时间: 2026/10/15 17:18:55
+
+---
+
+### 📢 [ExtractBench Pro: The Long Tail of Document Extraction](https://www.llamaindex.ai/blog/introducing-extractbench-pro)
+来源: LlamaIndex Blog | 时间: 2026/10/15 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
