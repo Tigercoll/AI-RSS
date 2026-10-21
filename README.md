@@ -5,15 +5,15 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/22 00:54:31
+🕒 最后自动更新时间：2026/10/22 05:26:09
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
-来源: Hugging Face Blog | 时间: 2026/10/22 00:04:43
+### 📢 [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)
+来源: OpenAI | 时间: 2026/10/22 01:00:00
 
 ---
 
@@ -22,33 +22,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search](https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/21 20:57:05
-
----
-
-### 📢 [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
-来源: Hugging Face Blog | 时间: 2026/10/21 20:51:24
-
----
-
 ### 📢 [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud)
 来源: OpenAI | 时间: 2026/10/21 20:00:00
-
----
-
-### 📢 [Inside NVIDIA Sentry: Secure AI Agents at Runtime](https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/21 17:52:19
-
----
-
-### 📢 [How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale](https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/21 17:50:18
-
----
-
-### 📢 [Developing an AI Factory Digital Twin with an Agent-Assisted Workflow](https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/21 17:38:52
 
 ---
 
@@ -57,58 +32,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
-来源: OpenAI | 时间: 2026/10/21 12:50:00
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/21 08:00:00
 
 ---
 
-### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
-来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
 
 ---
 
-### 📢 [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](https://vllm.ai/blog/2026-10-21-humming)
-来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
+来源: Google DeepMind | 时间: 2026/10/16 00:08:03
 
 ---
 
-### 📢 [Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch](https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/)
-来源: AWS ML Blog | 时间: 2026/10/21 05:14:10
+### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
+来源: Google DeepMind | 时间: 2026/10/14 10:00:14
 
 ---
 
-### 📢 [Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/)
-来源: AWS ML Blog | 时间: 2026/10/21 01:59:07
+### 📢 [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/)
+来源: Google DeepMind | 时间: 2026/10/14 00:01:52
 
 ---
 
-### 📢 [From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/10/21 01:52:50
+### 📢 [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)
+来源: Google DeepMind | 时间: 2026/10/7 03:57:04
 
 ---
 
-### 📢 [Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/)
-来源: AWS ML Blog | 时间: 2026/10/21 01:48:27
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
 
 ---
 
-### 📢 [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress)
-来源: Hugging Face Blog | 时间: 2026/10/21 00:09:19
-
----
-
-### 📢 [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](https://huggingface.co/blog/ibm-research/altk-evolve-bc)
-来源: Hugging Face Blog | 时间: 2026/10/20 23:19:48
-
----
-
-### 📢 [Introducing vLLM TorchTPU](https://vllm.ai/blog/2026-10-20-vllm-torchtpu)
-来源: vLLM Blog | 时间: 2026/10/20 08:00:00
-
----
-
-### 📢 [How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith](https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith)
-来源: LangChain Blog | 时间: 2026/10/20 00:44:34
+### 📢 [Cyber Verification Program](https://www.anthropic.com/news/cyber-verification-program)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
