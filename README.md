@@ -5,25 +5,45 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/21 07:42:57
+🕒 最后自动更新时间：2026/10/21 11:56:46
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](https://huggingface.co/blog/nvidia/cosmos3-h-dreams)
-来源: Hugging Face Blog | 时间: 2026/10/21 02:17:47
+### 📢 [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](https://vllm.ai/blog/2026-10-21-humming)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
 
 ---
 
-### 📢 [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](https://huggingface.co/blog/ibm-research/altk-evolve-bc)
-来源: Hugging Face Blog | 时间: 2026/10/20 23:19:48
+### 📢 [Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch](https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/)
+来源: AWS ML Blog | 时间: 2026/10/21 05:14:10
+
+---
+
+### 📢 [Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/)
+来源: AWS ML Blog | 时间: 2026/10/21 01:59:07
+
+---
+
+### 📢 [From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/10/21 01:52:50
+
+---
+
+### 📢 [Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/)
+来源: AWS ML Blog | 时间: 2026/10/21 01:48:27
 
 ---
 
 ### 📢 [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant)
 来源: OpenAI | 时间: 2026/10/20 18:00:00
+
+---
+
+### 📢 [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x)
+来源: OpenAI | 时间: 2026/10/20 15:00:00
 
 ---
 
@@ -38,6 +58,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms](https://huggingface.co/blog/anylanguagemodel-1-0)
+来源: Hugging Face Blog | 时间: 2026/10/20 08:00:00
+
+---
+
+### 📢 [MPS in PyTorch 2.15](https://huggingface.co/blog/mps-pytorch-2-15)
 来源: Hugging Face Blog | 时间: 2026/10/20 08:00:00
 
 ---
@@ -67,17 +92,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
-来源: OpenAI | 时间: 2026/10/17 03:00:00
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
 
 ---
 
 ### 📢 [Hyper Optimizing Kimi K3 in vLLM: Moving Fast and Responsibly](https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel)
-来源: vLLM Blog | 时间: 2026/10/16 08:00:00
-
----
-
-### 📢 [Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX](https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x)
 来源: vLLM Blog | 时间: 2026/10/16 08:00:00
 
 ---
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London](https://www.langchain.com/blog/october-2026-langchain-newsletter)
 来源: LangChain Blog | 时间: 2026/10/16 01:02:58
-
----
-
-### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
-来源: Google DeepMind | 时间: 2026/10/16 00:08:03
-
----
-
-### 📢 [The Most Common Questions About Agent Evals, Answered](https://www.langchain.com/blog/common-questions-about-agent-evals)
-来源: LangChain Blog | 时间: 2026/10/15 17:18:55
-
----
-
-### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
-来源: LangChain Blog | 时间: 2026/10/15 17:18:55
-
----
-
-### 📢 [ExtractBench Pro: The Long Tail of Document Extraction](https://www.llamaindex.ai/blog/introducing-extractbench-pro)
-来源: LlamaIndex Blog | 时间: 2026/10/15 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
