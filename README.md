@@ -5,13 +5,68 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/21 19:26:47
+🕒 最后自动更新时间：2026/10/22 00:54:31
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
+来源: Hugging Face Blog | 时间: 2026/10/22 00:04:43
+
+---
+
+### 📢 [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries)
+来源: OpenAI | 时间: 2026/10/21 21:00:00
+
+---
+
+### 📢 [Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search](https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/21 20:57:05
+
+---
+
+### 📢 [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
+来源: Hugging Face Blog | 时间: 2026/10/21 20:51:24
+
+---
+
+### 📢 [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud)
+来源: OpenAI | 时间: 2026/10/21 20:00:00
+
+---
+
+### 📢 [Inside NVIDIA Sentry: Secure AI Agents at Runtime](https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/21 17:52:19
+
+---
+
+### 📢 [How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale](https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/21 17:50:18
+
+---
+
+### 📢 [Developing an AI Factory Digital Twin with an Agent-Assisted Workflow](https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/21 17:38:52
+
+---
+
+### 📢 [Patch the Planet: global response coordination as agents uncover critical vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities)
+来源: OpenAI | 时间: 2026/10/21 15:00:00
+
+---
+
+### 📢 [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
+来源: OpenAI | 时间: 2026/10/21 12:50:00
+
+---
+
+### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
 ### 📢 [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](https://vllm.ai/blog/2026-10-21-humming)
 来源: vLLM Blog | 时间: 2026/10/21 08:00:00
 
@@ -42,28 +97,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant)
-来源: OpenAI | 时间: 2026/10/20 18:00:00
-
----
-
-### 📢 [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x)
-来源: OpenAI | 时间: 2026/10/20 15:00:00
-
----
-
-### 📢 [OpenAI acquires Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio)
-来源: OpenAI | 时间: 2026/10/20 08:00:00
-
----
-
-### 📢 [Hugging Face ❤️ TorchTPU: TPUs, Natively](https://huggingface.co/blog/hf-torchtpu)
-来源: Hugging Face Blog | 时间: 2026/10/20 08:00:00
-
----
-
-### 📢 [MPS in PyTorch 2.15](https://huggingface.co/blog/mps-pytorch-2-15)
-来源: Hugging Face Blog | 时间: 2026/10/20 08:00:00
+### 📢 [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](https://huggingface.co/blog/ibm-research/altk-evolve-bc)
+来源: Hugging Face Blog | 时间: 2026/10/20 23:19:48
 
 ---
 
@@ -74,41 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith](https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith)
 来源: LangChain Blog | 时间: 2026/10/20 00:44:34
-
----
-
-### 📢 [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages)
-来源: OpenAI | 时间: 2026/10/19 20:00:00
-
----
-
-### 📢 [Achieving near-zero-downtime scaling in Elastic Expert Parallelism](https://vllm.ai/blog/2026-10-19-elastic-ep-near-zero-downtime)
-来源: vLLM Blog | 时间: 2026/10/19 08:00:00
-
----
-
-### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
-来源: Ollama Blog | 时间: 2026/10/19 08:00:00
-
----
-
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [Hyper Optimizing Kimi K3 in vLLM: Moving Fast and Responsibly](https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel)
-来源: vLLM Blog | 时间: 2026/10/16 08:00:00
-
----
-
-### 📢 [Reflection's Beam is freely available on Ollama for a limited time](https://ollama.com/blog/reflection-beam)
-来源: Ollama Blog | 时间: 2026/10/16 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
