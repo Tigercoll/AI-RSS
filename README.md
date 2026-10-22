@@ -5,13 +5,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/23 00:52:33
+🕒 最后自动更新时间：2026/10/23 05:20:33
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
+来源: OpenAI | 时间: 2026/10/23 03:00:00
+
+---
+
+### 📢 [Amazon Polly delivers a major upgrade to its Generative engine](https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/)
+来源: AWS ML Blog | 时间: 2026/10/23 02:06:35
+
+---
+
+### 📢 [How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/)
+来源: AWS ML Blog | 时间: 2026/10/23 02:01:53
+
+---
+
+### 📢 [Announcing new ways to customize models with SageMaker AI, without managing GPUs](https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/)
+来源: AWS ML Blog | 时间: 2026/10/23 02:00:04
+
+---
+
+### 📢 [Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs](https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/)
+来源: AWS ML Blog | 时间: 2026/10/23 02:00:01
+
+---
+
+### 📢 [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
+来源: Hugging Face Blog | 时间: 2026/10/22 15:51:31
+
+---
+
 ### 📢 [What FDE means at OpenAI](https://openai.com/index/forward-deployed-engineering-means)
 来源: OpenAI | 时间: 2026/10/22 14:00:00
 
@@ -22,13 +52,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards)
-来源: OpenAI | 时间: 2026/10/22 05:00:00
+### 📢 [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
+来源: Hugging Face Blog | 时间: 2026/10/22 01:35:36
 
 ---
 
 ### 📢 [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)
 来源: OpenAI | 时间: 2026/10/22 01:00:00
+
+---
+
+### 📢 [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
+来源: Hugging Face Blog | 时间: 2026/10/22 00:04:43
 
 ---
 
