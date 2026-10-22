@@ -5,20 +5,55 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/22 05:26:09
+🕒 最后自动更新时间：2026/10/22 11:56:23
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Securing Quick access from corporate networks with AWS PrivateLink](https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/)
+来源: AWS ML Blog | 时间: 2026/10/22 07:38:38
+
+---
+
+### 📢 [5 production challenges in multi-agent systems and how Deep Insight solved them](https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/)
+来源: AWS ML Blog | 时间: 2026/10/22 07:36:47
+
+---
+
+### 📢 [Adaptive agentic intelligence framework using Strands Agents](https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/)
+来源: AWS ML Blog | 时间: 2026/10/22 05:23:26
+
+---
+
+### 📢 [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards)
+来源: OpenAI | 时间: 2026/10/22 05:00:00
+
+---
+
+### 📢 [Train Qwen3 on AWS Trainium with torchtitan](https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/)
+来源: AWS ML Blog | 时间: 2026/10/22 04:00:22
+
+---
+
+### 📢 [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
+来源: Hugging Face Blog | 时间: 2026/10/22 01:35:36
+
+---
+
 ### 📢 [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)
 来源: OpenAI | 时间: 2026/10/22 01:00:00
 
 ---
 
-### 📢 [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries)
-来源: OpenAI | 时间: 2026/10/21 21:00:00
+### 📢 [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
+来源: Hugging Face Blog | 时间: 2026/10/22 00:04:43
+
+---
+
+### 📢 [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](https://huggingface.co/blog/ibm-granite/granite-speech-5)
+来源: Hugging Face Blog | 时间: 2026/10/21 22:58:18
 
 ---
 
@@ -37,38 +72,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
+### 📢 [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](https://vllm.ai/blog/2026-10-21-humming)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
+### 📢 [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](https://huggingface.co/blog/ibm-research/altk-evolve-bc)
+来源: Hugging Face Blog | 时间: 2026/10/20 23:19:48
+
+---
+
+### 📢 [Introducing vLLM TorchTPU](https://vllm.ai/blog/2026-10-20-vllm-torchtpu)
+来源: vLLM Blog | 时间: 2026/10/20 08:00:00
+
+---
+
+### 📢 [Achieving near-zero-downtime scaling in Elastic Expert Parallelism](https://vllm.ai/blog/2026-10-19-elastic-ep-near-zero-downtime)
+来源: vLLM Blog | 时间: 2026/10/19 08:00:00
+
+---
+
+### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
+来源: Ollama Blog | 时间: 2026/10/19 08:00:00
+
+---
+
 ### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
 来源: Anthropic News | 时间: 2026/10/18 08:00:00
 
 ---
 
-### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
-来源: Google DeepMind | 时间: 2026/10/16 00:08:03
-
----
-
-### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
-来源: Google DeepMind | 时间: 2026/10/14 10:00:14
-
----
-
-### 📢 [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/)
-来源: Google DeepMind | 时间: 2026/10/14 00:01:52
-
----
-
-### 📢 [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)
-来源: Google DeepMind | 时间: 2026/10/7 03:57:04
-
----
-
-### 📢 [Features](https://www.anthropic.com/news/features)
-来源: Anthropic News | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [Cyber Verification Program](https://www.anthropic.com/news/cyber-verification-program)
-来源: Anthropic News | 时间: 未知时间
+### 📢 [Reflection's Beam is freely available on Ollama for a limited time](https://ollama.com/blog/reflection-beam)
+来源: Ollama Blog | 时间: 2026/10/16 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
