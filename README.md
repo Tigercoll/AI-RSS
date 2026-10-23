@@ -5,20 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/23 12:01:09
+🕒 最后自动更新时间：2026/10/23 19:16:45
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
+### 📢 [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)
+来源: OpenAI | 时间: 2026/10/23 08:00:00
 
 ---
 
-### 📢 [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
-来源: Hugging Face Blog | 时间: 2026/10/23 06:24:34
+### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
+来源: vLLM Blog | 时间: 2026/10/23 08:00:00
 
 ---
 
@@ -27,28 +27,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Amazon Polly delivers a major upgrade to its Generative engine](https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/)
-来源: AWS ML Blog | 时间: 2026/10/23 02:06:35
-
----
-
-### 📢 [How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/)
-来源: AWS ML Blog | 时间: 2026/10/23 02:01:53
-
----
-
-### 📢 [Announcing new ways to customize models with SageMaker AI, without managing GPUs](https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/)
-来源: AWS ML Blog | 时间: 2026/10/23 02:00:04
-
----
-
-### 📢 [Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs](https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/)
-来源: AWS ML Blog | 时间: 2026/10/23 02:00:01
-
----
-
-### 📢 [How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage](https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/23 00:39:12
+### 📢 [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](https://huggingface.co/blog/allenai/olmoearth-v1-3)
+来源: Hugging Face Blog | 时间: 2026/10/23 00:11:31
 
 ---
 
@@ -59,11 +39,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
 来源: LangChain Blog | 时间: 2026/10/22 21:09:40
-
----
-
-### 📢 [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
-来源: Hugging Face Blog | 时间: 2026/10/22 15:51:31
 
 ---
 
@@ -82,33 +57,58 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes](https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/22 04:23:47
+### 📢 [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
+来源: Hugging Face Blog | 时间: 2026/10/22 01:35:36
 
 ---
 
-### 📢 [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
-来源: Hugging Face Blog | 时间: 2026/10/22 02:26:30
-
----
-
-### 📢 [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)
-来源: OpenAI | 时间: 2026/10/22 01:00:00
-
----
-
-### 📢 [Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search](https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/21 20:57:05
-
----
-
-### 📢 [Inside NVIDIA Sentry: Secure AI Agents at Runtime](https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/21 17:52:19
+### 📢 [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
+来源: Hugging Face Blog | 时间: 2026/10/22 00:04:43
 
 ---
 
 ### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
 来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
+### 📢 [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](https://vllm.ai/blog/2026-10-21-humming)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
+### 📢 [Introducing vLLM TorchTPU](https://vllm.ai/blog/2026-10-20-vllm-torchtpu)
+来源: vLLM Blog | 时间: 2026/10/20 08:00:00
+
+---
+
+### 📢 [How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith](https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith)
+来源: LangChain Blog | 时间: 2026/10/20 00:44:34
+
+---
+
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
+
+---
+
+### 📢 [October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London](https://www.langchain.com/blog/october-2026-langchain-newsletter)
+来源: LangChain Blog | 时间: 2026/10/16 01:02:58
+
+---
+
+### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
+来源: Google DeepMind | 时间: 2026/10/16 00:08:03
+
+---
+
+### 📢 [The Most Common Questions About Agent Evals, Answered](https://www.langchain.com/blog/common-questions-about-agent-evals)
+来源: LangChain Blog | 时间: 2026/10/15 17:18:55
+
+---
+
+### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
+来源: Google DeepMind | 时间: 2026/10/14 10:00:14
 
 ---
 <!-- END_LIVE_FEEDS -->
