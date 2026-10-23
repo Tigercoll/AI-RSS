@@ -5,13 +5,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/23 19:16:45
+🕒 最后自动更新时间：2026/10/24 00:45:52
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
+来源: OpenAI | 时间: 2026/10/24 01:00:00
+
+---
+
+### 📢 [Orchestrating SageMaker AI endpoint auto scaling with AWS CDK](https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/)
+来源: AWS ML Blog | 时间: 2026/10/24 00:30:10
+
+---
+
+### 📢 [Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps](https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/)
+来源: AWS ML Blog | 时间: 2026/10/24 00:24:55
+
+---
+
+### 📢 [How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations](https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/)
+来源: AWS ML Blog | 时间: 2026/10/24 00:21:36
+
+---
+
+### 📢 [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
+来源: Hugging Face Blog | 时间: 2026/10/24 00:15:50
+
+---
+
+### 📢 [Using AI Agents to Teach Robots Like Microduck to Walk in Simulation](https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/23 22:58:36
+
+---
+
 ### 📢 [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)
 来源: OpenAI | 时间: 2026/10/23 08:00:00
 
@@ -22,13 +52,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
+来源: Hugging Face Blog | 时间: 2026/10/23 06:24:34
+
+---
+
 ### 📢 [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
 来源: OpenAI | 时间: 2026/10/23 03:00:00
 
 ---
 
-### 📢 [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](https://huggingface.co/blog/allenai/olmoearth-v1-3)
-来源: Hugging Face Blog | 时间: 2026/10/23 00:11:31
+### 📢 [Amazon Polly delivers a major upgrade to its Generative engine](https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/)
+来源: AWS ML Blog | 时间: 2026/10/23 02:06:35
+
+---
+
+### 📢 [How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage](https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/23 00:39:12
 
 ---
 
@@ -37,8 +77,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
-来源: LangChain Blog | 时间: 2026/10/22 21:09:40
+### 📢 [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
+来源: Hugging Face Blog | 时间: 2026/10/22 15:51:31
 
 ---
 
@@ -47,13 +87,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Uber brings ChatGPT Work to all employees with OpenAI](https://openai.com/index/uber-chatgpt-work-rollout)
-来源: OpenAI | 时间: 2026/10/22 08:00:00
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/22 08:00:00
 
 ---
 
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/10/22 08:00:00
+### 📢 [Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes](https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/22 04:23:47
 
 ---
 
@@ -62,53 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
-来源: Hugging Face Blog | 时间: 2026/10/22 00:04:43
+### 📢 [Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search](https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/21 20:57:05
 
 ---
 
 ### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
 来源: vLLM Blog | 时间: 2026/10/21 08:00:00
-
----
-
-### 📢 [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](https://vllm.ai/blog/2026-10-21-humming)
-来源: vLLM Blog | 时间: 2026/10/21 08:00:00
-
----
-
-### 📢 [Introducing vLLM TorchTPU](https://vllm.ai/blog/2026-10-20-vllm-torchtpu)
-来源: vLLM Blog | 时间: 2026/10/20 08:00:00
-
----
-
-### 📢 [How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith](https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith)
-来源: LangChain Blog | 时间: 2026/10/20 00:44:34
-
----
-
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London](https://www.langchain.com/blog/october-2026-langchain-newsletter)
-来源: LangChain Blog | 时间: 2026/10/16 01:02:58
-
----
-
-### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
-来源: Google DeepMind | 时间: 2026/10/16 00:08:03
-
----
-
-### 📢 [The Most Common Questions About Agent Evals, Answered](https://www.langchain.com/blog/common-questions-about-agent-evals)
-来源: LangChain Blog | 时间: 2026/10/15 17:18:55
-
----
-
-### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
-来源: Google DeepMind | 时间: 2026/10/14 10:00:14
 
 ---
 <!-- END_LIVE_FEEDS -->
