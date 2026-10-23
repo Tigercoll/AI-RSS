@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/23 05:20:33
+🕒 最后自动更新时间：2026/10/23 12:01:09
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
+来源: vLLM Blog | 时间: 2026/10/23 08:00:00
+
+---
+
+### 📢 [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
+来源: Hugging Face Blog | 时间: 2026/10/23 06:24:34
+
+---
+
 ### 📢 [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
 来源: OpenAI | 时间: 2026/10/23 03:00:00
 
@@ -37,6 +47,21 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage](https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/23 00:39:12
+
+---
+
+### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
+来源: Google DeepMind | 时间: 2026/10/22 22:30:24
+
+---
+
+### 📢 [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
+来源: LangChain Blog | 时间: 2026/10/22 21:09:40
+
+---
+
 ### 📢 [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
 来源: Hugging Face Blog | 时间: 2026/10/22 15:51:31
 
@@ -52,8 +77,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
-来源: Hugging Face Blog | 时间: 2026/10/22 01:35:36
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/22 08:00:00
+
+---
+
+### 📢 [Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes](https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/22 04:23:47
+
+---
+
+### 📢 [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
+来源: Hugging Face Blog | 时间: 2026/10/22 02:26:30
 
 ---
 
@@ -62,28 +97,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
-来源: Hugging Face Blog | 时间: 2026/10/22 00:04:43
+### 📢 [Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search](https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/21 20:57:05
 
 ---
 
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/10/21 08:00:00
+### 📢 [Inside NVIDIA Sentry: Secure AI Agents at Runtime](https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/21 17:52:19
 
 ---
 
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [Features](https://www.anthropic.com/news/features)
-来源: Anthropic News | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [Cyber Verification Program](https://www.anthropic.com/news/cyber-verification-program)
-来源: Anthropic News | 时间: 未知时间
+### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
