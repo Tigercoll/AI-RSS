@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/24 00:45:52
+🕒 最后自动更新时间：2026/10/24 05:12:15
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/)
+来源: AWS ML Blog | 时间: 2026/10/24 01:48:54
+
+---
+
 ### 📢 [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
 来源: OpenAI | 时间: 2026/10/24 01:00:00
 
@@ -37,13 +42,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Using AI Agents to Teach Robots Like Microduck to Walk in Simulation](https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/23 22:58:36
+### 📢 [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
+来源: OpenAI | 时间: 2026/10/23 18:00:00
 
 ---
 
 ### 📢 [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)
 来源: OpenAI | 时间: 2026/10/23 08:00:00
+
+---
+
+### 📢 [GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s](https://vllm.ai/blog/2026-10-23-glm53-part2-pcp-dcp-hisparse)
+来源: vLLM Blog | 时间: 2026/10/23 08:00:00
 
 ---
 
@@ -62,28 +72,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Amazon Polly delivers a major upgrade to its Generative engine](https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/)
-来源: AWS ML Blog | 时间: 2026/10/23 02:06:35
-
----
-
-### 📢 [How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage](https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/23 00:39:12
-
----
-
 ### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
 来源: Google DeepMind | 时间: 2026/10/22 22:30:24
-
----
-
-### 📢 [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
-来源: Hugging Face Blog | 时间: 2026/10/22 15:51:31
-
----
-
-### 📢 [What FDE means at OpenAI](https://openai.com/index/forward-deployed-engineering-means)
-来源: OpenAI | 时间: 2026/10/22 14:00:00
 
 ---
 
@@ -92,23 +82,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes](https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/22 04:23:47
-
----
-
-### 📢 [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
-来源: Hugging Face Blog | 时间: 2026/10/22 01:35:36
-
----
-
-### 📢 [Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search](https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/21 20:57:05
+### 📢 [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
+来源: Hugging Face Blog | 时间: 2026/10/22 02:26:30
 
 ---
 
 ### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
 来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
+### 📢 [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](https://vllm.ai/blog/2026-10-21-humming)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
+### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
+来源: Ollama Blog | 时间: 2026/10/19 08:00:00
+
+---
+
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
+
+---
+
+### 📢 [Reflection's Beam is freely available on Ollama for a limited time](https://ollama.com/blog/reflection-beam)
+来源: Ollama Blog | 时间: 2026/10/16 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
