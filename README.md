@@ -5,20 +5,35 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/24 11:55:24
+🕒 最后自动更新时间：2026/10/24 18:36:14
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence](https://www.kimi.com/blog/kimi-k3-1-pro)
+来源: Kimi Blog | 时间: 2026/11/4 08:00:00
+
+---
+
 ### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
 来源: LangChain Blog | 时间: 2026/10/24 09:05:29
 
 ---
 
+### 📢 [Vercel CLI adds Spend Management](https://vercel.com/changelog/vercel-cli-adds-spend-management)
+来源: Vercel AI SDK | 时间: 2026/10/24 05:44:00
+
+---
+
 ### 📢 [Context Engineering (Agent Memory) for AI Agents Starts with Retrieval](https://www.langchain.com/blog/context-engineering-starts-with-retrieval)
 来源: LangChain Blog | 时间: 2026/10/24 05:32:37
+
+---
+
+### 📢 [How Vercel Agent accesses production safely](https://vercel.com/blog/how-vercel-agent-accesses-production-safely)
+来源: Vercel AI SDK | 时间: 2026/10/24 04:29:00
 
 ---
 
@@ -39,6 +54,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
 来源: OpenAI | 时间: 2026/10/24 01:00:00
+
+---
+
+### 📢 [Vercel Connect adds managed Stripe API keys](https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys)
+来源: Vercel AI SDK | 时间: 2026/10/24 01:00:00
 
 ---
 
@@ -72,6 +92,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How Interfaze serves 50 million requests a month on Vercel](https://vercel.com/blog/how-interfaze-serves-50-million-requests-a-month-on-vercel)
+来源: Vercel AI SDK | 时间: 2026/10/23 12:00:00
+
+---
+
 ### 📢 [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)
 来源: OpenAI | 时间: 2026/10/23 08:00:00
 
@@ -84,31 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s](https://vllm.ai/blog/2026-10-23-glm53-part2-pcp-dcp-hisparse)
 来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
-来源: OpenAI | 时间: 2026/10/23 03:00:00
-
----
-
-### 📢 [How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage](https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/23 00:39:12
-
----
-
-### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
-来源: Google DeepMind | 时间: 2026/10/22 22:30:24
-
----
-
-### 📢 [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
-来源: LangChain Blog | 时间: 2026/10/22 21:09:40
 
 ---
 <!-- END_LIVE_FEEDS -->
