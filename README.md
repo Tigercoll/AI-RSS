@@ -5,15 +5,35 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/24 05:12:15
+🕒 最后自动更新时间：2026/10/24 11:55:24
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
+来源: LangChain Blog | 时间: 2026/10/24 09:05:29
+
+---
+
+### 📢 [Context Engineering (Agent Memory) for AI Agents Starts with Retrieval](https://www.langchain.com/blog/context-engineering-starts-with-retrieval)
+来源: LangChain Blog | 时间: 2026/10/24 05:32:37
+
+---
+
 ### 📢 [Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/)
 来源: AWS ML Blog | 时间: 2026/10/24 01:48:54
+
+---
+
+### 📢 [Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2](https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/24 01:27:55
+
+---
+
+### 📢 [Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1](https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/24 01:27:38
 
 ---
 
@@ -42,6 +62,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Using AI Agents to Teach Robots Like Microduck to Walk in Simulation](https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/23 22:58:36
+
+---
+
 ### 📢 [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
 来源: OpenAI | 时间: 2026/10/23 18:00:00
 
@@ -49,6 +74,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)
 来源: OpenAI | 时间: 2026/10/23 08:00:00
+
+---
+
+### 📢 [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
+来源: Hugging Face Blog | 时间: 2026/10/23 08:00:00
 
 ---
 
@@ -62,13 +92,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
-来源: Hugging Face Blog | 时间: 2026/10/23 06:24:34
+### 📢 [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
+来源: OpenAI | 时间: 2026/10/23 03:00:00
 
 ---
 
-### 📢 [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
-来源: OpenAI | 时间: 2026/10/23 03:00:00
+### 📢 [How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage](https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/23 00:39:12
 
 ---
 
@@ -77,38 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/10/22 08:00:00
-
----
-
-### 📢 [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
-来源: Hugging Face Blog | 时间: 2026/10/22 02:26:30
-
----
-
-### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
-来源: vLLM Blog | 时间: 2026/10/21 08:00:00
-
----
-
-### 📢 [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](https://vllm.ai/blog/2026-10-21-humming)
-来源: vLLM Blog | 时间: 2026/10/21 08:00:00
-
----
-
-### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
-来源: Ollama Blog | 时间: 2026/10/19 08:00:00
-
----
-
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [Reflection's Beam is freely available on Ollama for a limited time](https://ollama.com/blog/reflection-beam)
-来源: Ollama Blog | 时间: 2026/10/16 08:00:00
+### 📢 [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
+来源: LangChain Blog | 时间: 2026/10/22 21:09:40
 
 ---
 <!-- END_LIVE_FEEDS -->
