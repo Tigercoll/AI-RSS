@@ -5,60 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/24 18:36:14
+🕒 最后自动更新时间：2026/10/24 23:38:19
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence](https://www.kimi.com/blog/kimi-k3-1-pro)
-来源: Kimi Blog | 时间: 2026/11/4 08:00:00
-
----
-
-### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
-来源: LangChain Blog | 时间: 2026/10/24 09:05:29
-
----
-
-### 📢 [Vercel CLI adds Spend Management](https://vercel.com/changelog/vercel-cli-adds-spend-management)
-来源: Vercel AI SDK | 时间: 2026/10/24 05:44:00
-
----
-
-### 📢 [Context Engineering (Agent Memory) for AI Agents Starts with Retrieval](https://www.langchain.com/blog/context-engineering-starts-with-retrieval)
-来源: LangChain Blog | 时间: 2026/10/24 05:32:37
-
----
-
-### 📢 [How Vercel Agent accesses production safely](https://vercel.com/blog/how-vercel-agent-accesses-production-safely)
-来源: Vercel AI SDK | 时间: 2026/10/24 04:29:00
-
----
-
 ### 📢 [Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/)
 来源: AWS ML Blog | 时间: 2026/10/24 01:48:54
 
 ---
 
-### 📢 [Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2](https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/24 01:27:55
-
----
-
-### 📢 [Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1](https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/24 01:27:38
-
----
-
 ### 📢 [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
 来源: OpenAI | 时间: 2026/10/24 01:00:00
-
----
-
-### 📢 [Vercel Connect adds managed Stripe API keys](https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys)
-来源: Vercel AI SDK | 时间: 2026/10/24 01:00:00
 
 ---
 
@@ -77,23 +37,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
-来源: Hugging Face Blog | 时间: 2026/10/24 00:15:50
-
----
-
-### 📢 [Using AI Agents to Teach Robots Like Microduck to Walk in Simulation](https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/23 22:58:36
-
----
-
 ### 📢 [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
 来源: OpenAI | 时间: 2026/10/23 18:00:00
-
----
-
-### 📢 [How Interfaze serves 50 million requests a month on Vercel](https://vercel.com/blog/how-interfaze-serves-50-million-requests-a-month-on-vercel)
-来源: Vercel AI SDK | 时间: 2026/10/23 12:00:00
 
 ---
 
@@ -109,6 +54,61 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s](https://vllm.ai/blog/2026-10-23-glm53-part2-pcp-dcp-hisparse)
 来源: vLLM Blog | 时间: 2026/10/23 08:00:00
+
+---
+
+### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
+来源: vLLM Blog | 时间: 2026/10/23 08:00:00
+
+---
+
+### 📢 [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
+来源: Hugging Face Blog | 时间: 2026/10/23 06:24:34
+
+---
+
+### 📢 [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
+来源: OpenAI | 时间: 2026/10/23 03:00:00
+
+---
+
+### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
+来源: Google DeepMind | 时间: 2026/10/22 22:30:24
+
+---
+
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/22 08:00:00
+
+---
+
+### 📢 [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
+来源: Hugging Face Blog | 时间: 2026/10/22 02:26:30
+
+---
+
+### 📢 [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
+来源: Hugging Face Blog | 时间: 2026/10/22 01:35:36
+
+---
+
+### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
+### 📢 [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](https://vllm.ai/blog/2026-10-21-humming)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
+
+---
+
+### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
+来源: Google DeepMind | 时间: 2026/10/16 00:08:03
 
 ---
 <!-- END_LIVE_FEEDS -->
