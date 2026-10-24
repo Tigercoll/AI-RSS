@@ -5,35 +5,15 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/24 23:38:19
+🕒 最后自动更新时间：2026/10/25 04:28:48
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/)
-来源: AWS ML Blog | 时间: 2026/10/24 01:48:54
-
----
-
 ### 📢 [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
 来源: OpenAI | 时间: 2026/10/24 01:00:00
-
----
-
-### 📢 [Orchestrating SageMaker AI endpoint auto scaling with AWS CDK](https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/)
-来源: AWS ML Blog | 时间: 2026/10/24 00:30:10
-
----
-
-### 📢 [Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps](https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/)
-来源: AWS ML Blog | 时间: 2026/10/24 00:24:55
-
----
-
-### 📢 [How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations](https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/)
-来源: AWS ML Blog | 时间: 2026/10/24 00:21:36
 
 ---
 
@@ -49,16 +29,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
 来源: Hugging Face Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s](https://vllm.ai/blog/2026-10-23-glm53-part2-pcp-dcp-hisparse)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
 
 ---
 
@@ -92,16 +62,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
-来源: vLLM Blog | 时间: 2026/10/21 08:00:00
-
----
-
-### 📢 [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](https://vllm.ai/blog/2026-10-21-humming)
-来源: vLLM Blog | 时间: 2026/10/21 08:00:00
-
----
-
 ### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
 来源: Anthropic News | 时间: 2026/10/18 08:00:00
 
@@ -109,6 +69,21 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
 来源: Google DeepMind | 时间: 2026/10/16 00:08:03
+
+---
+
+### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
+来源: Google DeepMind | 时间: 2026/10/14 10:00:14
+
+---
+
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
+
+---
+
+### 📢 [Cyber Verification Program](https://www.anthropic.com/news/cyber-verification-program)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
