@@ -5,40 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/25 23:49:21
+🕒 最后自动更新时间：2026/10/26 04:36:03
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
-来源: LangChain Blog | 时间: 2026/10/24 09:05:29
-
----
-
 ### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
 来源: Ollama Blog | 时间: 2026/10/24 08:00:00
 
 ---
 
-### 📢 [Context Engineering (Agent Memory) for AI Agents Starts with Retrieval](https://www.langchain.com/blog/context-engineering-starts-with-retrieval)
-来源: LangChain Blog | 时间: 2026/10/24 05:32:37
-
----
-
 ### 📢 [Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/)
 来源: AWS ML Blog | 时间: 2026/10/24 01:48:54
-
----
-
-### 📢 [Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2](https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/24 01:27:55
-
----
-
-### 📢 [Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1](https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/24 01:27:38
 
 ---
 
@@ -59,16 +39,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations](https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/)
 来源: AWS ML Blog | 时间: 2026/10/24 00:21:36
-
----
-
-### 📢 [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
-来源: Hugging Face Blog | 时间: 2026/10/24 00:15:50
-
----
-
-### 📢 [Using AI Agents to Teach Robots Like Microduck to Walk in Simulation](https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/23 22:58:36
 
 ---
 
@@ -102,13 +72,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
+来源: Hugging Face Blog | 时间: 2026/10/23 06:24:34
+
+---
+
 ### 📢 [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
 来源: OpenAI | 时间: 2026/10/23 03:00:00
 
 ---
 
-### 📢 [How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage](https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/23 00:39:12
+### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
+来源: Google DeepMind | 时间: 2026/10/22 22:30:24
+
+---
+
+### 📢 [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
+来源: Hugging Face Blog | 时间: 2026/10/22 15:51:31
+
+---
+
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/22 08:00:00
+
+---
+
+### 📢 [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
+来源: Hugging Face Blog | 时间: 2026/10/22 01:35:36
+
+---
+
+### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
+### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
+来源: Ollama Blog | 时间: 2026/10/19 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
