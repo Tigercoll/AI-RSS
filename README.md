@@ -5,15 +5,30 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/26 04:36:03
+🕒 最后自动更新时间：2026/10/26 07:05:48
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [The five components of building a "company harness"](https://www.langchain.com/blog/components-building-company-harness)
+来源: LangChain Blog | 时间: 2026/10/26 02:06:32
+
+---
+
+### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
+来源: LangChain Blog | 时间: 2026/10/24 09:05:29
+
+---
+
 ### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
 来源: Ollama Blog | 时间: 2026/10/24 08:00:00
+
+---
+
+### 📢 [Context Engineering (Agent Memory) for AI Agents Starts with Retrieval](https://www.langchain.com/blog/context-engineering-starts-with-retrieval)
+来源: LangChain Blog | 时间: 2026/10/24 05:32:37
 
 ---
 
@@ -42,6 +57,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
+来源: Hugging Face Blog | 时间: 2026/10/24 00:15:50
+
+---
+
 ### 📢 [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
 来源: OpenAI | 时间: 2026/10/23 18:00:00
 
@@ -49,11 +69,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)
 来源: OpenAI | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
-来源: Hugging Face Blog | 时间: 2026/10/23 08:00:00
 
 ---
 
@@ -87,28 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
+来源: LangChain Blog | 时间: 2026/10/22 21:09:40
+
+---
+
 ### 📢 [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
 来源: Hugging Face Blog | 时间: 2026/10/22 15:51:31
-
----
-
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/10/22 08:00:00
-
----
-
-### 📢 [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
-来源: Hugging Face Blog | 时间: 2026/10/22 01:35:36
-
----
-
-### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
-来源: vLLM Blog | 时间: 2026/10/21 08:00:00
-
----
-
-### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
-来源: Ollama Blog | 时间: 2026/10/19 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
