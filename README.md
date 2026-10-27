@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/27 16:47:04
+🕒 最后自动更新时间：2026/10/27 23:13:47
 
 ---
 
@@ -14,21 +14,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)
 来源: OpenAI | 时间: 2026/10/27 06:00:00
-
----
-
-### 📢 [Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3](https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/)
-来源: AWS ML Blog | 时间: 2026/10/27 01:56:58
-
----
-
-### 📢 [Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/10/27 01:27:20
-
----
-
-### 📢 [Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK](https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/)
-来源: AWS ML Blog | 时间: 2026/10/27 01:15:14
 
 ---
 
@@ -72,13 +57,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/)
-来源: AWS ML Blog | 时间: 2026/10/24 01:48:54
-
----
-
-### 📢 [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
-来源: Hugging Face Blog | 时间: 2026/10/24 00:15:50
+### 📢 [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
+来源: Hugging Face Blog | 时间: 2026/10/23 08:00:00
 
 ---
 
@@ -109,6 +89,26 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
 来源: LangChain Blog | 时间: 2026/10/22 21:28:39
+
+---
+
+### 📢 [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
+来源: Hugging Face Blog | 时间: 2026/10/22 15:51:31
+
+---
+
+### 📢 [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
+来源: Hugging Face Blog | 时间: 2026/10/22 02:26:30
+
+---
+
+### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
+来源: vLLM Blog | 时间: 2026/10/21 08:00:00
+
+---
+
+### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
+来源: Ollama Blog | 时间: 2026/10/19 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
