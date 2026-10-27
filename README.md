@@ -5,13 +5,63 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/27 23:13:47
+🕒 最后自动更新时间：2026/10/28 05:57:45
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service](https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/)
+来源: AWS ML Blog | 时间: 2026/10/28 02:03:12
+
+---
+
+### 📢 [Build specialized multimodal models with LFM3](https://huggingface.co/blog/LiquidAI/lfm3)
+来源: Hugging Face Blog | 时间: 2026/10/28 01:16:52
+
+---
+
+### 📢 [How We Built Our Design Agent](https://www.langchain.com/blog/design-agent)
+来源: LangChain Blog | 时间: 2026/10/28 01:05:05
+
+---
+
+### 📢 [Announcing SOCI-indexed images for faster SageMaker AI jobs](https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/)
+来源: AWS ML Blog | 时间: 2026/10/28 01:00:39
+
+---
+
+### 📢 [Fix evaluation bias to unlock better models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/10/28 00:53:02
+
+---
+
+### 📢 [Exowatt beats frontier models on accuracy with SageMaker serverless model customization](https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/)
+来源: AWS ML Blog | 时间: 2026/10/28 00:50:55
+
+---
+
+### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+来源: Google DeepMind | 时间: 2026/10/28 00:01:38
+
+---
+
+### 📢 [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)
+来源: OpenAI | 时间: 2026/10/27 15:00:00
+
+---
+
+### 📢 [How Check Point accelerates vulnerability research with Daybreak](https://openai.com/index/check-point-daybreak)
+来源: OpenAI | 时间: 2026/10/27 08:00:00
+
+---
+
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/27 08:00:00
+
+---
+
 ### 📢 [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)
 来源: OpenAI | 时间: 2026/10/27 06:00:00
 
@@ -37,21 +87,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)
-来源: OpenAI | 时间: 2026/10/26 21:45:00
-
----
-
-### 📢 [ChatGPT’s expanding world of work](https://openai.com/index/chatgpt-expanding-world-of-work)
-来源: OpenAI | 时间: 2026/10/26 18:00:00
-
----
-
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/10/26 08:00:00
-
----
-
 ### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
 来源: Ollama Blog | 时间: 2026/10/24 08:00:00
 
@@ -74,41 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
 来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
-来源: Hugging Face Blog | 时间: 2026/10/23 06:24:34
-
----
-
-### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
-来源: Google DeepMind | 时间: 2026/10/22 22:30:24
-
----
-
-### 📢 [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents)
-来源: LangChain Blog | 时间: 2026/10/22 21:28:39
-
----
-
-### 📢 [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
-来源: Hugging Face Blog | 时间: 2026/10/22 15:51:31
-
----
-
-### 📢 [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
-来源: Hugging Face Blog | 时间: 2026/10/22 02:26:30
-
----
-
-### 📢 [Day-0 Support for Flint on vLLM](https://vllm.ai/blog/2026-10-21-flint)
-来源: vLLM Blog | 时间: 2026/10/21 08:00:00
-
----
-
-### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
-来源: Ollama Blog | 时间: 2026/10/19 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
