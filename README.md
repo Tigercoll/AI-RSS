@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/28 05:57:45
+🕒 最后自动更新时间：2026/10/28 12:50:34
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games](https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/28 05:10:58
+
+---
+
+### 📢 [Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4](https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/28 04:50:45
+
+---
+
 ### 📢 [AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service](https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/)
 来源: AWS ML Blog | 时间: 2026/10/28 02:03:12
 
@@ -42,8 +52,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Can we trust LLMs to judge whether a research idea is novel?](https://huggingface.co/blog/allenai/novelty-bench)
+来源: Hugging Face Blog | 时间: 2026/10/28 00:12:42
+
+---
+
 ### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 来源: Google DeepMind | 时间: 2026/10/28 00:01:38
+
+---
+
+### 📢 [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)
+来源: OpenAI | 时间: 2026/10/27 23:00:00
 
 ---
 
@@ -62,8 +82,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [3 Ways to Boost MoE Inference on NVIDIA DGX Spark](https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/27 06:25:17
+
+---
+
 ### 📢 [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)
 来源: OpenAI | 时间: 2026/10/27 06:00:00
+
+---
+
+### 📢 [Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages](https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/27 04:49:12
 
 ---
 
@@ -79,36 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
 来源: LangChain Blog | 时间: 2026/10/26 23:32:16
-
----
-
-### 📢 [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities)
-来源: OpenAI | 时间: 2026/10/26 22:30:00
-
----
-
-### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
-来源: Ollama Blog | 时间: 2026/10/24 08:00:00
-
----
-
-### 📢 [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
-来源: Hugging Face Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [Serving DeepSeek-V4.1-Flash at Scale: vLLM Matches DeepInfer and Scales to GB300 NVL72](https://vllm.ai/blog/2026-10-23-deepseek-v41-flash-pd-wide-ep)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s](https://vllm.ai/blog/2026-10-23-glm53-part2-pcp-dcp-hisparse)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
