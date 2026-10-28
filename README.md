@@ -5,35 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/28 12:50:34
+🕒 最后自动更新时间：2026/10/28 20:24:21
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games](https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/28 05:10:58
-
----
-
-### 📢 [Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4](https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/28 04:50:45
+### 📢 [Legora is building the agentic operating system for legal work](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
+来源: OpenAI | 时间: 2026/10/28 17:30:00
 
 ---
 
 ### 📢 [AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service](https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/)
 来源: AWS ML Blog | 时间: 2026/10/28 02:03:12
-
----
-
-### 📢 [Build specialized multimodal models with LFM3](https://huggingface.co/blog/LiquidAI/lfm3)
-来源: Hugging Face Blog | 时间: 2026/10/28 01:16:52
-
----
-
-### 📢 [How We Built Our Design Agent](https://www.langchain.com/blog/design-agent)
-来源: LangChain Blog | 时间: 2026/10/28 01:05:05
 
 ---
 
@@ -49,11 +34,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Exowatt beats frontier models on accuracy with SageMaker serverless model customization](https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/)
 来源: AWS ML Blog | 时间: 2026/10/28 00:50:55
-
----
-
-### 📢 [Can we trust LLMs to judge whether a research idea is novel?](https://huggingface.co/blog/allenai/novelty-bench)
-来源: Hugging Face Blog | 时间: 2026/10/28 00:12:42
 
 ---
 
@@ -82,33 +62,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [3 Ways to Boost MoE Inference on NVIDIA DGX Spark](https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/27 06:25:17
+### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
+来源: Google DeepMind | 时间: 2026/10/22 22:30:24
 
 ---
 
-### 📢 [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)
-来源: OpenAI | 时间: 2026/10/27 06:00:00
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
 
 ---
 
-### 📢 [Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages](https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/27 04:49:12
+### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
+来源: Google DeepMind | 时间: 2026/10/16 00:08:03
 
 ---
 
-### 📢 [The five components of building a "company harness"](https://www.langchain.com/blog/components-building-company-harness)
-来源: LangChain Blog | 时间: 2026/10/26 23:32:16
+### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
+来源: Google DeepMind | 时间: 2026/10/14 10:00:14
 
 ---
 
-### 📢 [Context Engineering (Agent Memory) for AI Agents Starts with Retrieval](https://www.langchain.com/blog/context-engineering-starts-with-retrieval)
-来源: LangChain Blog | 时间: 2026/10/26 23:32:16
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
 
 ---
 
-### 📢 [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember)
-来源: LangChain Blog | 时间: 2026/10/26 23:32:16
+### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
