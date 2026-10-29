@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/29 08:40:56
+🕒 最后自动更新时间：2026/10/29 17:38:34
 
 ---
 
@@ -77,6 +77,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+来源: Google DeepMind | 时间: 2026/10/28 00:01:38
+
+---
+
 ### 📢 [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)
 来源: OpenAI | 时间: 2026/10/27 23:00:00
 
@@ -84,6 +89,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [3 Ways to Boost MoE Inference on NVIDIA DGX Spark](https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/27 06:25:17
+
+---
+
+### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
+来源: Ollama Blog | 时间: 2026/10/24 08:00:00
 
 ---
 
@@ -99,16 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
 来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
-来源: Hugging Face Blog | 时间: 2026/10/23 06:24:34
-
----
-
-### 📢 [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
-来源: Hugging Face Blog | 时间: 2026/10/22 15:51:31
 
 ---
 <!-- END_LIVE_FEEDS -->
