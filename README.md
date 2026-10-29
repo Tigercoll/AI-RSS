@@ -5,13 +5,83 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/29 17:38:34
+🕒 最后自动更新时间：2026/10/30 02:14:28
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Managed Deep Agents v0.10: Browser Use and Async Subagents](https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents)
+来源: LangChain Blog | 时间: 2026/10/30 01:03:39
+
+---
+
+### 📢 [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)
+来源: OpenAI | 时间: 2026/10/30 01:00:00
+
+---
+
+### 📢 [Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs](https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/)
+来源: AWS ML Blog | 时间: 2026/10/30 00:58:57
+
+---
+
+### 📢 [How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/)
+来源: AWS ML Blog | 时间: 2026/10/30 00:54:52
+
+---
+
+### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/10/30 00:22:04
+
+---
+
+### 📢 [Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS](https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/)
+来源: AWS ML Blog | 时间: 2026/10/30 00:11:08
+
+---
+
+### 📢 [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
+来源: Hugging Face Blog | 时间: 2026/10/29 21:37:07
+
+---
+
+### 📢 [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)
+来源: OpenAI | 时间: 2026/10/29 17:00:00
+
+---
+
+### 📢 [How Ropes & Gray is developing AI for transactional diligence](https://openai.com/index/ropes-gray-ai-diligence)
+来源: OpenAI | 时间: 2026/10/29 15:00:00
+
+---
+
+### 📢 [Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials](https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/29 08:07:21
+
+---
+
+### 📢 [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)
+来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
+
+---
+
+### 📢 [Day 0 support for Mistral Large 4 on vLLM](https://vllm.ai/blog/2026-10-29-mistral-large-4)
+来源: vLLM Blog | 时间: 2026/10/29 08:00:00
+
+---
+
+### 📢 [How We Built LangChain’s Paid Media Agent](https://www.langchain.com/blog/paid-media-agent)
+来源: LangChain Blog | 时间: 2026/10/29 05:40:23
+
+---
+
+### 📢 [How We Built Our Design Agent](https://www.langchain.com/blog/design-agent)
+来源: LangChain Blog | 时间: 2026/10/29 05:31:31
+
+---
+
 ### 📢 [Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages](https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages/)
 来源: NVIDIA Developer Blog | 时间: 2026/10/29 02:54:54
 
@@ -22,13 +92,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Distributed training with Ray Train DLCs and EFA on EKS](https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/)
-来源: AWS ML Blog | 时间: 2026/10/29 02:19:54
-
----
-
-### 📢 [Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3](https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/)
-来源: AWS ML Blog | 时间: 2026/10/29 02:12:13
+### 📢 [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
+来源: Hugging Face Blog | 时间: 2026/10/28 22:58:17
 
 ---
 
@@ -42,73 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [The future of the firm](https://openai.com/index/the-future-of-the-firm)
-来源: OpenAI | 时间: 2026/10/28 18:00:00
-
----
-
-### 📢 [Legora is building the agentic operating system for legal work](https://openai.com/index/legora)
-来源: OpenAI | 时间: 2026/10/28 17:30:00
-
----
-
 ### 📢 [Announcements](https://www.anthropic.com/news/announcements)
 来源: Anthropic News | 时间: 2026/10/28 08:00:00
-
----
-
-### 📢 [Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4](https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/28 04:50:45
-
----
-
-### 📢 [AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service](https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/)
-来源: AWS ML Blog | 时间: 2026/10/28 02:03:12
-
----
-
-### 📢 [Build specialized multimodal models with LFM3](https://huggingface.co/blog/LiquidAI/lfm3)
-来源: Hugging Face Blog | 时间: 2026/10/28 01:16:52
-
----
-
-### 📢 [Can we trust LLMs to judge whether a research idea is novel?](https://huggingface.co/blog/allenai/novelty-bench)
-来源: Hugging Face Blog | 时间: 2026/10/28 00:12:42
-
----
-
-### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-来源: Google DeepMind | 时间: 2026/10/28 00:01:38
-
----
-
-### 📢 [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)
-来源: OpenAI | 时间: 2026/10/27 23:00:00
-
----
-
-### 📢 [3 Ways to Boost MoE Inference on NVIDIA DGX Spark](https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/27 06:25:17
-
----
-
-### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
-来源: Ollama Blog | 时间: 2026/10/24 08:00:00
-
----
-
-### 📢 [Serving DeepSeek-V4.1-Flash at Scale: vLLM Matches DeepInfer and Scales to GB300 NVL72](https://vllm.ai/blog/2026-10-23-deepseek-v41-flash-pd-wide-ep)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s](https://vllm.ai/blog/2026-10-23-glm53-part2-pcp-dcp-hisparse)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
