@@ -5,13 +5,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/31 01:52:08
+🕒 最后自动更新时间：2026/10/31 06:04:36
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/)
+来源: AWS ML Blog | 时间: 2026/10/31 05:40:03
+
+---
+
+### 📢 [Build a Validated Kubernetes Runtime for NVIDIA Dynamo](https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/31 05:35:34
+
+---
+
+### 📢 [Run AI Models for Edge Application Development with Just a Few Commands](https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/31 04:33:21
+
+---
+
+### 📢 [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)
+来源: Hugging Face Blog | 时间: 2026/10/31 01:57:24
+
+---
+
 ### 📢 [How Worldwide Express automated freight exceptions with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/10/31 01:32:20
 
@@ -22,8 +42,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Managed Deep Agents v0.10: Browser Use and Async Subagents](https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents)
+来源: LangChain Blog | 时间: 2026/10/31 00:49:51
+
+---
+
+### 📢 [Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw](https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/30 23:11:46
+
+---
+
+### 📢 [How to Check and Configure NVIDIA GPUDirect Storage for Your Platform](https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/30 23:09:18
+
+---
+
+### 📢 [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences)
+来源: OpenAI | 时间: 2026/10/30 17:30:00
+
+---
+
 ### 📢 [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
 来源: OpenAI | 时间: 2026/10/30 17:00:00
+
+---
+
+### 📢 [Fair use benefits everyone](https://openai.com/index/fair-use-benefits-everyone)
+来源: OpenAI | 时间: 2026/10/30 08:00:00
 
 ---
 
@@ -32,63 +77,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Building intent-driven UI testing with Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/)
-来源: AWS ML Blog | 时间: 2026/10/30 02:20:27
-
----
-
 ### 📢 [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)
 来源: OpenAI | 时间: 2026/10/30 01:00:00
 
 ---
 
-### 📢 [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)
-来源: OpenAI | 时间: 2026/10/29 17:00:00
+### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/10/30 00:45:29
 
 ---
 
-### 📢 [How Ropes & Gray is developing AI for transactional diligence](https://openai.com/index/ropes-gray-ai-diligence)
-来源: OpenAI | 时间: 2026/10/29 15:00:00
+### 📢 [How We Built Our Design Agent](https://www.langchain.com/blog/design-agent)
+来源: LangChain Blog | 时间: 2026/10/29 21:20:15
 
 ---
 
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/10/28 08:00:00
+### 📢 [How We Built LangChain’s Paid Media Agent](https://www.langchain.com/blog/paid-media-agent)
+来源: LangChain Blog | 时间: 2026/10/29 21:20:15
 
 ---
 
-### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-来源: Google DeepMind | 时间: 2026/10/28 00:01:38
+### 📢 [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar)
+来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
 
 ---
 
-### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
-来源: Google DeepMind | 时间: 2026/10/22 22:30:24
+### 📢 [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
+来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
 
 ---
 
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
-来源: Google DeepMind | 时间: 2026/10/16 00:08:03
-
----
-
-### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
-来源: Google DeepMind | 时间: 2026/10/14 10:00:14
-
----
-
-### 📢 [Features](https://www.anthropic.com/news/features)
-来源: Anthropic News | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
-来源: Anthropic News | 时间: 未知时间
+### 📢 [Day 0 support for Mistral Large 4 on vLLM](https://vllm.ai/blog/2026-10-29-mistral-large-4)
+来源: vLLM Blog | 时间: 2026/10/29 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
