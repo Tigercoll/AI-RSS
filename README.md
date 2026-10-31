@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/10/31 12:46:11
+🕒 最后自动更新时间：2026/10/31 19:55:54
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Build a Validated Kubernetes Runtime for NVIDIA Dynamo](https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/31 06:52:36
+
+---
+
 ### 📢 [Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams](https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/)
 来源: AWS ML Blog | 时间: 2026/10/31 06:42:24
 
@@ -19,6 +24,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/)
 来源: AWS ML Blog | 时间: 2026/10/31 05:40:03
+
+---
+
+### 📢 [Run AI Models for Edge Application Development with Just a Few Commands](https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/31 04:33:21
+
+---
+
+### 📢 [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)
+来源: Hugging Face Blog | 时间: 2026/10/31 01:57:24
 
 ---
 
@@ -34,6 +49,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Managed Deep Agents v0.10: Browser Use and Async Subagents](https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents)
 来源: LangChain Blog | 时间: 2026/10/31 00:49:51
+
+---
+
+### 📢 [Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw](https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/30 23:11:46
+
+---
+
+### 📢 [How to Check and Configure NVIDIA GPUDirect Storage for Your Platform](https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/30 23:09:18
 
 ---
 
@@ -77,38 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar)
-来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
-
----
-
 ### 📢 [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)
-来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
-
----
-
-### 📢 [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
 来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
 
 ---
 
 ### 📢 [Day 0 support for Mistral Large 4 on vLLM](https://vllm.ai/blog/2026-10-29-mistral-large-4)
 来源: vLLM Blog | 时间: 2026/10/29 08:00:00
-
----
-
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/10/28 08:00:00
-
----
-
-### 📢 [Serving DeepSeek-V4.1-Flash at Scale: vLLM Matches DeepInfer and Scales to GB300 NVL72](https://vllm.ai/blog/2026-10-23-deepseek-v41-flash-pd-wide-ep)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s](https://vllm.ai/blog/2026-10-23-glm53-part2-pcp-dcp-hisparse)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
