@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/1 01:01:27
+🕒 最后自动更新时间：2026/11/1 05:13:56
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Build a Validated Kubernetes Runtime for NVIDIA Dynamo](https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/31 06:52:36
+
+---
+
 ### 📢 [Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams](https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/)
 来源: AWS ML Blog | 时间: 2026/10/31 06:42:24
 
@@ -22,6 +27,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Run AI Models for Edge Application Development with Just a Few Commands](https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/31 04:33:21
+
+---
+
 ### 📢 [How Worldwide Express automated freight exceptions with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/10/31 01:32:20
 
@@ -29,6 +39,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/)
 来源: AWS ML Blog | 时间: 2026/10/31 01:27:45
+
+---
+
+### 📢 [Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw](https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/30 23:11:46
+
+---
+
+### 📢 [How to Check and Configure NVIDIA GPUDirect Storage for Your Platform](https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/30 23:09:18
 
 ---
 
@@ -52,8 +72,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
+来源: Hugging Face Blog | 时间: 2026/10/29 21:37:07
+
+---
+
+### 📢 [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)
+来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
+
+---
+
+### 📢 [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
+来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
+
+---
+
 ### 📢 [Announcements](https://www.anthropic.com/news/announcements)
 来源: Anthropic News | 时间: 2026/10/28 08:00:00
+
+---
+
+### 📢 [Build specialized multimodal models with LFM3](https://huggingface.co/blog/LiquidAI/lfm3)
+来源: Hugging Face Blog | 时间: 2026/10/28 01:16:52
 
 ---
 
