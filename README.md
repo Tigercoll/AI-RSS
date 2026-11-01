@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/1 20:54:27
+🕒 最后自动更新时间：2026/11/2 03:26:33
 
 ---
 
@@ -52,31 +52,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
-来源: Hugging Face Blog | 时间: 2026/10/29 21:37:07
-
----
-
-### 📢 [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar)
-来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
-
----
-
-### 📢 [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)
-来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
-
----
-
-### 📢 [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
-来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
-
----
-
-### 📢 [Day 0 support for Mistral Large 4 on vLLM](https://vllm.ai/blog/2026-10-29-mistral-large-4)
-来源: vLLM Blog | 时间: 2026/10/29 08:00:00
-
----
-
 ### 📢 [Announcements](https://www.anthropic.com/news/announcements)
 来源: Anthropic News | 时间: 2026/10/28 08:00:00
 
@@ -87,21 +62,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Serving DeepSeek-V4.1-Flash at Scale: vLLM Matches DeepInfer and Scales to GB300 NVL72](https://vllm.ai/blog/2026-10-23-deepseek-v41-flash-pd-wide-ep)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s](https://vllm.ai/blog/2026-10-23-glm53-part2-pcp-dcp-hisparse)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](https://vllm.ai/blog/2026-10-23-minimax-m31-flash)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
 ### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
 来源: Google DeepMind | 时间: 2026/10/22 22:30:24
 
@@ -109,6 +69,26 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
 来源: Anthropic News | 时间: 2026/10/18 08:00:00
+
+---
+
+### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
+来源: Google DeepMind | 时间: 2026/10/16 00:08:03
+
+---
+
+### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
+来源: Google DeepMind | 时间: 2026/10/14 10:00:14
+
+---
+
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
+
+---
+
+### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
