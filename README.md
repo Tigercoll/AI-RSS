@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/2 03:26:33
+🕒 最后自动更新时间：2026/11/2 08:25:47
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Build a Validated Kubernetes Runtime for NVIDIA Dynamo](https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/31 06:52:36
+
+---
+
 ### 📢 [Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams](https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/)
 来源: AWS ML Blog | 时间: 2026/10/31 06:42:24
 
@@ -22,6 +27,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Run AI Models for Edge Application Development with Just a Few Commands](https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/31 04:33:21
+
+---
+
 ### 📢 [How Worldwide Express automated freight exceptions with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/)
 来源: AWS ML Blog | 时间: 2026/10/31 01:32:20
 
@@ -29,6 +39,21 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/)
 来源: AWS ML Blog | 时间: 2026/10/31 01:27:45
+
+---
+
+### 📢 [Managed Deep Agents v0.10: Browser Use and Async Subagents](https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents)
+来源: LangChain Blog | 时间: 2026/10/31 00:49:51
+
+---
+
+### 📢 [Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw](https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/30 23:11:46
+
+---
+
+### 📢 [How to Check and Configure NVIDIA GPUDirect Storage for Your Platform](https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/)
+来源: NVIDIA Developer Blog | 时间: 2026/10/30 23:09:18
 
 ---
 
@@ -52,43 +77,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/10/28 08:00:00
+### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/10/30 00:45:29
 
 ---
 
-### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-来源: Google DeepMind | 时间: 2026/10/28 00:01:38
+### 📢 [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
+来源: Hugging Face Blog | 时间: 2026/10/29 21:37:07
 
 ---
 
-### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
-来源: Google DeepMind | 时间: 2026/10/22 22:30:24
+### 📢 [How We Built Our Design Agent](https://www.langchain.com/blog/design-agent)
+来源: LangChain Blog | 时间: 2026/10/29 21:20:15
 
 ---
 
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
+### 📢 [How We Built LangChain’s Paid Media Agent](https://www.langchain.com/blog/paid-media-agent)
+来源: LangChain Blog | 时间: 2026/10/29 21:20:15
 
 ---
 
-### 📢 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
-来源: Google DeepMind | 时间: 2026/10/16 00:08:03
+### 📢 [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar)
+来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
 
 ---
 
-### 📢 [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
-来源: Google DeepMind | 时间: 2026/10/14 10:00:14
+### 📢 [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
+来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
 
 ---
 
-### 📢 [Features](https://www.anthropic.com/news/features)
-来源: Anthropic News | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
-来源: Anthropic News | 时间: 未知时间
+### 📢 [Day 0 support for Mistral Large 4 on vLLM](https://vllm.ai/blog/2026-10-29-mistral-large-4)
+来源: vLLM Blog | 时间: 2026/10/29 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
