@@ -5,15 +5,65 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/3 21:52:21
+🕒 最后自动更新时间：2026/11/4 04:50:55
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
+来源: Google DeepMind | 时间: 2026/11/4 01:01:49
+
+---
+
+### 📢 [Bring structured and unstructured data together with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/11/4 00:49:29
+
+---
+
+### 📢 [ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/)
+来源: AWS ML Blog | 时间: 2026/11/4 00:47:40
+
+---
+
+### 📢 [How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search](https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/)
+来源: AWS ML Blog | 时间: 2026/11/4 00:43:20
+
+---
+
+### 📢 [Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/11/4 00:41:13
+
+---
+
+### 📢 [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
+来源: Hugging Face Blog | 时间: 2026/11/4 00:35:36
+
+---
+
+### 📢 [Accelerating engineering for the physical world](https://openai.com/index/accelerating-engineering-for-the-physical-world)
+来源: OpenAI | 时间: 2026/11/3 20:00:00
+
+---
+
+### 📢 [How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber)
+来源: OpenAI | 时间: 2026/11/3 16:00:00
+
+---
+
 ### 📢 [Heimstaden is changing residential real estate management with AI](https://openai.com/index/heimstaden)
 来源: OpenAI | 时间: 2026/11/3 16:00:00
+
+---
+
+### 📢 [OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)
+来源: OpenAI | 时间: 2026/11/3 08:00:00
+
+---
+
+### 📢 [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench)
+来源: Hugging Face Blog | 时间: 2026/11/3 08:00:00
 
 ---
 
@@ -22,78 +72,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Diagnose Distributed AI Workload Failures with NVIDIA Attribution](https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/3 07:39:38
-
----
-
-### 📢 [Keep Distributed Training Running with Automated Workload Recovery](https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/3 06:43:09
-
----
-
-### 📢 [Managed Deep Agents: the fastest way to ship a production deep agent](https://www.langchain.com/blog/introducing-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/3 06:28:13
-
----
-
-### 📢 [New context engineering challenges in late 2026](https://www.langchain.com/blog/context-engineering-challenges-late-2026)
-来源: LangChain Blog | 时间: 2026/11/3 04:35:55
-
----
-
-### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/3 04:35:55
-
----
-
-### 📢 [Rewarding defenders with bigger bug bounties](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)
-来源: OpenAI | 时间: 2026/11/3 02:00:00
-
----
-
-### 📢 [Build World Models for Interactive Simulation with NVIDIA Cosmos](https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/3 01:40:03
-
----
-
-### 📢 [Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI](https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/)
-来源: AWS ML Blog | 时间: 2026/11/3 01:11:21
-
----
-
-### 📢 [Build efficient agents with knowledge distillation on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/11/3 01:01:31
-
----
-
-### 📢 [Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/11/3 01:01:16
-
----
-
-### 📢 [How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/11/3 01:00:58
-
----
-
-### 📢 [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai)
-来源: OpenAI | 时间: 2026/11/2 23:30:00
-
----
-
-### 📢 [Introducing the Grid Protectors Program](https://openai.com/index/grid-protectors-program)
-来源: OpenAI | 时间: 2026/11/2 23:00:00
-
----
-
-### 📢 [Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One](https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/31 06:24:21
-
----
-
-### 📢 [Managed Deep Agents v0.10: Browser Use and Async Subagents](https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents)
-来源: LangChain Blog | 时间: 2026/10/31 00:49:51
+### 📢 [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)
+来源: Hugging Face Blog | 时间: 2026/10/31 01:57:24
 
 ---
 
@@ -102,13 +82,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
-来源: Hugging Face Blog | 时间: 2026/10/29 21:37:07
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/28 08:00:00
 
 ---
 
-### 📢 [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)
-来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
+### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+来源: Google DeepMind | 时间: 2026/10/28 00:01:38
+
+---
+
+### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
+来源: Google DeepMind | 时间: 2026/10/22 22:30:24
+
+---
+
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
+
+---
+
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
+
+---
+
+### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
