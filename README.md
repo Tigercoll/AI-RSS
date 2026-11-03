@@ -5,13 +5,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/3 05:32:42
+🕒 最后自动更新时间：2026/11/3 13:55:04
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Diagnose Distributed AI Workload Failures with NVIDIA Attribution](https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/3 07:39:38
+
+---
+
+### 📢 [Keep Distributed Training Running with Automated Workload Recovery](https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/3 06:43:09
+
+---
+
+### 📢 [Managed Deep Agents: the fastest way to ship a production deep agent](https://www.langchain.com/blog/introducing-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/11/3 06:28:13
+
+---
+
+### 📢 [Rewarding defenders with bigger bug bounties](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)
+来源: OpenAI | 时间: 2026/11/3 02:00:00
+
+---
+
+### 📢 [Preparing our next security sprint to harden OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)
+来源: OpenAI | 时间: 2026/11/3 02:00:00
+
+---
+
 ### 📢 [Build World Models for Interactive Simulation with NVIDIA Cosmos](https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/3 01:40:03
 
@@ -47,23 +72,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai)
+来源: OpenAI | 时间: 2026/11/2 23:30:00
+
+---
+
 ### 📢 [Introducing the Grid Protectors Program](https://openai.com/index/grid-protectors-program)
 来源: OpenAI | 时间: 2026/11/2 23:00:00
-
----
-
-### 📢 [LifeVal](https://openai.com/index/lifeval)
-来源: OpenAI | 时间: 2026/11/2 17:00:00
-
----
-
-### 📢 [Qodo builds context into AI code review with Codex](https://openai.com/index/qodo-codex-plugin)
-来源: OpenAI | 时间: 2026/11/2 08:00:00
-
----
-
-### 📢 [Build a Validated Kubernetes Runtime for NVIDIA Dynamo](https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/)
-来源: NVIDIA Developer Blog | 时间: 2026/10/31 06:52:36
 
 ---
 
@@ -82,18 +97,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences)
-来源: OpenAI | 时间: 2026/10/30 17:30:00
-
----
-
 ### 📢 [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
 来源: Hugging Face Blog | 时间: 2026/10/29 21:37:07
-
----
-
-### 📢 [How We Built Our Design Agent](https://www.langchain.com/blog/design-agent)
-来源: LangChain Blog | 时间: 2026/10/29 21:20:15
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
 来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
-
----
-
-### 📢 [Day 0 support for Mistral Large 4 on vLLM](https://vllm.ai/blog/2026-10-29-mistral-large-4)
-来源: vLLM Blog | 时间: 2026/10/29 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
