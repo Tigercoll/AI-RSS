@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/3 13:55:04
+🕒 最后自动更新时间：2026/11/3 21:52:21
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Heimstaden is changing residential real estate management with AI](https://openai.com/index/heimstaden)
+来源: OpenAI | 时间: 2026/11/3 16:00:00
+
+---
+
+### 📢 [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)
+来源: Hugging Face Blog | 时间: 2026/11/3 08:00:00
+
+---
+
 ### 📢 [Diagnose Distributed AI Workload Failures with NVIDIA Attribution](https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/3 07:39:38
 
@@ -27,28 +37,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Rewarding defenders with bigger bug bounties](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)
-来源: OpenAI | 时间: 2026/11/3 02:00:00
+### 📢 [New context engineering challenges in late 2026](https://www.langchain.com/blog/context-engineering-challenges-late-2026)
+来源: LangChain Blog | 时间: 2026/11/3 04:35:55
 
 ---
 
-### 📢 [Preparing our next security sprint to harden OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)
+### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/11/3 04:35:55
+
+---
+
+### 📢 [Rewarding defenders with bigger bug bounties](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)
 来源: OpenAI | 时间: 2026/11/3 02:00:00
 
 ---
 
 ### 📢 [Build World Models for Interactive Simulation with NVIDIA Cosmos](https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/3 01:40:03
-
----
-
-### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/3 01:18:03
-
----
-
-### 📢 [New context engineering challenges in late 2026](https://www.langchain.com/blog/context-engineering-challenges-late-2026)
-来源: LangChain Blog | 时间: 2026/11/3 01:12:41
 
 ---
 
@@ -103,11 +108,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 ---
 
 ### 📢 [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)
-来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
-
----
-
-### 📢 [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
 来源: Hugging Face Blog | 时间: 2026/10/29 08:00:00
 
 ---
