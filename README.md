@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/4 09:07:59
+🕒 最后自动更新时间：2026/11/4 18:39:53
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [LangSmith BYOC is now available on AWS, Azure, and Google Cloud](https://www.langchain.com/blog/langsmith-byoc-aws-gc-azure)
+来源: LangChain Blog | 时间: 2026/11/4 10:56:29
+
+---
+
+### 📢 [How We Optimized Browser Use for Deep Agents](https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents)
+来源: LangChain Blog | 时间: 2026/11/4 06:30:50
+
+---
+
+### 📢 [Why human insight is a strategic advantage for building better agents](https://www.langchain.com/blog/human-insight-strategic-advantage-agents)
+来源: LangChain Blog | 时间: 2026/11/4 05:48:04
+
+---
+
 ### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
 来源: Google DeepMind | 时间: 2026/11/4 01:01:49
 
@@ -67,6 +82,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Managed Deep Agents: the fastest way to ship a production deep agent](https://www.langchain.com/blog/introducing-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/11/3 06:28:13
+
+---
+
 ### 📢 [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)
 来源: Hugging Face Blog | 时间: 2026/10/31 01:57:24
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Announcements](https://www.anthropic.com/news/announcements)
 来源: Anthropic News | 时间: 2026/10/28 08:00:00
-
----
-
-### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-来源: Google DeepMind | 时间: 2026/10/28 00:01:38
-
----
-
-### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
-来源: Ollama Blog | 时间: 2026/10/24 08:00:00
-
----
-
-### 📢 [Serving DeepSeek-V4.1-Flash at Scale: vLLM Matches DeepInfer and Scales to GB300 NVL72](https://vllm.ai/blog/2026-10-23-deepseek-v41-flash-pd-wide-ep)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
-
----
-
-### 📢 [GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s](https://vllm.ai/blog/2026-10-23-glm53-part2-pcp-dcp-hisparse)
-来源: vLLM Blog | 时间: 2026/10/23 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
