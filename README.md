@@ -5,55 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/4 18:39:53
+🕒 最后自动更新时间：2026/11/5 03:33:02
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [LangSmith BYOC is now available on AWS, Azure, and Google Cloud](https://www.langchain.com/blog/langsmith-byoc-aws-gc-azure)
-来源: LangChain Blog | 时间: 2026/11/4 10:56:29
+### 📢 [OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre)
+来源: OpenAI | 时间: 2026/11/4 22:30:00
 
 ---
 
-### 📢 [How We Optimized Browser Use for Deep Agents](https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/4 06:30:50
-
----
-
-### 📢 [Why human insight is a strategic advantage for building better agents](https://www.langchain.com/blog/human-insight-strategic-advantage-agents)
-来源: LangChain Blog | 时间: 2026/11/4 05:48:04
-
----
-
-### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
-来源: Google DeepMind | 时间: 2026/11/4 01:01:49
-
----
-
-### 📢 [Bring structured and unstructured data together with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/11/4 00:49:29
-
----
-
-### 📢 [ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/)
-来源: AWS ML Blog | 时间: 2026/11/4 00:47:40
-
----
-
-### 📢 [How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search](https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/)
-来源: AWS ML Blog | 时间: 2026/11/4 00:43:20
-
----
-
-### 📢 [Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/11/4 00:41:13
-
----
-
-### 📢 [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
-来源: Hugging Face Blog | 时间: 2026/11/4 00:35:36
+### 📢 [Daybreak Red is now available in AWS GovCloud (US-East)](https://openai.com/index/daybreak-red-aws-govcloud)
+来源: OpenAI | 时间: 2026/11/4 15:00:00
 
 ---
 
@@ -67,48 +32,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Heimstaden is changing residential real estate management with AI](https://openai.com/index/heimstaden)
-来源: OpenAI | 时间: 2026/11/3 16:00:00
-
----
-
-### 📢 [OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)
-来源: OpenAI | 时间: 2026/11/3 08:00:00
-
----
-
-### 📢 [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)
-来源: Hugging Face Blog | 时间: 2026/11/3 08:00:00
-
----
-
-### 📢 [Managed Deep Agents: the fastest way to ship a production deep agent](https://www.langchain.com/blog/introducing-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/3 06:28:13
-
----
-
-### 📢 [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)
-来源: Hugging Face Blog | 时间: 2026/10/31 01:57:24
-
----
-
-### 📢 [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)
-来源: Google DeepMind | 时间: 2026/10/30 22:18:30
-
----
-
-### 📢 [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
-来源: Hugging Face Blog | 时间: 2026/10/29 21:37:07
-
----
-
-### 📢 [Day 0 support for Mistral Large 4 on vLLM](https://vllm.ai/blog/2026-10-29-mistral-large-4)
-来源: vLLM Blog | 时间: 2026/10/29 08:00:00
-
----
-
 ### 📢 [Announcements](https://www.anthropic.com/news/announcements)
 来源: Anthropic News | 时间: 2026/10/28 08:00:00
+
+---
+
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
+
+---
+
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
+
+---
+
+### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
