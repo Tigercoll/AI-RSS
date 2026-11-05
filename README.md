@@ -5,15 +5,40 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/5 03:33:02
+🕒 最后自动更新时间：2026/11/5 09:22:57
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Use decision models with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/)
+来源: AWS ML Blog | 时间: 2026/11/5 02:46:36
+
+---
+
+### 📢 [Smart Approvals in Amazon Quick: Human oversight where it matters](https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/)
+来源: AWS ML Blog | 时间: 2026/11/5 00:33:03
+
+---
+
+### 📢 [Four layers of context engineering for production AI agents: How Deep Insight applies them in working code](https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/)
+来源: AWS ML Blog | 时间: 2026/11/5 00:30:40
+
+---
+
+### 📢 [How Indegene is modernizing and scaling enterprise data quality in life sciences](https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/)
+来源: AWS ML Blog | 时间: 2026/11/5 00:25:57
+
+---
+
 ### 📢 [OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre)
 来源: OpenAI | 时间: 2026/11/4 22:30:00
+
+---
+
+### 📢 [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root)
+来源: OpenAI | 时间: 2026/11/4 16:00:00
 
 ---
 
@@ -22,13 +47,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Accelerating engineering for the physical world](https://openai.com/index/accelerating-engineering-for-the-physical-world)
-来源: OpenAI | 时间: 2026/11/3 20:00:00
-
----
-
-### 📢 [How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber)
-来源: OpenAI | 时间: 2026/11/3 16:00:00
+### 📢 [Introducing Images 2.6](https://openai.com/index/introducing-images-2-6)
+来源: OpenAI | 时间: 2026/11/4 08:00:00
 
 ---
 
