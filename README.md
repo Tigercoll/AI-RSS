@@ -5,50 +5,70 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/6 18:35:18
+🕒 最后自动更新时间：2026/11/7 03:04:53
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva)
-来源: Hugging Face Blog | 时间: 2026/11/6 08:00:00
+### 📢 [Accelerating Reinforcement Learning Weight Refit with the Reshard Collective](https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/7 02:22:43
 
 ---
 
-### 📢 [How We Optimized Browser Use for Deep Agents](https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/6 07:22:01
+### 📢 [Managed Deep Agents v0.10: Browser Use and Async Subagents](https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents)
+来源: LangChain Blog | 时间: 2026/11/7 02:15:33
 
 ---
 
-### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/6 07:22:01
+### 📢 [SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints](https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/)
+来源: AWS ML Blog | 时间: 2026/11/7 02:01:00
 
 ---
 
-### 📢 [Getting started with Web Answer on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/11/6 05:04:24
+### 📢 [Taxonomy of agentic primitives in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/11/7 01:34:45
+
+---
+
+### 📢 [Serverless MCP server for AI agent data lake access on Amazon ECS Fargate](https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/)
+来源: AWS ML Blog | 时间: 2026/11/7 01:13:13
+
+---
+
+### 📢 [Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/)
+来源: AWS ML Blog | 时间: 2026/11/7 01:09:23
 
 ---
 
 ### 📢 [Agents Are Going Async](https://www.langchain.com/blog/agents-are-going-async)
-来源: LangChain Blog | 时间: 2026/11/6 04:03:27
+来源: LangChain Blog | 时间: 2026/11/6 21:12:53
+
+---
+
+### 📢 [How We Optimized Browser Use for Deep Agents](https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents)
+来源: LangChain Blog | 时间: 2026/11/6 21:12:53
+
+---
+
+### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/11/6 21:12:53
+
+---
+
+### 📢 [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron)
+来源: OpenAI | 时间: 2026/11/6 16:00:00
+
+---
+
+### 📢 [Zero Mismatch, Simple Async RL: REINFORCE Zero, DeepSeek-V4.1 and Kimi K3.1](https://vllm.ai/blog/2026-11-06-zero-mismatch-async-rl)
+来源: vLLM Blog | 时间: 2026/11/6 08:00:00
 
 ---
 
 ### 📢 [Cult.fit builds operational muscle with Codex](https://openai.com/index/cultfit-builds-with-codex)
 来源: OpenAI | 时间: 2026/11/6 04:00:00
-
----
-
-### 📢 [Context Engineering (Agent Memory) for AI Agents Starts with Retrieval](https://www.langchain.com/blog/context-engineering-starts-with-retrieval)
-来源: LangChain Blog | 时间: 2026/11/6 03:30:46
-
----
-
-### 📢 [How Amazon Marketplace evaluates content quality with Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/)
-来源: AWS ML Blog | 时间: 2026/11/6 02:06:43
 
 ---
 
@@ -67,38 +87,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Merge builds product and business tools with OpenAI technology](https://openai.com/index/merge-builds-with-openai)
-来源: OpenAI | 时间: 2026/11/5 16:00:00
-
----
-
-### 📢 [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
-来源: Hugging Face Blog | 时间: 2026/11/5 08:00:00
-
----
-
 ### 📢 [How NVIDIA Uses AI Agents to Streamline AI Factory Operations](https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/5 06:13:03
 
 ---
 
-### 📢 [Use decision models with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/)
-来源: AWS ML Blog | 时间: 2026/11/5 02:46:36
-
----
-
-### 📢 [NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support](https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/5 02:46:28
-
----
-
 ### 📢 [Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS](https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/5 01:42:06
-
----
-
-### 📢 [Smart Approvals in Amazon Quick: Human oversight where it matters](https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/)
-来源: AWS ML Blog | 时间: 2026/11/5 00:33:03
 
 ---
 
@@ -109,6 +104,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [vLLM Delivers Day-0 Support for Kimi K3.1 Pro](https://vllm.ai/blog/2026-11-04-kimi-k31-pro)
 来源: vLLM Blog | 时间: 2026/11/4 08:00:00
+
+---
+
+### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
+来源: Google DeepMind | 时间: 2026/11/4 01:01:49
 
 ---
 <!-- END_LIVE_FEEDS -->
