@@ -5,20 +5,20 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/6 03:41:57
+🕒 最后自动更新时间：2026/11/6 09:26:32
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)
-来源: Hugging Face Blog | 时间: 2026/11/6 03:35:16
+### 📢 [Getting started with Web Answer on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/11/6 05:04:24
 
 ---
 
-### 📢 [Context Engineering (Agent Memory) for AI Agents Starts with Retrieval](https://www.langchain.com/blog/context-engineering-starts-with-retrieval)
-来源: LangChain Blog | 时间: 2026/11/6 03:30:46
+### 📢 [Cult.fit builds operational muscle with Codex](https://openai.com/index/cultfit-builds-with-codex)
+来源: OpenAI | 时间: 2026/11/6 04:00:00
 
 ---
 
@@ -27,23 +27,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory](https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/6 01:14:21
-
----
-
-### 📢 [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/)
-来源: Google DeepMind | 时间: 2026/11/6 01:05:16
-
----
-
-### 📢 [LangSmith BYOC is now available on AWS, Azure, and Google Cloud](https://www.langchain.com/blog/langsmith-byoc-aws-gc-azure)
-来源: LangChain Blog | 时间: 2026/11/5 20:03:38
-
----
-
 ### 📢 [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](https://openai.com/index/introducing-gpt-6-cyber)
 来源: OpenAI | 时间: 2026/11/5 17:00:00
+
+---
+
+### 📢 [Merge builds product and business tools with OpenAI technology](https://openai.com/index/merge-builds-with-openai)
+来源: OpenAI | 时间: 2026/11/5 16:00:00
 
 ---
 
@@ -57,48 +47,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How NVIDIA Uses AI Agents to Streamline AI Factory Operations](https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/5 06:13:03
-
----
-
-### 📢 [Call for Proposals: PyTorch Day China 2026](https://pytorch.org/blog/call-for-proposals-pytorch-day-china-2026/)
-来源: PyTorch Blog | 时间: 2026/11/5 04:29:55
-
----
-
-### 📢 [Workflow SDK adds idempotent starts](https://vercel.com/changelog/atomic-start-hooks-in-the-workflow-sdk)
-来源: Vercel AI SDK | 时间: 2026/11/5 02:55:00
-
----
-
 ### 📢 [Use decision models with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/)
 来源: AWS ML Blog | 时间: 2026/11/5 02:46:36
-
----
-
-### 📢 [NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support](https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/5 02:46:28
-
----
-
-### 📢 [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
-来源: Hugging Face Blog | 时间: 2026/11/5 01:50:10
-
----
-
-### 📢 [Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS](https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/5 01:42:06
-
----
-
-### 📢 [Kimi K3.1 Pro now has more ZDR providers on AI Gateway](https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/11/5 01:00:00
-
----
-
-### 📢 [Why human insight is a strategic advantage for building better agents](https://www.langchain.com/blog/human-insight-strategic-advantage-agents)
-来源: LangChain Blog | 时间: 2026/11/5 00:52:16
 
 ---
 
@@ -107,8 +57,58 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Four layers of context engineering for production AI agents: How Deep Insight applies them in working code](https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/)
-来源: AWS ML Blog | 时间: 2026/11/5 00:30:40
+### 📢 [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench)
+来源: Hugging Face Blog | 时间: 2026/11/4 01:15:21
+
+---
+
+### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
+来源: Google DeepMind | 时间: 2026/11/4 01:01:49
+
+---
+
+### 📢 [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
+来源: Hugging Face Blog | 时间: 2026/11/4 00:35:36
+
+---
+
+### 📢 [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench)
+来源: Hugging Face Blog | 时间: 2026/11/3 08:00:00
+
+---
+
+### 📢 [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)
+来源: Google DeepMind | 时间: 2026/10/30 22:18:30
+
+---
+
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/28 08:00:00
+
+---
+
+### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+来源: Google DeepMind | 时间: 2026/10/28 00:01:38
+
+---
+
+### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
+来源: Ollama Blog | 时间: 2026/10/24 08:00:00
+
+---
+
+### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
+来源: Google DeepMind | 时间: 2026/10/22 22:30:24
+
+---
+
+### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
+来源: Ollama Blog | 时间: 2026/10/19 08:00:00
+
+---
+
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
