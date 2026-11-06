@@ -5,15 +5,35 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/6 09:26:32
+🕒 最后自动更新时间：2026/11/6 18:35:18
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva)
+来源: Hugging Face Blog | 时间: 2026/11/6 08:00:00
+
+---
+
+### 📢 [How We Optimized Browser Use for Deep Agents](https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents)
+来源: LangChain Blog | 时间: 2026/11/6 07:22:01
+
+---
+
+### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/11/6 07:22:01
+
+---
+
 ### 📢 [Getting started with Web Answer on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/)
 来源: AWS ML Blog | 时间: 2026/11/6 05:04:24
+
+---
+
+### 📢 [Agents Are Going Async](https://www.langchain.com/blog/agents-are-going-async)
+来源: LangChain Blog | 时间: 2026/11/6 04:03:27
 
 ---
 
@@ -22,8 +42,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Context Engineering (Agent Memory) for AI Agents Starts with Retrieval](https://www.langchain.com/blog/context-engineering-starts-with-retrieval)
+来源: LangChain Blog | 时间: 2026/11/6 03:30:46
+
+---
+
 ### 📢 [How Amazon Marketplace evaluates content quality with Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/)
 来源: AWS ML Blog | 时间: 2026/11/6 02:06:43
+
+---
+
+### 📢 [Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory](https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/6 01:14:21
+
+---
+
+### 📢 [Australian universities are creating AI-native graduates](https://openai.com/index/australian-universities-ai-native-graduates)
+来源: OpenAI | 时间: 2026/11/6 01:00:00
 
 ---
 
@@ -37,13 +72,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Setting a new standard for responsible AI infrastructure](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure)
-来源: OpenAI | 时间: 2026/11/5 10:00:00
+### 📢 [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
+来源: Hugging Face Blog | 时间: 2026/11/5 08:00:00
 
 ---
 
-### 📢 [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
-来源: Hugging Face Blog | 时间: 2026/11/5 08:00:00
+### 📢 [How NVIDIA Uses AI Agents to Streamline AI Factory Operations](https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/5 06:13:03
 
 ---
 
@@ -52,63 +87,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support](https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/5 02:46:28
+
+---
+
+### 📢 [Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS](https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/5 01:42:06
+
+---
+
 ### 📢 [Smart Approvals in Amazon Quick: Human oversight where it matters](https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/)
 来源: AWS ML Blog | 时间: 2026/11/5 00:33:03
 
 ---
 
-### 📢 [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench)
-来源: Hugging Face Blog | 时间: 2026/11/4 01:15:21
+### 📢 [Introducing Kinference: An Open Source Inference Control Plane for vLLM and Kubernetes](https://vllm.ai/blog/2026-11-04-introducing-kinference)
+来源: vLLM Blog | 时间: 2026/11/4 08:00:00
 
 ---
 
-### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
-来源: Google DeepMind | 时间: 2026/11/4 01:01:49
-
----
-
-### 📢 [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
-来源: Hugging Face Blog | 时间: 2026/11/4 00:35:36
-
----
-
-### 📢 [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench)
-来源: Hugging Face Blog | 时间: 2026/11/3 08:00:00
-
----
-
-### 📢 [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)
-来源: Google DeepMind | 时间: 2026/10/30 22:18:30
-
----
-
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/10/28 08:00:00
-
----
-
-### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-来源: Google DeepMind | 时间: 2026/10/28 00:01:38
-
----
-
-### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
-来源: Ollama Blog | 时间: 2026/10/24 08:00:00
-
----
-
-### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
-来源: Google DeepMind | 时间: 2026/10/22 22:30:24
-
----
-
-### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
-来源: Ollama Blog | 时间: 2026/10/19 08:00:00
-
----
-
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
+### 📢 [vLLM Delivers Day-0 Support for Kimi K3.1 Pro](https://vllm.ai/blog/2026-11-04-kimi-k31-pro)
+来源: vLLM Blog | 时间: 2026/11/4 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
