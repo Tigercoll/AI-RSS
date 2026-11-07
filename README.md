@@ -5,23 +5,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/7 03:04:53
+🕒 最后自动更新时间：2026/11/7 08:44:00
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Accelerating Reinforcement Learning Weight Refit with the Reshard Collective](https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/7 02:22:43
-
----
-
-### 📢 [Managed Deep Agents v0.10: Browser Use and Async Subagents](https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents)
-来源: LangChain Blog | 时间: 2026/11/7 02:15:33
-
----
-
 ### 📢 [SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints](https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/)
 来源: AWS ML Blog | 时间: 2026/11/7 02:01:00
 
@@ -42,23 +32,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Agents Are Going Async](https://www.langchain.com/blog/agents-are-going-async)
-来源: LangChain Blog | 时间: 2026/11/6 21:12:53
-
----
-
-### 📢 [How We Optimized Browser Use for Deep Agents](https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/6 21:12:53
-
----
-
-### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/6 21:12:53
+### 📢 [ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks)
+来源: Hugging Face Blog | 时间: 2026/11/6 22:00:48
 
 ---
 
 ### 📢 [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron)
 来源: OpenAI | 时间: 2026/11/6 16:00:00
+
+---
+
+### 📢 [Measuring how AI agents handle everyday wet-lab science](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
+来源: OpenAI | 时间: 2026/11/6 08:00:00
 
 ---
 
@@ -72,8 +57,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory](https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/6 01:14:21
+### 📢 [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)
+来源: Hugging Face Blog | 时间: 2026/11/6 03:35:16
 
 ---
 
@@ -82,18 +67,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](https://openai.com/index/introducing-gpt-6-cyber)
-来源: OpenAI | 时间: 2026/11/5 17:00:00
-
----
-
-### 📢 [How NVIDIA Uses AI Agents to Streamline AI Factory Operations](https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/5 06:13:03
-
----
-
-### 📢 [Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS](https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/5 01:42:06
+### 📢 [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
+来源: Hugging Face Blog | 时间: 2026/11/5 01:50:10
 
 ---
 
@@ -109,6 +84,31 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
 来源: Google DeepMind | 时间: 2026/11/4 01:01:49
+
+---
+
+### 📢 [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
+来源: Hugging Face Blog | 时间: 2026/11/4 00:35:36
+
+---
+
+### 📢 [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)
+来源: Google DeepMind | 时间: 2026/10/30 22:18:30
+
+---
+
+### 📢 [Day 0 support for Mistral Large 4 on vLLM](https://vllm.ai/blog/2026-10-29-mistral-large-4)
+来源: vLLM Blog | 时间: 2026/10/29 08:00:00
+
+---
+
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/28 08:00:00
+
+---
+
+### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+来源: Google DeepMind | 时间: 2026/10/28 00:01:38
 
 ---
 <!-- END_LIVE_FEEDS -->
