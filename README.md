@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/8 01:37:59
+🕒 最后自动更新时间：2026/11/8 05:37:23
 
 ---
 
@@ -92,6 +92,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
+来源: Hugging Face Blog | 时间: 2026/11/5 08:00:00
+
+---
+
 ### 📢 [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
 来源: Hugging Face Blog | 时间: 2026/11/5 01:50:10
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [vLLM Delivers Day-0 Support for Kimi K3.1 Pro](https://vllm.ai/blog/2026-11-04-kimi-k31-pro)
 来源: vLLM Blog | 时间: 2026/11/4 08:00:00
-
----
-
-### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
-来源: Google DeepMind | 时间: 2026/11/4 01:01:49
 
 ---
 <!-- END_LIVE_FEEDS -->
