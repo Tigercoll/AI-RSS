@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/8 05:37:23
+🕒 最后自动更新时间：2026/11/8 13:14:36
 
 ---
 
@@ -14,31 +14,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- START_LIVE_FEEDS -->
 ### 📢 [Managed Deep Agents v0.10: Browser Use and Async Subagents](https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents)
 来源: LangChain Blog | 时间: 2026/11/7 08:01:46
-
----
-
-### 📢 [SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints](https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/)
-来源: AWS ML Blog | 时间: 2026/11/7 02:01:00
-
----
-
-### 📢 [Taxonomy of agentic primitives in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/)
-来源: AWS ML Blog | 时间: 2026/11/7 01:34:45
-
----
-
-### 📢 [Serverless MCP server for AI agent data lake access on Amazon ECS Fargate](https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/)
-来源: AWS ML Blog | 时间: 2026/11/7 01:13:13
-
----
-
-### 📢 [Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/)
-来源: AWS ML Blog | 时间: 2026/11/7 01:09:23
-
----
-
-### 📢 [ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks)
-来源: Hugging Face Blog | 时间: 2026/11/6 22:00:48
 
 ---
 
@@ -67,23 +42,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Migrating vLLM to the LibTorch Stable ABI](https://vllm.ai/blog/2026-11-06-stable-abi-cuda)
-来源: vLLM Blog | 时间: 2026/11/6 08:00:00
-
----
-
-### 📢 [Zero Mismatch, Simple Async RL: REINFORCE Zero, DeepSeek-V4.1 and Kimi K3.1](https://vllm.ai/blog/2026-11-06-zero-mismatch-async-rl)
-来源: vLLM Blog | 时间: 2026/11/6 08:00:00
-
----
-
 ### 📢 [Cult.fit builds operational muscle with Codex](https://openai.com/index/cultfit-builds-with-codex)
 来源: OpenAI | 时间: 2026/11/6 04:00:00
-
----
-
-### 📢 [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)
-来源: Hugging Face Blog | 时间: 2026/11/6 03:35:16
 
 ---
 
@@ -92,23 +52,63 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
-来源: Hugging Face Blog | 时间: 2026/11/5 08:00:00
+### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
+来源: Google DeepMind | 时间: 2026/11/4 01:01:49
 
 ---
 
-### 📢 [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
-来源: Hugging Face Blog | 时间: 2026/11/5 01:50:10
+### 📢 [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)
+来源: Google DeepMind | 时间: 2026/10/30 22:18:30
 
 ---
 
-### 📢 [Introducing Kinference: An Open Source Inference Control Plane for vLLM and Kubernetes](https://vllm.ai/blog/2026-11-04-introducing-kinference)
-来源: vLLM Blog | 时间: 2026/11/4 08:00:00
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/10/28 08:00:00
 
 ---
 
-### 📢 [vLLM Delivers Day-0 Support for Kimi K3.1 Pro](https://vllm.ai/blog/2026-11-04-kimi-k31-pro)
-来源: vLLM Blog | 时间: 2026/11/4 08:00:00
+### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+来源: Google DeepMind | 时间: 2026/10/28 00:01:38
+
+---
+
+### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
+来源: Ollama Blog | 时间: 2026/10/24 08:00:00
+
+---
+
+### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
+来源: Google DeepMind | 时间: 2026/10/22 22:30:24
+
+---
+
+### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
+来源: Ollama Blog | 时间: 2026/10/19 08:00:00
+
+---
+
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
+
+---
+
+### 📢 [Reflection's Beam is freely available on Ollama for a limited time](https://ollama.com/blog/reflection-beam)
+来源: Ollama Blog | 时间: 2026/10/16 08:00:00
+
+---
+
+### 📢 [Run AI agents safely with Ollama and Fly.io](https://ollama.com/blog/fly-io-sprites)
+来源: Ollama Blog | 时间: 2026/10/13 08:00:00
+
+---
+
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
+
+---
+
+### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
