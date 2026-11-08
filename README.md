@@ -5,30 +5,30 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/8 13:14:36
+🕒 最后自动更新时间：2026/11/8 20:59:38
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Managed Deep Agents v0.10: Browser Use and Async Subagents](https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents)
-来源: LangChain Blog | 时间: 2026/11/7 08:01:46
+### 📢 [SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints](https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/)
+来源: AWS ML Blog | 时间: 2026/11/7 02:01:00
 
 ---
 
-### 📢 [Agents Are Going Async](https://www.langchain.com/blog/agents-are-going-async)
-来源: LangChain Blog | 时间: 2026/11/6 21:12:53
+### 📢 [Taxonomy of agentic primitives in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/)
+来源: AWS ML Blog | 时间: 2026/11/7 01:34:45
 
 ---
 
-### 📢 [How We Optimized Browser Use for Deep Agents](https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/6 21:12:53
+### 📢 [Serverless MCP server for AI agent data lake access on Amazon ECS Fargate](https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/)
+来源: AWS ML Blog | 时间: 2026/11/7 01:13:13
 
 ---
 
-### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
-来源: LangChain Blog | 时间: 2026/11/6 21:12:53
+### 📢 [Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/)
+来源: AWS ML Blog | 时间: 2026/11/7 01:09:23
 
 ---
 
@@ -42,6 +42,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva)
+来源: Hugging Face Blog | 时间: 2026/11/6 08:00:00
+
+---
+
 ### 📢 [Cult.fit builds operational muscle with Codex](https://openai.com/index/cultfit-builds-with-codex)
 来源: OpenAI | 时间: 2026/11/6 04:00:00
 
@@ -52,13 +57,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
-来源: Google DeepMind | 时间: 2026/11/4 01:01:49
+### 📢 [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
+来源: Hugging Face Blog | 时间: 2026/11/5 08:00:00
 
 ---
 
-### 📢 [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)
-来源: Google DeepMind | 时间: 2026/10/30 22:18:30
+### 📢 [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
+来源: Hugging Face Blog | 时间: 2026/11/5 01:50:10
+
+---
+
+### 📢 [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
+来源: Hugging Face Blog | 时间: 2026/11/4 00:35:36
 
 ---
 
@@ -67,18 +77,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-来源: Google DeepMind | 时间: 2026/10/28 00:01:38
-
----
-
 ### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
 来源: Ollama Blog | 时间: 2026/10/24 08:00:00
-
----
-
-### 📢 [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
-来源: Google DeepMind | 时间: 2026/10/22 22:30:24
 
 ---
 
