@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/9 03:26:53
+🕒 最后自动更新时间：2026/11/9 08:39:05
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Managed Deep Agents v0.10: Browser Use and Async Subagents](https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents)
+来源: LangChain Blog | 时间: 2026/11/7 08:01:46
+
+---
+
 ### 📢 [Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs](https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/7 06:20:31
 
@@ -47,6 +52,21 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Agents Are Going Async](https://www.langchain.com/blog/agents-are-going-async)
+来源: LangChain Blog | 时间: 2026/11/6 21:12:53
+
+---
+
+### 📢 [How We Optimized Browser Use for Deep Agents](https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents)
+来源: LangChain Blog | 时间: 2026/11/6 21:12:53
+
+---
+
+### 📢 [Browser Use in Managed Deep Agents](https://www.langchain.com/blog/browser-use-in-managed-deep-agents)
+来源: LangChain Blog | 时间: 2026/11/6 21:12:53
+
+---
+
 ### 📢 [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron)
 来源: OpenAI | 时间: 2026/11/6 16:00:00
 
@@ -54,6 +74,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Measuring how AI agents handle everyday wet-lab science](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
 来源: OpenAI | 时间: 2026/11/6 08:00:00
+
+---
+
+### 📢 [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva)
+来源: Hugging Face Blog | 时间: 2026/11/6 08:00:00
 
 ---
 
@@ -72,11 +97,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)
-来源: Hugging Face Blog | 时间: 2026/11/6 03:35:16
-
----
-
 ### 📢 [Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory](https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/6 01:14:21
 
@@ -89,26 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
 来源: Hugging Face Blog | 时间: 2026/11/5 08:00:00
-
----
-
-### 📢 [Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS](https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/5 01:42:06
-
----
-
-### 📢 [Introducing Kinference: An Open Source Inference Control Plane for vLLM and Kubernetes](https://vllm.ai/blog/2026-11-04-introducing-kinference)
-来源: vLLM Blog | 时间: 2026/11/4 08:00:00
-
----
-
-### 📢 [vLLM Delivers Day-0 Support for Kimi K3.1 Pro](https://vllm.ai/blog/2026-11-04-kimi-k31-pro)
-来源: vLLM Blog | 时间: 2026/11/4 08:00:00
-
----
-
-### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
-来源: Google DeepMind | 时间: 2026/11/4 01:01:49
 
 ---
 <!-- END_LIVE_FEEDS -->
