@@ -5,30 +5,55 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/13 01:27:22
+🕒 最后自动更新时间：2026/11/13 07:21:05
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent](https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/)
-来源: AWS ML Blog | 时间: 2026/11/13 00:16:45
+### 📢 [Deploy frontier AI models on AWS Trainium with SGLang-Neuron](https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/)
+来源: AWS ML Blog | 时间: 2026/11/13 06:03:34
 
 ---
 
-### 📢 [Build composable, interoperable multi-agent systems with A2A on AWS](https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/)
-来源: AWS ML Blog | 时间: 2026/11/12 23:42:21
+### 📢 [How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/11/13 05:47:07
 
 ---
 
-### 📢 [Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools](https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/)
-来源: AWS ML Blog | 时间: 2026/11/12 23:40:24
+### 📢 [Four Amazon Bedrock inference choices that affect cost](https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/)
+来源: AWS ML Blog | 时间: 2026/11/13 04:51:55
 
 ---
 
-### 📢 [From prototype to production: Engineering agents with Agent DLC](https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/)
-来源: AWS ML Blog | 时间: 2026/11/12 23:38:47
+### 📢 [What Is Eval-Driven Development? How to Improve AI Agents](https://www.langchain.com/blog/what-is-eval-driven-development)
+来源: LangChain Blog | 时间: 2026/11/13 04:31:46
+
+---
+
+### 📢 [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/index/amplitude)
+来源: OpenAI | 时间: 2026/11/13 04:00:00
+
+---
+
+### 📢 [Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets](https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/)
+来源: AWS ML Blog | 时间: 2026/11/13 03:29:55
+
+---
+
+### 📢 [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
+来源: Hugging Face Blog | 时间: 2026/11/13 03:07:35
+
+---
+
+### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
+来源: LangChain Blog | 时间: 2026/11/13 01:19:15
+
+---
+
+### 📢 [Gondola doubles revenue as its team builds more with Codex](https://openai.com/business/customer-stories/gondola)
+来源: OpenAI | 时间: 2026/11/12 20:00:00
 
 ---
 
@@ -37,13 +62,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [How our GTM Agent builds consistent, high-quality sales artifacts](https://www.langchain.com/blog/gtm-agent-high-quality-sales-artifacts)
+来源: LangChain Blog | 时间: 2026/11/12 11:34:55
+
+---
+
 ### 📢 [Supporting research on AI and children’s safety](https://openai.com/index/children-first-declaration)
 来源: OpenAI | 时间: 2026/11/12 08:00:00
 
 ---
 
-### 📢 [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)
-来源: OpenAI | 时间: 2026/11/12 08:00:00
+### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
+
+---
+
+### 📢 [Inkling 2 Small on vLLM: Day-0 Support](https://vllm.ai/blog/2026-11-12-inkling2-small)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
 
 ---
 
@@ -52,13 +87,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)
-来源: Google DeepMind | 时间: 2026/11/11 23:00:15
+### 📢 [ParseBench-2: Severity-aware document parsing benchmark](https://www.llamaindex.ai/blog/introducing-parsebench-v2)
+来源: LlamaIndex Blog | 时间: 2026/11/12 08:00:00
 
 ---
 
-### 📢 [ChatGPT Plus for veterans and servicemembers](https://openai.com/index/chatgpt-plus-for-veterans)
-来源: OpenAI | 时间: 2026/11/11 16:00:00
+### 📢 [Gemini 4 Hydrogen now available on AI Gateway](https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/11/12 08:00:00
 
 ---
 
@@ -74,41 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Encoder Disaggregation in vLLM: Scaling Multimodal Serving with EPD](https://vllm.ai/blog/2026-11-11-encoder-disaggregation-epd)
 来源: vLLM Blog | 时间: 2026/11/11 08:00:00
-
----
-
-### 📢 [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
-来源: Google DeepMind | 时间: 2026/11/10 20:02:28
-
----
-
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/11/10 08:00:00
-
----
-
-### 📢 [Pay for Hugging Face Hub with your Google Cloud Account](https://huggingface.co/blog/hub-gcp-marketplace)
-来源: Hugging Face Blog | 时间: 2026/11/10 08:00:00
-
----
-
-### 📢 [Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)
-来源: Google DeepMind | 时间: 2026/11/10 03:51:47
-
----
-
-### 📢 [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
-来源: Hugging Face Blog | 时间: 2026/11/9 23:05:57
-
----
-
-### 📢 [Migrating vLLM to the LibTorch Stable ABI](https://vllm.ai/blog/2026-11-06-stable-abi-cuda)
-来源: vLLM Blog | 时间: 2026/11/6 08:00:00
-
----
-
-### 📢 [VeRL-Omni v0.3.0: Async Training and Broader Multimodal Post-Training](https://vllm.ai/blog/2026-11-06-verl-omni-v0-3-0)
-来源: vLLM Blog | 时间: 2026/11/6 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
