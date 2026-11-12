@@ -5,35 +5,65 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/12 14:27:38
+🕒 最后自动更新时间：2026/11/13 01:27:22
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Build autonomous AI agents with Amazon Bedrock and Spring AI](https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/)
-来源: AWS ML Blog | 时间: 2026/11/12 09:18:23
+### 📢 [Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent](https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/)
+来源: AWS ML Blog | 时间: 2026/11/13 00:16:45
 
 ---
 
-### 📢 [OpenAI Codex on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/11/12 07:35:47
+### 📢 [Build composable, interoperable multi-agent systems with A2A on AWS](https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/)
+来源: AWS ML Blog | 时间: 2026/11/12 23:42:21
 
 ---
 
-### 📢 [Semantic diffing of formal policies with anti-unification](https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/)
-来源: AWS ML Blog | 时间: 2026/11/12 07:33:03
+### 📢 [Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools](https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/)
+来源: AWS ML Blog | 时间: 2026/11/12 23:40:24
 
 ---
 
-### 📢 [Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/)
-来源: AWS ML Blog | 时间: 2026/11/12 07:30:03
+### 📢 [From prototype to production: Engineering agents with Agent DLC](https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/)
+来源: AWS ML Blog | 时间: 2026/11/12 23:38:47
+
+---
+
+### 📢 [Holiday Extras is rethinking what it can build with Codex](https://openai.com/business/customer-stories/holidays-extras-codex)
+来源: OpenAI | 时间: 2026/11/12 17:30:00
+
+---
+
+### 📢 [Supporting research on AI and children’s safety](https://openai.com/index/children-first-declaration)
+来源: OpenAI | 时间: 2026/11/12 08:00:00
+
+---
+
+### 📢 [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)
+来源: OpenAI | 时间: 2026/11/12 08:00:00
+
+---
+
+### 📢 [H3-Image Day-0 Support: 4K in 0.87s with Vera Rubin](https://vllm.ai/blog/2026-11-12-minimax-h3-image-rubin)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
 
 ---
 
 ### 📢 [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)
 来源: Google DeepMind | 时间: 2026/11/11 23:00:15
+
+---
+
+### 📢 [ChatGPT Plus for veterans and servicemembers](https://openai.com/index/chatgpt-plus-for-veterans)
+来源: OpenAI | 时间: 2026/11/11 16:00:00
+
+---
+
+### 📢 [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
+来源: Hugging Face Blog | 时间: 2026/11/11 13:01:16
 
 ---
 
@@ -62,11 +92,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Decision Models in Hugging Face](https://huggingface.co/blog/decision)
-来源: Hugging Face Blog | 时间: 2026/11/10 08:00:00
-
----
-
 ### 📢 [Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)
 来源: Google DeepMind | 时间: 2026/11/10 03:51:47
 
@@ -84,31 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [VeRL-Omni v0.3.0: Async Training and Broader Multimodal Post-Training](https://vllm.ai/blog/2026-11-06-verl-omni-v0-3-0)
 来源: vLLM Blog | 时间: 2026/11/6 08:00:00
-
----
-
-### 📢 [Zero Mismatch, Simple Async RL: REINFORCE Zero, DeepSeek-V4.1 and Kimi K3.1](https://vllm.ai/blog/2026-11-06-zero-mismatch-async-rl)
-来源: vLLM Blog | 时间: 2026/11/6 08:00:00
-
----
-
-### 📢 [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
-来源: Google DeepMind | 时间: 2026/11/4 01:01:49
-
----
-
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [Features](https://www.anthropic.com/news/features)
-来源: Anthropic News | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
-来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
