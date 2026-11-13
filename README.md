@@ -5,13 +5,48 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/13 22:15:18
+🕒 最后自动更新时间：2026/11/14 05:17:04
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot](https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/)
+来源: AWS ML Blog | 时间: 2026/11/14 03:35:35
+
+---
+
+### 📢 [Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/11/14 02:44:02
+
+---
+
+### 📢 [Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture](https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/)
+来源: AWS ML Blog | 时间: 2026/11/14 02:01:15
+
+---
+
+### 📢 [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench)
+来源: Hugging Face Blog | 时间: 2026/11/14 01:02:35
+
+---
+
+### 📢 [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)
+来源: OpenAI | 时间: 2026/11/13 23:00:00
+
+---
+
+### 📢 [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+来源: Hugging Face Blog | 时间: 2026/11/13 22:05:22
+
+---
+
+### 📢 [Deploy frontier AI models on AWS Trainium with SGLang-Neuron](https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/)
+来源: AWS ML Blog | 时间: 2026/11/13 06:03:34
+
+---
+
 ### 📢 [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude)
 来源: OpenAI | 时间: 2026/11/13 04:00:00
 
@@ -27,13 +62,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Supporting research on AI and children’s safety](https://openai.com/index/children-first-declaration)
-来源: OpenAI | 时间: 2026/11/12 08:00:00
+### 📢 [The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning)
+来源: Hugging Face Blog | 时间: 2026/11/12 08:00:00
 
 ---
 
 ### 📢 [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)
 来源: Google DeepMind | 时间: 2026/11/11 23:00:15
+
+---
+
+### 📢 [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
+来源: Hugging Face Blog | 时间: 2026/11/11 13:01:16
 
 ---
 
