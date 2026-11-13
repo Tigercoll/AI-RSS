@@ -5,50 +5,15 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/13 07:21:05
+🕒 最后自动更新时间：2026/11/13 13:47:47
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Deploy frontier AI models on AWS Trainium with SGLang-Neuron](https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/)
-来源: AWS ML Blog | 时间: 2026/11/13 06:03:34
-
----
-
-### 📢 [How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/11/13 05:47:07
-
----
-
-### 📢 [Four Amazon Bedrock inference choices that affect cost](https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/)
-来源: AWS ML Blog | 时间: 2026/11/13 04:51:55
-
----
-
-### 📢 [What Is Eval-Driven Development? How to Improve AI Agents](https://www.langchain.com/blog/what-is-eval-driven-development)
-来源: LangChain Blog | 时间: 2026/11/13 04:31:46
-
----
-
-### 📢 [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/index/amplitude)
+### 📢 [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude)
 来源: OpenAI | 时间: 2026/11/13 04:00:00
-
----
-
-### 📢 [Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets](https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/)
-来源: AWS ML Blog | 时间: 2026/11/13 03:29:55
-
----
-
-### 📢 [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
-来源: Hugging Face Blog | 时间: 2026/11/13 03:07:35
-
----
-
-### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
-来源: LangChain Blog | 时间: 2026/11/13 01:19:15
 
 ---
 
@@ -62,53 +27,48 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How our GTM Agent builds consistent, high-quality sales artifacts](https://www.langchain.com/blog/gtm-agent-high-quality-sales-artifacts)
-来源: LangChain Blog | 时间: 2026/11/12 11:34:55
-
----
-
 ### 📢 [Supporting research on AI and children’s safety](https://openai.com/index/children-first-declaration)
 来源: OpenAI | 时间: 2026/11/12 08:00:00
 
 ---
 
-### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
+### 📢 [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)
+来源: Google DeepMind | 时间: 2026/11/11 23:00:15
 
 ---
 
-### 📢 [Inkling 2 Small on vLLM: Day-0 Support](https://vllm.ai/blog/2026-11-12-inkling2-small)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
+### 📢 [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
+来源: Google DeepMind | 时间: 2026/11/10 20:02:28
 
 ---
 
-### 📢 [H3-Image Day-0 Support: 4K in 0.87s with Vera Rubin](https://vllm.ai/blog/2026-11-12-minimax-h3-image-rubin)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/11/10 08:00:00
 
 ---
 
-### 📢 [ParseBench-2: Severity-aware document parsing benchmark](https://www.llamaindex.ai/blog/introducing-parsebench-v2)
-来源: LlamaIndex Blog | 时间: 2026/11/12 08:00:00
+### 📢 [Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)
+来源: Google DeepMind | 时间: 2026/11/10 03:51:47
 
 ---
 
-### 📢 [Gemini 4 Hydrogen now available on AI Gateway](https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/11/12 08:00:00
+### 📢 [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/)
+来源: Google DeepMind | 时间: 2026/11/6 01:05:16
 
 ---
 
-### 📢 [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
-来源: Hugging Face Blog | 时间: 2026/11/11 13:01:16
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
 
 ---
 
-### 📢 [Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling)
-来源: Hugging Face Blog | 时间: 2026/11/11 08:00:00
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
 
 ---
 
-### 📢 [Encoder Disaggregation in vLLM: Scaling Multimodal Serving with EPD](https://vllm.ai/blog/2026-11-11-encoder-disaggregation-epd)
-来源: vLLM Blog | 时间: 2026/11/11 08:00:00
+### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
