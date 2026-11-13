@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/13 13:47:47
+🕒 最后自动更新时间：2026/11/13 22:15:18
 
 ---
 
@@ -42,6 +42,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Opening the datasets behind our AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/)
+来源: Google DeepMind | 时间: 2026/11/10 19:13:04
+
+---
+
 ### 📢 [Announcements](https://www.anthropic.com/news/announcements)
 来源: Anthropic News | 时间: 2026/11/10 08:00:00
 
@@ -49,11 +54,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)
 来源: Google DeepMind | 时间: 2026/11/10 03:51:47
-
----
-
-### 📢 [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/)
-来源: Google DeepMind | 时间: 2026/11/6 01:05:16
 
 ---
 
