@@ -5,25 +5,30 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/14 05:17:04
+🕒 最后自动更新时间：2026/11/14 13:39:01
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot](https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/)
-来源: AWS ML Blog | 时间: 2026/11/14 03:35:35
+### 📢 [Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/)
+来源: AWS ML Blog | 时间: 2026/11/14 07:22:09
 
 ---
 
-### 📢 [Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/11/14 02:44:02
+### 📢 [Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/)
+来源: AWS ML Blog | 时间: 2026/11/14 06:30:12
 
 ---
 
-### 📢 [Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture](https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/)
-来源: AWS ML Blog | 时间: 2026/11/14 02:01:15
+### 📢 [Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/)
+来源: AWS ML Blog | 时间: 2026/11/14 06:02:39
+
+---
+
+### 📢 [OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures](https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/)
+来源: AWS ML Blog | 时间: 2026/11/14 05:53:40
 
 ---
 
@@ -37,13 +42,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
-来源: Hugging Face Blog | 时间: 2026/11/13 22:05:22
-
----
-
-### 📢 [Deploy frontier AI models on AWS Trainium with SGLang-Neuron](https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/)
-来源: AWS ML Blog | 时间: 2026/11/13 06:03:34
+### 📢 [Shield helps technicians hand off legacy portal work with OpenAI](https://openai.com/business/customer-stories/shield)
+来源: OpenAI | 时间: 2026/11/13 16:00:00
 
 ---
 
@@ -52,13 +52,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Gondola doubles revenue as its team builds more with Codex](https://openai.com/business/customer-stories/gondola)
-来源: OpenAI | 时间: 2026/11/12 20:00:00
+### 📢 [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
+来源: Hugging Face Blog | 时间: 2026/11/13 03:07:35
 
 ---
 
-### 📢 [Holiday Extras is rethinking what it can build with Codex](https://openai.com/business/customer-stories/holidays-extras-codex)
-来源: OpenAI | 时间: 2026/11/12 17:30:00
+### 📢 [Gondola doubles revenue as its team builds more with Codex](https://openai.com/business/customer-stories/gondola)
+来源: OpenAI | 时间: 2026/11/12 20:00:00
 
 ---
 
