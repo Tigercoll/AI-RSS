@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/14 21:13:25
+🕒 最后自动更新时间：2026/11/15 03:49:07
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/15 00:38:36
+
+---
+
+### 📢 [Goal Engineering](https://www.langchain.com/blog/goal-engineering)
+来源: LangChain Blog | 时间: 2026/11/15 00:00:01
+
+---
+
 ### 📢 [Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/)
 来源: AWS ML Blog | 时间: 2026/11/14 07:22:09
 
@@ -47,11 +57,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/14 02:57:35
-
----
-
 ### 📢 [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
 来源: Hugging Face Blog | 时间: 2026/11/14 02:00:39
 
@@ -69,6 +74,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)
 来源: OpenAI | 时间: 2026/11/13 23:00:00
+
+---
+
+### 📢 [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+来源: Hugging Face Blog | 时间: 2026/11/13 22:05:22
 
 ---
 
@@ -97,18 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
-来源: Hugging Face Blog | 时间: 2026/11/13 03:07:35
-
----
-
 ### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
 来源: LangChain Blog | 时间: 2026/11/13 01:19:15
-
----
-
-### 📢 [Fast by Default: Compile-Time Heuristics for Helion Kernels](https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/)
-来源: PyTorch Blog | 时间: 2026/11/13 00:45:26
 
 ---
 <!-- END_LIVE_FEEDS -->
