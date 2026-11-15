@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/15 08:53:21
+🕒 最后自动更新时间：2026/11/15 18:32:19
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/15 00:38:36
+
+---
+
+### 📢 [Goal Engineering](https://www.langchain.com/blog/goal-engineering)
+来源: LangChain Blog | 时间: 2026/11/15 00:00:01
+
+---
+
 ### 📢 [Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/)
 来源: AWS ML Blog | 时间: 2026/11/14 07:22:09
 
@@ -19,6 +29,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/)
 来源: AWS ML Blog | 时间: 2026/11/14 06:30:12
+
+---
+
+### 📢 [Daemons can now send traces to Vercel Tracing](https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing)
+来源: Vercel AI SDK | 时间: 2026/11/14 06:24:00
+
+---
+
+### 📢 [Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS](https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/14 06:14:10
 
 ---
 
@@ -32,6 +52,16 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton](https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/14 05:17:30
+
+---
+
+### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
+来源: LangChain Blog | 时间: 2026/11/14 00:06:29
+
+---
+
 ### 📢 [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)
 来源: OpenAI | 时间: 2026/11/13 23:00:00
 
@@ -42,8 +72,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Parallel Decisions now available on AI Gateway for free](https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free)
+来源: Vercel AI SDK | 时间: 2026/11/13 08:00:00
+
+---
+
+### 📢 [When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/13 06:40:36
+
+---
+
+### 📢 [What Is Eval-Driven Development? How to Improve AI Agents](https://www.langchain.com/blog/what-is-eval-driven-development)
+来源: LangChain Blog | 时间: 2026/11/13 04:32:32
+
+---
+
 ### 📢 [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude)
 来源: OpenAI | 时间: 2026/11/13 04:00:00
+
+---
+
+### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
+来源: LangChain Blog | 时间: 2026/11/13 01:19:15
 
 ---
 
@@ -52,23 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/11/10 08:00:00
+### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
 
 ---
 
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [Features](https://www.anthropic.com/news/features)
-来源: Anthropic News | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
-来源: Anthropic News | 时间: 未知时间
+### 📢 [Inkling 2 Small on vLLM: Day-0 Support](https://vllm.ai/blog/2026-11-12-inkling2-small)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
