@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/15 18:32:19
+🕒 最后自动更新时间：2026/11/16 02:38:38
 
 ---
 
@@ -57,6 +57,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench)
+来源: Hugging Face Blog | 时间: 2026/11/14 01:02:35
+
+---
+
 ### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
 来源: LangChain Blog | 时间: 2026/11/14 00:06:29
 
@@ -64,6 +69,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)
 来源: OpenAI | 时间: 2026/11/13 23:00:00
+
+---
+
+### 📢 [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+来源: Hugging Face Blog | 时间: 2026/11/13 22:05:22
 
 ---
 
@@ -92,23 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
+来源: Hugging Face Blog | 时间: 2026/11/13 03:07:35
+
+---
+
 ### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
 来源: LangChain Blog | 时间: 2026/11/13 01:19:15
-
----
-
-### 📢 [Gondola doubles revenue as its team builds more with Codex](https://openai.com/business/customer-stories/gondola)
-来源: OpenAI | 时间: 2026/11/12 20:00:00
-
----
-
-### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
-
----
-
-### 📢 [Inkling 2 Small on vLLM: Day-0 Support](https://vllm.ai/blog/2026-11-12-inkling2-small)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
