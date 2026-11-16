@@ -5,110 +5,110 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/16 18:48:58
+🕒 最后自动更新时间：2026/11/17 05:48:15
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [From tasks to goals](https://www.langchain.com/blog/from-tasks-to-goals)
+来源: LangChain Blog | 时间: 2026/11/17 02:46:43
+
+---
+
+### 📢 [Why we rebuilt LangSmith around the agent](https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent)
+来源: LangChain Blog | 时间: 2026/11/17 02:37:11
+
+---
+
+### 📢 [How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/11/17 02:16:07
+
+---
+
+### 📢 [Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform](https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/)
+来源: AWS ML Blog | 时间: 2026/11/17 01:29:29
+
+---
+
+### 📢 [Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/11/17 01:04:11
+
+---
+
+### 📢 [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers)
+来源: OpenAI | 时间: 2026/11/17 01:00:00
+
+---
+
+### 📢 [Strengthening the fight against online child sexual abuse with new tools and support](https://openai.com/index/strengthening-online-child-safety)
+来源: OpenAI | 时间: 2026/11/17 01:00:00
+
+---
+
+### 📢 [Hy4 Flash now available on AI Gateway for 50% off](https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off)
+来源: Vercel AI SDK | 时间: 2026/11/17 01:00:00
+
+---
+
+### 📢 [Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base/)
+来源: AWS ML Blog | 时间: 2026/11/17 00:12:16
+
+---
+
+### 📢 [Science at the Frontier: How scientists use ChatGPT](https://openai.com/index/science-at-the-frontier)
+来源: OpenAI | 时间: 2026/11/16 20:00:00
+
+---
+
 ### 📢 [LVMH’s Media Division announces strategic partnership with OpenAI](https://openai.com/index/lvmh-media-division-partnership)
 来源: OpenAI | 时间: 2026/11/16 17:00:00
 
 ---
 
-### 📢 [A step toward defining the Standard Model on a lattice](https://openai.com/index/step-toward-defining-the-standard-model)
-来源: OpenAI | 时间: 2026/11/16 06:00:01
+### 📢 [AI Gateway now supports Private Inference](https://vercel.com/changelog/ai-gateway-now-supports-private-inference)
+来源: Vercel AI SDK | 时间: 2026/11/16 15:47:00
 
 ---
 
-### 📢 [Our new blog for science](https://openai.com/index/our-new-blog-for-science)
-来源: OpenAI | 时间: 2026/11/16 06:00:00
+### 📢 [Agents are users, so your software needs evals](https://vercel.com/blog/agent-evals)
+来源: Vercel AI SDK | 时间: 2026/11/16 13:00:00
 
 ---
 
-### 📢 [Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/)
-来源: AWS ML Blog | 时间: 2026/11/14 07:22:09
+### 📢 [Goal Engineering](https://www.langchain.com/blog/goal-engineering)
+来源: LangChain Blog | 时间: 2026/11/16 09:28:44
 
 ---
 
-### 📢 [Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/)
-来源: AWS ML Blog | 时间: 2026/11/14 06:30:12
+### 📢 [Hugging Face and OpenRouter join forces to make open-weight models easy to run](https://huggingface.co/blog/openrouter)
+来源: Hugging Face Blog | 时间: 2026/11/16 08:00:00
 
 ---
 
-### 📢 [Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/)
-来源: AWS ML Blog | 时间: 2026/11/14 06:02:39
+### 📢 [Qwen4-Max now available on AI Gateway](https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/11/16 04:00:00
 
 ---
 
-### 📢 [OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures](https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/)
-来源: AWS ML Blog | 时间: 2026/11/14 05:53:40
+### 📢 [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
+来源: Hugging Face Blog | 时间: 2026/11/14 02:00:39
 
 ---
 
-### 📢 [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)
-来源: OpenAI | 时间: 2026/11/13 23:00:00
+### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
+来源: LangChain Blog | 时间: 2026/11/14 00:06:29
 
 ---
 
-### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
+### 📢 [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+来源: Hugging Face Blog | 时间: 2026/11/13 22:05:22
 
 ---
 
-### 📢 [Inkling 2 Small on vLLM: Day-0 Support](https://vllm.ai/blog/2026-11-12-inkling2-small)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
-
----
-
-### 📢 [H3-Image Day-0 Support: 4K in 0.87s with Vera Rubin](https://vllm.ai/blog/2026-11-12-minimax-h3-image-rubin)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
-
----
-
-### 📢 [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)
-来源: Google DeepMind | 时间: 2026/11/11 23:00:15
-
----
-
-### 📢 [Encoder Disaggregation in vLLM: Scaling Multimodal Serving with EPD](https://vllm.ai/blog/2026-11-11-encoder-disaggregation-epd)
-来源: vLLM Blog | 时间: 2026/11/11 08:00:00
-
----
-
-### 📢 [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
-来源: Google DeepMind | 时间: 2026/11/10 20:02:28
-
----
-
-### 📢 [Opening the datasets behind our AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/)
-来源: Google DeepMind | 时间: 2026/11/10 19:13:04
-
----
-
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/11/10 08:00:00
-
----
-
-### 📢 [Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)
-来源: Google DeepMind | 时间: 2026/11/10 03:51:47
-
----
-
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [Features](https://www.anthropic.com/news/features)
-来源: Anthropic News | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
-来源: Anthropic News | 时间: 未知时间
+### 📢 [The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning)
+来源: Hugging Face Blog | 时间: 2026/11/12 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
