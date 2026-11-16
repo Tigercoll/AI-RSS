@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/16 02:38:38
+🕒 最后自动更新时间：2026/11/16 08:51:56
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [A step toward defining the Standard Model on a lattice](https://openai.com/index/step-toward-defining-the-standard-model)
+来源: OpenAI | 时间: 2026/11/16 06:00:01
+
+---
+
+### 📢 [Our new blog for science](https://openai.com/index/our-new-blog-for-science)
+来源: OpenAI | 时间: 2026/11/16 06:00:00
+
+---
+
 ### 📢 [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/15 00:38:36
 
@@ -57,6 +67,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
+来源: Hugging Face Blog | 时间: 2026/11/14 02:00:39
+
+---
+
 ### 📢 [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench)
 来源: Hugging Face Blog | 时间: 2026/11/14 01:02:35
 
@@ -69,11 +84,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)
 来源: OpenAI | 时间: 2026/11/13 23:00:00
-
----
-
-### 📢 [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
-来源: Hugging Face Blog | 时间: 2026/11/13 22:05:22
 
 ---
 
@@ -97,18 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude)
-来源: OpenAI | 时间: 2026/11/13 04:00:00
-
----
-
 ### 📢 [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
 来源: Hugging Face Blog | 时间: 2026/11/13 03:07:35
-
----
-
-### 📢 [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence)
-来源: LangChain Blog | 时间: 2026/11/13 01:19:15
 
 ---
 <!-- END_LIVE_FEEDS -->
