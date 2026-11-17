@@ -5,80 +5,95 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/17 15:13:39
+🕒 最后自动更新时间：2026/11/18 02:18:31
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [From tasks to goals](https://www.langchain.com/blog/from-tasks-to-goals)
-来源: LangChain Blog | 时间: 2026/11/17 07:53:29
-
----
-
-### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
-来源: LangChain Blog | 时间: 2026/11/17 07:53:29
-
----
-
-### 📢 [Goal Engineering](https://www.langchain.com/blog/goal-engineering)
-来源: LangChain Blog | 时间: 2026/11/17 07:53:29
+### 📢 [The five components of building a "company harness"](https://www.langchain.com/blog/components-building-company-harness)
+来源: LangChain Blog | 时间: 2026/11/18 02:08:33
 
 ---
 
 ### 📢 [New context engineering challenges in late 2026](https://www.langchain.com/blog/context-engineering-challenges-late-2026)
-来源: LangChain Blog | 时间: 2026/11/17 07:53:29
+来源: LangChain Blog | 时间: 2026/11/18 02:08:33
 
 ---
 
-### 📢 [Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/)
-来源: AWS ML Blog | 时间: 2026/11/17 06:43:30
+### 📢 [Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/)
+来源: AWS ML Blog | 时间: 2026/11/18 02:06:44
 
 ---
 
-### 📢 [How Duco transforms financial data automation with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/11/17 06:06:08
+### 📢 [Protect sensitive data in your traces: new controls in LangSmith](https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith)
+来源: LangChain Blog | 时间: 2026/11/18 02:00:02
 
 ---
 
-### 📢 [Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing](https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/)
-来源: AWS ML Blog | 时间: 2026/11/17 05:53:46
+### 📢 [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)
+来源: OpenAI | 时间: 2026/11/18 01:45:00
 
 ---
 
-### 📢 [NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1](https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/17 05:27:31
+### 📢 [Your complete guide to AWS Quick at AWS re:Invent 2026](https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/)
+来源: AWS ML Blog | 时间: 2026/11/18 01:08:21
 
 ---
 
-### 📢 [How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/11/17 02:16:07
+### 📢 [How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/)
+来源: AWS ML Blog | 时间: 2026/11/18 01:01:08
 
 ---
 
-### 📢 [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers)
-来源: OpenAI | 时间: 2026/11/17 01:00:00
+### 📢 [Responsible AI for agentic AI: A phased roadmap for platform and application teams](https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/)
+来源: AWS ML Blog | 时间: 2026/11/18 00:56:31
 
 ---
 
-### 📢 [Strengthening the fight against online child sexual abuse with new tools and support](https://openai.com/index/strengthening-online-child-safety)
-来源: OpenAI | 时间: 2026/11/17 01:00:00
+### 📢 [What We’ve Learned Building Proactive Agents](https://www.langchain.com/blog/what-weve-learned-building-proactive-agents)
+来源: LangChain Blog | 时间: 2026/11/18 00:49:24
 
 ---
 
-### 📢 [NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0](https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/16 23:23:36
+### 📢 [Co-Designing Sparse Attention for Efficient Long-Context Inference](https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/17 08:45:30
 
 ---
 
-### 📢 [Science at the Frontier: How scientists use ChatGPT](https://openai.com/index/science-at-the-frontier)
-来源: OpenAI | 时间: 2026/11/16 20:00:00
+### 📢 [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)
+来源: OpenAI | 时间: 2026/11/17 08:00:00
 
 ---
 
-### 📢 [How Revolut raises ambition without lowering the bar](https://openai.com/business/customer-stories/revolut)
-来源: OpenAI | 时间: 2026/11/16 17:30:00
+### 📢 [Introducing OpenAI for Chile](https://openai.com/index/introducing-openai-for-chile)
+来源: OpenAI | 时间: 2026/11/17 08:00:00
+
+---
+
+### 📢 [Astra for Law leads in legal intelligence](https://openai.com/index/astra-law-6-2)
+来源: OpenAI | 时间: 2026/11/17 08:00:00
+
+---
+
+### 📢 [Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins](https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/17 05:00:42
+
+---
+
+### 📢 [Hy4 Flash now available on AI Gateway for 50% off](https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off)
+来源: Vercel AI SDK | 时间: 2026/11/17 01:00:00
+
+---
+
+### 📢 [AI Gateway now supports Private Inference](https://vercel.com/changelog/ai-gateway-now-supports-private-inference)
+来源: Vercel AI SDK | 时间: 2026/11/16 15:47:00
+
+---
+
+### 📢 [Agents are users, so your software needs evals](https://vercel.com/blog/agent-evals)
+来源: Vercel AI SDK | 时间: 2026/11/16 13:00:00
 
 ---
 
@@ -87,28 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Seedance 2.5 Flash now available on AI Gateway](https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway)
+来源: Vercel AI SDK | 时间: 2026/11/16 08:00:00
+
+---
+
 ### 📢 [Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential](https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/14 03:45:35
-
----
-
-### 📢 [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
-来源: Hugging Face Blog | 时间: 2026/11/14 02:00:39
-
----
-
-### 📢 [Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain](https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/14 01:54:38
-
----
-
-### 📢 [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
-来源: Hugging Face Blog | 时间: 2026/11/13 22:05:22
-
----
-
-### 📢 [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
-来源: Hugging Face Blog | 时间: 2026/11/13 03:07:35
 
 ---
 <!-- END_LIVE_FEEDS -->
