@@ -5,30 +5,30 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/18 02:18:31
+🕒 最后自动更新时间：2026/11/18 10:47:13
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [The five components of building a "company harness"](https://www.langchain.com/blog/components-building-company-harness)
-来源: LangChain Blog | 时间: 2026/11/18 02:08:33
+### 📢 [Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference](https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/)
+来源: AWS ML Blog | 时间: 2026/11/18 07:33:26
 
 ---
 
-### 📢 [New context engineering challenges in late 2026](https://www.langchain.com/blog/context-engineering-challenges-late-2026)
-来源: LangChain Blog | 时间: 2026/11/18 02:08:33
+### 📢 [Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads](https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/)
+来源: AWS ML Blog | 时间: 2026/11/18 06:44:51
 
 ---
 
-### 📢 [Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/)
-来源: AWS ML Blog | 时间: 2026/11/18 02:06:44
+### 📢 [Cut generative AI costs: Code for rules, models for judgment](https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/)
+来源: AWS ML Blog | 时间: 2026/11/18 05:14:55
 
 ---
 
-### 📢 [Protect sensitive data in your traces: new controls in LangSmith](https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith)
-来源: LangChain Blog | 时间: 2026/11/18 02:00:02
+### 📢 [Amazon SageMaker AI real-time endpoints now support KV cache aware routing](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/)
+来源: AWS ML Blog | 时间: 2026/11/18 05:11:51
 
 ---
 
@@ -37,37 +37,12 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Your complete guide to AWS Quick at AWS re:Invent 2026](https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/)
-来源: AWS ML Blog | 时间: 2026/11/18 01:08:21
-
----
-
-### 📢 [How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/)
-来源: AWS ML Blog | 时间: 2026/11/18 01:01:08
-
----
-
-### 📢 [Responsible AI for agentic AI: A phased roadmap for platform and application teams](https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/)
-来源: AWS ML Blog | 时间: 2026/11/18 00:56:31
-
----
-
-### 📢 [What We’ve Learned Building Proactive Agents](https://www.langchain.com/blog/what-weve-learned-building-proactive-agents)
-来源: LangChain Blog | 时间: 2026/11/18 00:49:24
-
----
-
-### 📢 [Co-Designing Sparse Attention for Efficient Long-Context Inference](https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/17 08:45:30
+### 📢 [Introducing ChatGPT for Sales](https://openai.com/index/introducing-chatgpt-for-sales)
+来源: OpenAI | 时间: 2026/11/17 16:00:00
 
 ---
 
 ### 📢 [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)
-来源: OpenAI | 时间: 2026/11/17 08:00:00
-
----
-
-### 📢 [Introducing OpenAI for Chile](https://openai.com/index/introducing-openai-for-chile)
 来源: OpenAI | 时间: 2026/11/17 08:00:00
 
 ---
@@ -77,38 +52,63 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins](https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/17 05:00:42
+### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
 
 ---
 
-### 📢 [Hy4 Flash now available on AI Gateway for 50% off](https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off)
-来源: Vercel AI SDK | 时间: 2026/11/17 01:00:00
+### 📢 [Inkling 2 Small on vLLM: Day-0 Support](https://vllm.ai/blog/2026-11-12-inkling2-small)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
 
 ---
 
-### 📢 [AI Gateway now supports Private Inference](https://vercel.com/changelog/ai-gateway-now-supports-private-inference)
-来源: Vercel AI SDK | 时间: 2026/11/16 15:47:00
+### 📢 [H3-Image Day-0 Support: 4K in 0.87s with Vera Rubin](https://vllm.ai/blog/2026-11-12-minimax-h3-image-rubin)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
 
 ---
 
-### 📢 [Agents are users, so your software needs evals](https://vercel.com/blog/agent-evals)
-来源: Vercel AI SDK | 时间: 2026/11/16 13:00:00
+### 📢 [Reinforcement Learning: Optimizing 0.6B Dense Models on TPU v7 via vLLM](https://vllm.ai/blog/2026-11-12-rl-small-dense-tpu-v7)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
 
 ---
 
-### 📢 [Hugging Face and OpenRouter join forces to make open-weight models easy to run](https://huggingface.co/blog/openrouter)
-来源: Hugging Face Blog | 时间: 2026/11/16 08:00:00
+### 📢 [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)
+来源: Google DeepMind | 时间: 2026/11/11 23:00:15
 
 ---
 
-### 📢 [Seedance 2.5 Flash now available on AI Gateway](https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway)
-来源: Vercel AI SDK | 时间: 2026/11/16 08:00:00
+### 📢 [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
+来源: Google DeepMind | 时间: 2026/11/10 20:02:28
 
 ---
 
-### 📢 [Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential](https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/14 03:45:35
+### 📢 [Opening the datasets behind our AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/)
+来源: Google DeepMind | 时间: 2026/11/10 19:13:04
+
+---
+
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/11/10 08:00:00
+
+---
+
+### 📢 [Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)
+来源: Google DeepMind | 时间: 2026/11/10 03:51:47
+
+---
+
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
+
+---
+
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
+
+---
+
+### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
