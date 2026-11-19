@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/19 10:24:01
+🕒 最后自动更新时间：2026/11/19 19:19:22
 
 ---
 
@@ -42,6 +42,26 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Catch production failures early with LangSmith Alerts](https://www.langchain.com/blog/langsmith-alerts)
+来源: LangChain Blog | 时间: 2026/11/19 03:33:12
+
+---
+
+### 📢 [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill)
+来源: LangChain Blog | 时间: 2026/11/19 03:33:12
+
+---
+
+### 📢 [Announcing Data Annotation Queues](https://www.langchain.com/blog/announcing-data-annotation-queue)
+来源: LangChain Blog | 时间: 2026/11/19 03:33:12
+
+---
+
+### 📢 [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
+来源: Hugging Face Blog | 时间: 2026/11/19 02:53:43
+
+---
+
 ### 📢 [LangSmith for Coding Agents: Now track spend by outcome](https://www.langchain.com/blog/langsmith-coding-agents-roi)
 来源: LangChain Blog | 时间: 2026/11/19 00:27:01
 
@@ -49,11 +69,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
 来源: Hugging Face Blog | 时间: 2026/11/18 23:00:23
-
----
-
-### 📢 [How to Choose the Right Sandbox for AI Agents](https://www.langchain.com/blog/how-to-choose-the-right-sandbox-for-your-agent)
-来源: LangChain Blog | 时间: 2026/11/18 18:31:18
 
 ---
 
@@ -87,28 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Protect sensitive data in your traces: new controls in LangSmith](https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith)
-来源: LangChain Blog | 时间: 2026/11/18 05:31:36
-
----
-
-### 📢 [New context engineering challenges in late 2026](https://www.langchain.com/blog/context-engineering-challenges-late-2026)
-来源: LangChain Blog | 时间: 2026/11/18 05:31:36
+### 📢 [Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM](https://vllm.ai/blog/2026-11-18-flydsl-monokernels)
+来源: vLLM Blog | 时间: 2026/11/18 08:00:00
 
 ---
 
 ### 📢 [Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision](https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/18 04:17:30
-
----
-
-### 📢 [Co-Designing Sparse Attention for Efficient Long-Context Inference](https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/17 08:45:30
-
----
-
-### 📢 [Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins](https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/17 05:00:42
 
 ---
 <!-- END_LIVE_FEEDS -->
