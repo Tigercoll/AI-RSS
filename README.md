@@ -5,30 +5,40 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/19 04:11:53
+🕒 最后自动更新时间：2026/11/19 10:24:01
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [How Social Department built culture-aware video discovery](https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery/)
-来源: AWS ML Blog | 时间: 2026/11/19 03:27:56
+### 📢 [Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization](https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/)
+来源: AWS ML Blog | 时间: 2026/11/19 08:15:58
 
 ---
 
-### 📢 [Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection](https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/)
-来源: AWS ML Blog | 时间: 2026/11/19 03:05:45
+### 📢 [Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips](https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/)
+来源: AWS ML Blog | 时间: 2026/11/19 07:58:22
 
 ---
 
-### 📢 [How Stretto built an AI voice agent with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/)
-来源: AWS ML Blog | 时间: 2026/11/19 02:58:42
+### 📢 [Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/)
+来源: AWS ML Blog | 时间: 2026/11/19 07:03:29
 
 ---
 
-### 📢 [From reporting to reasoning: Getting enterprise data ready for AI agents](https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/)
-来源: AWS ML Blog | 时间: 2026/11/19 02:54:08
+### 📢 [Introducing the Amazon SageMaker JumpStart Model Leaderboard](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/)
+来源: AWS ML Blog | 时间: 2026/11/19 06:31:04
+
+---
+
+### 📢 [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/19 04:02:38
+
+---
+
+### 📢 [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+来源: Hugging Face Blog | 时间: 2026/11/19 03:54:56
 
 ---
 
@@ -37,8 +47,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
+来源: Hugging Face Blog | 时间: 2026/11/18 23:00:23
+
+---
+
 ### 📢 [How to Choose the Right Sandbox for AI Agents](https://www.langchain.com/blog/how-to-choose-the-right-sandbox-for-your-agent)
 来源: LangChain Blog | 时间: 2026/11/18 18:31:18
+
+---
+
+### 📢 [The Silent Consensus](https://openai.com/index/the-silent-consensus)
+来源: OpenAI | 时间: 2026/11/18 18:00:00
+
+---
+
+### 📢 [Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)
+来源: OpenAI | 时间: 2026/11/18 16:00:00
+
+---
+
+### 📢 [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)
+来源: OpenAI | 时间: 2026/11/18 16:00:00
 
 ---
 
@@ -47,23 +77,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [The Silent Consensus](https://openai.com/index/the-silent-consensus)
-来源: OpenAI | 时间: 2026/11/18 08:00:00
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/11/18 08:00:00
 
 ---
 
-### 📢 [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models)
-来源: OpenAI | 时间: 2026/11/18 08:00:00
-
----
-
-### 📢 [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
-来源: OpenAI | 时间: 2026/11/18 08:00:00
-
----
-
-### 📢 [Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM](https://vllm.ai/blog/2026-11-18-flydsl-monokernels)
-来源: vLLM Blog | 时间: 2026/11/18 08:00:00
+### 📢 [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash)
+来源: Hugging Face Blog | 时间: 2026/11/18 08:00:00
 
 ---
 
@@ -77,38 +97,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
+### 📢 [Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision](https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/18 04:17:30
 
 ---
 
-### 📢 [Inkling 2 Small on vLLM: Day-0 Support](https://vllm.ai/blog/2026-11-12-inkling2-small)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
+### 📢 [Co-Designing Sparse Attention for Efficient Long-Context Inference](https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/17 08:45:30
 
 ---
 
-### 📢 [H3-Image Day-0 Support: 4K in 0.87s with Vera Rubin](https://vllm.ai/blog/2026-11-12-minimax-h3-image-rubin)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
-
----
-
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/11/10 08:00:00
-
----
-
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [Features](https://www.anthropic.com/news/features)
-来源: Anthropic News | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
-来源: Anthropic News | 时间: 未知时间
+### 📢 [Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins](https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/17 05:00:42
 
 ---
 <!-- END_LIVE_FEEDS -->
