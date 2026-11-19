@@ -5,30 +5,60 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/19 19:19:22
+🕒 最后自动更新时间：2026/11/20 04:14:30
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization](https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/)
-来源: AWS ML Blog | 时间: 2026/11/19 08:15:58
+### 📢 [Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/)
+来源: AWS ML Blog | 时间: 2026/11/20 04:01:06
 
 ---
 
-### 📢 [Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips](https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/)
-来源: AWS ML Blog | 时间: 2026/11/19 07:58:22
+### 📢 [Amazon Polly launches voice cloning: A unique voice for your brand](https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/)
+来源: AWS ML Blog | 时间: 2026/11/20 03:53:32
 
 ---
 
-### 📢 [Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/)
-来源: AWS ML Blog | 时间: 2026/11/19 07:03:29
+### 📢 [Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach](https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/)
+来源: AWS ML Blog | 时间: 2026/11/20 02:48:55
 
 ---
 
-### 📢 [Introducing the Amazon SageMaker JumpStart Model Leaderboard](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/)
-来源: AWS ML Blog | 时间: 2026/11/19 06:31:04
+### 📢 [From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League](https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/)
+来源: AWS ML Blog | 时间: 2026/11/20 02:26:22
+
+---
+
+### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
+来源: LangChain Blog | 时间: 2026/11/20 02:24:58
+
+---
+
+### 📢 [Build Tool-Calling Parsers in Rust with AI Agents](https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/20 00:31:21
+
+---
+
+### 📢 [LangSmith Tool Gateway: Secure, governed tool use for agents](https://www.langchain.com/blog/langsmith-tool-gateway)
+来源: LangChain Blog | 时间: 2026/11/19 23:51:28
+
+---
+
+### 📢 [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill)
+来源: LangChain Blog | 时间: 2026/11/19 21:36:39
+
+---
+
+### 📢 [Announcing Data Annotation Queues](https://www.langchain.com/blog/announcing-data-annotation-queue)
+来源: LangChain Blog | 时间: 2026/11/19 21:36:39
+
+---
+
+### 📢 [How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)
+来源: OpenAI | 时间: 2026/11/19 16:00:00
 
 ---
 
@@ -42,31 +72,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Catch production failures early with LangSmith Alerts](https://www.langchain.com/blog/langsmith-alerts)
-来源: LangChain Blog | 时间: 2026/11/19 03:33:12
-
----
-
-### 📢 [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill)
-来源: LangChain Blog | 时间: 2026/11/19 03:33:12
-
----
-
-### 📢 [Announcing Data Annotation Queues](https://www.langchain.com/blog/announcing-data-annotation-queue)
-来源: LangChain Blog | 时间: 2026/11/19 03:33:12
-
----
-
-### 📢 [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
-来源: Hugging Face Blog | 时间: 2026/11/19 02:53:43
-
----
-
-### 📢 [LangSmith for Coding Agents: Now track spend by outcome](https://www.langchain.com/blog/langsmith-coding-agents-roi)
-来源: LangChain Blog | 时间: 2026/11/19 00:27:01
-
----
-
 ### 📢 [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
 来源: Hugging Face Blog | 时间: 2026/11/18 23:00:23
 
@@ -77,23 +82,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)
-来源: OpenAI | 时间: 2026/11/18 16:00:00
-
----
-
 ### 📢 [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)
 来源: OpenAI | 时间: 2026/11/18 16:00:00
 
 ---
 
-### 📢 [Inside the Codex sandbox](https://openai.com/index/inside-the-codex-sandbox)
+### 📢 [Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)
 来源: OpenAI | 时间: 2026/11/18 16:00:00
 
 ---
 
 ### 📢 [Announcements](https://www.anthropic.com/news/announcements)
 来源: Anthropic News | 时间: 2026/11/18 08:00:00
+
+---
+
+### 📢 [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](https://huggingface.co/blog/moe-expert-streaming)
+来源: Hugging Face Blog | 时间: 2026/11/18 08:00:00
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM](https://vllm.ai/blog/2026-11-18-flydsl-monokernels)
 来源: vLLM Blog | 时间: 2026/11/18 08:00:00
-
----
-
-### 📢 [Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision](https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/18 04:17:30
 
 ---
 <!-- END_LIVE_FEEDS -->
