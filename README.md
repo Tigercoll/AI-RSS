@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/20 10:07:42
+🕒 最后自动更新时间：2026/11/20 19:04:35
 
 ---
 
@@ -37,18 +37,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo](https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/20 04:28:20
-
----
-
 ### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
 来源: LangChain Blog | 时间: 2026/11/20 02:24:58
-
----
-
-### 📢 [Build Tool-Calling Parsers in Rust with AI Agents](https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/20 00:31:21
 
 ---
 
@@ -82,18 +72,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/19 04:02:38
-
----
-
-### 📢 [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
-来源: Hugging Face Blog | 时间: 2026/11/19 03:54:56
-
----
-
 ### 📢 [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
 来源: Hugging Face Blog | 时间: 2026/11/19 02:53:43
+
+---
+
+### 📢 [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
+来源: Hugging Face Blog | 时间: 2026/11/18 23:00:23
 
 ---
 
@@ -109,6 +94,21 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash)
 来源: Hugging Face Blog | 时间: 2026/11/18 08:00:00
+
+---
+
+### 📢 [Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM](https://vllm.ai/blog/2026-11-18-flydsl-monokernels)
+来源: vLLM Blog | 时间: 2026/11/18 08:00:00
+
+---
+
+### 📢 [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
+来源: Google DeepMind | 时间: 2026/11/13 02:00:50
+
+---
+
+### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
