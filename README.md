@@ -5,13 +5,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/20 19:04:35
+🕒 最后自动更新时间：2026/11/21 03:47:21
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [How Standard Bank Group automates AI risk assessment for generative AI](https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/)
+来源: AWS ML Blog | 时间: 2026/11/21 03:28:56
+
+---
+
+### 📢 [Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/)
+来源: AWS ML Blog | 时间: 2026/11/21 02:24:06
+
+---
+
+### 📢 [LangSmith Tool Gateway: Secure, governed tool use for agents](https://www.langchain.com/blog/langsmith-tool-gateway)
+来源: LangChain Blog | 时间: 2026/11/21 02:06:42
+
+---
+
+### 📢 [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation)
+来源: OpenAI | 时间: 2026/11/20 18:00:00
+
+---
+
 ### 📢 [Why agent governance starts with observability](https://www.langchain.com/blog/agent-governance-observability)
 来源: LangChain Blog | 时间: 2026/11/20 08:57:43
 
@@ -27,23 +47,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/)
-来源: AWS ML Blog | 时间: 2026/11/20 07:02:16
+### 📢 [Can AI help scientists identify promising drug candidates?](https://openai.com/index/introducing-medchembench)
+来源: OpenAI | 时间: 2026/11/20 08:00:00
 
 ---
 
-### 📢 [How the BMW Group governs hundreds of agents across thousands of developers](https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/)
-来源: AWS ML Blog | 时间: 2026/11/20 06:20:23
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/11/20 08:00:00
 
 ---
 
 ### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
 来源: LangChain Blog | 时间: 2026/11/20 02:24:58
-
----
-
-### 📢 [LangSmith Tool Gateway: Secure, governed tool use for agents](https://www.langchain.com/blog/langsmith-tool-gateway)
-来源: LangChain Blog | 时间: 2026/11/19 23:51:28
 
 ---
 
@@ -57,18 +72,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Deploying Daybreak Red](https://openai.com/business/learn/deploying-daybreak-red)
-来源: OpenAI | 时间: 2026/11/19 08:00:00
-
----
-
-### 📢 [See PR scans in action](https://openai.com/business/learn/pr-scans-demo)
-来源: OpenAI | 时间: 2026/11/19 08:00:00
-
----
-
 ### 📢 [Explore the Codex Security Plugin](https://openai.com/business/learn/codex-security-plugin-demo)
 来源: OpenAI | 时间: 2026/11/19 08:00:00
+
+---
+
+### 📢 [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+来源: Hugging Face Blog | 时间: 2026/11/19 03:54:56
 
 ---
 
@@ -82,17 +92,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/11/18 08:00:00
-
----
-
 ### 📢 [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](https://huggingface.co/blog/moe-expert-streaming)
-来源: Hugging Face Blog | 时间: 2026/11/18 08:00:00
-
----
-
-### 📢 [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash)
 来源: Hugging Face Blog | 时间: 2026/11/18 08:00:00
 
 ---
@@ -102,13 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
-来源: Google DeepMind | 时间: 2026/11/13 02:00:50
+### 📢 [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents)
+来源: Ollama Blog | 时间: 2026/11/16 08:00:00
 
 ---
 
-### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
+### 📢 [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
+来源: Google DeepMind | 时间: 2026/11/13 02:00:50
 
 ---
 <!-- END_LIVE_FEEDS -->
