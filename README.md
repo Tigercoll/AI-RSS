@@ -5,30 +5,40 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/20 04:14:30
+🕒 最后自动更新时间：2026/11/20 10:07:42
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/)
-来源: AWS ML Blog | 时间: 2026/11/20 04:01:06
+### 📢 [Why agent governance starts with observability](https://www.langchain.com/blog/agent-governance-observability)
+来源: LangChain Blog | 时间: 2026/11/20 08:57:43
 
 ---
 
-### 📢 [Amazon Polly launches voice cloning: A unique voice for your brand](https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/)
-来源: AWS ML Blog | 时间: 2026/11/20 03:53:32
+### 📢 [Amazon SageMaker Inference: 2026 launches in review, part 2](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/)
+来源: AWS ML Blog | 时间: 2026/11/20 08:34:07
 
 ---
 
-### 📢 [Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach](https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/)
-来源: AWS ML Blog | 时间: 2026/11/20 02:48:55
+### 📢 [Use Kimi Code CLI with models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/)
+来源: AWS ML Blog | 时间: 2026/11/20 08:33:30
 
 ---
 
-### 📢 [From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League](https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/)
-来源: AWS ML Blog | 时间: 2026/11/20 02:26:22
+### 📢 [Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/)
+来源: AWS ML Blog | 时间: 2026/11/20 07:02:16
+
+---
+
+### 📢 [How the BMW Group governs hundreds of agents across thousands of developers](https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/)
+来源: AWS ML Blog | 时间: 2026/11/20 06:20:23
+
+---
+
+### 📢 [Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo](https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/20 04:28:20
 
 ---
 
@@ -52,13 +62,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Announcing Data Annotation Queues](https://www.langchain.com/blog/announcing-data-annotation-queue)
-来源: LangChain Blog | 时间: 2026/11/19 21:36:39
+### 📢 [How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)
+来源: OpenAI | 时间: 2026/11/19 16:00:00
 
 ---
 
-### 📢 [How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)
-来源: OpenAI | 时间: 2026/11/19 16:00:00
+### 📢 [Deploying Daybreak Red](https://openai.com/business/learn/deploying-daybreak-red)
+来源: OpenAI | 时间: 2026/11/19 08:00:00
+
+---
+
+### 📢 [See PR scans in action](https://openai.com/business/learn/pr-scans-demo)
+来源: OpenAI | 时间: 2026/11/19 08:00:00
+
+---
+
+### 📢 [Explore the Codex Security Plugin](https://openai.com/business/learn/codex-security-plugin-demo)
+来源: OpenAI | 时间: 2026/11/19 08:00:00
 
 ---
 
@@ -72,23 +92,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
-来源: Hugging Face Blog | 时间: 2026/11/18 23:00:23
-
----
-
-### 📢 [The Silent Consensus](https://openai.com/index/the-silent-consensus)
-来源: OpenAI | 时间: 2026/11/18 18:00:00
-
----
-
-### 📢 [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)
-来源: OpenAI | 时间: 2026/11/18 16:00:00
-
----
-
-### 📢 [Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)
-来源: OpenAI | 时间: 2026/11/18 16:00:00
+### 📢 [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
+来源: Hugging Face Blog | 时间: 2026/11/19 02:53:43
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash)
 来源: Hugging Face Blog | 时间: 2026/11/18 08:00:00
-
----
-
-### 📢 [Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM](https://vllm.ai/blog/2026-11-18-flydsl-monokernels)
-来源: vLLM Blog | 时间: 2026/11/18 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
