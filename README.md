@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/21 10:02:18
+🕒 最后自动更新时间：2026/11/21 18:46:30
 
 ---
 
@@ -32,23 +32,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
-来源: LangChain Blog | 时间: 2026/11/21 06:04:13
-
----
-
-### 📢 [LangSmith Tool Gateway: Secure, governed tool use for agents](https://www.langchain.com/blog/langsmith-tool-gateway)
-来源: LangChain Blog | 时间: 2026/11/21 02:06:42
-
----
-
 ### 📢 [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation)
 来源: OpenAI | 时间: 2026/11/20 18:00:00
-
----
-
-### 📢 [Why agent governance starts with observability](https://www.langchain.com/blog/agent-governance-observability)
-来源: LangChain Blog | 时间: 2026/11/20 08:57:43
 
 ---
 
@@ -67,48 +52,43 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
-来源: Hugging Face Blog | 时间: 2026/11/20 08:00:00
-
----
-
-### 📢 [Inkling 2 Mini on vLLM: Day-0 Support for a Looped Model](https://vllm.ai/blog/2026-11-20-inkling2-mini)
-来源: vLLM Blog | 时间: 2026/11/20 08:00:00
-
----
-
-### 📢 [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill)
-来源: LangChain Blog | 时间: 2026/11/19 21:36:39
-
----
-
 ### 📢 [How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)
 来源: OpenAI | 时间: 2026/11/19 16:00:00
 
 ---
 
-### 📢 [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
-来源: Hugging Face Blog | 时间: 2026/11/19 02:53:43
+### 📢 [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
+来源: Google DeepMind | 时间: 2026/11/13 02:00:50
 
 ---
 
-### 📢 [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
-来源: Hugging Face Blog | 时间: 2026/11/18 23:00:23
+### 📢 [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)
+来源: Google DeepMind | 时间: 2026/11/11 23:00:15
 
 ---
 
-### 📢 [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](https://huggingface.co/blog/moe-expert-streaming)
-来源: Hugging Face Blog | 时间: 2026/11/18 08:00:00
+### 📢 [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)
+来源: Google DeepMind | 时间: 2026/11/11 00:03:47
 
 ---
 
-### 📢 [Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM](https://vllm.ai/blog/2026-11-18-flydsl-monokernels)
-来源: vLLM Blog | 时间: 2026/11/18 08:00:00
+### 📢 [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
+来源: Google DeepMind | 时间: 2026/11/10 20:02:28
 
 ---
 
-### 📢 [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents)
-来源: Ollama Blog | 时间: 2026/11/16 08:00:00
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
+
+---
+
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
+
+---
+
+### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
