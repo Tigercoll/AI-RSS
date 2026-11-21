@@ -5,20 +5,35 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/21 03:47:21
+🕒 最后自动更新时间：2026/11/21 10:02:18
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [How Standard Bank Group automates AI risk assessment for generative AI](https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/)
-来源: AWS ML Blog | 时间: 2026/11/21 03:28:56
+### 📢 [New in AWS Quick: More capable flows, an updated web experience, and agents that work together](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/)
+来源: AWS ML Blog | 时间: 2026/11/21 09:06:42
 
 ---
 
-### 📢 [Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/)
-来源: AWS ML Blog | 时间: 2026/11/21 02:24:06
+### 📢 [Cut self-hosted LLM cost and latency with the distributed KV caching agent skill](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/)
+来源: AWS ML Blog | 时间: 2026/11/21 08:14:26
+
+---
+
+### 📢 [Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm](https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/)
+来源: AWS ML Blog | 时间: 2026/11/21 07:07:03
+
+---
+
+### 📢 [Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/)
+来源: AWS ML Blog | 时间: 2026/11/21 06:35:24
+
+---
+
+### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
+来源: LangChain Blog | 时间: 2026/11/21 06:04:13
 
 ---
 
@@ -37,13 +52,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Amazon SageMaker Inference: 2026 launches in review, part 2](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/)
-来源: AWS ML Blog | 时间: 2026/11/20 08:34:07
-
----
-
-### 📢 [Use Kimi Code CLI with models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/)
-来源: AWS ML Blog | 时间: 2026/11/20 08:33:30
+### 📢 [Hebbia sees improvements in financial research with GPT-6 Astra](https://openai.com/business/customer-stories/hebbia)
+来源: OpenAI | 时间: 2026/11/20 08:00:00
 
 ---
 
@@ -57,8 +67,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
-来源: LangChain Blog | 时间: 2026/11/20 02:24:58
+### 📢 [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
+来源: Hugging Face Blog | 时间: 2026/11/20 08:00:00
+
+---
+
+### 📢 [Inkling 2 Mini on vLLM: Day-0 Support for a Looped Model](https://vllm.ai/blog/2026-11-20-inkling2-mini)
+来源: vLLM Blog | 时间: 2026/11/20 08:00:00
 
 ---
 
@@ -69,16 +84,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)
 来源: OpenAI | 时间: 2026/11/19 16:00:00
-
----
-
-### 📢 [Explore the Codex Security Plugin](https://openai.com/business/learn/codex-security-plugin-demo)
-来源: OpenAI | 时间: 2026/11/19 08:00:00
-
----
-
-### 📢 [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
-来源: Hugging Face Blog | 时间: 2026/11/19 03:54:56
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents)
 来源: Ollama Blog | 时间: 2026/11/16 08:00:00
-
----
-
-### 📢 [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
-来源: Google DeepMind | 时间: 2026/11/13 02:00:50
 
 ---
 <!-- END_LIVE_FEEDS -->
