@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/22 18:55:01
+🕒 最后自动更新时间：2026/11/23 03:14:32
 
 ---
 
@@ -17,8 +17,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [How to build a knowledge factory for AI agents](https://www.langchain.com/blog/knowledge-factory)
-来源: LangChain Blog | 时间: 2026/11/22 00:45:08
+### 📢 [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence)
+来源: OpenAI | 时间: 2026/11/22 08:00:00
 
 ---
 
@@ -37,23 +37,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
-来源: LangChain Blog | 时间: 2026/11/21 06:04:13
-
----
-
-### 📢 [LangSmith Tool Gateway: Secure, governed tool use for agents](https://www.langchain.com/blog/langsmith-tool-gateway)
-来源: LangChain Blog | 时间: 2026/11/21 02:06:42
-
----
-
 ### 📢 [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation)
 来源: OpenAI | 时间: 2026/11/20 18:00:00
-
----
-
-### 📢 [Why agent governance starts with observability](https://www.langchain.com/blog/agent-governance-observability)
-来源: LangChain Blog | 时间: 2026/11/20 08:57:43
 
 ---
 
@@ -82,33 +67,48 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo](https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/20 04:28:20
-
----
-
-### 📢 [Build Tool-Calling Parsers in Rust with AI Agents](https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/20 00:31:21
-
----
-
-### 📢 [How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)
-来源: OpenAI | 时间: 2026/11/19 16:00:00
-
----
-
-### 📢 [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/19 04:02:38
-
----
-
 ### 📢 [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
 来源: Hugging Face Blog | 时间: 2026/11/19 03:54:56
 
 ---
 
+### 📢 [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
+来源: Hugging Face Blog | 时间: 2026/11/19 02:53:43
+
+---
+
 ### 📢 [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
 来源: Hugging Face Blog | 时间: 2026/11/18 23:00:23
+
+---
+
+### 📢 [Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM](https://vllm.ai/blog/2026-11-18-flydsl-monokernels)
+来源: vLLM Blog | 时间: 2026/11/18 08:00:00
+
+---
+
+### 📢 [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents)
+来源: Ollama Blog | 时间: 2026/11/16 08:00:00
+
+---
+
+### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
+
+---
+
+### 📢 [Inkling 2 Small on vLLM: Day-0 Support](https://vllm.ai/blog/2026-11-12-inkling2-small)
+来源: vLLM Blog | 时间: 2026/11/12 08:00:00
+
+---
+
+### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
+来源: Ollama Blog | 时间: 2026/10/24 08:00:00
+
+---
+
+### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
+来源: Ollama Blog | 时间: 2026/10/19 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
