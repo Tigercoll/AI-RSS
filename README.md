@@ -5,13 +5,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/22 09:02:16
+🕒 最后自动更新时间：2026/11/22 18:55:01
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Meta ads is now available in AWS Quick](https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/)
+来源: AWS ML Blog | 时间: 2026/11/22 09:59:13
+
+---
+
 ### 📢 [How to build a knowledge factory for AI agents](https://www.langchain.com/blog/knowledge-factory)
 来源: LangChain Blog | 时间: 2026/11/22 00:45:08
 
@@ -29,11 +34,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm](https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/)
 来源: AWS ML Blog | 时间: 2026/11/21 07:07:03
-
----
-
-### 📢 [Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/)
-来源: AWS ML Blog | 时间: 2026/11/21 06:35:24
 
 ---
 
@@ -107,8 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
-来源: Hugging Face Blog | 时间: 2026/11/19 02:53:43
+### 📢 [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
+来源: Hugging Face Blog | 时间: 2026/11/18 23:00:23
 
 ---
 <!-- END_LIVE_FEEDS -->
