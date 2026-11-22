@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/22 02:53:14
+🕒 最后自动更新时间：2026/11/22 09:02:16
 
 ---
 
@@ -52,11 +52,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Vercel completes ISO/IEC 42001:2023 certification](https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification)
-来源: Vercel AI SDK | 时间: 2026/11/20 13:00:00
-
----
-
 ### 📢 [Why agent governance starts with observability](https://www.langchain.com/blog/agent-governance-observability)
 来源: LangChain Blog | 时间: 2026/11/20 08:57:43
 
@@ -77,7 +72,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini)
+### 📢 [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
 来源: Hugging Face Blog | 时间: 2026/11/20 08:00:00
 
 ---
@@ -102,13 +97,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Agents can now find Vercel CLI commands by describing the task](https://vercel.com/changelog/agents-can-now-find-vercel-cli-commands-by-describing-the-task)
-来源: Vercel AI SDK | 时间: 2026/11/19 13:00:00
+### 📢 [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/19 04:02:38
 
 ---
 
-### 📢 [Vercel Billing CLI is now available](https://vercel.com/changelog/vercel-billing-cli-is-now-available)
-来源: Vercel AI SDK | 时间: 2026/11/19 13:00:00
+### 📢 [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+来源: Hugging Face Blog | 时间: 2026/11/19 03:54:56
+
+---
+
+### 📢 [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
+来源: Hugging Face Blog | 时间: 2026/11/19 02:53:43
 
 ---
 <!-- END_LIVE_FEEDS -->
