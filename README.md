@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/23 03:14:32
+🕒 最后自动更新时间：2026/11/23 09:28:53
 
 ---
 
@@ -19,6 +19,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence)
 来源: OpenAI | 时间: 2026/11/22 08:00:00
+
+---
+
+### 📢 [How to build a knowledge factory for AI agents](https://www.langchain.com/blog/knowledge-factory)
+来源: LangChain Blog | 时间: 2026/11/22 00:45:08
 
 ---
 
@@ -37,8 +42,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
+来源: LangChain Blog | 时间: 2026/11/21 06:04:13
+
+---
+
+### 📢 [LangSmith Tool Gateway: Secure, governed tool use for agents](https://www.langchain.com/blog/langsmith-tool-gateway)
+来源: LangChain Blog | 时间: 2026/11/21 02:06:42
+
+---
+
 ### 📢 [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation)
 来源: OpenAI | 时间: 2026/11/20 18:00:00
+
+---
+
+### 📢 [Vercel completes ISO/IEC 42001:2023 certification](https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification)
+来源: Vercel AI SDK | 时间: 2026/11/20 13:00:00
+
+---
+
+### 📢 [Why agent governance starts with observability](https://www.langchain.com/blog/agent-governance-observability)
+来源: LangChain Blog | 时间: 2026/11/20 08:57:43
 
 ---
 
@@ -57,7 +82,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
+### 📢 [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini)
 来源: Hugging Face Blog | 时间: 2026/11/20 08:00:00
 
 ---
@@ -67,48 +92,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
-来源: Hugging Face Blog | 时间: 2026/11/19 03:54:56
+### 📢 [Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo](https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/20 04:28:20
 
 ---
 
-### 📢 [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
-来源: Hugging Face Blog | 时间: 2026/11/19 02:53:43
+### 📢 [Build Tool-Calling Parsers in Rust with AI Agents](https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/20 00:31:21
 
 ---
 
-### 📢 [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
-来源: Hugging Face Blog | 时间: 2026/11/18 23:00:23
+### 📢 [Agents can now find Vercel CLI commands by describing the task](https://vercel.com/changelog/agents-can-now-find-vercel-cli-commands-by-describing-the-task)
+来源: Vercel AI SDK | 时间: 2026/11/19 13:00:00
 
 ---
 
-### 📢 [Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM](https://vllm.ai/blog/2026-11-18-flydsl-monokernels)
-来源: vLLM Blog | 时间: 2026/11/18 08:00:00
-
----
-
-### 📢 [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents)
-来源: Ollama Blog | 时间: 2026/11/16 08:00:00
-
----
-
-### 📢 [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
-
----
-
-### 📢 [Inkling 2 Small on vLLM: Day-0 Support](https://vllm.ai/blog/2026-11-12-inkling2-small)
-来源: vLLM Blog | 时间: 2026/11/12 08:00:00
-
----
-
-### 📢 [Speech models in Ollama](https://ollama.com/blog/speech-models)
-来源: Ollama Blog | 时间: 2026/10/24 08:00:00
-
----
-
-### 📢 [Clef is available on Ollama's cloud](https://ollama.com/blog/clef)
-来源: Ollama Blog | 时间: 2026/10/19 08:00:00
+### 📢 [Vercel Billing CLI is now available](https://vercel.com/changelog/vercel-billing-cli-is-now-available)
+来源: Vercel AI SDK | 时间: 2026/11/19 13:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
