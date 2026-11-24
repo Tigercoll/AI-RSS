@@ -5,13 +5,23 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/24 07:47:43
+🕒 最后自动更新时间：2026/11/24 17:04:55
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/)
+来源: AWS ML Blog | 时间: 2026/11/24 13:01:14
+
+---
+
+### 📢 [vLLM Day-0 Support for ERNIE 5.5 Flash Preview: Plugin Deployment and E2E Inference Acceleration](https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview)
+来源: vLLM Blog | 时间: 2026/11/24 08:00:00
+
+---
+
 ### 📢 [OCR for Forms: Why Templates Fail and What Works](https://www.llamaindex.ai/blog/ocr-for-forms)
 来源: LlamaIndex Blog | 时间: 2026/11/24 08:00:00
 
@@ -29,11 +39,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension](https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/24 01:42:15
-
----
-
-### 📢 [RoboTrack: Point tracking for real-world robotic manipulation](https://huggingface.co/blog/allenai/robotrack)
-来源: Hugging Face Blog | 时间: 2026/11/24 01:20:37
 
 ---
 
@@ -104,11 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence)
 来源: OpenAI | 时间: 2026/11/22 08:00:00
-
----
-
-### 📢 [New in AWS Quick: More capable flows, an updated web experience, and agents that work together](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/)
-来源: AWS ML Blog | 时间: 2026/11/21 09:06:42
 
 ---
 <!-- END_LIVE_FEEDS -->
