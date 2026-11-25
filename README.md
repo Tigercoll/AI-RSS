@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/25 15:43:10
+🕒 最后自动更新时间：2026/11/26 03:02:23
 
 ---
 
@@ -37,6 +37,21 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [vLLM Day-0 Support for ERNIE 5.5 Flash Preview: Plugin Deployment and E2E Inference Acceleration](https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview)
+来源: vLLM Blog | 时间: 2026/11/24 08:00:00
+
+---
+
+### 📢 [Announcing vLLM-GR: Efficient Inference for Generative Recommendation](https://vllm.ai/blog/2026-11-24-vllm-gr-announcement)
+来源: vLLM Blog | 时间: 2026/11/24 08:00:00
+
+---
+
+### 📢 [Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe](https://vllm.ai/blog/2026-11-23-skip-the-dram-tier)
+来源: vLLM Blog | 时间: 2026/11/23 08:00:00
+
+---
+
 ### 📢 [Meta ads is now available in AWS Quick](https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/)
 来源: AWS ML Blog | 时间: 2026/11/22 09:59:13
 
@@ -54,6 +69,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Announcements](https://www.anthropic.com/news/announcements)
 来源: Anthropic News | 时间: 2026/11/20 08:00:00
+
+---
+
+### 📢 [Inkling 2 Mini on vLLM: Day-0 Support for a Looped Model](https://vllm.ai/blog/2026-11-20-inkling2-mini)
+来源: vLLM Blog | 时间: 2026/11/20 08:00:00
 
 ---
 
