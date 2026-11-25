@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/25 06:06:09
+🕒 最后自动更新时间：2026/11/25 15:43:10
 
 ---
 
@@ -22,13 +22,33 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/)
+来源: AWS ML Blog | 时间: 2026/11/24 13:01:14
+
+---
+
 ### 📢 [How Intentful uses dots to make more time for growth](https://openai.com/business/customer-stories/intentful-dots)
 来源: OpenAI | 时间: 2026/11/24 08:00:00
 
 ---
 
-### 📢 [OpenAI and Cisco introduce Shirudo](https://openai.com/index/introducing-shirudo)
-来源: OpenAI | 时间: 2026/11/24 05:20:00
+### 📢 [Clay helps sales teams win with Codex and ChatGPT](https://openai.com/business/customer-stories/clay-plugins-openai)
+来源: OpenAI | 时间: 2026/11/24 08:00:00
+
+---
+
+### 📢 [Meta ads is now available in AWS Quick](https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/)
+来源: AWS ML Blog | 时间: 2026/11/22 09:59:13
+
+---
+
+### 📢 [New in AWS Quick: More capable flows, an updated web experience, and agents that work together](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/)
+来源: AWS ML Blog | 时间: 2026/11/21 09:06:42
+
+---
+
+### 📢 [Cut self-hosted LLM cost and latency with the distributed KV caching agent skill](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/)
+来源: AWS ML Blog | 时间: 2026/11/21 08:14:26
 
 ---
 
