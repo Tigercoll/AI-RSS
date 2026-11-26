@@ -5,13 +5,28 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/26 11:25:48
+🕒 最后自动更新时间：2026/11/27 00:37:31
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
+来源: Hugging Face Blog | 时间: 2026/11/26 19:37:17
+
+---
+
+### 📢 [The Agent Lake](https://www.langchain.com/blog/the-agent-lake)
+来源: LangChain Blog | 时间: 2026/11/26 18:21:47
+
+---
+
+### 📢 [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)
+来源: Hugging Face Blog | 时间: 2026/11/26 08:00:00
+
+---
+
 ### 📢 [How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/26 03:55:58
 
@@ -22,18 +37,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [The Agent Lake](https://www.langchain.com/blog/the-agent-lake)
-来源: LangChain Blog | 时间: 2026/11/26 00:26:23
-
----
-
 ### 📢 [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
 来源: Hugging Face Blog | 时间: 2026/11/25 18:22:09
 
 ---
 
 ### 📢 [How We Achieved ISO 42001 with LangSmith](https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith)
-来源: LangChain Blog | 时间: 2026/11/25 09:04:06
+来源: LangChain Blog | 时间: 2026/11/25 18:04:11
 
 ---
 
@@ -49,11 +59,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [Prepare Market Data for Forecasting with NVIDIA Megatron Core](https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/)
 来源: NVIDIA Developer Blog | 时间: 2026/11/25 01:19:53
-
----
-
-### 📢 [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance)
-来源: Hugging Face Blog | 时间: 2026/11/25 00:34:13
 
 ---
 
@@ -97,18 +102,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [OCR for Forms: Why Templates Fail and What Works](https://www.llamaindex.ai/blog/ocr-for-forms)
+来源: LlamaIndex Blog | 时间: 2026/11/24 08:00:00
+
+---
+
 ### 📢 [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)
 来源: Google DeepMind | 时间: 2026/11/24 00:59:40
-
----
-
-### 📢 [How to build a knowledge factory for AI agents](https://www.langchain.com/blog/knowledge-factory)
-来源: LangChain Blog | 时间: 2026/11/23 19:15:09
-
----
-
-### 📢 [LangChain Raises $300M Series C at $3B Valuation](https://www.langchain.com/blog/series-c)
-来源: LangChain Blog | 时间: 2026/11/23 19:15:09
 
 ---
 <!-- END_LIVE_FEEDS -->
