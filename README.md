@@ -5,68 +5,13 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/27 00:37:31
+🕒 最后自动更新时间：2026/11/27 09:35:04
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
-### 📢 [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
-来源: Hugging Face Blog | 时间: 2026/11/26 19:37:17
-
----
-
-### 📢 [The Agent Lake](https://www.langchain.com/blog/the-agent-lake)
-来源: LangChain Blog | 时间: 2026/11/26 18:21:47
-
----
-
-### 📢 [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)
-来源: Hugging Face Blog | 时间: 2026/11/26 08:00:00
-
----
-
-### 📢 [How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/26 03:55:58
-
----
-
-### 📢 [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)
-来源: Hugging Face Blog | 时间: 2026/11/26 02:52:55
-
----
-
-### 📢 [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
-来源: Hugging Face Blog | 时间: 2026/11/25 18:22:09
-
----
-
-### 📢 [How We Achieved ISO 42001 with LangSmith](https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith)
-来源: LangChain Blog | 时间: 2026/11/25 18:04:11
-
----
-
-### 📢 [What’s New for Game Developers: AI Animation and RTX Tools](https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/25 06:21:40
-
----
-
-### 📢 [How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers](https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/25 02:44:13
-
----
-
-### 📢 [Prepare Market Data for Forecasting with NVIDIA Megatron Core](https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/)
-来源: NVIDIA Developer Blog | 时间: 2026/11/25 01:19:53
-
----
-
-### 📢 [From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/)
-来源: Google DeepMind | 时间: 2026/11/24 21:07:53
-
----
-
 ### 📢 [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)
 来源: OpenAI | 时间: 2026/11/24 21:00:00
 
@@ -102,13 +47,48 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [OCR for Forms: Why Templates Fail and What Works](https://www.llamaindex.ai/blog/ocr-for-forms)
-来源: LlamaIndex Blog | 时间: 2026/11/24 08:00:00
+### 📢 [Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe](https://vllm.ai/blog/2026-11-23-skip-the-dram-tier)
+来源: vLLM Blog | 时间: 2026/11/23 08:00:00
 
 ---
 
-### 📢 [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)
-来源: Google DeepMind | 时间: 2026/11/24 00:59:40
+### 📢 [Meta ads is now available in AWS Quick](https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/)
+来源: AWS ML Blog | 时间: 2026/11/22 09:59:13
+
+---
+
+### 📢 [New in AWS Quick: More capable flows, an updated web experience, and agents that work together](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/)
+来源: AWS ML Blog | 时间: 2026/11/21 09:06:42
+
+---
+
+### 📢 [Cut self-hosted LLM cost and latency with the distributed KV caching agent skill](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/)
+来源: AWS ML Blog | 时间: 2026/11/21 08:14:26
+
+---
+
+### 📢 [Announcements](https://www.anthropic.com/news/announcements)
+来源: Anthropic News | 时间: 2026/11/20 08:00:00
+
+---
+
+### 📢 [Inkling 2 Mini on vLLM: Day-0 Support for a Looped Model](https://vllm.ai/blog/2026-11-20-inkling2-mini)
+来源: vLLM Blog | 时间: 2026/11/20 08:00:00
+
+---
+
+### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
+来源: Anthropic News | 时间: 2026/10/18 08:00:00
+
+---
+
+### 📢 [Features](https://www.anthropic.com/news/features)
+来源: Anthropic News | 时间: 2026/9/21 08:00:00
+
+---
+
+### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
+来源: Anthropic News | 时间: 未知时间
 
 ---
 <!-- END_LIVE_FEEDS -->
