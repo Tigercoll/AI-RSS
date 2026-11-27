@@ -5,13 +5,38 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/27 09:35:04
+🕒 最后自动更新时间：2026/11/27 19:54:57
 
 ---
 
 ## 📅 实时 AI 技术看板 (Live Dashboard)
 
 <!-- START_LIVE_FEEDS -->
+### 📢 [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
+来源: Hugging Face Blog | 时间: 2026/11/26 19:37:17
+
+---
+
+### 📢 [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)
+来源: Hugging Face Blog | 时间: 2026/11/26 08:00:00
+
+---
+
+### 📢 [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
+来源: Hugging Face Blog | 时间: 2026/11/25 18:22:09
+
+---
+
+### 📢 [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb)
+来源: Hugging Face Blog | 时间: 2026/11/25 08:00:00
+
+---
+
+### 📢 [From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/)
+来源: Google DeepMind | 时间: 2026/11/24 21:07:53
+
+---
+
 ### 📢 [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)
 来源: OpenAI | 时间: 2026/11/24 21:00:00
 
@@ -47,6 +72,11 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)
+来源: Google DeepMind | 时间: 2026/11/24 00:59:40
+
+---
+
 ### 📢 [Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe](https://vllm.ai/blog/2026-11-23-skip-the-dram-tier)
 来源: vLLM Blog | 时间: 2026/11/23 08:00:00
 
@@ -77,18 +107,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)
-来源: Anthropic News | 时间: 2026/10/18 08:00:00
-
----
-
-### 📢 [Features](https://www.anthropic.com/news/features)
-来源: Anthropic News | 时间: 2026/9/21 08:00:00
-
----
-
-### 📢 [S1 Sec](https://www.anthropic.com/news/s1-sec)
-来源: Anthropic News | 时间: 未知时间
+### 📢 [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents)
+来源: Ollama Blog | 时间: 2026/11/16 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
