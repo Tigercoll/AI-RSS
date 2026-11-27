@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/27 19:54:57
+🕒 最后自动更新时间：2026/11/28 04:53:00
 
 ---
 
@@ -17,18 +17,53 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [The Agent Lake](https://www.langchain.com/blog/the-agent-lake)
+来源: LangChain Blog | 时间: 2026/11/26 18:21:47
+
+---
+
+### 📢 [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin)
+来源: Hugging Face Blog | 时间: 2026/11/26 13:05:36
+
+---
+
+### 📢 [Explore the PyTorch Day China 2026 Schedule](https://pytorch.org/blog/explore-the-pytorch-day-china-2026-schedule/)
+来源: PyTorch Blog | 时间: 2026/11/26 10:44:16
+
+---
+
 ### 📢 [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)
 来源: Hugging Face Blog | 时间: 2026/11/26 08:00:00
 
 ---
 
-### 📢 [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
-来源: Hugging Face Blog | 时间: 2026/11/25 18:22:09
+### 📢 [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)
+来源: Hugging Face Blog | 时间: 2026/11/26 02:52:55
 
 ---
 
-### 📢 [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb)
-来源: Hugging Face Blog | 时间: 2026/11/25 08:00:00
+### 📢 [vLLM Singapore Meetup: Faster Prefill, Agent-Written Kernels and the Road to Vera Rubin](https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/)
+来源: PyTorch Blog | 时间: 2026/11/26 02:03:15
+
+---
+
+### 📢 [How We Achieved ISO 42001 with LangSmith](https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith)
+来源: LangChain Blog | 时间: 2026/11/25 18:04:11
+
+---
+
+### 📢 [Standard builds for existing Pro teams have moved to usage-based billing](https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing)
+来源: Vercel AI SDK | 时间: 2026/11/25 16:00:00
+
+---
+
+### 📢 [Workflow is 10x faster, again](https://vercel.com/changelog/workflows-speculative-execution)
+来源: Vercel AI SDK | 时间: 2026/11/25 08:00:00
+
+---
+
+### 📢 [ExecuTorch-TensorRT: PyTorch Robot Policies at NVIDIA TensorRT Speed](https://pytorch.org/blog/executorch-tensorrt-pytorch-robot-policies-at-nvidia-tensorrt-speed/)
+来源: PyTorch Blog | 时间: 2026/11/25 04:31:02
 
 ---
 
@@ -47,8 +82,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
+### 📢 [AWS PrivateLink endpoints are now available on Secure Compute](https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute)
+来源: Vercel AI SDK | 时间: 2026/11/24 17:54:00
+
+---
+
 ### 📢 [Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/)
 来源: AWS ML Blog | 时间: 2026/11/24 13:01:14
+
+---
+
+### 📢 [Flags SDK now works on Vercel without FLAGS_SECRET](https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret)
+来源: Vercel AI SDK | 时间: 2026/11/24 13:00:00
 
 ---
 
@@ -64,51 +109,6 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [vLLM Day-0 Support for ERNIE 5.5 Flash Preview: Plugin Deployment and E2E Inference Acceleration](https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview)
 来源: vLLM Blog | 时间: 2026/11/24 08:00:00
-
----
-
-### 📢 [Announcing vLLM-GR: Efficient Inference for Generative Recommendation](https://vllm.ai/blog/2026-11-24-vllm-gr-announcement)
-来源: vLLM Blog | 时间: 2026/11/24 08:00:00
-
----
-
-### 📢 [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)
-来源: Google DeepMind | 时间: 2026/11/24 00:59:40
-
----
-
-### 📢 [Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe](https://vllm.ai/blog/2026-11-23-skip-the-dram-tier)
-来源: vLLM Blog | 时间: 2026/11/23 08:00:00
-
----
-
-### 📢 [Meta ads is now available in AWS Quick](https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/)
-来源: AWS ML Blog | 时间: 2026/11/22 09:59:13
-
----
-
-### 📢 [New in AWS Quick: More capable flows, an updated web experience, and agents that work together](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/)
-来源: AWS ML Blog | 时间: 2026/11/21 09:06:42
-
----
-
-### 📢 [Cut self-hosted LLM cost and latency with the distributed KV caching agent skill](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/)
-来源: AWS ML Blog | 时间: 2026/11/21 08:14:26
-
----
-
-### 📢 [Announcements](https://www.anthropic.com/news/announcements)
-来源: Anthropic News | 时间: 2026/11/20 08:00:00
-
----
-
-### 📢 [Inkling 2 Mini on vLLM: Day-0 Support for a Looped Model](https://vllm.ai/blog/2026-11-20-inkling2-mini)
-来源: vLLM Blog | 时间: 2026/11/20 08:00:00
-
----
-
-### 📢 [Making open models work for long-horizon agentic workloads](https://ollama.com/blog/open-models-long-horizon-agents)
-来源: Ollama Blog | 时间: 2026/11/16 08:00:00
 
 ---
 <!-- END_LIVE_FEEDS -->
