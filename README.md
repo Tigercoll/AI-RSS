@@ -5,7 +5,7 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 <!-- END_PROJECT_INTRO -->
 
 👉 **[🌐 点击这里进入独立阅读主页](https://tigercoll.github.io/AI-RSS/)**  
-🕒 最后自动更新时间：2026/11/28 04:53:00
+🕒 最后自动更新时间：2026/11/28 11:10:31
 
 ---
 
@@ -27,23 +27,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Explore the PyTorch Day China 2026 Schedule](https://pytorch.org/blog/explore-the-pytorch-day-china-2026-schedule/)
-来源: PyTorch Blog | 时间: 2026/11/26 10:44:16
-
----
-
 ### 📢 [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)
 来源: Hugging Face Blog | 时间: 2026/11/26 08:00:00
 
 ---
 
-### 📢 [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)
-来源: Hugging Face Blog | 时间: 2026/11/26 02:52:55
+### 📢 [How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/26 03:55:58
 
 ---
 
-### 📢 [vLLM Singapore Meetup: Faster Prefill, Agent-Written Kernels and the Road to Vera Rubin](https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/)
-来源: PyTorch Blog | 时间: 2026/11/26 02:03:15
+### 📢 [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
+来源: Hugging Face Blog | 时间: 2026/11/25 18:22:09
 
 ---
 
@@ -52,18 +47,18 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [Standard builds for existing Pro teams have moved to usage-based billing](https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing)
-来源: Vercel AI SDK | 时间: 2026/11/25 16:00:00
+### 📢 [What’s New for Game Developers: AI Animation and RTX Tools](https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/25 06:21:40
 
 ---
 
-### 📢 [Workflow is 10x faster, again](https://vercel.com/changelog/workflows-speculative-execution)
-来源: Vercel AI SDK | 时间: 2026/11/25 08:00:00
+### 📢 [How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers](https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/25 02:44:13
 
 ---
 
-### 📢 [ExecuTorch-TensorRT: PyTorch Robot Policies at NVIDIA TensorRT Speed](https://pytorch.org/blog/executorch-tensorrt-pytorch-robot-policies-at-nvidia-tensorrt-speed/)
-来源: PyTorch Blog | 时间: 2026/11/25 04:31:02
+### 📢 [Prepare Market Data for Forecasting with NVIDIA Megatron Core](https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/)
+来源: NVIDIA Developer Blog | 时间: 2026/11/25 01:19:53
 
 ---
 
@@ -82,18 +77,8 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ---
 
-### 📢 [AWS PrivateLink endpoints are now available on Secure Compute](https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute)
-来源: Vercel AI SDK | 时间: 2026/11/24 17:54:00
-
----
-
 ### 📢 [Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/)
 来源: AWS ML Blog | 时间: 2026/11/24 13:01:14
-
----
-
-### 📢 [Flags SDK now works on Vercel without FLAGS_SECRET](https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret)
-来源: Vercel AI SDK | 时间: 2026/11/24 13:00:00
 
 ---
 
@@ -109,6 +94,21 @@ AI-RSS 聚合全球主流 AI 官方博客与技术文章源，自动抓取模型
 
 ### 📢 [vLLM Day-0 Support for ERNIE 5.5 Flash Preview: Plugin Deployment and E2E Inference Acceleration](https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview)
 来源: vLLM Blog | 时间: 2026/11/24 08:00:00
+
+---
+
+### 📢 [Announcing vLLM-GR: Efficient Inference for Generative Recommendation](https://vllm.ai/blog/2026-11-24-vllm-gr-announcement)
+来源: vLLM Blog | 时间: 2026/11/24 08:00:00
+
+---
+
+### 📢 [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)
+来源: Google DeepMind | 时间: 2026/11/24 00:59:40
+
+---
+
+### 📢 [How to build a knowledge factory for AI agents](https://www.langchain.com/blog/knowledge-factory)
+来源: LangChain Blog | 时间: 2026/11/23 19:15:09
 
 ---
 <!-- END_LIVE_FEEDS -->
